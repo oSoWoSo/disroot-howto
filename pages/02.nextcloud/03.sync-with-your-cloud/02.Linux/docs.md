@@ -1,5 +1,5 @@
 ---
- title: 'Linux'
+title: 'Linux'
 ---
 
  Nextcloud integrates with Linux greatly. Below you can find useful links that will help you get everything up and running.
