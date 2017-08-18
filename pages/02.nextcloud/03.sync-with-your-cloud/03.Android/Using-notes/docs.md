@@ -1,10 +1,12 @@
 ---
 title: 'Using Notes'
-visible: true
+visible: false
+page-toc:
+  active: true
 ---
 
 
-Disroot has a notes app enabled. 
+Disroot has a notes app enabled.
 
 In this tutorial we'll show you how to setup and use your disroot notes in your Android device. To do this you will need to install a notes app in Android  that is compatible with Nextcloud, the software Disroot uses, and the notes app in disroot.
 
@@ -33,7 +35,7 @@ Once you start the ownCloud Notes app for the first time you will be prompt to w
 
 > Server address: [https://cloud.disroot.org/](https://cloud.disroot.org/)
 > Username: Your disroot username
-> Password: Your disroot password 
+> Password: Your disroot password
 
 After that just press "connect".<br>
 <img src="/uploads/default/original/1X/8c9f5a6392f142a7059018c8816ac6112320a62e.png" width="480" height="480">
@@ -56,7 +58,7 @@ The editor is very simple:
 <img src="/uploads/default/original/1X/b5c2785d529218aead51abfd7fe7308a65624495.png" width="314" height="500">
 <br>
 Once the note is created you will see for few seconds "sync" symbol to the right of the note you just created, indicating that it's syncing with the notes app in your disroot account.
-Any changes you make to the notes in your disroot account will appear in the ownCloud notes in your Android device, and vice versa. 
+Any changes you make to the notes in your disroot account will appear in the ownCloud notes in your Android device, and vice versa.
 <br>
 
 <img src="/uploads/default/original/1X/5b4d8a2afd2b9fc2945689e768800584c858c223.jpeg" width="300" height="500">
@@ -104,7 +106,7 @@ You will see a folder titled "Notes". Inside it can find your notes in .txt file
 <img src="/uploads/default/original/1X/f88d365ca5b829905f8527b8829ab72793917921.png" width="690" height="170">
 
 <br>
- Click on the note to edit it. 
+ Click on the note to edit it.
 <br>
 <img src="/uploads/default/original/1X/c208573d4f74c1cc81e24616ea59f5e59c0214b3.png" width="690" height="222">
 
