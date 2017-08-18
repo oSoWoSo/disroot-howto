@@ -22,7 +22,7 @@ On the bottom right of the window you will see your avatar and few options where
 
 That's pretty much it. You should be ready to start your new call
 
-##Creating Calls
+# Creating Calls
 To start calling, you need to create a room. Click on **"Choose person"** to do so. In the popup window you have an option to invite existing disroot account, or create public room.
 You will see there is a new room listed on the left sidebar.
 When clicking on the options button of the room, you can either:

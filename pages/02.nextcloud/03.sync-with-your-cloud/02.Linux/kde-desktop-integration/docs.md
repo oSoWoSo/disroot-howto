@@ -1,6 +1,8 @@
 ---
-tyitle: 'KDE - Desktop Integration'
-visible: true
+title: 'KDE - Desktop Integration'
+visible: false
+page-toc:
+  active: true
 ---
 ----------
 # Sync Contacts Contacts and Tasks
@@ -59,7 +61,7 @@ Your events will already be synchronized /adding/removing/editing events is very
 
 # Files
 
-In KDE, you need to add a network folder to access your disroot files remotely. Go to your start menu select "Computer" ![](kde_files1.png?resize=20,20) and then "Network" ![](kde_files2.png?resize=20,20)
+In KDE, you need to add a network folder to access your disroot files remotely. Go to your start menu select "Computer" and then "Network"
 
 After that:
 

@@ -1,5 +1,5 @@
 ---
-tyitle: 'Using News App'
+title: 'News App'
 visible: true
 page-toc:
   active: true
@@ -15,7 +15,7 @@ To get into the app form webbrowser ,just click news app icon ![]() in the top b
 
 So let's get things rolling:
 ## Add new feeds
-Most of the websites provide [RSS](https://en.wikipedia.org/wiki/RSS) or Atom feeds. Feeds are usually represented by this ![](rss_icon.png) icon or by guessing the feed url like: https://disroot.org/feed (yes we need to change that). Once you have the link ready you can copy it and add it to your news app.
+Most of the websites provide [RSS](https://en.wikipedia.org/wiki/RSS) or Atom feeds. Once you have the RSS link ready, you can copy it and add it to your news app.
 To add the feed simply click on the **"+ Subscribe"** button and fill in the URL of the feed you previously copied.
 
 ![](news_add1.png)
@@ -23,6 +23,6 @@ To add the feed simply click on the **"+ Subscribe"** button and fill in the URL
 For better overview and sorting you can create Folders and assign feeds to them. To create new folder hit **"+ New Folder"** button on the left-side bar. Now you can "drag and drop" feeds you wish to add to folders.
 
 ## Feed options
-Every feed can be optimized to your needs. Clicking on ![](news_threedot.png) icon:
+Every feed can be optimized to your needs. Clicking on **"Three dot"** icon:
 
 ![](news_options.png)

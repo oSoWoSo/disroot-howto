@@ -1,5 +1,5 @@
 ---
-tyitle: 'GNOME - Desktop Integration'
+title: 'GNOME - Desktop Integration'
 visible: false
 page-toc:
   active: true

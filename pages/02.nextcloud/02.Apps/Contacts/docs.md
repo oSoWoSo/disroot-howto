@@ -6,10 +6,10 @@ page-toc:
 ---
 
 # Contacts
-
-You can access the contacts app by by pressing the contacts icon on the top bar, in nexcloud:
 ![](contacts_top_icon.png)
+You can access the contacts app by by pressing the contacts icon on the top bar, in nexcloud:
 
+----------------------
 ## Create a contact
 
 In the contacts app select "New contact"
@@ -23,6 +23,7 @@ Just type the information you want/have in the fields. If you need in the end of
 
 ![](contacts_add3.png)
 
+-----------------------
 ## Delete a contact
 
 * select the contact
@@ -30,6 +31,7 @@ Just type the information you want/have in the fields. If you need in the end of
 
 ![](contacts_delete.png)
 
+-----------------------
 ## Create contact groups
 You can create groups to organize your contacts ex: faculty, work, collective, etc.
 In the field group you can assign a new contact to an existing group or create a new group. Or assign a contact to multiple groups by typing the several groups.
@@ -41,6 +43,7 @@ Selecting them will present all contacts in that respective group.
 
 ![](contacts_groups2.png)
 
+------------------------
 ## Share address books
 
 Go to "settings" on the lower left corner of the screen in the contacts app.
@@ -56,6 +59,7 @@ You can also use a link to share your address book via webDAV, to other contact 
 
 ![](contacts_share3.png)
 
+-------------------------
 ## Import address books
 
 You can import address books or individual contacts, if you have a vcf file of the contact or the address book.
@@ -66,8 +70,10 @@ You can import address books or individual contacts, if you have a vcf file of t
 
 Then select the file you want to import, and press ok
 
+-----------------------------
 ## Create a new address book
 
 Inside settings in the field "Address book name" write the name of the new address book, then press enter.
 
 ![](contacts_create1.png)
+-----------------------------

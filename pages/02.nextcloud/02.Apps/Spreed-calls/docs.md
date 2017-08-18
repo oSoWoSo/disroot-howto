@@ -1,5 +1,5 @@
 ---
-tyitle: 'Calling with Spreed'
+title: 'Calling with Spreed'
 visible: true
 ---
 

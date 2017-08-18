@@ -1,5 +1,5 @@
 ---
-tyitle: 'Webmail'
+title: 'Webmail'
 visible: true
 page-toc:
   active: true

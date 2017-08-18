@@ -5,17 +5,16 @@ page-toc:
   active: true
 ---
 
-
+------------
 # Using Calendar app
-
-You can access your calendar app by pressing the icon on the top bar, in nexcloud:
 ![](calendar_top_icon.png)
 
+You can access your calendar app by pressing the icon on the top bar, in nexcloud.
 Left of the calendar you will find an options panel to manage your calendar(s).
 
 ![](calendar_main.png)
 
-
+--------------
 ## Create Calendar
 To create a new calendar in this options panel press "create calendar"
 A small prompt will appear where you can type the name you want to give to this new calendar and select a colour for it.
@@ -23,11 +22,11 @@ Then press create.<br>
 
 ![](calendar_add_new.png)
 
-You can create multiple calendars for different purposes (work, activism, etc.) by repeating this process. If you do that you can use different colours to set them apart (apart form proposed colors you can choose any by pressing this ![](calendar_colorpick_icon.png) )
+You can create multiple calendars for different purposes (work, activism, etc.) by repeating this process. If you do that you can use different colours to set them apart (last icon is the color picker whcih allows you to choose any color you want).
 
 ![](calendar_list.png)
 
-
+-----------------------
 ## Delete, edit, Download calendar.
 On the left panel, you will see your calendars listed. To the right of each calendar you will find a "more" button where you can:
 
@@ -38,6 +37,7 @@ On the left panel, you will see your calendars listed. To the right of each cale
 
 ![](calendar_edit1.png)
 
+-------------------------
 ## Create an event
 You can create a new event in your calendar by clicking in the calendar app on the day of the event. A panel will appear on the right side, where you can fill with the informations of the event.<br>
 
@@ -75,6 +75,7 @@ Just press the reminder you added and the options will show up.<br>
 You can also set if this is a repeating event or not. Just press repeating.<br>
 ![](calendar_edit_menu6.png)
 
+-------------------------------
 ## Invite people to events
 
 You can also invite persons to your event via email by:
@@ -88,12 +89,13 @@ The persons you invite will receive an automatic email with the invitation. Any 
 
 When you're done with everything, just press create at the end of the panel, and your event will appear on the screen<br>
 
+----------------------------
 ## Edit or delete events
 To edit or delete an event you've created, just double click it on your screen, edit it and then press "update".
 To delete it, you will find the big red button.<br>
 ![](calendar_edit_menu8.png)
 
-
+----------------------------
 ## Share calendars
 You can share your calendars, either with another disroot user, via email, or public link.
 
@@ -113,6 +115,7 @@ To share calendars via email or public link:
 * to just get the link press the chain symbol next to the mail envelope symbol<br>
 ![](calendar_share_menu2.png)
 
+------------------------------
 ## Import calendars
 If you have a ICS file with a calendar to import, go to disroot calendar app then go to "Settings & Import" on the lower left corner of the screen.<br>
 
@@ -120,3 +123,4 @@ If you have a ICS file with a calendar to import, go to disroot calendar app the
 
 And select import calendar option.
 ![](calendar_import_menu2.png)
+----------------------------------------
