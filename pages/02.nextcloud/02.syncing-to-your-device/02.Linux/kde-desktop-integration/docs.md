@@ -1,6 +1,6 @@
 ---
 tyitle: 'GNOME - Desktop Integration'
-visible: true
+visible: false
 ---
 
 **This tutorial can be used to integrate disroot cloud with Gnome, Mate, Unity, xfce and KDE desktop environments. In this tutorial we use mostly Gnome. The exception is when talking about KDE.**
