@@ -1,30 +1,12 @@
 ---
 title: 'Working with calendars and contacts'
 visible: true
+page-toc:
+  active: true
 ---
 
 In this tutorial we can see howto work with the calendar and contacts app in Disroot.
 
-
-
-----------
-
-## Table of contents
-
-#[1. Calendar](#Calendar)
-[Create and delete calendars](#createanddelete)
-[Create events] (#createevents)
-[Invite people to events] (#invite)
-[Edit and delete events] (#deleteevents)
-[Share calendars] (#sharecal)
-[Import calendars] (#import)
-
-#[2. Contacts](#contacts)
-[Create and delete a contact](#createcontact)
-[Create contact groups](#groups)
-[Share address book](#sharecontacts)
-[Import address book](#importaddress)
-[Create a new address book](#newaddress)
 ----------
 
 ### 1. Calendar<a name="Calendar"></a>

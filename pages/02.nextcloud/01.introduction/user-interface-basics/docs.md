@@ -1,19 +1,11 @@
 ---
 title: 'User Interface basics'
 visible: true
+page-toc:
+  active: true
 ---
 
 Nextcloud is disroot's core service and the main user interface we try to integrate with most of the apps we offer. In this little howto we would like to go through the basics of the interface explaining the main UI (User interface) concept, as well as some basic actions on files and personal settings.
-
-
-----------
-
-#Table of contents:
-[General UI](#generalui)
-[Personal Settings](#usersettings)
-[Files](#files)
-[Activities](#activities)
-
 
 ----------
 
