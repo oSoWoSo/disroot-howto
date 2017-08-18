@@ -34,12 +34,10 @@ Even if you just want to sync your contacts you will still need the lightning ad
 **Installing Lightning**
 
 In Thunderbird go to > tools > Add-ons
-<img src="/uploads/default/original/1X/fc2b3782e398c8594a2f99502f32220d53ef6a7a.png" width="690" height="460">
-
-
+![](thunderbird_1.png)
 In the Add-ons page on the upper right corner you will find a search bar. On that search bar type "Lightning" and press enter after that you will see has the first option the Lightning Add-on and an install button. Press install
 
-<img src="/uploads/default/original/1X/0e597e1dbe8206534ccb72b94e7486ddb488b606.png" width="690" height="460">
+![](thunderbird_2.png)
 
 You will need to restart Thunderbird in order to finish the installation of both Add-ons
 
