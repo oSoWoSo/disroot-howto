@@ -25,10 +25,10 @@ This will allow you to check, update and remove your events from any computer wi
 1. Click on the **Apple icon** in the top left of your screen.
 2. Open the menu item '**System Preferences...**'.
 3. Click on the icon with the name '**Internet Accounts**'.
-<img src="/uploads/default/original/1X/6f74e070083f2ee4f0cac3410728857df10538e2.png" width="549" height="499">
+![](macos_calendar1.png)
 
 5. Scroll down in the right pane, until you can click at the bottom on '**Add Other Account...**'
-<img src="/uploads/default/original/1X/8ee3de7d2ef7496cc345fa622313e7ce255c91c9.png" width="431" height="390">
+![](macos_calendar2.png)
 
 7. Choose the third item from the top: '**CalDav Account**'
 
@@ -42,10 +42,10 @@ From the drop down menu:
 **Server Path**: `remote.php/dav/principals/users/USERNAME/` (replace USERNAME with your username)
 **Port**: `443` and **Use SSL** ticked.
 
-<img src="/uploads/default/original/1X/1246248754a075aa031f6458f0ee48d4d6c9f251.png" width="406" height="372">
+![](macos_calendar3.png)
 
 Click `Sign In`!
 
 Now your calendar is added. If you now open the Calendar App, two new calendar will show in the left column. You can change the name and colors in the Calendar App preferences.
 
-<img src="/uploads/default/original/1X/dba03556bb3c8f47e268a0c4fbd26018cbbe27ca.png" width="163" height="119">
+![](macos_calendar4.png)

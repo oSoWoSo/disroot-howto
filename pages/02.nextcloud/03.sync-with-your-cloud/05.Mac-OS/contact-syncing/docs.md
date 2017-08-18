@@ -27,10 +27,10 @@ This will allow you to check, update and remove your contacts from any computer 
 1. Click on the **Apple icon** in the top left of your screen.
 2. Open the menu item '**System Preferences...**'.
 3. Click on the icon with the name '**Internet Accounts**'.
-<img src="/uploads/default/original/1X/6f74e070083f2ee4f0cac3410728857df10538e2.png" width="549" height="499">
+![](macos_contacts1.png)
 
 5. Scroll down in the right pane, until you can click at the bottom on '**Add Other Account...**'
-<img src="/uploads/default/original/1X/8ee3de7d2ef7496cc345fa622313e7ce255c91c9.png" width="431" height="390">
+![](macos_contacts2.png)
 
 7. Choose the fourth item from the top: '**CardDAV Account**'
 
@@ -44,7 +44,7 @@ Use these settings:
 **Server Path**: `/remote.php/dav/addressbooks/users/USERNAME/contacts/` (replace USERNAME with your username)
 **Port**: `443` and **Use SSL** ticked.
 
-<img src="/uploads/default/original/1X/e280b96583231f003d9f994bdd7d182140bcd0b2.png" width="403" height="334">
+![](macos_contacts3.png)
 
 Click `Sign In`!
 
