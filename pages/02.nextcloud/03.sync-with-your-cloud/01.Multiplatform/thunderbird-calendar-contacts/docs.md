@@ -1,6 +1,8 @@
 ---
-tyitle: 'Thunderbird - Syncing Contacts, Calendars and Tasks'
-visible: true
+title: 'Thunderbird - Syncing Contacts, Calendars and Tasks'
+visible: false
+page-toc:
+  active: true
 ---
 
 The contact and calendar features in Disroot/Nexcloud are pretty cool but if you have your Disroot email connected in a email client like Thunderbird it's nice to have the contacts and calendar in Disroot integrated with Thunderbird and access them from one place in your desktop.
@@ -47,17 +49,17 @@ This Add-on is not in the Add-ons menu we have to download it from the developer
 
 On the website select **"SoGo Connector"**
 
-<img src="/uploads/default/original/1X/fa373d6e2c2442d1110bbaf9845c25a380c1074a.png" width="690" height="347"> 
+<img src="/uploads/default/original/1X/fa373d6e2c2442d1110bbaf9845c25a380c1074a.png" width="690" height="347">
 
 On Thunderbird Add-ons menu select install from file
 
 <img src="/uploads/default/original/1X/7136a1a36bc4d7e775ead89f129fe43d4b7748d7.png" width="690" height="413">
 
 Select SoGo connector from wherever the download was made to in your computer.
-The file extension of the SoGo Connector is .xpi 
+The file extension of the SoGo Connector is .xpi
 Select it and press open.
 
-<img src="/uploads/default/original/1X/eff98658f6e18fc02f50be7211c500a60ceab408.png" width="636" height="500"> 
+<img src="/uploads/default/original/1X/eff98658f6e18fc02f50be7211c500a60ceab408.png" width="636" height="500">
 
 The following image should appear next, just press install
 
@@ -70,7 +72,7 @@ For both Add-ons to finish their installations you will need to restart Thunderb
 
 ## 2 - Integrating calendar with Thunderbird <a name="calendar"></a>
 
-Go to your calender app in Disroot 
+Go to your calender app in Disroot
 <img src="/uploads/default/original/1X/0c9a81295d26752f2eacfee1e0698c5b0b885166.png" width="287" height="486">
 
 
@@ -94,10 +96,10 @@ Select "On the Network" and next
 
 In the next panel:
 1- select the option CalDAV
-2 - In the location camp paste the link of your Disroot Calendar that you copied earlier 
+2 - In the location camp paste the link of your Disroot Calendar that you copied earlier
 3 - Select offline support, if you want to keep a local copy of you calendar, in case you need to work offline
 
-Press next 
+Press next
 
 <img src="/uploads/default/original/1X/b488820942c696e0ae74b790987c43a0bc5b1f4d.png" width="539" height="432">
 
@@ -114,19 +116,19 @@ Your calendar is now synced with Thunderbird and visible
 
 <img src="/uploads/default/original/1X/e4608aa64d8762b1606b79368eb08d6999873b75.png" width="690" height="347">
 
-Your calendar is now synced with Thunderbird. 
-Any event you create in Thunderbird Calendar will appear in your Disroot Calendar and vice versa. If the change does not appear immediately just refresh the page. 
+Your calendar is now synced with Thunderbird.
+Any event you create in Thunderbird Calendar will appear in your Disroot Calendar and vice versa. If the change does not appear immediately just refresh the page.
 
 
 <img src="/uploads/default/original/1X/74b2f9171db34d658a92f9d19034b2f738448e06.png" width="406" height="500">
 
 <img src="/uploads/default/original/1X/6e996a6c12f1b165c0a73a17c996f5c99bd5479b.png" width="690" height="347">
 
-If you have multiple calendars in your Disroot account, or spread across different services that use Nexcloud, or even Owncloud, you can sync them all in Thunderbird 
+If you have multiple calendars in your Disroot account, or spread across different services that use Nexcloud, or even Owncloud, you can sync them all in Thunderbird
 
 Just repeat this process for each calendar. You can use a different colour to each calendar to set them appart
 
-<img src="/uploads/default/original/1X/66414e68ff8192099acd30201c431b100be741fa.png" width="690" height="347"> 
+<img src="/uploads/default/original/1X/66414e68ff8192099acd30201c431b100be741fa.png" width="690" height="347">
 
 If you have multiple calendars in Thunderbird, when you are creating an event you need to to select to which calendar it goes to, otherwise you maybe end up looking for it online in the wrong place
 
@@ -170,12 +172,12 @@ In the next panel you will be asked to set the name and url:
 * The name is the name you want to give to your address book in thunderbird
 * The url is the link that you got earlier from the contact app in Disroot
 
-In this same panel 
+In this same panel
 You can set the periodic syncing to 5 minutes (the default is 15 minutes)
 You can set the contacts to read only if you want to (but if you do that you wont be able to edit the contacts in Thunderbird)
 
 When you are done press "ok"
- 
+
 <img src="/uploads/default/original/1X/6cbfcc5d897495bd607063693e400d8dc4c1bcb2.png" width="690" height="416">
 
 Right click your new remote address book and select Synchronize
@@ -188,7 +190,7 @@ Password: your Disroot password
 
 Select the option: **"Use password manager to remember this password"** so that Thunderbird remembers the password and doesn’t ask for it every time you use Thunderbird
 
-Then press **"ok"** 
+Then press **"ok"**
 <img src="/uploads/default/original/1X/183c96aeedd79ad3afc84e391ea86396ad03ae48.png" width="690" height="222">
 
 

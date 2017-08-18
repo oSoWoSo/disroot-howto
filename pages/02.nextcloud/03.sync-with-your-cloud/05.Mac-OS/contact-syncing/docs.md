@@ -1,18 +1,20 @@
 ---
-tyitle: 'MacOS - Syncing Contacts'
-visible: true
+title: 'MacOS - Syncing Contacts'
+visible: false
+page-toc:
+  active: true
 ---
 
 _This tutorial was last updated on 11 feb. 2017_
 This is Work in Progress. The tutorial does not work yet.
 
 
-### Goal:
+# Goal:
 **Sync the macOSX Contacts App with the Disroot cloud.**
 
-This will allow you to check, update and remove your contacts from any computer with an internet connection. Also it will enable syncing contacts  with your smartphone and/or tablet. Once it runs, and nothing breaks, you'll forget it is there. 
+This will allow you to check, update and remove your contacts from any computer with an internet connection. Also it will enable syncing contacts  with your smartphone and/or tablet. Once it runs, and nothing breaks, you'll forget it is there.
 
-### Requirements
+# Requirements
 
 * Your Disroot login name
 * Your Disroot password
@@ -20,9 +22,9 @@ This will allow you to check, update and remove your contacts from any computer 
 * A working internet connection
 * 15 minutes
 
-### Set up Contacts Syncing.
+# Set up Contacts Syncing.
 
-1. Click on the **Apple icon** in the top left of your screen. 
+1. Click on the **Apple icon** in the top left of your screen.
 2. Open the menu item '**System Preferences...**'.
 3. Click on the icon with the name '**Internet Accounts**'.
 <img src="/uploads/default/original/1X/6f74e070083f2ee4f0cac3410728857df10538e2.png" width="549" height="499">
@@ -46,7 +48,7 @@ Use these settings:
 
 Click `Sign In`!
 
-Now your calendar is added. If you now open the Contacts App, cloud.disroot.org will show in the left column. You can change the name in the Contacts App preferences. 
+Now your calendar is added. If you now open the Contacts App, cloud.disroot.org will show in the left column. You can change the name in the Contacts App preferences.
 
 Any contacts you now add will be synced automagically to the Disroot servers.
 

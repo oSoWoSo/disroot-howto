@@ -1,11 +1,13 @@
 ---
 title: 'Nextcloud App'
-visible: true
+visible: false
+page-toc:
+  active: true
 ---
 
 
 
-The ability to easily synchronize, upload and download files from your Disroot cloud to your mobile can be very useful in several cases. 
+The ability to easily synchronize, upload and download files from your Disroot cloud to your mobile can be very useful in several cases.
 
 In this tutorial we'll show you how to install and work with the Nextcloud mobile app. This app permits you to conveniently access and synchronize your Disroot cloud files from your mobile and download/upload/share/delete without having to use a browser in your mobile to do it or connect it to a laptop to transfer files.
 
@@ -37,7 +39,7 @@ To install the app on android, we recommend you install the [F-droid](https://f-
 
 After you installed and setup F-droid you can search and install the [Nexcloud Mobile app](https://f-droid.org/repository/browse/?fdfilter=Nextcloud&fdid=com.nextcloud.client/).
 
-IOS users will probably have to pay around 0,99€ for it in the IOS app store. 
+IOS users will probably have to pay around 0,99€ for it in the IOS app store.
 
 
 ----------
@@ -68,7 +70,7 @@ In the top bar you have:
 <br>
 <img src="/uploads/default/original/1X/3b9064094926e37751640d0063311f215b2d3256.jpeg" width="313" height="500">
 
-You can navigate through the folders by pressing on them and then using the "back button" on the upper left corner. 
+You can navigate through the folders by pressing on them and then using the "back button" on the upper left corner.
 
 If you press the button with the three vertical dots, like we mentioned before you will be presented with three option **Refresh account**, **sort** and **Grid view**.
 <br>
@@ -85,7 +87,7 @@ In the general settings you can:
 * Chose to automatically upload any videos and pictures you take/make to your Cloud
 * Set to which folder these uploads go to
 * Set if you want to keep a local copy of these uploaded pictures and videos
-* Set a password to access the Nexcloud Mobile app 
+* Set a password to access the Nexcloud Mobile app
 * Set if you want the app to display hidden files
 * Install DAVDroid so that you can sync calendars, tasks and contacts
 
@@ -178,7 +180,7 @@ You can select multiple files to be uploaded at the same time, with this method,
 ###Download files
 Select the files you want to download by pressing them for a few seconds. The selected file will be highlighted and all files in that folder will have a checkbox to the left of them. Use the checkboxes to select the files you want to download. And then press the button on the upper right corner.
 <br>
-<img src="/uploads/default/original/1X/af984ee1086973b80bf91dbfc55fb774f1fa9e18.jpeg" width="452" height="500"> 
+<img src="/uploads/default/original/1X/af984ee1086973b80bf91dbfc55fb774f1fa9e18.jpeg" width="452" height="500">
 <br>
 Then select download
 <br>
@@ -192,7 +194,7 @@ You can share files or folders to anyone via a public link URL link or with othe
 
 To share via URL, press the file or folder for a few seconds to select it, them press the three vertical dots button on the upper right corner.
 <br>
-<img src="/uploads/default/original/1X/af984ee1086973b80bf91dbfc55fb774f1fa9e18.jpeg" width="452" height="500"> 
+<img src="/uploads/default/original/1X/af984ee1086973b80bf91dbfc55fb774f1fa9e18.jpeg" width="452" height="500">
 <br>
 Select the share option, and after that you will be presented with your share options. Select "Share link", you can also set additional options such as:
 

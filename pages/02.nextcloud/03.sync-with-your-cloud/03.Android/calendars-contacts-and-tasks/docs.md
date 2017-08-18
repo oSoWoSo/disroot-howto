@@ -1,9 +1,11 @@
 ---
 title: 'calendars, contacts and tasks'
-visible: true
+visible: false
+page-toc:
+  active: true
 ---
 
-Disroot has calendar, contacts and tasks apps enabled. 
+Disroot has calendar, contacts and tasks apps enabled.
 
 In this tutorial we'll show you how to setup and use your disroot calendar, contacts and tasks in your Android device.
 
@@ -37,7 +39,7 @@ If you have nextcloud mobile app installed and linked to your disroot cloud you 
 * go to settings
 * press "Sync calendar and contacts"
 
-And it will fetch DAVdroid from whatever app store you have installed, and DAVdroid should open with your username and server address already placed. 
+And it will fetch DAVdroid from whatever app store you have installed, and DAVdroid should open with your username and server address already placed.
 
 <br>
  <img src="/uploads/default/original/1X/baa0da125de8f93cb7e6df7df76125dea1190a76.png" width="600" height="168">
@@ -126,7 +128,7 @@ In the end press save in the upper right corner.
 <br>
 Once a task is completed just press the check button on the task to mark it as concluded.
 <br>
-<img src="/uploads/default/original/1X/89529f818924e5e2c77cbd106d949451ad225b52.jpeg" width="477" height="378"> 
+<img src="/uploads/default/original/1X/89529f818924e5e2c77cbd106d949451ad225b52.jpeg" width="477" height="378">
 <br>
 
 In the upper bar of the main menu you have several view options:
