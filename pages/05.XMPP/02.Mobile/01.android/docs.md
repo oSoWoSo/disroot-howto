@@ -1,5 +1,5 @@
 ---
-title: Conversations - Android XMPP client
+title: Conversations - Android 
 ---
 Conversations is powerful xmpp client for android that supports OTR and GPG encryption and conferences (multi-user chats). It is available on F-Droid and other commercial app stores.
 
