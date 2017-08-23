@@ -5,60 +5,45 @@ page-toc:
   active: true
 ---
 
-
-Disroot has a notes app enabled.
-
-In this tutorial we'll show you how to setup and use your disroot notes in your Android device. To do this you will need to install a notes app in Android  that is compatible with Nextcloud, the software Disroot uses, and the notes app in disroot.
+In this tutorial we'll show you how to setup and use your disroot notes in your Android device.
 
 ----------
 
-##Table of contents
-[Install notes app] (#install)
-[Add your disroot account] (#setaccount)
-[Create and delete notes] (#create)
-[View your notes in Disroot] (#viewdis)
+# Install notes app
+
+First of grab **"Nextcloud Notes"** from [F-Droid](https://f-droid.org/packages/it.niedermann.owncloud.notes/) or other commercial app stores.    
 
 
-----------
+# Add your disroot account
 
-**Install notes app**<a name="install"></a><br>
-
-For this tutorial we chose use the ownCloud Notes app. It's available in F-Droid and in other commercial app stores.    
-
-In F-Droid the app is also called "Notes"
-
-
-**Add your disroot account**<a name="setaccount"></a><br>
-
-Once you start the ownCloud Notes app for the first time you will be prompt to write the server address and your account credentials.
+Once you start the *"Notes"* app for the first time you will need to add your credentials and URL of disroot cloud server.
 
 
 > Server address: [https://cloud.disroot.org/](https://cloud.disroot.org/)
 > Username: Your disroot username
 > Password: Your disroot password
 
-After that just press "connect".<br>
-<img src="/uploads/default/original/1X/8c9f5a6392f142a7059018c8816ac6112320a62e.png" width="480" height="480">
-<br>
-**Create and delete notes** <a name="create"></a><br>
+After that just press "connect". Your existing notes from your disroot cloud account should be now synced to your phone.
+![](nextcloud_notes1.png)
 
-You can create a new note by pressing the "plus" button on the lower right corner of the screen.
-<br>
+# Create and delete notes
 
-<img src="/uploads/default/original/1X/aabbe4ce45140162d1b13da4b9a76c995e80e626.png" width="314" height="500">
-<br>
+You can create a new note by pressing the *"plus"* (**+**) button on the lower right corner of the screen.
+
+![](nextcloud_notes2.png)
 
 The editor is very simple:
 
 * the first line of the note is automatically the title of the note.
 * After you have written your note press the ok symbol in the upper right corner to create the note.
 * To discard the note, press the X simbol on the upper right corner
-<br>
 
-<img src="/uploads/default/original/1X/b5c2785d529218aead51abfd7fe7308a65624495.png" width="314" height="500">
-<br>
-Once the note is created you will see for few seconds "sync" symbol to the right of the note you just created, indicating that it's syncing with the notes app in your disroot account.
-Any changes you make to the notes in your disroot account will appear in the ownCloud notes in your Android device, and vice versa.
+
+Notes app uses Markdown formatting so if you are familiar with it you can make them look pretty. If you still dont know what Markdown is, you should definatelly check [this page](http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to-do-lists-and-notes) which will change your life forever :)
+
+![](nextcloud_notes3.png)
+
+Any change to the notes will be automatically synced to and from disroot cloud.
 <br>
 
 <img src="/uploads/default/original/1X/5b4d8a2afd2b9fc2945689e768800584c858c223.jpeg" width="300" height="500">
