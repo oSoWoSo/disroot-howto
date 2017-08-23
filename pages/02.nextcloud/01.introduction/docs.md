@@ -7,14 +7,13 @@ page-toc:
 
 Nextcloud is disroot's core service and the main user interface we try to integrate with most of the apps we offer. In this little howto we would like to go through the basics of the interface explaining the main UI (User interface) concept, as well as some basic actions on files and personal settings.
 
+![](main1.png)
 
 ----------
 
 # General UI
 
 The user experience across the entire cloud webapp is consistent and straight forward.
-
-![](main1.png)
 
 For the purpose of this howto we will name some of the blocks of the interface to help identify them later on:
 
@@ -35,7 +34,8 @@ Lets start from looking at what can you setup and customize on your cloud accoun
 
 The settings are divided into sections. You can use quick links on the left-sidebar to get to them easily.
 ## Personal Info
-Personal Info is the place where you can add various information about yourself, which then you can choose to share with others. You can additionally choose the access level you want this information to be "shared".  
+Personal Info is the place where you can add various information about yourself, which then you can choose to share with others. You can additionally choose the access level you want this information to be "shared".
+
 ![](personal_info1.gif)
 
 And so:

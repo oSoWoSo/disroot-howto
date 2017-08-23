@@ -12,18 +12,28 @@ If you are a linux user, check your package repository and get it. (check for so
 
 2. **Fire it up.**
 You will be greeted with a welcome message like this:
+
 ![](pidgin1.png)
+
 To Proceed, we need to **add an account**.
 If it's not the first time you run pidgin you should use menu:
+
 ![](pidgin2.png)
+
 3. **Setup account.**
 First of, choose xmpp protocol from the drop-down list:
+
 ![](pidgin3.png)
+
 Next fill in the information needed:
+
 ![](pidgin4.png)
+
 !Note! If you wish to use avatar (optional) you can select "Use this buddy icon for this account" and browse your local filesystem (computer) for the picture you want to use.
+
 4. Hit "**Add**" and you are done!
 Now you are ready to start preaching people to ditch corporate evil apps and jump on the federation *Starship*.
+
 ![](pidgin5.png)
 
 **All your contacts are synced between all the clients, so you can use disroot chat on all the devices at the same time.**

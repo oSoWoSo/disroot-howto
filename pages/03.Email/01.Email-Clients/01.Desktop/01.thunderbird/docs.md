@@ -11,11 +11,15 @@ If you don't have thunderbird yet, got to  https://www.mozilla.org/en-US/thunder
 
 2. **Open thunderbird**
 If it's the first time you run thunderbird you will be directly greeted with account setup. Please skip the partnership suggestion and get right to the setup.
-i![](thunderbird_setup1.png)
+
+![](thunderbird_setup1.png)
+
 If you  are using thunderbird already and have some accounts setup just select '**New Account**" icon in the root view.
+
 ![](thunderbird_setup2.png)
 
 3. **Fill in your account information**
+
 ![](thunderbird_setup3.png)
 
  - **Your name** Name that will be displayed in "from" field
@@ -25,7 +29,9 @@ If you  are using thunderbird already and have some accounts setup just select '
  - Click "**Continue**" button once you're done and verified everything is correct..<p>
 
 4. Thunderbird now should auto-detect the needed settings like this:
+
 ![](thunderbird_setup4.png)
 
 **Done** \o/
+
 ![](thunderbird_setup5.png)

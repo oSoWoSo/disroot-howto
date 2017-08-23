@@ -5,14 +5,14 @@ page-toc:
   active: true
 ---
 
-# Contacts
-![](contacts_top_icon.png)
+# Contacts ![](contacts_top_icon.png)
 You can access the contacts app by by pressing the contacts icon on the top bar, in nexcloud:
 
 ----------------------
 ## Create a contact
 
 In the contacts app select "New contact"
+
 ![](contacts_add1.png)
 
 It will prompt on the left side of the screen, the form to create the new contact.
@@ -53,6 +53,7 @@ Go to "settings" on the lower left corner of the screen in the contacts app.
 In settings you can share your address book with other Disroot users by:
 selecting share address book
 writing the username of the disroot user you want to share the address book with
+
 ![](contacts_share2.png)
 
 You can also use a link to share your address book via webDAV, to other contact books (thunderbird, mobile, etc,).
@@ -76,4 +77,5 @@ Then select the file you want to import, and press ok
 Inside settings in the field "Address book name" write the name of the new address book, then press enter.
 
 ![](contacts_create1.png)
+
 -----------------------------

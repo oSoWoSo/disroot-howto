@@ -24,6 +24,7 @@ Once you start the *"Notes"* app for the first time you will need to add your cr
 > Password: Your disroot password
 
 After that just press "connect". Your existing notes from your disroot cloud account should be now synced to your phone.
+
 ![](nextcloud_notes1.png)
 
 # Create and delete notes
@@ -44,29 +45,27 @@ Notes app uses Markdown formatting so if you are familiar with it you can make t
 ![](nextcloud_notes3.png)
 
 Any change to the notes will be automatically synced to and from disroot cloud.
-<br>
 
 <img src="/uploads/default/original/1X/5b4d8a2afd2b9fc2945689e768800584c858c223.jpeg" width="300" height="500">
 
-<br>
 All the notes you create can be seen in the main menu of the ownCloud Notes app.
 
 * To edit a particular just press on it.
 * To create new notes just press the plus symbol.
 
-<br>
+
 <img src="/uploads/default/original/1X/fda61b064cf44751a79eaf9726645cff263873c3.png" width="314" height="500">
-<br>
+
 
 To delete a note:
 
 * press on it for a few seconds
 * press the garbage button on the upper right corner
 
-<br>
+
 
 <img src="/uploads/default/original/1X/3d7ddd7403f74780481d9dddd1f31397ce46abc0.png" width="480" height="304">
-<br>
+
 
 **View your notes in Disroot** <a name="viewdis"></a>
 
