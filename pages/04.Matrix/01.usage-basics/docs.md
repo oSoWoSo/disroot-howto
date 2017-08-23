@@ -43,7 +43,7 @@ The user interface is quite intuitive if you ever used chat system such as IRC, 
 For the purpose of this howto we'll name some of the key elements of the interface to help identify them later on:
 
  - **Chat List** - Place where you will find all the chat-rooms and Direct Chats you participate in. You can sort those chat-rooms in various categories (favorite, direct chats, low priority) by dragging the rooms into them.
- - **Chat Details** - Is where the rooms name, logo and topic is displayed. Additionally <img src="riot_interface2.png" width="23" height="26"> is for searching for keywords in the rooms history and <img src="riot_interface3.png" width="18" height="20"> is for rooms settings where you can eg.change the topic, add and manage integration, and various room admin settings.
+ - **Chat Details** - Is where the rooms name, logo and topic is displayed. Additionally ![](riot_interface2.png?resize=23,26) is for searching for keywords in the rooms history and ![](riot_interface3.png?resize=18,20) is for rooms settings where you can eg.change the topic, add and manage integration, and various room admin settings.
  - **Main window** - This is the main display of the application. You can see all the chat messages in the room or see all public rooms when going to Room directory.
  - **Message area** - is where you type your message, upload file, start audio or video call or conference
  - **User List** - is where you can see all the users currently participating in the room.
@@ -53,10 +53,12 @@ For the purpose of this howto we'll name some of the key elements of the interfa
 ----------
 
 # User Settings
-First thing after you login for the first time is to customize your user settings. To do that click on <img src="riot_interface4.png" width="28" height="23"> in **"Actions and settings"** area (bottom left). In this section you can setup various information about yourself, as well as setup behavior of notifications, enable extra interface features and check and verify list of connected devices.
+First thing after you login for the first time is to customize your user settings. To do that click on ![](riot_interface4.png?resize=28,23) in **"Actions and settings"** area (bottom left). In this section you can setup various information about yourself, as well as setup behavior of notifications, enable extra interface features and check and verify list of connected devices.
 
 ## Profile
+
 ![](riot_interface5.png)
+
 This section lets you add or change information about your profile.
 
  - You can change or upload your new profile picture
@@ -66,7 +68,9 @@ This section lets you add or change information about your profile.
  - Change password **(users with disroot account should only change their password through https://user.disroot.org)**
 
 ## Notifications
+
 ![](riot_interface6.png)
+
 Here you can change behavior of notifications for your account (note that this changes will affect all devices running Riot, hopefully in the future we will be able to change notifications settings per device).
 
 ## Devices
@@ -74,6 +78,7 @@ A list of devices connected to your account. You can view the devices ID, genera
 
 ## Deactivate account
 On the bottom of your user settings you can deactivate your account.
+
 ![](riot_interface7.png)
 
 
@@ -82,11 +87,15 @@ On the bottom of your user settings you can deactivate your account.
 
 # Room Directory
 The coolest thing about matrix is the fact that its totally federated. It means you can join any channel on any server. In Room directory you can search for and discover rooms on friendly servers we have listed (list will keep growing) as well as search for rooms on servers (if you know the servers URL). All public rooms of given server are listed in the main window.
+
 ![](riot_interface8.png)
 
 Right dropdown menu lets you filter public rooms in of specific server, or simply add url of server that isn't yet listed.
+
 ![](riot_interface9.png)
+
 The left input field is used to either type in the full room address (if you know it) or search for rooms using keyword.
+
 ![](riot_interface10.png)
 
 
@@ -99,15 +108,15 @@ The most straight forward way to join public rooms is to search for them in room
 
 You can also just click on the room address if someone shares it with you in the chat. The room address consist of #room_name:matrix_server for example #disroot:disroot.org This type of addresses are recognizable by Riot client and once clicked, will try to join the room automatically.
 
-If you know the matrix room address or perhaps would like to join one of the IRC channels straight away without too much clicking, you can use this command: `/join #channel_name:server.url`  (for example /join #disroot:disroot.org). For syntax and list of currently IRC bridged networks, check this page: https://github.com/matrix-org/matrix-appservice-irc/issues/208
+If you know the matrix room address or perhaps would like to join one of the IRC channels straight away without too much clicking, you can use this command: `/join #channel_name:server.url`  (for example `/join #disroot:disroot.org`). For syntax and list of currently IRC bridged networks, check this page: https://github.com/matrix-org/matrix-appservice-irc/issues/208
 
 
 ----------
 
 # Creating rooms
-To create new room simply click on the <img src="riot_interface11.png" width="26" height="24"> and type desired name. You will automatically be logged into the new room and you can start inviting people to it by clicking on <img src="riot_interface12.png" width="110" height="28"> button on the bottom right.
+To create new room simply click on the ![](riot_interface11.png?resize=26,24) and type desired name. You will automatically be logged into the new room and you can start inviting people to it by clicking on ![](riot_interface12.png?resize=110,28) button on the bottom right.
 
-Clicking room's settings button <img src="riot_interface13.png" width="25" height="25"> in the **"chat detail"** block (top),  will reveal some settings you might consider:
+Clicking room's settings button ![](riot_interface13.png?resize=25,25) in the **"chat detail"** block (top),  will reveal some settings you might consider:
 
  - Who can access the room
  - Enable Encryption
@@ -117,8 +126,9 @@ Clicking room's settings button <img src="riot_interface13.png" width="25" heigh
 
 ## Aliases
 Remember when I said the rooms are federated? Since the room gets duplicated to other servers (whenever some user from other server joins the room), the rooms can continue living in the network even if the originating server is no longer available. This is the true power of decentralized and federated networks. They are immune to server shutdowns or censorship.
-So since rooms "live in the network" you can easily add extra aliases to them. Usually those aliases refer to different servers (so that they they can be easily search-able and if permitted, listed in rooms directories on other servers), you can also add extra names you want your room to figure under. For example we want our disroot room to be accessible if someone tries to join room #support:disroot.org. We just simply add new alias to existing room.
+So since rooms "live in the network" you can easily add extra aliases to them. Usually those aliases refer to different servers (so that they they can be easily search-able and if permitted, listed in rooms directories on other servers), you can also add extra names you want your room to figure under. For example we want our disroot room to be accessible if someone tries to join room `#support:disroot.org` . We just simply add new alias to existing room.
 **example:**
+
 ![](riot_interface14.png)
 
 
@@ -127,7 +137,8 @@ So since rooms "live in the network" you can easily add extra aliases to them. U
 # Starting private chats
 If you want to start chatting with someone in private, you can do it in numerous ways:
 
-The easiest way is to click on the <img src="riot_interface15.png" width="21" height="23">on the bottom of **"Action and Settings block**, and type the name of the person you would like to talk to. The autocompletion will give you suggestions based on the channels you are already in.
+The easiest way is to click on the ![](riot_interface15.png?resize=21,23) on the bottom of **"Action and Settings block**, and type the name of the person you would like to talk to. The autocompletion will give you suggestions based on the channels you are already in.
+
 ![](riot_interface16.png)
 
 If you decided to upload your email and share you address book with riot, it will try to search through your address-book to provide you with names of you contacts that are already using matrix.
@@ -144,6 +155,7 @@ Since recently, matrix ships with end to end encryption. What does it mean? It m
 
 Matrix uses same technology for encrypting messages as OMEMO on xmpp, SIgnal or Whatsapp. Matrix's implementation of it is called: [Olm](https://matrix.org/blog/2016/11/21/matrixs-olm-end-to-end-encryption-security-assessment-released-and-implemented-cross-platform-on-riot-at-last/)
 To enable encryption in your room go to room settings <img src="riot_interface17.png" width="25" height="25"> and select
+
 ![](riot_interface18.png)
 
 ## Few things to be aware of when using Encryption
@@ -153,13 +165,13 @@ To enable encryption in your room go to room settings <img src="riot_interface17
 4. You can't make use of any integration (linking to irc or slack or having rss bot for example).
 
 ## Trust and key verification
-Once you enter the room with encryption switched on, you will notice people having <img src="riot_interface19.png" width="17" height="21"> or <img src="riot_interface20.png" width="22" height="20"> next to their messages.
+Once you enter the room with encryption switched on, you will notice people having ![](riot_interface19.png?resize=17,21) or ![](riot_interface20.png?resize=22,20) next to their messages.
 
-<img src="riot_interface20.png" width="22" height="20"> Means the encryption key for the device the message has been sent from has not yet been verified by you.
-<img src="riot_interface19.png" width="17" height="21">  means you have verified the device.
+- ![](riot_interface20.png?resize=22,20) Means the encryption key for the device the message has been sent from has not yet been verified by you.
+- ![](riot_interface19.png?resize=17,21)  means you have verified the device.
 
 **What does it mean?**
-If you truly want to be sure person you are talking with is the one you think it is, you need to have an option to verify that. By default all the encryption keys of any user are not verified and that's why you get <img src="riot_interface20.png" width="22" height="20"> next to their messages as an indication. In order to make sure the communication channel is secure, you need to trust that device and the person. Each device used by a person you communicate with generates encryption keys. Each key has it's unique fingerprint (just like human fingerprints). When you click on the <img src="riot_interface20.png" width="22" height="20"> you will be presented with all the information about the device, it's key and the fingerprint. You can just blindly trust it by clicking on "Verify" button, but that's not ensuring you in any way the person on the other side is the one you think it is.
+If you truly want to be sure person you are talking with is the one you think it is, you need to have an option to verify that. By default all the encryption keys of any user are not verified and that's why you get ![](riot_interface20.png?resize=22,20) next to their messages as an indication. In order to make sure the communication channel is secure, you need to trust that device and the person. Each device used by a person you communicate with generates encryption keys. Each key has it's unique fingerprint (just like human fingerprints). When you click on the ![](riot_interface20.png?resize=22,20) you will be presented with all the information about the device, it's key and the fingerprint. You can just blindly trust it by clicking on "Verify" button, but that's not ensuring you in any way the person on the other side is the one you think it is.
 
 The best way to verify the fingerprint is to use other means of communication (personally, email, other chat) to send each others fingerprints for verification. You can also ask some private questions in the chatroom in order to verify person you are talking to. It's up to you how you want to ensure you are safe and what's the level of security for your chat. Many other services (such as signal or whatsapp) seem to skip that point, or make it very easy (where your app trusts other persons encryption key by default) but that's what makes encryption less secure. In most cases when using other apps such as whatsapp by default you have no way of telling if someone's account has been tempered with (new encryption keys generated), and you need to manually enable such option.
 

@@ -25,9 +25,11 @@ This will allow you to check, update and remove your events from any computer wi
 1. Click on the **Apple icon** in the top left of your screen.
 2. Open the menu item '**System Preferences...**'.
 3. Click on the icon with the name '**Internet Accounts**'.
+
 ![](macos_calendar1.png)
 
 5. Scroll down in the right pane, until you can click at the bottom on '**Add Other Account...**'
+
 ![](macos_calendar2.png)
 
 7. Choose the third item from the top: '**CalDav Account**'

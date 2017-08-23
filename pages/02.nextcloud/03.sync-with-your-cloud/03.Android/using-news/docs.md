@@ -15,10 +15,12 @@ Once you have f-droid installed and running, you can search for [OCReader](https
 
 ## Setup
 When that's done you can fire up the app, and login with your disroot account.
+
 ![](nextcloud_news1.png)
 
 Once you're logged in, all your news feeds will be synced to your device, and you can start reading immediately.
 Swiping to the left show you your account information and give you the list of subscribed feeds as well as number of unread posts.
+
 ![](nextcloud_news2.png)
 
 ## Add/remove feeds

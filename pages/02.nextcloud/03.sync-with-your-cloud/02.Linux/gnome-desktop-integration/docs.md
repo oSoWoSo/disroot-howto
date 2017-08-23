@@ -47,6 +47,7 @@ Depending on your operating system you should search for it in your "Software" a
 Once you get it installed, you'll notice your calendars are already integrated thanks to the global "Online Accounts" you set up earlier. The application is very simple, and still missing some features to be complete (eg. recurrence) but it enables you to do basic things such as create/delete/edit calendar entries. You can select which calendars you would like to see and which ones to disable (in case you have numerous calendars). You can create/modify/delete events, and they'll be all synchronized with disroot cloud, which means also with all the devices connected to it.
 
 ![](gnome_calendar2.gif)
+
 ![](gnome_calendar3.gif)
 
 -----------
@@ -106,6 +107,7 @@ If you never worked with email desktop client and always used webapp to access y
 **encryption:** STARTTLS after connecting
 
 ![](gnome_mail.gif)
+
 Now that you have your email setup and integrated with your desktop. You can now use either "Evolution" or "Geary" mail client and enjoy all your emails, calendars, tasks, and contacts integrated in one application. Magic.. :)
 
 ![](gnome_mail2.png)
@@ -126,4 +128,5 @@ Once you get it up and running, all you need to do is fill in your disroot crede
 Once your account is setup, initial synchronization will take place. All your currently subscribed feeds will be synced to your desktop. Just like on mobile or webapp you can now read latest news, add / remove feeds, categorize them etc. Everything will be synced back to your cloud account. The app checks for new posts in the background and sends you desktop notification even if the app itself is closed, so you won't miss-out on anything.
 
 ![](gnome_news3.gif)
+
 ----------

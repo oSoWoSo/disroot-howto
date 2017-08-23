@@ -21,13 +21,15 @@ Or compile from source as described [here](https://forum.disroot.org/t/cloud-how
 
 The first time you run Nextcloud-client you will be directly greeted with account setup.
 Add disroot's address in URL field **https://cloud.disroot.org**, then press "next".
- ![](desktop_client1.png)
+
+![](desktop_client1.png)
 
 
 Next add your disroot account details:
 Username: *your Disroot username*
 Password: *your Disroot account password*
 Then press **"next"**
+
 ![](desktop_client2.png)
 
 
@@ -36,6 +38,7 @@ Now it's time to choose what do you want to sync and where should it be synced o
 You can choose to sync everything or select which folders you would like to have synced. This is specially useful if your cloud storage is huge and you don't want to have exact copy of it on your desktop or laptop. This setting can be changed at any time later on.
 
 Once you are happy with the settings, just hit "Connect"
+
 ![](desktop_client3.png)
 
 And then **finish**
@@ -51,6 +54,7 @@ The app consists of 4 main tabs:
  - Activities
  - General
  - Network
+
 ![](desktop_client4.png)
 
 ## Your account
@@ -67,10 +71,12 @@ The account button let's you remove your account from the desktop client  or add
 Adding extra account is the same as adding the first one. You will be asked the same questions during the setup. The important thing to keep in mind. **You can't use the same Nextcloud folder** with multiple active accounts. You should therefore make sure you are syncing to another folder.
 
 After you add a second account your, it will show up on the top bar of the app. This is how you also switch between accounts if you need to change settings.
+
 ![](desktop_client6)
 
 ## Activity tab
 **Activity** tab gives you an overview on all the uploaded/downloaded/added/removed files and folders from your accounts. Similar to Activity app in disroot cloud interface.
+
 ![](desktop_client7.png)
 
 ## General tab
@@ -94,6 +100,7 @@ After you add a second account your, it will show up on the top bar of the app. 
 If you are using Windows or MacOS it's possible to create share links directly from the local folder of a file or sub-folder to send by email to someone else. By right clicking on the file/or folder  
 
 ![](desktop_client10.png)
+
 And you will be presented with the same sharing options as if you where accessing your files in your Disroot account using a browser.
 
 ![](desktop_client11.png)

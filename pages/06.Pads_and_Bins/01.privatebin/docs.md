@@ -39,25 +39,26 @@ The interface is super easy. You have the textbox to write or paste your text an
 
 # How to paste and share content
 
-Just write or paste your text in the text box and press the "send" button  <img src="privatebin01.png" width="38" height="18">. After that a URL link will appear in the center of the screen. Copy it and share/send it to whomever you want however you want: shared in social networks, a website, via a email, chat, etc.
+Just write or paste your text in the text box and press the "send" button  ![](privatebin01.png?resize=38,18). After that a URL link will appear in the center of the screen. Copy it and share/send it to whomever you want however you want: shared in social networks, a website, via a email, chat, etc.
 
 ![](privatebin02.gif)
 
-To create a new paste after that just press the "new" button  <img src="privatebin02.png" width="38" height="18">
+To create a new paste after that just press the "new" button  ![](privatebin02.png?resize=38,18)
 
 ----------
 
 # Read only once
-You can set your paste to be deleted after it's being opened for the first time by selecting the **"Burn after reading"** option <img src="privatebin03.png" width="166" height="41">
+You can set your paste to be deleted after it's being opened for the first time by selecting the **"Burn after reading"** option ![](privatebin03.png?resize=166,41)
 
 When the recipient of the URL link opens the page, the content will appear with the following message:
-<img src="privatebin04.png" width="606" height="50">
+![](privatebin04.png?resize=606,50)
 
 If the person opens the link in a new tab or refreshes the page the content will no longer be available.
 
 This option is good if you have information to send to a specific person and that should not be public or spread around.
 
 ![](privatebin03.gif)
+
 ----------
 
 # Setting an expiration date to your paste
@@ -69,10 +70,12 @@ Setting an expiration date to your paste is very easy. When you are creating you
 ----------
 # Discussion board
 
-PrivateBin features a Discussion board that can be used by anyone that receives the URL link of the paste. It's very easy to enable the Discussion Board, just select "open discussion" <img src="privatebin05.png" width="151" height="41"> when you are creating your paste.
+PrivateBin features a Discussion board that can be used by anyone that receives the URL link of the paste. It's very easy to enable the Discussion Board, just select "open discussion" ![](privatebin05.png?resize=151,41) when you are creating your paste.
 
 When you and people that receive the link open it you will see comments and be able to add yours just like a typical forum/chat:
+
 ![](privatebin06.png)
+
 from there you can write a message and others can reply to it.
 
 ![](privatebin05.gif)
@@ -80,7 +83,6 @@ from there you can write a message and others can reply to it.
 
 
 **Note:**
-
 This is not a Instant Message system where a reply appears automatically. To see a reply you may need to refresh your page.
 This is a very simple and basic discussion board that you can use to communicate in a more private way with others. Noone excpet people you shared the link with (not even system administrators of disroot) will be able to read your discussion. After set expiry, the entire conversation will be erased leaving no trace of it.
 
@@ -92,7 +94,7 @@ Like mentioned above PrivateBin features a discussion board. If you add to this 
 Since PrivateBin works in a logic of zero knowledge the pastes are encrypted so that the server and it's administrators don't know it's content, only the people the have the URL link.
 When the expiration date is reached the paste along with the conversation will be destroyed.
 
-To do this just select the options "open discussion" <img src="privatebin07.png" width="151" height="41"> and "Expires" when creating a paste.
+To do this just select the options "open discussion" ![](privatebin07.png?resize=151,41) and "Expires" when creating a paste.
 
 ![](privatebin06.gif)
 

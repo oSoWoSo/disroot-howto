@@ -12,25 +12,28 @@ The Discourse forum provides a simple and intuitive user interface. Even if you 
 
 # Log in first
 You can log in to the forum with your Discourse account or your All-in-one Disroot account, if you have one.
-Go to https://forum.disroot.org/ and click <img src="forum_basics1.png" width="64" height="25"> on the top right corner.
+Go to https://forum.disroot.org/ and click ![](forum_basics1.png?resize=64,25) on the top right corner.
 **If you have a Disroot account make sure to select Login with disrootID before entering your credentials.**
 
 If you don't have an account yet, you can register a Disroot account via https://user.disroot.org, which will give you additionaly access to cloud storage, email, xmpp and project board. You can also decide to create a forum only account - you will find the Sign up button at the top right of the forum page.
 
 # The menu
 The icon buttons on the top right include the search and your personal settings:
+
 ![](forum_basics2.png)
+
 Click on your user icon (the first letter of your name until you change your avatar) to see your messages and notifications and to enter your personal setting and see your user page.
 
-The little numbers on top of your avatar mark how many notifications (on the right) and messages (left) you have. When you click on your avatar you will see all unread notification and messages listed below. You can also access all you messages via the<img src="forum_basics3.png" width="30" height="25">icon.
+The little numbers on top of your avatar mark how many notifications (on the right) and messages (left) you have. When you click on your avatar you will see all unread notification and messages listed below. You can also access all you messages via the ![](forum_basics3.png?resize=30,25) icon.
 
-Click on your avatar and then on the <img src="forum_basics4.png" width="23" height="24"> to enter your personal settings. There you can change you avatar, adjust the level of notifications, your viewed categories and much more.
+Click on your avatar and then on the ![](forum_basics4.png?resize=23,24) to enter your personal settings. There you can change you avatar, adjust the level of notifications, your viewed categories and much more.
 
 # Navigation
-When you first log in to the forum (or click <img src="forum_basics5.png" width="100" height="20">icon to get back to home page at any time), you will find a list of the categories you are following. Categories are like sub-forums. If you are a member of a private forum group, the categories of that group will be listed first and all public categories will be listed below. More on how to follow and hide certain categories will be posted soon in another tutorial.
+When you first log in to the forum (or click ![](forum_basics5.png?resize=100,20) icon to get back to home page at any time), you will find a list of the categories you are following. Categories are like sub-forums. If you are a member of a private forum group, the categories of that group will be listed first and all public categories will be listed below. More on how to follow and hide certain categories will be posted soon in another tutorial.
 
 ~[](forum_basics6.png)
-The bar on top allows you to quickly navigate between latest, new, unread and most active posts. You can also filter which categories you wish to view under the <img src="forum_basics7.png" width="133" height="30"> button.
+
+The bar on top allows you to quickly navigate between latest, new, unread and most active posts. You can also filter which categories you wish to view under the ![](forum_basics7.png?resize=133,30) button.
 On the far right you find a tab button for starting a new discussion thread (topic).
 
 The latest topics are also listed in your home page, right of the categories. Any topic title you select to view will take you to the next unread post.
@@ -43,37 +46,47 @@ As new posts come in, they will appear automatically.
 
 # Replying to posts
 
-To reply to the overall topic, use the <img src="forum_basics8.png" width="80" height="29"> button at the very bottom of the page.
+To reply to the overall topic, use the ![](forum_basics8.png?resize=80,29) button at the very bottom of the page.
 
-To reply to a specific post within the thread, use the <img src="forum_basics9.png" width="82" height="30"> button on that post.
+To reply to a specific post within the thread, use the ![](forum_basics9.png?resize=82,30) button on that post.
 
 To insert a quote, select the text you wish to quote, then press any Reply button. Repeat for multiple quotes!
 
 To notify someone about your reply, mention their name. Type @ to begin selecting a username.
 
 You can also like, share, flag or bookmark a post.
+
 ![](forum_basics1.gif)
 
 
 # Creating a new topic
-You can create a new topic in a category (Howtos, support, changelog, etc) by either navigating to the category and then pressing the new topic button <img src="forum_basics10.png" width="121" height="26">, or by just pressing the button and in the compose topic/message panel select the category it goes to. Topics need to have a minimum of 8 letters in the subject and 10 letters in the topic, otherwise the message won't be sent.
+You can create a new topic in a category (Howtos, support, changelog, etc) by either navigating to the category and then pressing the new topic button ![](forum_basics10.png?resize=121,26), or by just pressing the button and in the compose topic/message panel select the category it goes to. Topics need to have a minimum of 8 letters in the subject and 10 letters in the topic, otherwise the message won't be sent.
 
 ![](forum_basics2.gif)
 
 # The interface
 The interface is relatively simple.
+
 ![](forum_basics11.png)
+
 Discourse supports Markdown and HTML to compose messages, on the left side of the panel you write your topic, and on the right side you can preview how the topic will be presented.
+
 ![](forum_basics3.gif)
+
 But you don't need to learn Markdown or HTML to write a topic, you can just use the formatting options presented in the top bar, Blockquote **Strong**, **Emphasis**, **Bulleted List**, **Numbered List**, **Heading**, **Horizontal Rule**, **Emojis**. Commands like CTRL+b or CTRL+I also work.
+
 ![](forum_basics4.gif)
+
 ## Inserting pictures and videos
 You can insert pictures into your topic by dragging them to the message to the part where you want them to be.
+
 ![](forum_basics5.gif)
+
 To insert a video it's the same process.
 
 ## Uploading files to your topic
 You can upload files by pressing the upload button and then browsing until you reach and select the file you want.
+
 ![](forum_basics6.gif)
 
 ## Moving files, pictures and videos from one place to another in the message
@@ -92,7 +105,9 @@ To move them just cut the line and paste it where you want it. Also in the case 
 
 ## Adding tags to your topic
 Adding a tag makes it easier for people looking for topics or threads about a certain subject. Adding them is supper easy.
+
 ![](forum_basics7.gif)
+
 Once your done with composing your topic just press "Create Topic" <img src="/uploads/default/original/1X/56aca73b1e494867ce64ded3de9b6c52ab6b2af3.png" width="115" height="24">
 
 # Howto mute or watch categories
@@ -114,10 +129,15 @@ The current categories and sub-categories in the Disroot Forum are:
 * Engineering Yuvasamithi
 
 The best way to watch/mute categories is in your preferences, from there you can set all your mute and watch preferences from one single place.
+
 ![](forum_basics12.png)
+
 Just scroll down to **Categories** , you will see the **fields** for **Mute** and **Watched**, write the categories you want in each and in the end **save your settings** for them to take effect.
+
 ![](forum_basics8.gif)
-The other method is to navigate to each category or sub-category one by one and do it from there, by pressing the button that is to right of "new topic" <img src="forum_basics13.png" width="50" height="25">
+
+The other method is to navigate to each category or sub-category one by one and do it from there, by pressing the button that is to right of "new topic" ![](forum_basics13.png?resize=50,25)
+
 ![](forum_basics9.gif)
 
 ----------

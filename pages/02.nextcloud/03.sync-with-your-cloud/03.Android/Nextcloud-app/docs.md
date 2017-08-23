@@ -53,7 +53,7 @@ If you press the button with the three vertical dots in the top bar of the app, 
 In **Refresh your account** you can order to synchronize your files (if when you start the mobile app for the first time your files don't appear use this option).
 In **sort**, you cant decide if your files will be shown alphabetically, by date and so on.
 In **Grid view**, you can change how the files are displayed, from a "list files" to Grid view and reverse:
-<br>
+
 ![](nextcloud_app_main2.jpeg)    
 
 ----------
@@ -69,7 +69,7 @@ In the general settings you can:
 * Install DAVDroid so that you can sync calendars, tasks and contacts
 
 You can access these settings by pressing the hamburger button on the upper left side and then "settings".
-<br>
+
 ![](nextcloud_app_settings1.jpeg)
 
 **NEEDS TO BE UPDATED**
@@ -120,9 +120,9 @@ Most of the apps support "Sharing" functionality, which provides you an option t
 
 # Download files
 Select the files you want to download by *"long pressing"* them. The selected file will be highlighted and all files in that folder will have a checkbox to the left of them. Use the checkboxes to select more files you want to download, then press the button on the upper right corner.
-<br>
+
 ![](nextcloud_app_download1.jpeg)
-<br>
+
 
 ![](nextcloud_app_download2.jpeg)
 
@@ -147,9 +147,11 @@ To share a file or folder with other Disroot or Nextcloud/Owncloud users via Fed
 #Manage and add multiple accounts
 If you have multiple cloud accounts spread throughout several services that use Nextcloud or Owncloud you can add them all into your mobile app.
 Press the *"hamburger button"* on the upper left corner of the main interface, or swipe to the right.
-<br>
+
 Select the triangle and then "Add account"
+
 ![](nextcloud_app_add_account1.jpeg)
+
 You will have to repeat the setup account process for the new account.
 
 Now in order to see files on additional accounts, you have to switch between them by swipping to the right and selecting an account from the menu.

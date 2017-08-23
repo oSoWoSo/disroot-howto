@@ -14,15 +14,23 @@ Disroot, mainly hosts private forum groups. If you are interested in one, drop u
 
 Discourse, the software used by Disroot, is a Forum software with malinglist functionalities. It has what we for this tutorial call **Groups**. And those Groups can have or not **Categories** in them (think of them as subjects or main topics).
 As an example, the Disroot Group has several Categories dedicated to different subjects to organize discussions and exchange messages between users:
+
 ![](forum_ml1.png)
+
 These Groups and each Category in them can be assigned an email alias that works as an address for a mailinglist, that you can use to create a topic via your email (webmail or client) in that Group/ or Category.
 
 ![](forum_ml2.png)
+
 Members of that Group receive a notification of that topic in their message board and in their emails.
+
 ![](forum_ml3.png)
+
 ![](forum_ml4.png)
+
 And are able to reply to that topic via the message board or by email, as they prefer.
+
 ![](forum_ml5.png)
+
 This creates a system that can be used both by mailinglist fans and Forum fans.
 
 You can have a Group with only one category and one email alias assigned to it. Or if it's a large collective, with workgroups, you can have a Group with several categories each one with a different email alias and working as a mailinglist of it's own, something like this:
@@ -56,12 +64,15 @@ The name of the Group and of the Categories, and corresponding email aliases, ca
 
 Private Groups/Mailinglists work as described above, but like the name says they are private and can only be seen and accessed by the group's members. You can only send an email to this group if you are a member.
 
-Private Groups can be seen and accessed only by group members in the Forum's web-interface, and have a padlock symbol <img src="forum_ml6.png" width="20" height="21">. When you log in to the in the Forum, the categories of the private groups that you are a member of show up at the top.
+Private Groups can be seen and accessed only by group members in the Forum's web-interface, and have a padlock symbol ![](forum_ml6.png?resize=20,21). When you log in to the in the Forum, the categories of the private groups that you are a member of show up at the top.
 
 People that are not members of the Group cannot even see that the private Group exists.
 Now you see me:
+
 ![](forum_ml7.png)
+
 Now you don't:
+
 ![](forum_ml8.png)
 
 ###Adding members to the private group

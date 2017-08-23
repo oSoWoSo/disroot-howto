@@ -24,6 +24,7 @@ When in the contacts menu:
 2. In Addressbook URL, place the URL from your Nexcloud contacts addressbook you have saved before.
 3. Provide your username
 4. Add your password
+
 ![](webmail_import_contacts3.png)
 
 And then refresh both pages. Now your contacts will stay in sync.
