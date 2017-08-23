@@ -25,7 +25,7 @@ Notes:
 
 ----------
 
-##How safe is Lufi and how it works<a name="safe"></a>
+# How safe is Lufi and how it works
 
 When you use Lufi to upload files, "All the files are encrypted by your the browser! It means that your files never leave your computer unencrypted. The administrator of the Lufi instance you use will not be able to see what is in your file, neither will your network administrator, or your ISP".
 
@@ -56,12 +56,14 @@ It has two components:
 
 If you try to use just, [https://upload.disroot.org/r/FA7MHOOL](https://upload.disroot.org/r/FA7MHOOL)
 Without the second part you will get this message:
+
+
 ![](lufi01.png)
 
 
 
 ----------
-##The Interface<a name="panel"></a>
+# The Interface
 
 The interface is pretty straightforward, when you upload a file you have the following options:
 
@@ -69,11 +71,12 @@ The interface is pretty straightforward, when you upload a file you have the fol
 * Choose if you want the file to be deleted after it was downloaded for the first time
 
 In the upper centre part of the panel you can set the options mentioned above. In the upper right part you have the menu to go "My files" and manage your uploads. The centre is where you upload your files.
+
 ![](lufi02.png)
 
 ----------
 
-###Maximum file size<a name="filesize"></a>
+## Maximum file size
 
 There is no size limit to the files you can upload. But the maximum amount of time that a file stays stored in Lufi varies according to it's size. After that time expired the file is deleted.
 
@@ -84,7 +87,7 @@ Larger files will be stored for a shorter time. "The expiration delay of your fi
 * between 96M and 954M, the file will be kept 15 day(s).
 * for 954M and more, the file will be kept 2 day(s)
 
-You can also check this information any time you want by pressing the <img src="lufi03.png" width="30" height="24"> button in the main interface in Lufi.
+You can also check this information any time you want by pressing the ![](lufi03.png?resize=30,24) button in the main interface in Lufi.
 
 ----------
 
@@ -95,8 +98,11 @@ To upload a file just choose the options you want (if delete after download or n
 After the upload is complete you will be presented by your browser with the link (URL and encryption key) of the uploaded file, copy it to somewhere else.
 
 You will also get the deletion link which permits you to delete the uploaded file from the server at any time you want.
+
 ![](lufi1.gif)
+
 To download the file just use the link in the browser:
+
 ![](lufi2.gif)
 
 
@@ -112,8 +118,10 @@ Well this is also very simple, you can either:
 
 * send it directly by email from Lufi
 
-For the last option (if you have an email client in your machine e.g Thunderbird, Evolution, etc.), just click the <img src="lufi04.png" width="200" height="30"> button, after your file is successfully uploaded. Write the email address and text, and press <img src="lufi05.png" width="280" height="30">. You email client will pop-up with the email ready to send.
+For the last option (if you have an email client in your machine e.g Thunderbird, Evolution, etc.), just click the <img src="lufi04.png" width="200" height="30"> button, after your file is successfully uploaded. Write the email address and text, and press ![](lufi05.png?resize=220,20). You email client will pop-up with the email ready to send.
+
 ![](lufi3.gif)
+
 **The option** <img src="lufi06.png" width="180" height="25"> **should not be used as a matter of principle.**
 
 The reason is, if you use this option the link is sent using an email of your Lufi provider, not your personal email. Which means the administrators of that Lufi instance can see the full link, and thus are able to download it, and decrypt it if they want to.
@@ -143,9 +151,14 @@ If you want, in this panel you can also:
 * Export to your computer the json file with these informations
 
 * Import to your browser local storage a json file with informations about uploads and links  
+
 ![](lufi4.gif)
+
 Another way to delete a file from the server any time you want is to use the deletion link, provided when you first upload the file. Copy it and keep it in a text file for whenever you want to use it.
 To use it just put it in your browser and press enter.
+
 ![](lufi08.png)
+
 If you delete a file or the expiration date that was set passed, anyone trying to download the file will see a message like this:
+
 ![](lufi09.png)
