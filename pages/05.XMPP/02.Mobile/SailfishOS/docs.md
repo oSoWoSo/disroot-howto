@@ -1,5 +1,5 @@
 ---
- title: SailfishOS
+title: SailfishOS
 ---
 
 1. **Open Settings** app and scroll all the way down to "**Accounts**"
