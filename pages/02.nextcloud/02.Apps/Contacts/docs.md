@@ -5,21 +5,21 @@ page-toc:
   active: true
 ---
 
-# Contacts ![](contacts_top_icon.png)
-You can access the contacts app by by pressing the contacts icon on the top bar, in nexcloud:
+# Contacts
+You can access the contacts app by by pressing the contacts icon ![](contacts_top_icon.png?resize=20,20) on the top bar, in nexcloud:
 
 ----------------------
 ## Create a contact
 
-In the contacts app select "New contact"
+In the contacts app select "*New contact*"
 
 ![](contacts_add1.png)
 
-It will prompt on the left side of the screen, the form to create the new contact.
+You will prompted with a form on the "*right-bar*" side you the form to create the new contact.
 
 ![](contacts_add2.png)
 
-Just type the information you want/have in the fields. If you need in the end of the form there is an option to add more fields
+Just type the information you want/have in the fields. If you need, you can just add more fields at the bottom of the form.
 
 ![](contacts_add3.png)
 
@@ -27,7 +27,7 @@ Just type the information you want/have in the fields. If you need in the end of
 ## Delete a contact
 
 * select the contact
-* in the contact form select the delete icon
+* in the contact form header, select the delete icon
 
 ![](contacts_delete.png)
 

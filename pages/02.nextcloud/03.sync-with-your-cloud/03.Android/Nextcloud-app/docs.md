@@ -17,7 +17,7 @@ This app does not download the files to a local folder in your mobile, it simply
 
 # Install Nextcloud Mobile
 
-To install the app on android, we recommend you install the [F-droid](https://f-droid.org/) app store. F-droid provides open source applications, and it's way to reduce your dependency on google, and we advise you to install it's store app. After you installed and setup F-droid you can search and install the [Nexcloud Mobile app](https://f-droid.org/repository/browse/?fdfilter=Nextcloud&fdid=com.nextcloud.client/).
+To install the app on android, we recommend you install the [F-droid](https://f-droid.org/) app store. F-droid provides open source applications, and it's way to reduce your dependency on google. After you installed and setup F-droid you can search and install the [Nexcloud Mobile app](https://f-droid.org/repository/browse/?fdfilter=Nextcloud&fdid=com.nextcloud.client/).
 
 IOS users will probably have to pay around 0,99€ for it in the IOS app store.
 

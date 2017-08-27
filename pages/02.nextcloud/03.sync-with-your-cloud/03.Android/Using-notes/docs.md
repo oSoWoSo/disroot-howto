@@ -11,19 +11,20 @@ In this tutorial we'll show you how to setup and use your disroot notes in your 
 
 # Install notes app
 
-First of grab **"Nextcloud Notes"** from [F-Droid](https://f-droid.org/packages/it.niedermann.owncloud.notes/) or other commercial app stores.    
+First of grab **"Nextcloud Notes"** from [F-Droid](https://f-droid.org/packages/it.niedermann.owncloud.notes/) or other commercial app store.    
 
 
 # Add your disroot account
 
-Once you start the *"Notes"* app for the first time you will need to add your credentials and URL of disroot cloud server.
+Once you start the *"Notes"* app, for the first time you will need to add your credentials and URL of disroot cloud server.
 
 
-> Server address: [https://cloud.disroot.org/](https://cloud.disroot.org/)
-> Username: Your disroot username
-> Password: Your disroot password
+- **Server address:** [https://cloud.disroot.org/](https://cloud.disroot.org/)
+- **Username:** Your disroot username
+- **Password:** Your disroot password
 
-After that just press "connect". Your existing notes from your disroot cloud account should be now synced to your phone.
+After that just press "*connect*".
+Your existing notes from your disroot cloud account should be now synced to your phone.
 
 ![](nextcloud_notes1.png)
 
@@ -46,15 +47,15 @@ Notes app uses Markdown formatting so if you are familiar with it you can make t
 
 Any change to the notes will be automatically synced to and from disroot cloud.
 
-<img src="/uploads/default/original/1X/5b4d8a2afd2b9fc2945689e768800584c858c223.jpeg" width="300" height="500">
+![](nextcloud_notes4.jpeg)
 
-All the notes you create can be seen in the main menu of the ownCloud Notes app.
+All the notes you create can be seen in the main menu of the Nextcloud Notes app.
 
 * To edit a particular just press on it.
 * To create new notes just press the plus symbol.
 
 
-<img src="/uploads/default/original/1X/fda61b064cf44751a79eaf9726645cff263873c3.png" width="314" height="500">
+![](nextcloud_notes5.png)
 
 
 To delete a note:
@@ -64,36 +65,31 @@ To delete a note:
 
 
 
-<img src="/uploads/default/original/1X/3d7ddd7403f74780481d9dddd1f31397ce46abc0.png" width="480" height="304">
+![](nextcloud_notes6.png)
 
 
-**View your notes in Disroot** <a name="viewdis"></a>
+# View your notes in Disroot
 
-To view and edit any notes you made in your Android device from your disroot account go to the notes app on the upper bar.<br>
+To view and edit any notes you made in your Android device from your disroot account go to the notes app on the upper bar.
 
-<img src="/uploads/default/original/1X/c181280dab74e9606dcd17c33cd0af7ff45950e8.png" width="295" height="93">
-<br>
+![](nextcloud_notes7.png)
 
-From there you can see and edit the notes.<br>
+From there you can see and edit the notes.
 
-<img src="/uploads/default/original/1X/cdb3101eac9a9967240c21bf694d03663fd5de8b.png" width="462" height="241">
-<br>
+![](nextcloud_notes8.png)
+
 You can also see and edit your notes in .txt file format in the disroot files app.
 Go to the files app.
-<br>
 
-<img src="/uploads/default/original/1X/24fe7dbaad9b0b2feb63c7a7b50e7cead4946ef8.png" width="264" height="105">
-<br>
+![](nextcloud_notes9.png)
+
 
 You will see a folder titled "Notes". Inside it can find your notes in .txt file format.<br>
 
-<img src="/uploads/default/original/1X/f88d365ca5b829905f8527b8829ab72793917921.png" width="690" height="170">
+![](nextcloud_notes10.png)
 
-<br>
  Click on the note to edit it.
-<br>
-<img src="/uploads/default/original/1X/c208573d4f74c1cc81e24616ea59f5e59c0214b3.png" width="690" height="222">
 
-<br>
+![](nextcloud_notes11.png)
 
 Any changes you make to your notes in disroot notes app, or in the .txt file will appear in your Android device in the ownCloud Notes app and vice versa.

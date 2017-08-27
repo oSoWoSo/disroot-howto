@@ -5,7 +5,7 @@ page-toc:
   active: true
 ---
 
-The contact and calendar features in Disroot/Nexcloud are pretty cool but if you have your Disroot email connected in a email client like Thunderbird it's nice to have the contacts and calendars from Disroot integrated with Thunderbird and access them from one place on your desktop.
+The contact and calendar features in Disroot/Nexcloud are pretty cool but if you have your Disroot email connected to an email client like Thunderbird it's nice to have the contacts and calendars from Disroot integrated with Thunderbird aswell and access them from one place on your desktop.
 
 ---------
 
@@ -14,8 +14,8 @@ The contact and calendar features in Disroot/Nexcloud are pretty cool but if you
 
 In order to sync all your calendars, tasks and contacts to thunderbird, you will need to install those Add-ons:
 
-* Lightning (a calendar for Thunderbird)
-* So Go Connector (to sync you contacts)
+* **Lightning** - a calendar for Thunderbird
+* **SoGo Connector**  -to sync you contacts
 
 **Note!** Even if you just want to sync your contacts you will still need the lightning add-on. So says the Nextcloud manual [here](https://docs.nextcloud.com/server/9.0/user_manual/pim/sync_thunderbird.html)
 

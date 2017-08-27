@@ -6,7 +6,9 @@ page-toc:
 ---
 
 Nextcloud is disroot's core service and the main user interface we try to integrate with most of the apps we offer. In this little howto we would like to go through the basics of the interface explaining the main UI (User interface) concept, as well as some basic actions on files and personal settings.
-
+<br>
+<br>
+<br>
 ![](main1.png)
 
 ----------
@@ -17,10 +19,10 @@ The user experience across the entire cloud webapp is consistent and straight fo
 
 For the purpose of this howto we will name some of the blocks of the interface to help identify them later on:
 
- - 1.**Top bar** - is the blue bar on top with links to all the apps, chat, your personal settings, and currently launched on app name.
- - 2.**Left side-bar** - is where you can find Options, Filters, Settings etc.
- - 3.**Main window** - the main window of the application
- - 4.**Right side-bar** - pop-up that opens when certain actions are triggered (file information, advanced calendar event creation, etc)
+ - **Top bar** - is the bar on top with links to all the apps, your personal settings, currently launched and notifications.
+ - **Left side-bar** - is where you can find Options, Filters, Settings etc.
+ - **Main window** - the main application window
+ - **Right side-bar** - pop-up screen that opens when certain actions are triggered (file information, advanced calendar event creation, etc)
 
 To navigate to different apps, you simply click an icon on the topbar.
 
@@ -28,11 +30,12 @@ To navigate to different apps, you simply click an icon on the topbar.
 ----------
 
 # Personal Settings
-Lets start from looking at what can you setup and customize on your cloud account. Click on your name/avatar and choose **"Personal"** settings
+Lets start from looking at what can you setup and customize on your cloud account. Click on your avatar in top right corner and choose **"Personal"** settings (if you did not set avatar yet it's the 'gear' icon in top right cornet of the topbar).
 
 ![](main_personal.png)
 
-The settings are divided into sections. You can use quick links on the left-sidebar to get to them easily.
+The settings are divided into sections. You can use quick links on the *left-sidebar* to get to them easily.
+
 ## Personal Info
 Personal Info is the place where you can add various information about yourself, which then you can choose to share with others. You can additionally choose the access level you want this information to be "shared".
 
@@ -40,31 +43,33 @@ Personal Info is the place where you can add various information about yourself,
 
 And so:
 
-  - **Private** - You are the only person that can see the information
-  - **Local** - means this information will be viewable by other disroot accounts (only if they know your username)
+  - **Private** - You are the only person that can see this information
+  - **Local** - means this information will be view able by other disroot accounts (only if they know your username)
   - **Contacts** - means pretty much the same as Local but with the addition to have this information shared when sharing data with users on other nextcloud instances
   - **Public** - means the data will be sent to global address book (it can be viewed by anyone)
 
-You should pay extra attention when filling up this information (which is optional) and decide how much information about your self you want to reveal to the world
+You should pay extra attention when filling up this information *(which is optional)* and decide how much information about yourself you want to reveal to the world
+
 ## Groups and language
-Below you can see to which **groups** you belong to if any (by default disroot accounts are not associated with any group), and you can change your preferred language.
+Below you can see to which **groups** you belong to (if any). By default disroot accounts are not associated with any group.
+You you can also change your preferred language.
 
 ## Sessions
-Here you can see how many devices are currently connected to your account. If you see devices connected to your account that shouldn't be connected, it might mean your account has been compromised and you should proceed to change your password. *(Keep in mind every browser, mobile, computer etc. will be shown as separate device each time you change your network for example, so do not freak out at first, and really double check everything, before you go full on paranoid mode)*.
+Here you can see how many devices are currently connected to your account. If you see devices connected to your account that shouldn't be listed, it might mean your account has been compromised and you should proceed to change your password. *(Keep in mind every browser, mobile, computer etc. will be shown as separate device each time you change your network for example, so do not freak out at first, and really double check everything, before you go full on paranoid mode)*.
 
 
 ## Activity
-In activity section you can decide how you want to be informed about events going on on your cloud. You can choose between getting mail notification and / or being notified in the Activity stream (link that part of tutor) or even choose not to get notified at all. You can decide to have your email notifications sent to you on: Hourly, Daily or weekly basis.
+In activity section you can decide how you want to be informed about events going on on your cloud. You can choose between getting mail notification and / or being notified in the Activity stream, or even choose not to get notified at all. You can decide to have your email notifications sent to you on: **Hourly**, **Daily** or **weekly** basis.
 
 ![](personal_activity.png)
 
 ## Basic encryption module
-Here you can decide whether or not an administrator will be able to recover your files in case you loose your password. This option is disabled by default as it enables admins of disroot to decrypt and view your files. **Enabling this option after your password was lost will not recover your files!** You need to make this decision beforehand. **We strongly encourage you to never loose your password in the first place and keep it stored safe.** This is the best way to keep your files and your account safe.
+Here you can decide whether or not an administrator will be able to recover your files in case you loose your password. This option is disabled by default as it enables admins of disroot to decrypt and view your files. **Enabling this option after your password was lost will not recover your files!** You need to make this decision beforehand. **We strongly encourage you to never loose your password in the first place and keep it stored safe.** This is the best way to keep your files and your account safe. We really don't want to have access to it.
 
 ![](personal_encryption1.png)
 
 ## Federated cloud
-What is federated cloud? Just like emails that can be send between users on different servers (gmail, riseup, disroot etc) also nextcloud gives you opportunity to share files, contacts, calendars etc. with people outside of disroot that also use similar cloud solution (owncloud and / or nextcloud). This gives the freedom to the users to use platform of their choice while being able to collaborate with each other. In this section you can see your federation ID, you can share it with others by just sending a link or via predefined platforms (to which you can add your preferred ones that are not included).
+What is federated cloud? Just like emails that can be send between users on different servers (gmail, riseup, disroot etc) also nextcloud gives you opportunity to share files, contacts, calendars etc. with people outside of disroot that also use similar cloud solution (owncloud and / or nextcloud). This gives the freedom to the users to use platform of their choice while being able to collaborate with each other. In this section you can see your federation ID. You can share it with others by just sending a link or via predefined platforms (to which you can add your preferred ones that are not included of course).
 
 ![](personal_federated.png)
 
@@ -79,29 +84,30 @@ This option is used for two factor authentication which is not enabled at this m
 
 
 # FILES
-![](main_files_icon.png)
+
+
 The main task of the cloud is managing files. You can easily upload, download, share and comment.
 
-The left-sidebar let's you filter files based on certain criteria. Main window is your filebrowser you should be familiar with if you ever used computer before :P.
+The *left-sidebar* let's you filter files based on certain criteria. *Main window* is your file-browser. You should be familiar with it if you ever used computer before :P.
 
 ![](main_files.png)
 
 ## Create new file or directories
-To create new file, just click on **"+"** button and choose the type of file from the list. You can create directories as well as text files and pads (link to the howto).
+To create new file, just click on **"+"** button and choose the type of file from the list. You can create directories as well as text files and pads.
 
 ![](main_filles_add.gif)
 
 ## Upload files
 There are two ways to upload files.
 You can either do that by simply dragging files form your "computer" (file browser) onto the cloud webbrowser window.
-The other way is to use **"+"** icon and select "Upload a file" option.
+The other way is to use **"+"** icon and select "**Upload a file**" option.
 
 ![](main_files_upload.png)
 
 ## File Sharing
 Sharing files and directories is an essential part of any cloud storage service. You you can choose to share files with other disroot users, your entire group, but also with other users using owncloud/nextcloud on different platforms. You can also share with anyone out there via the public link option.
 
-To share a file or directory just click "sharing" right next to the name of the item you wish to share. A right-bar popup wind will show up with all the sharing options for you to choose from.
+To share a file or directory just click "*share icon*" right next to the name of the item you wish to share. A right-bar popup will show up with all the sharing options for you to choose from.
 
 ![](main_files_sharing_menu.png)
 
@@ -133,7 +139,7 @@ Clicking **"Three dot"** icon next to the filename or directory gives you extra 
 #Activities
 ![](main_activities_icon.png)
 
-When your account is getting busy, you start collaborating with many other users and groups, you might find **"Activities"** app very helpful. Here you have the general overview on all the events happening within your cloud account (file changes, comments, shares, contacts, todos, calendars etc).
+When your account is getting busy, you start collaborating with many other users and groups, you might find **"Activities"** app very useful. Here you have the general overview on all the events happening within your cloud account (file changes, comments, shares, contacts, todos, calendars etc).
 
 ![](main_activities_main.png)
 

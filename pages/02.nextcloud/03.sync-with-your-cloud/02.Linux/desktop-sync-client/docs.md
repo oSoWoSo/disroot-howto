@@ -5,16 +5,16 @@ page-toc:
   active: true
 ---
 
-Using the Nexcloud desktop client provides a way to sync your files stored in your Disroot cloud with a local folder in your desktop.<br>
-Meaning you can access/add/remove/edit the files in your Disroot account in your desktop without needing to log to your account via
-browser.
+Using the Nexcloud desktop client provides a way to sync your files stored in your Disroot cloud with a local folder on your desktop.
+Meaning you can access/add/remove/edit the files in your Disroot account on your desktop without needing to log to your account via
+web-browser.
 
 
 
 # Install Nexcloud app (client)
 
-If you don't have Nextcloud-client installed in your desktop yet you can see how to do it [here](https://nextcloud.com/install/#install-clients).
-For users of ubuntu or ubuntu based distros you can find better detailed instructions [here](https://www.c-rieger.de/how-to-install-nextcloud-desktop-client-for-ubuntu/).
+If you don't have Nextcloud-client installed on your desktop yet, you can see how to do it [here](https://nextcloud.com/install/#install-clients).
+For users of ubuntu or ubuntu based distributions you can find better detailed instructions [here](https://www.c-rieger.de/how-to-install-nextcloud-desktop-client-for-ubuntu/).
 Or compile from source as described [here](https://forum.disroot.org/t/cloud-howto-install-nextcloud-desktop-client-in-linux/636).
 
 # Add a new account

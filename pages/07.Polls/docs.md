@@ -96,4 +96,3 @@ Users of the poll can use the "comment section" in the bottom of the poll page t
 ![](polls9.gif)
 
 Users can see the results of the poll (if that option was enabled by the creator of the poll) beneath the list of people that voted, or by pressing the Display the Chart of the results.
----------------

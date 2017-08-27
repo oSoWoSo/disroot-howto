@@ -7,7 +7,7 @@ page-toc:
 
 Disroot has calendar, contacts and tasks apps enabled.
 
-In this tutorial we'll show you how to setup and use your disroot calendar, contacts and tasks in your Android device.
+In this tutorial we'll show you how to setup and use your disroot calendar, contacts and tasks on your Android device.
 To do this you will need to install the DAVdroid app and Open Tasks in Android.
 For Open Tasks to work it will need DAVdroid to also be installed, but if you just want to sync your calendar or contacts you don't need to install Open Tasks.
 
@@ -16,6 +16,7 @@ For Open Tasks to work it will need DAVdroid to also be installed, but if you ju
 # Install DAVdroid
 ## From appstore
 DAVdroid Is available on your favorite app store. We encourage you to use [F-Droid](https://f-droid.org/).
+
 ## From NextcloudApp
 If you have nextcloud mobile app installed and linked to your disroot cloud you can install it from there:
  - Open Nextcloud Android App
@@ -42,7 +43,7 @@ Select "login with url and username", and put server address and credentials
 
 ![](nextcloud_davdroid2.jpeg)
 
-After you setup your account you need to select which calendars and address books you want to sync from disroot to your android device.
+After you setup your account, you need to select which calendars and address books you want to sync from disroot to your android device.
 Press the big orange button with the account name.
 
 ![](nextcloud_davdroid3.jpeg)
