@@ -16,11 +16,11 @@ title: iOS mail client
 
 4. Insert your credentials and click 'Next'.
 
-![](ios_mail3.PNG)
+![](ios_mail4.PNG)
 
 5. Change the hostname to disroot.org, both for incoming and outgoing mail server.
 
-![](ios_mail3.PNG)
+![](ios_mail5.PNG)
 
 Click 'Next' and your account should be ready to use within you iOS email client.
 ios_mail1.PNG
