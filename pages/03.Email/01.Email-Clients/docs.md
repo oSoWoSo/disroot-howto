@@ -1,5 +1,5 @@
 ---
-title: Email Clients
+title: How to setup Email Clients
 ---
 
 This section is dedicated to get you off the stupid webmail crap and onto truly productive, native experience on your device.
