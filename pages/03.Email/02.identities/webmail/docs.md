@@ -16,5 +16,5 @@ You can manage default identity, by simply dragging the identity to the top of t
 ![](identity_default.gif)
 
 ## Send email
-To send email with your new alias, just click on the **"Form"** field and select alias you want to use from the dropdown menu, when composing your mail.
+To send email with your new alias, just click on the **"From"** field and select alias you want to use from the dropdown menu, when composing your mail.
 ![](identity_send.gif)
