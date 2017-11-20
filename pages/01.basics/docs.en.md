@@ -17,4 +17,4 @@ contact us or write a revision yourself. As you probably noticed, we use **git**
 If you are not familiar with git, you can submit changes via etherpad or email. Soon we will produce a simple git howto on git (or at least link to one) to get all the interested people onboard.
 
 
-![](disroot_logo.png)
+![](en/disroot_logo.png)

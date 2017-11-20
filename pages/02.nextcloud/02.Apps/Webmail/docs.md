@@ -10,12 +10,12 @@ Syncing cloud contacts with Webmail is very easy. It will permit contacts from y
 First go to your Nexcloud contacts app. Click on the settings icon in the lower left corner.
 Select "Show URL" option of the addressbook you would like to sync with webmail, and copy the given link.
 
-![](webmail_import_contacts1.png)
+![](en/webmail_import_contacts1.png)
 
 
 Now go to Webmail app, and click on the settings icon (top right in the webmail app)
 
-![](webmail_import_contacts2.png)
+![](en/webmail_import_contacts2.png)
 
 In your settings, on the left side bar select: **Contacts**
 When in the contacts menu:
@@ -25,6 +25,6 @@ When in the contacts menu:
 3. Provide your username
 4. Add your password
 
-![](webmail_import_contacts3.png)
+![](en/webmail_import_contacts3.png)
 
 And then refresh both pages. Now your contacts will stay in sync.
