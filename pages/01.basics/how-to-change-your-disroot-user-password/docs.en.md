@@ -1,11 +1,16 @@
 ---
 title: 'How to change your disroot user password'
+published: true
 visible: true
+taxonomy:
+    category:
+        - docs
+
 ---
 
 First you need to log in to the **Self Service Center** at https://user.disroot.org and choose to **change password**.
 
-Once you changed your password in the Self Service Center you will need to make sure to change your encryption key in **Nextcloud**, since all your files in ownCloud are encrypted with a key that is generated from your password. 
+Once you changed your password in the Self Service Center you will need to make sure to change your encryption key in **Nextcloud**, since all your files in ownCloud are encrypted with a key that is generated from your password.
 1. Go to https://cloud.disroot.org and log in with your new password.
 You will see a yellow message on top of the page:
 `Invalid private key for Encryption App. Please update your private key password in your personal settings to recover access to your encrypted files.`

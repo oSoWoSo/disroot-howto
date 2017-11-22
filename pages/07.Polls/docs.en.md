@@ -2,6 +2,11 @@
 title: Polls
 page-toc:
   active: true
+published: true
+taxonomy:
+    category:
+        - docs
+
 ---
 
 Disroot polls is an online service for appointment planning and decision making.

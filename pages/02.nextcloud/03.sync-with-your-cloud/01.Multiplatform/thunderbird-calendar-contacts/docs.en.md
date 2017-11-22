@@ -3,6 +3,10 @@ title: 'Thunderbird - Syncing Contacts, Calendars and Tasks'
 visible: false
 page-toc:
   active: true
+published: true
+taxonomy:
+    category:
+        - docs
 ---
 
 The contact and calendar features in Disroot/Nexcloud are pretty cool but if you have your Disroot email connected to an email client like Thunderbird it's nice to have the contacts and calendars from Disroot integrated with Thunderbird aswell and access them from one place on your desktop.

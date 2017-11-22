@@ -3,6 +3,10 @@ title: 'MacOS - Syncing Contacts'
 visible: false
 page-toc:
   active: true
+published: true
+taxonomy:
+    category:
+        - docs
 ---
 
 _This tutorial was last updated on 11 feb. 2017_

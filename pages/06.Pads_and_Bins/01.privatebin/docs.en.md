@@ -1,7 +1,12 @@
 ---
-title:
+title: PrivateBin
 page-toc:
   active: true
+published: true
+visible: true
+taxonomy:
+    category:
+        - docs
 ---
 Disroot provides PrivateBin as a service. A minimalist, open-source online pastebin and discussion board with zero knowledge. Meaning nor server and it's administrators can decrypt the content of the paste.
 

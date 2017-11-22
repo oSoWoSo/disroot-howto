@@ -2,6 +2,10 @@
 title: Thunderbird.
 page-toc:
   active: true
+published: true
+taxonomy:
+    category:
+        - docs
 ---
 Thunderbird is a powerful open-source email client, calendar and RSS-Feed manager.
 
