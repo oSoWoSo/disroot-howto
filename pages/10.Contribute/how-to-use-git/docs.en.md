@@ -1,11 +1,11 @@
 ---
 title: How to Use Git to contribute to disroot howtos
 published: true
+visible: true
 taxonomy:
     category:
         - docs
 ---
-# How to Use Git to contribute to disroot howtos
 
 This article will try to explain the basics of using git to contribute to translations as well as submitting new tutorials.
 
