@@ -6,13 +6,16 @@ taxonomy:
         - docs
 ---
 
-# Bienvenidos a los Manuales de **Disroot**.
+# Welcome to **Disroot** Howto pages.
 
-Este sitio está dedicado a manuales y tutoriales para orientarte a través de los varios servicios de Disroot.
+This site is dedicated to Howtos and tutorials to help you find your way around the various Disroot services.
 
-Nuestra idea es cubrir todos los servicios provistos por Disroot, con sus características, para todas las plataformas y Sistemas Operativos que hay. Es un proyecto muy ambicioso que requiere de mucho trabajo. Sin embargo, creemos que beneficiará no sólo a los disrooters sino a toda la comunidad de Código Abierto que corre el mismo software o similar.
+Our idea is to cover all the services with all it's features provided by disroot, for all platforms and Operating System out there. It's very ambitious project that requires a lot of work. However we believe it will benefit not only disrooters but entire Open Source community that runs same or similar software.
 
-Para cubrir todos los aspectos de cada servicio y mantenerlos constantemente al día, necesitamos toda la ayuda de los disrooters. Así que si sientes que está faltando un tutorial, o que la información no es precisa, por favor, siéntete libre de contactarnos o escribir una revisión tú mismo. Como probablemente hayas notado, usamos **git** así que sólo haz una petición en nuestro repositorio. Si no estás familiarizado con git, puedes enviar cambios vía etherpad o email. Pronto generaremos un simple manual de git en git (o al menos un link a uno) para tener a toda la gente interesada a bordo.
+In order to cover all the aspects of each service and constantly keep it up to date, we need help of all disrooters. So if you feel you are missing a tutorial, or that the information is not accurate- please feel free to
+contact us or write a revision yourself. As you probably noticed, we use **git** so just submit pull request to our repository.
+If you are not familiar with git, you can submit changes via etherpad or email. Soon we will produce a simple git howto on git (or at least link to one) to get all the interested people onboard.
+
 
 
 ![](en/disroot_logo.png)
