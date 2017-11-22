@@ -72,10 +72,23 @@ To commit your changes need to:
  - Press push
 
 # Merge request
-Once you think your work is finished and ready to be published on the website, its time to merge it to the **master branch**. First of course you need to make sure all the changes are commited
+Once you think your work is finished and ready to be published on the website, its time to merge it to the **master branch**.
+
+- First of course you need to make sure all the changes are commited.
+- Login to https://git.fosscommunity.in
+- if you pushed any changes to the server on your branch, in the top right you will see **"Create Merge Request"** button
+- This will open Merge request form.
+- Add title
+- Add descripton
+- make sure **source branch** is the one you want to merge form (one you worked on)
+- make sure **target branch** is the one you want to merge to (usually master branch)
+
+Once you created merge request, it will be reviewed by Disroot admins. Admins can then aprove your commit which means it will be merged with the master branch and therefor visible on the website or request you to correct something. Once all the corrections are made and Disroot *"overlords"* are satified, your merge request will be pulled to the master.
 
 # Pulling changes from the server
-If you want to keep the local **master** branch and your local branched up to date, you need to pull changes from the server.
+If you want to keep the local **master** branch and your local branched up to date, you need to pull changes from the server. Each time someones gets his merge request pulled in to the master, everyone should also pull the changes to their local branches. Then you can easily see what's new and what has changed recently. On the master branch we keep a file called "CHANGELOG" where we note all significant changes to Howtos.
+Pulling should be done on regular basis (specially before you start working on new branch).
+
  - Open push / pull popup window
  - Press **pull**
 
