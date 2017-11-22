@@ -1,5 +1,10 @@
 ---
 title: SailfishOS
+published: true
+visible: true
+taxonomy:
+    category:
+        - docs
 ---
 
 1. **Open Settings** app and scroll all the way down to "**Accounts**"

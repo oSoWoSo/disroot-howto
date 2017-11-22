@@ -35,6 +35,11 @@ Once the repository is copied to your harddrive you will see a `howto` directory
 
 You can move that directory later to any place on your harddrive you wish.
 
+# Request access to howto git repository
+In order to be able to commit changes to disroots git repository, you need to request access. Once admins grant you the access, you can push your changes to the server (note that you can start working without access granted as all the changes happen on your local computer).
+
+![](git-request_access.png)
+
 # Now the work can begin.
 Now you can start Atom and `Open Folder` that you just cloned (*howto*). The interface of Atom is clean and easy to understand. The left sidebar is your project's navigation tree, the middle window is where you edit files and bottom bar indicates number of changed files, current branch, quick pull/push to git.
 
