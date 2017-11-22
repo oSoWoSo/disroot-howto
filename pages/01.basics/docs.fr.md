@@ -8,7 +8,7 @@ taxonomy:
 
 # Bienvenue sur les pages "Comment faire" de **Disroot**.
 
-Ce site est dédié à des pages indiquant comment faire, ainsi qu'à des tutoriels pour vous aider à trouver votre chemin dans les différents services Disroot.
+Ce site est dédié à des guides et des tutoriels pour vous aider à trouver votre chemin dans les différents services Disroot.
 
 Notre idée est de couvrir tous les services avec toutes les fonctionnalités fournies par disroot, pour toutes les plateformes et systèmes d'exploitation. C'est un projet très ambitieux qui demande beaucoup de travail. Cependant, nous pensons qu'il bénéficiera non seulement aux disrooters mais aussi à toute la communauté Open Source qui utilise des logiciels identiques ou similaires.
 
