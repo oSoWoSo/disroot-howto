@@ -122,7 +122,7 @@ Para esta última opção (se tiver um cliente de email na sua máquina ex: Thun
 
 ![](pt/lufi3.gif)
 
-**A opção** ![](en/lufi06.png?resize=180,25) **não deve ser usada por uma questão de princípio.**
+**A opção** ![](en/lufi06.png?resize=180,25)  **não deve ser usada por uma questão de princípio.**
 
 A rasão é, se você utilizar esta opção, o link será enviado utilizando um email do fornecedor do Lufi e não o seu email pessoal. O que quer dizer que os administradores dessa instância do Lufi conseguem ver o link completo e assim descarregar e desencriptar o ficheiro se quiserem.
 
