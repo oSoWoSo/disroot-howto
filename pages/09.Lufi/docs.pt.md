@@ -110,7 +110,7 @@ Para descarregar o ficheiro basta colocar o link no seu browser:
 ----------
 
 
-###Como partilhar um ficheiro<a name="spampeople"></a>
+### Como partilhar um ficheiro<a name="spampeople"></a>
 
 Bem isto é bastante simples, você pode:
 
