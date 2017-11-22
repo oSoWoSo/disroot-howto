@@ -1,5 +1,5 @@
 ---
-title: Basics
+title: Notions de base
 published: true
 taxonomy:
     category:
