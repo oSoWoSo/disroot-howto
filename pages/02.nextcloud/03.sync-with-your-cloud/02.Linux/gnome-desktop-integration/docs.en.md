@@ -3,6 +3,10 @@ title: 'GNOME - Desktop Integration'
 visible: false
 page-toc:
   active: true
+published: true
+taxonomy:
+    category:
+        - docs
 ---
 
 ----------

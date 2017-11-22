@@ -2,6 +2,11 @@
 title: Riot/Matrix - Basic usage
 page-toc:
   active: true
+published: true
+visible: true
+taxonomy:
+    category:
+        - docs
 ---
 
 

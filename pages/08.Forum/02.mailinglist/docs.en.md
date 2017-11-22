@@ -2,6 +2,11 @@
 title: Using Forum as a mailinglist
 page-toc:
   active: true
+published: true
+visible: true
+taxonomy:
+    category:
+        - docs
 ---
 In this tutorial we will show how Discourse can be used as a mailinglist for Collectives/Associations/Projects.
 

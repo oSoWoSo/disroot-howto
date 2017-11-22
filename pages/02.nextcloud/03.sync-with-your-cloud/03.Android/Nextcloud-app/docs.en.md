@@ -3,6 +3,10 @@ title: 'Nextcloud App'
 visible: false
 page-toc:
   active: true
+published: true
+taxonomy:
+    category:
+        - docs
 ---
 
 

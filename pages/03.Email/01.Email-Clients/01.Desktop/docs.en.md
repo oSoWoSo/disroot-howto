@@ -1,5 +1,10 @@
 ---
 title: 'Desktop clients'
+published: true
+visible: true
+taxonomy:
+    category:
+        - docs
 ---
 
 How to setup your email on your desktop:

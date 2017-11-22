@@ -1,5 +1,10 @@
 ---
 title: Setup Mail Alias on your Android phone (K9)
+published: true
+visible: false
+taxonomy:
+    category:
+        - docs
 ---
 
 ## Setup

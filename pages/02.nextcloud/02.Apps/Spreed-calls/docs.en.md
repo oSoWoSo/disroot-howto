@@ -1,6 +1,11 @@
 ---
 title: 'Calling with Spreed'
+published: true
 visible: true
+taxonomy:
+    category:
+        - docs
+
 ---
 
 Since January 2017 we've introduced spreed calls to our cloud. It's very simple audio/video conference app you can use to communicate not only with other disroot users but with anyone who has a computer connected to the internet and up to date web browser supporting WebRTC technology.

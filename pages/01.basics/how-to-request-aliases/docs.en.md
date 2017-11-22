@@ -1,6 +1,11 @@
 ---
 title: How to request email Alias
+published: true
 visible: true
+taxonomy:
+    category:
+        - docs
+
 ---
 
 Aliases are available for regular supporters. By regular supporters we mean those who "buy" us at least one cup of coffee a month.

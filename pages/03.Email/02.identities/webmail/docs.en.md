@@ -1,5 +1,10 @@
 ---
 title: Setup Mail Alias on webmail
+published: true
+visible: false
+taxonomy:
+    category:
+        - docs
 ---
 
 ## Setup

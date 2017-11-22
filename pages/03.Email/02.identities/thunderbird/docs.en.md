@@ -1,5 +1,10 @@
 ---
 title: Setup mail alias on Thunderbird
+published: true
+visible: false
+taxonomy:
+    category:
+        - docs
 ---
 
 ## Setup

@@ -1,6 +1,11 @@
 ---
 title: 'How to delete your disroot account'
+published: true
 visible: true
+taxonomy:
+    category:
+        - docs
+
 ---
 
 To delete your Disroot account you just need to fill in the [delete account request form](https://disroot.org/forms/delete-account-form)

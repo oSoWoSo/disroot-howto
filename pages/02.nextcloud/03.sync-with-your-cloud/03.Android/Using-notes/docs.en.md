@@ -3,6 +3,10 @@ title: 'Using Notes'
 visible: false
 page-toc:
   active: true
+published: true
+taxonomy:
+    category:
+        - docs
 ---
 
 In this tutorial we'll show you how to setup and use your disroot notes in your Android device.

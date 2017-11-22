@@ -1,6 +1,10 @@
 ---
 title: 'User Interface basics'
+published: true
 visible: true
+taxonomy:
+    category:
+        - docs
 page-toc:
   active: true
 ---

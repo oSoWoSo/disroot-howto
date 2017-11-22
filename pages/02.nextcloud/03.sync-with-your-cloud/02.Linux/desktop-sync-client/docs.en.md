@@ -3,8 +3,11 @@ title: 'Desktop File-sync client'
 visible: false
 page-toc:
   active: true
+published: true
+taxonomy:
+    category:
+        - docs
 ---
-
 Using the Nexcloud desktop client provides a way to sync your files stored in your Disroot cloud with a local folder on your desktop.
 Meaning you can access/add/remove/edit the files in your Disroot account on your desktop without needing to log to your account via
 web-browser.

@@ -1,5 +1,10 @@
 ---
 title: SailfishOS mail client
+published: true
+visible: false
+taxonomy:
+    category:
+        - docs
 ---
 
 Setting up disroot mail on SailfishOS is very easy. Just follow those simple steps. (it took longer to make those fancy screenshots :P )

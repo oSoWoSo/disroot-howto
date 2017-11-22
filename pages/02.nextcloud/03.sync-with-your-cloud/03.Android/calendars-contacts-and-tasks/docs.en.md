@@ -3,6 +3,10 @@ title: 'calendars, contacts and tasks'
 visible: false
 page-toc:
   active: true
+published: true
+taxonomy:
+    category:
+        - docs
 ---
 
 Disroot has calendar, contacts and tasks apps enabled.

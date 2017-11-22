@@ -1,5 +1,10 @@
 ---
 title: iOS mail client
+published: true
+visible: false
+taxonomy:
+    category:
+        - docs
 ---
 
 1. Open up the setting of your iOS device and go to 'Mail, Contacts, Calendars'. Then select 'Add Account'.
