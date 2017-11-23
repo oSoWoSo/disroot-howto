@@ -22,26 +22,26 @@ Para criar uma conta de utilizador, basta ir a https://git.fosscommunity.in e re
 Como todo o trabalho será feito no seu computador, necessita de [instalar o git](https://gist.github.com/derhuerst/1b15ff4652a867391f03) no seu computador para poder enviar as suas alterações e poder receber as alterações feitas por outros. A maneira de instalar o git pode variar consoante o seu sistema operativo. Por isso consulte o link acima referido ou procure a documentação referente a como instalar o git no seu sistema operativo.
 
 # Instalar o editor de texto Atom
-If you haven't yet, it's time to install [Atom](https://atom.io). Atom is a feature rich text editor with special git integration. If your Operating system is not automatically detected or listed when going to [Atoms](https://atom.io) website, check [Other platfroms](https://github.com/atom/atom/releases/latest). For all Arch users, you can simply install it using `pacman -S atom` or other package manager of your choice.
+Casa ainda não o tenhas feito deves instalar o [Atom](https://atom.io). O Atom é um editor de texto que tem integração com o git. Caso o teu sistema operativo não seja automáticamente detetado quando visitares o site [Atoms](https://atom.io) vê o link [Other platfroms](https://github.com/atom/atom/releases/latest). Para os utilzadores do Arch Linux, podem instalar o o git usando `pacman -S atom` ou outro gestor de pacotes à vossa escolha.
 
-# Clonning repository
-Git is created with collaboration in it's core. First thing we need to do is get a copy of all files within the project (git repository) onto your local harddrive. All modifications are done on your local machine (you work offline). Only when you decide, the changes (new tutorial, translation) are finished you can decide to sent/sync (push) them back to the repository on the server.
+# Clonar o repositório
+O Git foi criado tendo como objetivo a colaboração entre pessoas. Antes de mais precisas de descarregar uma cópia de todos os ficheiros do projeto (repositório git) para o teu computador. Todas as modificações são feitas localmente no teu computador (podes trabalhar offline). Quando achares que as alterações (novos tutoriais, traduções) estão completos podes decidor enviar/sincronizar (push) com o repositório que está alojado no servidor.
 
-The easiest way to clone the repository is opening your terminal, navigating to the directory you would like to clone the repository to, and run `git clone <url>` command, where *<url>* is basically the address of the repository you want to clone. In our case it would be:
+A maneira mais fácil de clonar um repositório é: abrir o terminal (linha de comandos), navegar até ao directório/pasta para onde queres clonar/descarregar o repositório e correr o comando `git clone <url>`, onde está *<url>* deves colocar o endereço URL do repositório que queres clonar/descarregar. No nosso caso concreto é:
 
 `git clone https://git.fosscommunity.in/disroot/howto`
 
-Once the repository is copied to your harddrive you will see a `howto` directory that consists all the file you could previously browse in your webbrowser when on our repository's url.
+Uma vez que o repositório esteja colando para o teu computador irás ver uma pasta chamada `howto` que contém todos os ficheiros, que viste no teu browser de Internet quando visitaste o endereço do projeto/repositório.
 
-You can move that directory later to any place on your harddrive you wish.
+Mais tarde podes mover essa pasta para qualquer outra parte do teu computador que prefiras.
 
-# Request access to howto git repository
-In order to be able to commit changes to disroots git repository, you need to request access. Once admins grant you the access, you can push your changes to the server (note that you can start working without access granted as all the changes happen on your local computer).
+# Pedir acesso ao repositório git
+Para poderes submeter alterações no repositório git online do disroot, primeiro necessitas de pedir acesso ao repositório. Assim que os administradores de dêem acesso, pode começar a submeter/enviar as tuas alterações para o repositório online (é possível começar a trabalhar localmente no teu computador sem ainda ter sido concedido acesso ao repositório online, as alterações que fizeres apenas serão feitas localmente nos ficheiros que estão no teu computador).
 
-![](en/git-request_access.png)
+![](pt/git-request_access.png)
 
-# Now the work can begin.
-Now you can start Atom and `Open Folder` that you just cloned (*howto*). The interface of Atom is clean and easy to understand. The left sidebar is your project's navigation tree, the middle window is where you edit files and bottom bar indicates number of changed files, current branch, quick pull/push to git.
+# Agora o trabalho pode começar.
+Agora podes abrir o Atom e Now you can start Atom and `Open Folder` that you just cloned (*howto*). The interface of Atom is clean and easy to understand. The left sidebar is your project's navigation tree, the middle window is where you edit files and bottom bar indicates number of changed files, current branch, quick pull/push to git.
 
 ![](en/atom1.png)
 
