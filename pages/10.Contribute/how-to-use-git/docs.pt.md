@@ -9,19 +9,19 @@ taxonomy:
 
 Este artigo tentará explicar princípios base sobre como utilizar o git para poder contribuir para as traduções, bem como criar e submeter novos manuais/toturiais.
 
-In order to follow all the changes and work with multiple people at the same time, we have chosen to use **git** as our version control system. Git is very popular tool among developers and system administrators but it's features can be easily applicable everywhere where history of changes and ability to submit content and collaborate in a group is required.
+De modo a poder acompanhar todas as alterações e poder trabalhar com várias pessoas ao mesmo tempo, nós escolhemos utilizar o **git** como o nosso sistema de controlo de versões. O Git é uma ferramenta muito popular entre programadores e administradores de sistemas, mas as suas funcionalidades podem ser fácilmente aplicáveis em qualquer contexto onde seja necessário a possibilidade de submeter conteúdos e trabalhar em equipa.
 
+Neste guia, não vamos cobrir todas as funcionalidades do git. É uma ferramenta bastante complexa e poderosa, com um montão de toturiais/manuais/guias já escritos sobre como funcionam essas funcionalidades. O que queremos com este guia sobre git é mostrar de uma maneira curta como contribuir de um modo simples para traduções e manuais/guias.
 
-In this tutorial we will not cover all the aspects of using git. It's very complex and powerfull tool with tons of in-depth tutorials and books written about it. What we are aiming at is providing as short and easy way to contribute to tutorials and translations.
+# Como criar uma conta de utilizador num serviço de Git
+Antes de mais é necessário criar uma conta de utilizador no serviço de git utilizado pelo disroot.org.
+Infelizmente o git não é um serviço federado, por isso é necessarío criar uma conta de utilizador. Nós alojamos todo o nosso trabalho na instancia de Gitlab dos nossos amigos da **FOSS Community India**.
+Para criar uma conta de utilizador, basta ir a https://git.fosscommunity.in e registar-se. Para além de registar uma nova conta, pode escolher utilizar como metodo de autenticação, o gitlab.com, github, twitter, gitbucket, google caso já tenha uma conta numa dessas plataformas.
 
-# How to Create account on git instance
-First of you need an account on the git instance used by disroot.org. Unfortunately git is not yet a federated service so you need to have a account. Thanks to our friends at **FOSS Community India** we host all our work on their gitlab instance.
-To create an account just go over to https://git.fosscommunity.in and register. Additionally to registering new account you can choose to use one of the ID providers such as gitlab.com, github, twitter, gitbucket, google given you have already an account on one of those platforms.
+# Instalar o Git
+Como todo o trabalho será feito no seu computador, necessita de [instalar o git](https://gist.github.com/derhuerst/1b15ff4652a867391f03) no seu computador para poder enviar as suas alterações e poder receber as alterações feitas por outros. A maneira de instalar o git pode variar consoante o seu sistema operativo. Por isso consulte o link acima referido ou procure a documentação referente a como instalar o git no seu sistema operativo.
 
-# Installing Git
-Since all the modifications will happen on your local machine, you need to [install git](https://gist.github.com/derhuerst/1b15ff4652a867391f03) to be able to send your changes as well as sync changes of others. Depending on your platform the ways to install git may vary so check the link above or refer to your platform specific documentation.
-
-# Installing Atom editor
+# Instalar o editor de texto Atom
 If you haven't yet, it's time to install [Atom](https://atom.io). Atom is a feature rich text editor with special git integration. If your Operating system is not automatically detected or listed when going to [Atoms](https://atom.io) website, check [Other platfroms](https://github.com/atom/atom/releases/latest). For all Arch users, you can simply install it using `pacman -S atom` or other package manager of your choice.
 
 # Clonning repository
