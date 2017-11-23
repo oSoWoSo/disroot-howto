@@ -91,7 +91,7 @@ Pode verificar esta informação sempre que quiser carregando no botão ![](en/l
 
 ----------
 
-###Como carregar ou descarregar um ficheiro<a name="upadndown"></a>
+### Como carregar ou descarregar um ficheiro<a name="upadndown"></a>
 
 Para carregar um ficheiro escolha as opções que quer (se o ficheiro é apagado após a primeira descarga ou não e quantos dias permanece online) e carregue em "click to open the file browser" no centro do ecrã, navegue até ao seu ficheiro e selecione-o, ou então arraste o ficheiro para o centro do ecrã.
 
@@ -132,7 +132,7 @@ Neste caso concreto o disroot é um fornecedor respeitador da privacidade, mas p
 
 ----------
 
-##Como gerir/apagar os seus uploads<a name="links"></a>
+### Como gerir/apagar os seus uploads<a name="links"></a>
 
 Você pode gerir os seus uploads carregando em ![](en/lufi07.png?resize=60,40) no painel principal.
 
