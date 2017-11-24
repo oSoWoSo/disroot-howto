@@ -68,48 +68,49 @@ Esta opção é boa caso tenha informação que não deve ser pública ou difund
 
 ----------
 
-# Definir a data de expiração do teu paste
+# Definir a data de duração do teu paste
 
-Definir uma data de expiração (uma data depois da qual o teu paste é apagado) é bastante fácil. Basta carregar no botão *"expires"* e escolher em quanto tempo queres que o teu paste seja apagado:
+Definir uma data de duração (uma data depois da qual o teu paste é apagado) é bastante fácil. Basta carregar no botão *"expires"* e escolher em quanto tempo queres que o teu paste seja apagado:
 
 ![](en/privatebin04.gif)
 
 ----------
-# Discussion board
+# Discussão/Comentários
 
-PrivateBin features a Discussion board that can be used by anyone that receives the URL link of the paste. It's very easy to enable the Discussion Board, just select *"open discussion"* ![](en/privatebin05.png?resize=151,41) when you are creating your paste.
+Uma das funcionalidades do PrivateBin é a possibilidade de ter comentários nos pastes. Esta funcionalidade de comentários pode funcionar como um fórum, que pode ser usado por todas as pessoas que receberem o link URL do paste. É bastante simples ativar os comentários, basta selecionar a opção *"open discussion"* ![](en/privatebin05.png?resize=151,41) quando estás a criar o teu paste.
 
-When you and people that receive the link open it you will see comments and be able to add yours just like a typical forum/chat:
+Quando tu, ou as pessoas que receberem o link o abrirem, verão todos os comentários como num fórum/chat normal:
 
 ![](en/privatebin06.png)
 
-from there you can write a message and others can reply to it.
+e a partir daí podem escrever mensagens e as outras pessoas podem responder às tuas mensagens.
 
 ![](en/privatebin05.gif)
 
 
 
-**Note:**
-This is not a Instant Message system where a reply appears automatically. To see a reply you may need to refresh your page.
-This is a very simple and basic discussion board that you can use to communicate in a more private way with others. Noone excpet people you shared the link with (not even system administrators of disroot) will be able to read your discussion. After set expiry, the entire conversation will be erased leaving no trace of it.
+**Nota:**
+Isto não é um serviço de Mensagens Instantâneas onde as respostas de outras pessoas aparecem automáticamente. Para veres uma resposta pode ser necessário teres que recarregar a página.
+Isto é um fórum/chat bastante simples e básico que podes usar para comunicar de um modo mais privado com outras pessoas. Apenas as pessoas com quem partilhou o link do paste poderão lêr a discissão/conversa (nem sequer os administradores do Disroot).  Depois de o paste expirar, toda a conversa será apagada sem deixar rasto.
 
 ----------
-# Using PrivateBin as a disposable discussion board
+# Usar o PrivateBin como um Fórum descartável
 
-Like mentioned above PrivateBin features a discussion board. If you add to this the "set expiration date" option to delete your paste after some time, then you have the equivalent to a disposable discussion board that you can use with other people to communicate.
+Como referido em cima, o PrivateBin têm funcionalidades de comentários e resposta. Se a esta opção adicionares num paste a opção de data de duração ("Expires") para apagar o teu paste ao fim de algum tempo, então tens o equivalente a um Fórum descartável que podes usar para comunicar com outras pessoas.
 
-Since PrivateBin works in a logic of zero knowledge the pastes are encrypted so that the server and it's administrators don't know it's content, only the people the have the URL link.
-When the expiration date is reached the paste along with the conversation will be destroyed.
+Como o PrivateBin funciona numa lógica de "conhecimento zero", os pastes estão encriptados de modo a que os administradores do disroot e o servidor não consigam ver o conteúdo dos pastes, apenas as pessoas que tem o link URL.
+Quando o paste chega á data de duração estabelecida, o paste será destruido juntamente com a conversa/discussão.
 
-To do this just select the options "open discussion" ![](en/privatebin07.png?resize=151,41) and "Expires" when creating a paste.
+Para fazer isto seleciona a opção "open discussion" ![](en/privatebin07.png?resize=151,41) e "Expires" quando estás a criar um paste.
 
 ![](en/privatebin06.gif)
 
-Set the expiration date to a realistic time so that the paste isn't deleted in the middle of the conversation.
+Selecione o tempo de duração do paste para algo realista, de modo a que o paste não seja apagado a meio da conversa.
 
 ----------
 
-# Protect Paste with a password
-This is pretty easy. Just write a password in the password field in the paste. When someone opens the link with the paste, that person will be prompted to type the password to unlock the Paste.
+# Proteger um Paste usando uma palavra-passe
+
+Isto é bastante simples. Basta escrever uma  palavra-passe que queira no campo "password" quando está a criar um paste. Quando alguém abre o link, aparecerá o campo a pedir a palavra-passe para poder aceder ao paste.
 
 ![](en/privatebin07.gif)
