@@ -8,15 +8,15 @@ taxonomy:
     category:
         - docs
 ---
-O Disroot forneçe como serviço o PrivateBin. Uma ferramente open-source minimalista de pastebin e fórum de discussão, que funciona na lógica de "conhecimento zero". O que significa que nem os administradores do serviço conseguem desencriptar o conteúdo do paste.
+O Disroot fornece como serviço o PrivateBin. Uma ferramenta open-source minimalista de pastebin e fórum de discussão, que funciona na lógica de "conhecimento zero". O que significa que nem os administradores do serviço conseguem desencriptar o conteúdo do paste.
 
 Estas são algumas das coisas que podes fazer com o PrivateBin:
 
 * Partilhar rápidamente conteúdo de um texto, através de um link sem ter que fazer copy/paste de um pedaço grande de texto num email ou num chat
 * Publicar informação/documentos online para que outros possam aceder a eles
-* Usá-lo como um fórum descartável, atráves da sua funcionalidade de mensagens
-* Enviar a alguém informação, via um link URL, que precisa de ser "destruida depois de lida"
-* Enviar a alguém um uma cópia de um script ou de código de software, notas, ou infomração confidencial que tu não queres que sejam vistos por terceiros
+* Usá-lo como um fórum descartável, através da sua funcionalidade de mensagens
+* Enviar a alguém informação, via um link URL, que precisa de ser "destruída depois de lida"
+* Enviar a alguém um uma cópia de um script ou de código de software, notas, ou informação confidencial que tu não queres que sejam vistos por terceiros
 
 Neste tutorial vamos explicar como usar o PrivateBin. Podes aceder ao PrivateBin em [bin.disroot.org](https://bin.disroot.org)
 
@@ -57,12 +57,12 @@ Para criar um novo paste a seguir a isso carrega no botão *"new"* (novo)  ![](e
 # Lêr apenas uma vez
 Podes definir que o teu paste será apagado depois de ter sido lido pela primeira vez selecionando a opção **"Burn after reading"**  ![](en/privatebin03.png?resize=166,41)
 
-Quando a pessoa com quem partilhaste o paste quem enviaste o link carregar nele, o conteúdo do paste irá aprecer com a seguinte mensagem por cima: Apenas para ser visto por si. Não feche esta janela, esta mensagem não pode ser mostrada uma segunda vez
+Quando a pessoa com quem partilhaste o paste quem enviaste o link carregar nele, o conteúdo do paste irá aparecer com a seguinte mensagem por cima: Apenas para ser visto por si. Não feche esta janela, esta mensagem não pode ser mostrada uma segunda vez
 ![](en/privatebin04.png?resize=606,50)
 
 Se a pessoa que recebeu o link, o abrir numa nova janela do browser of recarregar a página, o conteúdo deixará de estar disponível.
 
-Esta opção é boa caso tenha informação que não deve ser pública ou difundida para enviar a uma passoa em particular.
+Esta opção é boa caso tenha informação que não deve ser pública ou difundida para enviar a uma pessoa em particular.
 
 ![](en/privatebin03.gif)
 
@@ -90,8 +90,8 @@ e a partir daí podem escrever mensagens e as outras pessoas podem responder às
 
 
 **Nota:**
-Isto não é um serviço de Mensagens Instantâneas onde as respostas de outras pessoas aparecem automáticamente. Para veres uma resposta pode ser necessário teres que recarregar a página.
-Isto é um fórum/chat bastante simples e básico que podes usar para comunicar de um modo mais privado com outras pessoas. Apenas as pessoas com quem partilhou o link do paste poderão lêr a discissão/conversa (nem sequer os administradores do Disroot).  Depois de o paste expirar, toda a conversa será apagada sem deixar rasto.
+Isto não é um serviço de Mensagens Instantâneas onde as respostas de outras pessoas aparecem automaticamente. Para veres uma resposta pode ser necessário teres que recarregar a página.
+Isto é um fórum/chat bastante simples e básico que podes usar para comunicar de um modo mais privado com outras pessoas. Apenas as pessoas com quem partilhou o link do paste poderão lêr a discussão/conversa (nem sequer os administradores do Disroot).  Depois de o paste expirar, toda a conversa será apagada sem deixar rasto.
 
 ----------
 # Usar o PrivateBin como um Fórum descartável
