@@ -58,7 +58,7 @@ Tem dois componentes:
 Se tentar usar apenas, [https://upload.disroot.org/r/FA7MHOOL](https://upload.disroot.org/r/FA7MHOOL)
 Sem a segunda parte, receberá esta mensagem:
 
-![](pt/lufi01.png)
+![](en/lufi01.png)
 
 
 
@@ -72,7 +72,7 @@ O interface é bastante simples, quando faz o upload de um ficheiro tem as segui
 
 Ao centro em cima no painel pode selecionar as opções acima mencionadas. No canto superior direito tem o menu para ir a "My files" e gerir os seus uploads. No centro é onde faz o upload dos seus ficheiros.
 
-![](pt/lufi02.png)
+![](en/lufi02.png)
 
 ----------
 
@@ -99,11 +99,11 @@ Depois do upload estar completo ser-lhe-á fornecido pelo seu browser o link (UR
 
 Também lhe será fornecido o link para apagar o ficheiro, que lhe permite apagar o ficheiro carregado a qualquer altura que queira.
 
-![](pt/lufi1.gif)
+![](en/lufi1.gif)
 
 Para descarregar o ficheiro basta colocar o link no seu browser:
 
-![](pt/lufi2.gif)
+![](en/lufi2.gif)
 
 
 
@@ -118,9 +118,9 @@ Bem isto é bastante simples, você pode:
 
 * enviar diretamente por email a partir do Lufi
 
-Para esta última opção (se tiver um cliente de email na sua máquina ex: Thunderbird, Evolution, etc.), basta carregar no botão ![](pt/lufi04.png?resize=200,30) após o seu ficheiro ser carregado com sucesso. Escreva o endereço de email e o texto e carrege em  ![](pt/lufi05.png?resize=280,30). O seu cliente de email irá aparecer com o email pronto a enviar.
+Para esta última opção (se tiver um cliente de email na sua máquina ex: Thunderbird, Evolution, etc.), basta carregar no botão ![](en/lufi04.png?resize=200,30) após o seu ficheiro ser carregado com sucesso. Escreva o endereço de email e o texto e carrege em  ![](en/lufi05.png?resize=280,30). O seu cliente de email irá aparecer com o email pronto a enviar.
 
-![](pt/lufi3.gif)
+![](en/lufi3.gif)
 
 **A opção** ![](en/lufi06.png?resize=180,25)  **não deve ser usada por uma questão de princípio.**
 
@@ -152,7 +152,7 @@ Se você quiser, neste painel também pode:
 
 * Importar para a memória do seu browser um ficheiro json com as informações acerca de uploads e os respetivos links
 
-![](pt/lufi4.gif)
+![](en/lufi4.gif)
 
 Outra maneira de apagar um ficheiro do servidor em qualquer altura que queira é usar o link para apagar o ficheiro que lhe foi fornecido quando o ficheiro foi carregado. Copie esse link e guarde-o num ficheiro de texto para quando o quiser utilizar.
 Para o usar basta colocar o link no browser e carregar em Enter.

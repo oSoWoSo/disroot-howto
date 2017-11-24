@@ -38,12 +38,12 @@ Mais tarde podes mover essa pasta para qualquer outra parte do teu computador qu
 # Pedir acesso ao repositório git
 Para poderes submeter alterações no repositório git online do disroot, primeiro necessitas de pedir acesso ao repositório. Assim que os administradores de deem acesso, pode começar a submeter/enviar as tuas alterações para o repositório online (é possível começar a trabalhar localmente no teu computador sem ainda ter sido concedido acesso ao repositório online, as alterações que fizeres apenas serão feitas localmente nos ficheiros que estão no teu computador).
 
-![](pt/git-request_access.png)
+![](en/git-request_access.png)
 
 # Agora o trabalho pode começar.
 Agora podes abrir o Atom e carregar em `Open Folder` e escolher o directório/pasta que clonaste (*howto*). O interface do Atom é simples e fácil de entender. A barra esquerda é a lista de ficheiros e pastas do projeto, a janela do meio é onde editas os ficheiros e barra de baixo indica o número de ficheiros alterados and bottom bar indicates number of changed, o ramo em que estás e tem os botões para rápidamente sincronizar e actualizar com o repositório git online.
 
-![](pt/atom1.png)
+![](en/atom1.png)
 
 Com o Atom podes abrir e trabalhar em múltiplos ficheiros em múltiplas tabs ou dividir o ecrã.
 Ficheiros alterados, cujas alterações não foram guardadas têm uma bolinha azul (dependendo do aspeto gráfico que escolheste para o Atom, claro).
@@ -55,11 +55,11 @@ Para guardar as tuas alterações usa o menu *File* o as teclas *Ctrl+s*.
 Branches/Ramos são basicamente os teus espaços de trabalho privado, cópia privada. Cada projeto git tem o seu próprio ramo/branch **master**. O branch Master é o cópia principal de *produção* do projeto. Este branch é automáticamente sincronizado com o website [howto.distoot.org](https://howto.disroot.org), por isso qualquer alteração feita neste branch/ramo é automaticamente visível no website. E é por isso que o envio de alterações para o ramo **master** são restringidas, apenas os administradores do disroot, as podem realizar
 Para poderes começar a trabalhar cria o teu próprio ramo/branch. Isto básicamente irá criar uma cópia, na qual podes trabalhar, do ramo **master**.
 
-![](pt/atom-branch1.gif)
+![](en/atom-branch1.gif)
 
 Mudar de ramo também pode ser feita a parti do mesmo menu. O ramo a partir do qual estás a trabalhar é visivél a partir da barra de baixo do ecrã.
 
-![](pt/atom-branch2.gif)
+![](en/atom-branch2.gif)
 
 Uma vez que o ramo esteja criado e que tenhas mudado para esse ramo, podes crias novos ficheiros, alterar os ficheros atuais, etc.
 
@@ -89,7 +89,7 @@ Quando achares que o teu trabalho está acabado e pronto a ser publicado no webs
 - Certifica-te que o **source branch** (o ramo a partir do qual fazes o pedido de merge) é o ramo que queres em que tu estiveste a trabalhar.
 - Certifica-te que o **target branch** é aquele com o qual queres fazer merge (normalmente é o master branch)
 
-![](pt/git-merge_request.gif)
+![](en/git-merge_request.gif)
 
 Assim que criares o merge request, ele será revisto pelos administradores do disroot. Os administradores podem aprovar o teu pedido de commit o que significa que as tuas alterações serão inseridas no ramo master e portanto visíveis no website, ou então podem pedir para tu corrigires alguma coisa. Assim que todas as correções estiverem feitas e os *"governantes"* do disroot estiverem satisfeitos o teu pedido de merge será integrado no ramo master.
 
