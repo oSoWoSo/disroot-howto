@@ -63,7 +63,7 @@ No "step 2" terá que selecionar as opções tanto da sua "Standard poll" ou da 
 
 ## Selecionar as opções na sua Standard Poll
 
-Pode selecionar o número de opções que quer na, usando os botões + e - ![](en/polls2.png?resize=40,18), e colocar o texto que quiser. Assim que terminar carregue em "next". Depois selecione a data de duração da sua poll e depois carrege em "create poll"
+Pode selecionar o número de opções que quer na, usando os botões + e - ![](en/polls2.png?resize=40,18), e colocar o texto que quiser. Assim que terminar carregue em "next". Depois selecione a data de duração da sua poll e depois carregue em "create poll"
 
 ![](en/polls3.gif)
 
