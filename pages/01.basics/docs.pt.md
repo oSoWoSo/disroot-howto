@@ -1,5 +1,5 @@
 ---
-title: Basics
+title: Noções Básicas
 published: true
 taxonomy:
     category:
