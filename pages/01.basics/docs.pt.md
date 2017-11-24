@@ -1,5 +1,5 @@
 ---
-title: Introdução
+title: Basics
 published: true
 taxonomy:
     category:
