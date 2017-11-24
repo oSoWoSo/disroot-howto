@@ -64,33 +64,34 @@ Mudar de ramo também pode ser feita a parti do mesmo menu. O ramo a partir do q
 Uma vez que o ramo esteja criado e que tenhas mudado para esse ramo, podes crias novos ficheiros, alterar os ficheros atuais, etc.
 
 # Enviar as tuas alterações (fazer commit)
-Hokay, so you're working on your computer creating new tutorials or translating existing ones. Apart from saving changes to your laptop, you can/should also commit your changes. Commiting changes syncs the work you've done on your branch to the git server. If the branch does not exist on the server, it will be created and all your modifications and new  files will be uploaded to the server. In that case you can work on your files on multiple machines, or other people can take over, help working on your branch.
+Ok, então estás a trabalhar no teu computador e a criar novos tutorais ou a traduzir tutoriais já existentes. Para além de gravar as tuas alterações no teu computador, tu também podes/deves enviar (fazer commit) das tuas alterações. Fazer commit das alterações sincroniza o trabalho que fizeste no teu ramo/branch com o servidor git. Se o ramo ainda não existe no servidor, ele será criado automáticamente quando fazes commit e todas as tuas alterações e ficheiros novos serão enviados para o servidor. A partir desse momento, em que os teus ficheiros novos e alterações foram sincronizadas online, podes trabalhar nos teus ficheiros a partir de computadores diferentes, locais diferentes e outras pessoas que estejam a trabalhar no projeto podem participar trabalhar nos ficheiros que sincronizaste e ajudar a trabalhar no ramo que criaste.
 
-To commit your changes need to:
- - make sure all files are saved
+Para fazer commit das tuas alterações precisas de:
+ - certificar-te que guardaste todos os ficheiros
  - stage all the files you've modified and want to commit to the server
- - Write a commit message - write short summary of what has been changed (not too long),
- - Hit commit button
+ - Escrever uma mensagem de commit, uma nota breve sobre o que foi alterado (não demasiado longa)
+ - Carregar no botão commit
  ![]()
- Once files are commited, it's time to push them to the server:
- - Open push/pull popup window
- - Press push
+ Uma vez que tenha sido feito o commit dos ficheiros é altura de fazer *push* (enviar) para o servidor:
+
+ - Abra a janela popup de push/pull
+ - Carrega em push
 
 # Merge request
-Once you think your work is finished and ready to be published on the website, its time to merge it to the **master branch**.
+Quando achares que o teu trabalho está acado e pronto a ser publicado no website, é altura de enviar as tuas alterações (merge request) para o ramo/branch principal do projeto, o ramo **master**.
 
-- First of course you need to make sure all the changes are commited.
-- Login to https://git.fosscommunity.in
-- if you pushed any changes to the server on your branch, in the top right you will see **"Create Merge Request"** button
-- This will open Merge request form.
-- Add title
-- Add descripton
-- make sure **source branch** is the one you want to merge form (one you worked on)
-- make sure **target branch** is the one you want to merge to (usually master branch)
+- Primeiro, obviamente, tens que certificar-te que fizeste commit de todas as alterações que fizeste.
+- Faz login em https://git.fosscommunity.in
+- se fizeste *push* de qualquer alterações para o servidor no teu ramo então verás no canto superior direito o botão **"Create Merge Request"**
+- Isto irá criar um formulário de "merge".
+- Cria um título
+- Adiciona uma descrição
+- Certifica-te que o **source branch** (o ramo a partir do qual fazes o pedido de merge) é o ramo que queres em que tu estiveste a trabalhar.
+- Certifica-te que o **target branch** é aquele com o qual queres fazer merge (normalmente é o master branch)
 
-![](en/git-merge_request.gif)
+![](pt/git-merge_request.gif)
 
-Once you created merge request, it will be reviewed by Disroot admins. Admins can then aprove your commit which means it will be merged with the master branch and therefor visible on the website or request you to correct something. Once all the corrections are made and Disroot *"overlords"* are satified, your merge request will be pulled to the master.
+Assim que criares o merge request, ele será revisto pelos administradores do disroot. Os administradores podem aprovar o teu pedido de commit o que significa que as tuas alterações serão inseridas no ramo master e portanto visíveis no website, ou então podem pedir para tu corrigires alguma coisa. Assim que todas as correções estiverem feitas e os *"governantes"* do disroot estiverem satisfeitos o teu pedido de merge será integrado no ramo master.
 
 # Pulling changes from the server
 If you want to keep the local **master** branch and your local branched up to date, you need to pull changes from the server. Each time someones gets his merge request pulled in to the master, everyone should also pull the changes to their local branches. Then you can easily see what's new and what has changed recently. On the master branch we keep a file called "CHANGELOG" where we note all significant changes to Howtos.
