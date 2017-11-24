@@ -8,7 +8,7 @@ taxonomy:
 
 # Bem-vindos à página de manuais do **Disroot**.
 
-Este site é dedicado a tutoriais e manuais para ajudar a orientar-se com os vários serviços fornecidos pelo Disroot.
+Este site é dedicado a tutoriais e manuais para lhe ajudar a orientar-se com os vários serviços fornecidos pelo Disroot.
 
 A nossa ideia é cobrir todos os serviços fornecidos pelo Disroot e todas as suas funcionalidades, para todas as plataformas e sistemas operativos. É um projeto bastante ambicioso que requer bastante trabalho. No entanto, nós acreditamos que beneficiará não apenas os disrooters, mas também toda a Comunidade de Open Source que utiliza o mesmo software ou semelhante.
 
