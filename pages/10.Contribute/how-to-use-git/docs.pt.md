@@ -52,18 +52,18 @@ Para guardar as tuas alterações usa o menu *File* o as teclas *Ctrl+s*.
 **Mas** antes de começares a trabalhar nos ficheiros precisas de criar o teu próprio: **branch** (ramo)
 
 # Branches/Ramos
-Branches/Ramos são básicamente o teu espaço de trabalho privado, cópia privada. Cada projeto git tem o seu próprio ramo/branch **master**. O branch Master é o cópia principal de *produção* do projeto. This branch is automatically synced with the website, so any change made to that branch are instantly visible on the website. That is also why adding any changes to the **master** branch is restricted only to the owners of the project.
-I order for you to start working is, create your own branch. This will basically make a clone of the **master** branch.
+Branches/Ramos são básicamente o teu espaço de trabalho privado, cópia privada. Cada projeto git tem o seu próprio ramo/branch **master**. O branch Master é o cópia principal de *produção* do projeto. Este branch é automáticamente sincronizado com o website [howto.distoot.org](https://howto.disroot.org), por isso qualquer alteração feita neste branch/ramo é automáticamente visível no website. E é por isso que o envio de alterações para o ramo **master** são restringidas, apenas os administradores do disroot, as podem realizar
+Para poderes começar a trabalhar cria o teu próprio ramo/branch. Isto básicamente irá criar uma cópia, na qual podes trabalhar, do ramo **master**.
 
-![](en/atom-branch1.gif)
+![](pt/atom-branch1.gif)
 
-Switching between branches can also be done from that menu. Current working branch is visible on the bottom bar.
+Mudar de ramo também pode ser feita a parti do mesmo menu. O ramo a partir do qual estás a trabalhar é visivél a partir da barra de baixo do ecrã.
 
-![](en/atom-branch2.gif)
+![](pt/atom-branch2.gif)
 
-Once branch is created and changed, you can create new files, modify existing ones etc.
+Uma vez que o ramo esteja criado e que tenhas mudado para esse ramo, podes crias novos ficheiros, alterar os ficheros atuais, etc.
 
-# Commiting your changes
+# Enviar as tuas alterações (fazer commit)
 Hokay, so you're working on your computer creating new tutorials or translating existing ones. Apart from saving changes to your laptop, you can/should also commit your changes. Commiting changes syncs the work you've done on your branch to the git server. If the branch does not exist on the server, it will be created and all your modifications and new  files will be uploaded to the server. In that case you can work on your files on multiple machines, or other people can take over, help working on your branch.
 
 To commit your changes need to:
