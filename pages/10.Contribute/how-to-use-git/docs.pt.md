@@ -93,14 +93,14 @@ Quando achares que o teu trabalho está acado e pronto a ser publicado no websit
 
 Assim que criares o merge request, ele será revisto pelos administradores do disroot. Os administradores podem aprovar o teu pedido de commit o que significa que as tuas alterações serão inseridas no ramo master e portanto visíveis no website, ou então podem pedir para tu corrigires alguma coisa. Assim que todas as correções estiverem feitas e os *"governantes"* do disroot estiverem satisfeitos o teu pedido de merge será integrado no ramo master.
 
-# Pulling changes from the server
-If you want to keep the local **master** branch and your local branched up to date, you need to pull changes from the server. Each time someones gets his merge request pulled in to the master, everyone should also pull the changes to their local branches. Then you can easily see what's new and what has changed recently. On the master branch we keep a file called "CHANGELOG" where we note all significant changes to Howtos.
-Pulling should be done on regular basis (specially before you start working on new branch).
+# Pulling (descarregar alterações do servidor)
+Se queres manter a cópia do ramo **master** que tens no guardada no teu computador atualizada, precisas de fazer um "pull request" das alterações que foram feitas no servidor (por outras pessoas). Cada vez que alguém tem o seu merge request aprovado, todas as outras pessoas devem fazer um pull request para os seus ramos. Deste modo podes ver o que há de novo e que alterações foram feitas recentemente (por outras pessoas). No ramo master branch mantemos um ficheiro chamado "CHANGELOG" (registo de alterações) onde anotamos todas as alterações significativas nos tutoriais.
+Os "pull request" devem ser feitos regularmente (especialmente antes de começar a trabalhar num ramo novo).
 
- - Open push / pull popup window
- - Press **pull**
+ - abre a janela popup de push / pull
+ - Carrega em **pull**
 
 
-# Some vocabulary and explanation
+# Algúm vocabulário e explicação
 
-**git repository** - Directory that consists all the files belonging to the project
+**git repository/repositório git** - Directório (pasta) que consiste em todos os ficheiros que pertencem ao projeto
