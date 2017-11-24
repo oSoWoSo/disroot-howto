@@ -41,18 +41,18 @@ Para poderes submeter alterações no repositório git online do disroot, primei
 ![](pt/git-request_access.png)
 
 # Agora o trabalho pode começar.
-Agora podes abrir o Atom e Now you can start Atom and `Open Folder` that you just cloned (*howto*). The interface of Atom is clean and easy to understand. The left sidebar is your project's navigation tree, the middle window is where you edit files and bottom bar indicates number of changed files, current branch, quick pull/push to git.
+Agora podes abrir o Atom e Now you can start Atom carregar em `Open Folder` e escolher o directório/pasta que clonaste (*howto*). O interface do Atom é simples e fácil de entender. A barra esquerda é a lista de ficheiros e pastas do projeto, a janela do meio é onde editas os ficheiros e barra de baixo indica o número de ficheiros alterados and bottom bar indicates number of changed, o ramo em que estás e tem os botões para rápidamente sincronizar e actualizar com o repositório git online.
 
-![](en/atom1.png)
+![](pt/atom1.png)
 
-You can open and work on multiple files in tabs or as split screen side by side.
-Unsaved files with local modifications are marked with a blue dot (depending on the theme you use of course)
-To save the file changes use the *File* menu or *Ctrl+s* shortcut.
+Com o Atom podes abrir e trabalhar em multiplos ficheiros em multiplas tabs ou dividir o ecrã.
+Ficheiros alterados, cujas alterações não foram guardadas têm uma bolinha azul (dependendo do aspecto gráfico que escolheste para o Atom, claro).
+Para guardar as tuas alterações usa o menu *File* o as teclas *Ctrl+s*.
 
-**But** before you start working on files you need to create your own: **branch**
+**Mas** antes de começares a trabalhar nos ficheiros precisas de criar o teu próprio: **branch** (ramo)
 
-# Git Branches
-Branches are basically your own private workspaces. Each git project has it's own **master** branch. Master branch is the main, *production* copy of the project. This branch is automatically synced with the website, so any change made to that branch are instantly visible on the website. That is also why adding any changes to the **master** branch is restricted only to the owners of the project.
+# Branches/Ramos
+Branches/Ramos são básicamente o teu espaço de trabalho privado, cópia privada. Cada projeto git tem o seu próprio ramo/branch **master**. O branch Master é o cópia principal de *produção* do projeto. This branch is automatically synced with the website, so any change made to that branch are instantly visible on the website. That is also why adding any changes to the **master** branch is restricted only to the owners of the project.
 I order for you to start working is, create your own branch. This will basically make a clone of the **master** branch.
 
 ![](en/atom-branch1.gif)
