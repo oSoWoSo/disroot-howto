@@ -9,47 +9,50 @@ taxonomy:
         - docs
 ---
 
-The Discourse forum provides a simple and intuitive user interface. Even if you are using Discourse primarily as a mailing list, it is recommended to check the web-interface for a superior user experience. Here are some tips to get you started:
+O Discourse tem um interface de utilizador simples e intuítivo. Mesmo que você esteja a usar o Discourse principalmente como uma mailing list, recomendamos que que dê uma vista de olhos no Discourse para ter uma experiênica de utilizador melhor. Aqui seguem algumas dicas para começar a usar o Discourse:
 
 
 ----------
 
 
-# Log in first
-You can log in to the forum with your Discourse account or your All-in-one Disroot account, if you have one.
-Go to https://forum.disroot.org/ and click ![](en/forum_basics1.png?resize=64,25) on the top right corner.
-**If you have a Disroot account make sure to select Login with disroot account before entering your credentials.**
+# Fazer Login
+Pode fazer login no fórum com uma conta de utilizador apenas para o Discourse, ou com a sua conta Disroot "tudo em um", caso tenha uma.
+Vá a https://forum.disroot.org/ e carregue em  ![](en/forum_basics1.png?resize=64,25) NO canto superior direito.
+**Caso tenha uma conta de utilizador no Disroot, certifique-se que seleciona a opção "Login with disroot account" antes de inserir a sua password e nome de utilizador.**
 
-If you don't have an account yet, you can register a Disroot account via https://user.disroot.org, which will give you additionaly access to cloud storage, email, xmpp and project board. You can also decide to create a forum only account - you will find the Sign up button at the top right of the forum page.
+Caso ainda não tenha uma conta de utilizador no Disroot, pode criar uma visitando https://user.disroot.org, o que lhe dará acesso adicional a: cloud storage, email, xmpp gestor de projetos. Também pode decidir criar uma conta apenas para o fórum, encontrará o botão "Sign up" no canto superior direito da página.
 
-# The menu
-The icon buttons on the top right include the search and your personal settings:
+# O menu de utlizador
+Os botões no canto superior direito incluem, pesquisa e as suas definições pessoais de utilizador:
 
 ![](en/forum_basics2.png)
 
-Click on your user icon (the first letter of your name until you change your avatar) to see your messages and notifications and to enter your personal setting and see your user page.
+Carregue no teu icone de utlizador o botão com a primeira letra do seu nome de utilizador, (assim que tiver uma foto de utilzador a etra será substituida por essa foto) para poder ver as suas mensagens e notificações e entrar nas definições da sua conta e área de utilizador.
 
-The little numbers on top of your avatar mark how many notifications (on the right) and messages (left) you have. When you click on your avatar you will see all unread notification and messages listed below. You can also access all you messages via the ![](en/forum_basics3.png?resize=30,25) icon.
+Os números pequenos no topo do seu avatar indicam o número de notificações (à direita) e mensagens (left) que tem. Quando clica no seu avatar verá todas as suas mensagens e notificações listadas em baixo. Também pode ver as suas mensagens através do botão ![](en/forum_basics3.png?resize=30,25).
 
-Click on your avatar and then on the ![](en/forum_basics4.png?resize=23,24) to enter your personal settings. There you can change you avatar, adjust the level of notifications, your viewed categories and much more.
+Para entrar nas definições pessoais carregue no seu avatar e depois no icone ![](en/forum_basics4.png?resize=23,24). Aqui pode mudar o seu avatar, ajustar o sistema de notificações, as categorias vistas e acompanhadas e muito mais.
 
-# Navigation
-When you first log in to the forum (or click ![](en/forum_basics5.png?resize=100,20) icon to get back to home page at any time), you will find a list of the categories you are following. Categories are like sub-forums. If you are a member of a private forum group, the categories of that group will be listed first and all public categories will be listed below. More on how to follow and hide certain categories will be posted soon in another tutorial.
+Nestas defenições pessoais pode também alterar a língua do interface para Português ou outras línguas.
 
-~[](en/forum_basics6.png)
+# Navegação
+Quando faz log in no fórum (ou quando carrega em ![](en/forum_basics5.png?resize=100,20) para regressar à página principal do fórum), irá encontrar uma lista das categorias que está a acompanhar. Categorias são como sub-fóruns. Se é membro de um grupo privado, no fórum, as categorias desse grupo serão listadas no topo da página e as restantes categorias públicas serão listadas em baixo. Mais informações sobre como seguir ou esconder certas categorias serão colocadas em breve noutro tutorial.
 
-The bar on top allows you to quickly navigate between latest, new, unread and most active posts. You can also filter which categories you wish to view under the ![](en/forum_basics7.png?resize=133,30) button.
-On the far right you find a tab button for starting a new discussion thread (topic).
+![](pt/forum_basics6.png)
 
-The latest topics are also listed in your home page, right of the categories. Any topic title you select to view will take you to the next unread post.
+A barra no topo permite navegar rápidamente entre: Recente, Novo, Não Lido, Os MelhoresThe bar on top allows you to quickly navigate between latest, new, unread and most active posts. Também pode filtrar as categorias que quer ver usando o botão  ![](pt/forum_basics7.png?resize=133,30).
+No fim desta barra de top encontra o butão para criar uma nova thread de discussão (Novo Tópico).
 
-# Keep scrolling
+Os tópicos mais recentes também aparecem listados na sua página principal, à direita do botão C
+"Categorias". Quando carrega nun tópico será encaminhado para o último post não lido desse tópico.
 
-Once you are in the topic thread you can scroll down to read through. There are no next page buttons or page numbers – to read more, just keep scrolling down!
+# "Continua para baixo"
 
-As new posts come in, they will appear automatically.
+Assim que estiver na thread de um tópico pode simplesmente continuar a ler a thread toda numa única página. Não há botões de "página seguinte", ou "página número X" - para continuar a ler basta continuar mover para baixo!
 
-# Replying to posts
+Á medida que novos posts chegam eles irão aparecer automáticamente na thread.
+
+# Reasponder aos posts
 
 To reply to the overall topic, use the ![](en/forum_basics8.png?resize=80,29) button at the very bottom of the page.
 
