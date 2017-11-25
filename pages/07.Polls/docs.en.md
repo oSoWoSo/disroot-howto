@@ -20,24 +20,28 @@ In this tutorial we will show you how to work with disroot polls.
 
 # How to create a poll
 
-Creating a poll is very easy, just go to [poll.disroot.org](https://poll.disroot.org/). You can choose the language of your poll in the upper right corner, and choose if you want a classic poll, or a poll to schedule an event/appointment.
+Creating a poll is very easy, just go to [poll.disroot.org](https://poll.disroot.org/). You can choose the language of your poll in the upper right corner, and choose if you want a standard poll, or a poll to schedule an event/appointment.
 
 ![](en/polls1.png)
 
-The main differences between "Schedule an event" and "Make a classic poll" are:
+The main differences between "Schedule an event" and "Make a standard poll" are:
 
 * **Schedule an event**, like the name suggests is better suited to schedule meetings, actions, because it permits to set the proposals  with multiple dates and times.
 
-* **Classic poll** is better suited do surveys. *If you want to do a poll about an event that spans over several days (with no options on starting hour), classic poll is also better suited.*
+* **Standard poll** is better suited do surveys. *If you want to do a poll about an event that spans over several days (with no options on starting hour), Standard Poll is also better suited.*
 
 Once you choose which type off poll you prefer, the first step in making a poll is common to both, in the first page you need to fill:
 
+* Your name (which will be publicly shown as the creator of the poll, choose whatever name you like)
 * Poll title
 * Description
-* Your name (which will be publicly shown as the creator of the poll, choose whatever name you like)
 
-And choose from the following options:
+And pressing in the button "Optional Parameters"  ![](en/polls07.png?resize=40,18)
 
+You can chose the following options:
+
+* Poll link (personalized URL, for example: polls.disroot.org/big-decision)
+* Password (to restrict the access to the poll)
 * All voters can modify any vote
 * Voters can modify their vote themselves
 * Votes cannot be modified
@@ -47,12 +51,12 @@ After that continue to step 2, by pressing the green button on the bottom of the
 
 ![](en/polls2.gif)
 
-In step 2 you will have to set the choices in either your "Classic poll" or your "Schedule an event" poll.
+In step 2 you will have to set the choices in either your "Standard poll" or your "Schedule an event" poll.
 
-## Set choices in Classic poll
+## Set choices in Standard Poll
 You can choose the number of choices you want by using the + and - buttons ![](en/polls2.png?resize=40,18), and fill the text you want. Once you are done press next, select the expiration date of your poll, and press "create poll"
 
-![](en/polls3.png)
+![](en/polls3.gif)
 
 ![](en/polls4.gif)
 
@@ -61,7 +65,7 @@ You can also add pictures and links to the options you create, but in the case o
 ![](en/polls5.gif)
 
 ## Set choices in "Schedule an event"
-You can choose the number of choices you want by using the + and - buttons <img src="/uploads/default/original/1X/9d814df6060fffaee1b8e643ac5a6e6afdcb1b28.png" width="40" height="18"> Select the dates in each choice and the times. Once you are done press next, select the expiration date of your poll and press "create poll".
+You can choose the number of choices you want by using the + and - buttons  ![](en/polls2.png?resize=40,18) Select the dates in each choice and the times. Once you are done press next, select the expiration date of your poll and press "create poll".
 
 ![](en/polls6.gif)
 
