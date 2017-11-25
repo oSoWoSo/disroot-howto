@@ -54,20 +54,22 @@ Assim que estiver na thread de um tópico pode simplesmente continuar a ler a th
 
 # Reasponder aos posts
 
-To reply to the overall topic, use the ![](en/forum_basics8.png?resize=80,29) button at the very bottom of the page.
+Para enviar uma reposta no tópico use o butão ![](pt/forum_basics8.png?resize=80,29) no fim da página.
 
-To reply to a specific post within the thread, use the ![](en/forum_basics9.png?resize=82,30) button on that post.
+Para responder a um post especifico dentro da thread use o butão ![](pt/forum_basics9.png?resize=82,30) que existe nesse post especifico.
 
-To insert a quote, select the text you wish to quote, then press any Reply button. Repeat for multiple quotes!
+Para inserir uma citação (de algo escrito num post anterior), selecione o texto que quer citar e depois carregue no botão "responder". Repetir este processo no caso de várias citações numa resposta!
 
-To notify someone about your reply, mention their name. Type @ to begin selecting a username.
+Para ter a certeza que que alguém em particular recebe uma notificação acerca da sua resposta, cite o nome de utilizador dessa pessoa. Use uma @ antes para comecar a selecionar o nome de utilizador da pessoa em causa
+To notify someone about your reply, mention their name. Ex: `@umutilizadorqualquer`
 
-You can also like, share, flag or bookmark a post.
+Também pode assinalar um like, partilhar, assinalar, guardar nos bookmark a um post.
 
-![](en/forum_basics1.gif)
+![](pt/forum_basics1.gif)
 
+Também pode convidar outro utilizador a participar numa determinada thread, carregando no botão ![](pt/forum_basics15.png?resize=80,29) no final da página.
 
-# Creating a new topic
+# Criar um novo tópico
 You can create a new topic in a category (Howtos, support, changelog, etc) by either navigating to the category and then pressing the new topic button ![](en/forum_basics10.png?resize=121,26), or by just pressing the button and in the compose topic/message panel select the category it goes to. Topics need to have a minimum of 8 letters in the subject and 10 letters in the topic, otherwise the message won't be sent.
 
 ![](en/forum_basics2.gif)
