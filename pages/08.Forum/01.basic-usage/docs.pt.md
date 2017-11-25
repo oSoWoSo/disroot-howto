@@ -52,40 +52,40 @@ Assim que estiver na thread de um tópico pode simplesmente continuar a ler a th
 
 Á medida que novos posts chegam eles irão aparecer automáticamente na thread.
 
-# Reasponder aos posts
+# Responder aos posts
 
 Para enviar uma reposta no tópico use o butão ![](pt/forum_basics8.png?resize=80,29) no fim da página.
 
-Para responder a um post especifico dentro da thread use o butão ![](pt/forum_basics9.png?resize=82,30) que existe nesse post especifico.
+Para responder a um post específico dentro da thread use o butão ![](pt/forum_basics9.png?resize=82,30) que existe nesse post especifico.
 
 Para inserir uma citação (de algo escrito num post anterior), selecione o texto que quer citar e depois carregue no botão "responder". Repetir este processo no caso de várias citações numa resposta!
 
 Para ter a certeza que que alguém em particular recebe uma notificação acerca da sua resposta, cite o nome de utilizador dessa pessoa. Use uma @ antes para comecar a selecionar o nome de utilizador da pessoa em causa
 To notify someone about your reply, mention their name. Ex: `@umutilizadorqualquer`
 
-Também pode assinalar um like, partilhar, assinalar, guardar nos bookmark a um post.
+Também pode assinalar um like, partilhar, assinalar, guardar nos um post bookmark.
 
 ![](pt/forum_basics1.gif)
 
 Também pode convidar outro utilizador a participar numa determinada thread, carregando no botão ![](pt/forum_basics15.png?resize=80,29) no final da página.
 
 # Criar um novo tópico
-You can create a new topic in a category (Howtos, support, changelog, etc) by either navigating to the category and then pressing the new topic button ![](en/forum_basics10.png?resize=121,26), or by just pressing the button and in the compose topic/message panel select the category it goes to. Topics need to have a minimum of 8 letters in the subject and 10 letters in the topic, otherwise the message won't be sent.
+Pode criar um tópico dentro de uma categoria (support, changelog, etc) ou indo até à respectiva categoria e carregar no botão  ![](pt/forum_basics10.png?resize=121,26) ou simplesmente carregar no botão novo tópico e quando estiver a compor a mensagem, escolher a categoria na qual quer que a mensagem seja postada.
 
-![](en/forum_basics2.gif)
+![](pt/forum_basics2.gif)
 
-# The interface
-The interface is relatively simple.
+# O interface
+O interface é relativamente simples.
 
-![](en/forum_basics11.png)
+![](pt/forum_basics11.png)
 
-Discourse supports Markdown and HTML to compose messages, on the left side of the panel you write your topic, and on the right side you can preview how the topic will be presented.
+O Discourse tem suporte para Markdown e HTML para compôr as mensagens. Do lado esquerdo do painel escreve o seu tópico e no lado direito do painel pode pré-visualizar como o seu tópico será apresentado.
 
-![](en/forum_basics3.gif)
+![](pt/forum_basics3.gif)
 
-But you don't need to learn Markdown or HTML to write a topic, you can just use the formatting options presented in the top bar, Blockquote **Strong**, **Emphasis**, **Bulleted List**, **Numbered List**, **Heading**, **Horizontal Rule**, **Emojis**. Commands like CTRL+b or CTRL+I also work.
+Mas não é necessário aprender Markdown ou HTML para escrever um tópico. Pode simplesmente usar as opções de formatação de texto apresentadas na barra superior: **Citação**, **Bold**, **Itálico**, **Lista de Items**, **Lista Númerada**, **Títulos**, **Linha horizontal**, **Emojis**. Commands like CTRL+b or CTRL+I also work.
 
-![](en/forum_basics4.gif)
+![](pt/forum_basics4.gif)
 
 ## Inserting pictures and videos
 You can insert pictures into your topic by dragging them to the message to the part where you want them to be.
