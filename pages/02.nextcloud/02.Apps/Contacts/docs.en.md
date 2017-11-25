@@ -73,7 +73,7 @@ You can import address books or individual contacts, if you have a vcf file of t
 
 ![](en/contacts_import1.png)
 
-Then select the file you want to import, and press ok
+Then select the file you want to import, and press ok.
 
 -----------------------------
 ## Create a new address book
