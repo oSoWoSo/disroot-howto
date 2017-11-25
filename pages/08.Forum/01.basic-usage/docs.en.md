@@ -17,7 +17,7 @@ The Discourse forum provides a simple and intuitive user interface. Even if you 
 
 # Log in first
 You can log in to the forum with your Discourse account or your All-in-one Disroot account, if you have one.
-Go to https://forum.disroot.org/ and click ![](forum_basics1.png?resize=64,25) on the top right corner.
+Go to https://forum.disroot.org/ and click ![](en/forum_basics1.png?resize=64,25) on the top right corner.
 **If you have a Disroot account make sure to select Login with disrootID before entering your credentials.**
 
 If you don't have an account yet, you can register a Disroot account via https://user.disroot.org, which will give you additionaly access to cloud storage, email, xmpp and project board. You can also decide to create a forum only account - you will find the Sign up button at the top right of the forum page.
@@ -113,10 +113,10 @@ Adding a tag makes it easier for people looking for topics or threads about a ce
 
 ![](en/forum_basics7.gif)
 
-Once your done with composing your topic just press "Create Topic" <img src="/uploads/default/original/1X/56aca73b1e494867ce64ded3de9b6c52ab6b2af3.png" width="115" height="24">
+Once your done with composing your topic just press "Create Topic" ![](en/forum_basics14.png)
 
 # Howto mute or watch categories
-In Discourse it's possible for you regulate the stream of posts you receive via the forum board or via email. You can mute categories or just a sub-category you are not interested or set categories to watch which will guarantee you will always receive notifications and emails of every post in a category or sub-category you are interested in.  
+In Discourse it's possible for you regulate the stream of posts you receive via the forum board or via email. You can mute categories or just a sub-category you are not interested or set categories to watch which will guarantee you will always receive notifications and emails of every post in a category or sub-category you are interested in.
 
 If you just mute a category you will be muting all sub-categories, unless you select a specific sub-category to watch. If you mute a category or sub-category you will still be able to access it in the message board, if you want to check it from time to time. You simply just don't receive any emails or notifications about it.
 
