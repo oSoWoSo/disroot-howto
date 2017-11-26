@@ -59,6 +59,7 @@ Press the big orange button with the account name.
 Now your Calendars from disroot will be synced to your device and will appear in your Calendar app of choice. Any event added on the phone will be automatically synced to disroot and vice versa.
 
 After that, the calendars in your disroot account that you selected will be synced and visible in your Android device calendar.
+
 ---------------------
 # Contacts
 Your Contacts should be straight away available and synced with disroot.
@@ -66,7 +67,7 @@ Your Contacts should be straight away available and synced with disroot.
 If you want to migrate your Android contacts to your disroot contacts and stop syncing with google, then follow [this](https://forum.disroot.org/t/syncing-android-with-owncloud/186) tutorial made by @muzirian
 
 ---------------------
-#Tasks
+# Tasks
 
 [Open Tasks](https://f-droid.org/packages/org.dmfs.tasks/) Is available in F-Droid and in other commercial app stores.
 

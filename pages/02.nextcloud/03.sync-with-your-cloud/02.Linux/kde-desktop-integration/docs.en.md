@@ -9,7 +9,7 @@ taxonomy:
         - docs
 ---
 ----------
-# Sync Contacts Contacts and Tasks
+# Sync Contacts and Tasks
 First setup an account in the app Kaddressbook.
 ![](en/kde_kaddressbook1.png)
 
@@ -58,7 +58,8 @@ You can use the KOrganizer app, it has both calendar and tasks.
 
 ![](en/kde_kalendar1.png)
 
-Your events will already be synchronized /adding/removing/editing events is very similar to the Calendar app described before, any changes will be synchronized with your disroot calendar.
+Your events will already be synchronized.
+Adding/removing/editing events is very similar to the Calendar app described before, any changes will be synchronized with your disroot calendar.
 
 ![](en/kde_kalendar2.gif)
 ----------
@@ -78,7 +79,7 @@ After that:
  * **Folder:**/remote.php/dav/files/YOUR_DISROOT_USERNAME/
  * Select the checkbox for "Use encryption"
  * Hit "Save and Connect"
- * You will be asked for your password,
+ * You will be asked for your password.
 
 ![](en/kde_files3.gif)
 
