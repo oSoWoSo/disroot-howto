@@ -83,7 +83,9 @@ O Discourse tem suporte para Markdown e HTML para compôr as mensagens. Do lado 
 
 ![](pt/forum_basics3.gif)
 
-Mas não é necessário aprender Markdown ou HTML para escrever um tópico. Pode simplesmente usar as opções de formatação de texto apresentadas na barra superior: **Citação**, **Bold**, **Itálico**, **Lista de Items**, **Lista Númerada**, **Títulos**, **Linha horizontal**, **Emojis**. Commands like CTRL+b or CTRL+I also work.
+Mas não é necessário aprender Markdown ou HTML para escrever um tópico. Pode simplesmente usar as opções de formatação de texto apresentadas na barra superior: 
+**Citação**, **Bold**, **Itálico**, **Lista de Items**, **Lista Númerada**, **Títulos**, **Linha horizontal**, **Emojis**. Atalhos como CTRL+b ou CTRL+I 
+funcionam.
 
 ![](pt/forum_basics4.gif)
 
