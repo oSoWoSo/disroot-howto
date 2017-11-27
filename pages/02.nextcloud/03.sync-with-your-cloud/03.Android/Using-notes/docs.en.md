@@ -88,7 +88,7 @@ Go to the files app.
 ![](en/nextcloud_notes9.png)
 
 
-You will see a folder titled "Notes". Inside it can find your notes in .txt file format.<br>
+You will see a folder titled "Notes". Inside you can find your notes in .txt file format.
 
 ![](en/nextcloud_notes10.png)
 
@@ -96,4 +96,4 @@ You will see a folder titled "Notes". Inside it can find your notes in .txt file
 
 ![](en/nextcloud_notes11.png)
 
-Any changes you make to your notes in disroot notes app, or in the .txt file will appear in your Android device in the ownCloud Notes app and vice versa.
+Toutes les modifications que vous apportez à vos notes dans l'application Notes de Disroot des notes, ou dans le fichier. txt apparaîtront dans votre appareil Android dans l'application nextCloud Notes et vice versa.
