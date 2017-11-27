@@ -9,10 +9,10 @@ taxonomy:
         - docs
 ---
 
-O Discourse tem um interface de utilizador simples e intuítivo. Mesmo que você esteja a usar o Discourse principalmente como uma mailing list, recomendamos que que dê uma vista de olhos no Discourse para ter uma experiênica de utilizador melhor. Aqui seguem algumas dicas para começar a usar o Discourse:
+O Discourse tem um interface de utilizador simples e intuitivo. Mesmo que você esteja a usar o Discourse principalmente como uma mailing list, recomendamos que que dê uma vista de olhos no Discourse para ter uma melhor experiência de utilizador. Aqui seguem algumas dicas para começar a usar o Discourse:
 
 
-----------
+
 
 
 # Fazer Login
@@ -20,48 +20,48 @@ Pode fazer login no fórum com uma conta de utilizador apenas para o Discourse, 
 Vá a https://forum.disroot.org/ e carregue em  ![](en/forum_basics1.png?resize=64,25) NO canto superior direito.
 **Caso tenha uma conta de utilizador no Disroot, certifique-se que seleciona a opção "Login with disroot account" antes de inserir a sua password e nome de utilizador.**
 
-Caso ainda não tenha uma conta de utilizador no Disroot, pode criar uma visitando https://user.disroot.org, o que lhe dará acesso adicional a: cloud storage, email, xmpp gestor de projetos. Também pode decidir criar uma conta apenas para o fórum, encontrará o botão "Sign up" no canto superior direito da página.
+Caso ainda não tenha uma conta de utilizador no Disroot, pode criar uma visitando https://user.disroot.org, o que lhe dará acesso adicional a: armazenamento cloud, email, xmpp gestor de projetos. Também pode decidir criar uma conta apenas para o fórum, encontrará o botão "Sign up" no canto superior direito da página.
 
-# O menu de utlizador
+# O menu de utilizador
 Os botões no canto superior direito incluem, pesquisa e as suas definições pessoais de utilizador:
 
 ![](en/forum_basics2.png)
 
-Carregue no teu icone de utlizador o botão com a primeira letra do seu nome de utilizador, (assim que tiver uma foto de utilzador a etra será substituida por essa foto) para poder ver as suas mensagens e notificações e entrar nas definições da sua conta e área de utilizador.
+Carregue no teu ícone de utilizador o botão com a primeira letra do seu nome de utilizador, (assim que tiver uma foto de utilizador a letra será substituída por essa foto) para poder ver as suas mensagens e notificações e entrar nas definições da sua conta e área de utilizador.
 
-Os números pequenos no topo do seu avatar indicam o número de notificações (à direita) e mensagens (left) que tem. Quando clica no seu avatar verá todas as suas mensagens e notificações listadas em baixo. Também pode ver as suas mensagens através do botão ![](en/forum_basics3.png?resize=30,25).
+Os números pequenos no topo do seu avatar indicam o número de notificações (à direita) e mensagens (esquerda) que tem. Quando clica no seu avatar verá todas as suas mensagens e notificações listadas em baixo. Também pode ver as suas mensagens através do botão ![](en/forum_basics3.png?resize=30,25).
 
-Para entrar nas definições pessoais carregue no seu avatar e depois no icone ![](en/forum_basics4.png?resize=23,24). Aqui pode mudar o seu avatar, ajustar o sistema de notificações, as categorias vistas e acompanhadas e muito mais.
+Para entrar nas definições pessoais carregue no seu avatar e depois no ícone ![](en/forum_basics4.png?resize=23,24). Aqui pode mudar o seu avatar, ajustar o sistema de notificações, as categorias vistas e acompanhadas e muito mais.
 
-Nestas defenições pessoais pode também alterar a língua do interface para Português ou outras línguas.
+Nestas definições pessoais pode também alterar a língua do interface para Português ou outras línguas.
 
 # Navegação
 Quando faz log in no fórum (ou quando carrega em ![](en/forum_basics5.png?resize=100,20) para regressar à página principal do fórum), irá encontrar uma lista das categorias que está a acompanhar. Categorias são como sub-fóruns. Se é membro de um grupo privado, no fórum, as categorias desse grupo serão listadas no topo da página e as restantes categorias públicas serão listadas em baixo. Mais informações sobre como seguir ou esconder certas categorias serão colocadas em breve noutro tutorial.
 
 ![](pt/forum_basics6.png)
 
-A barra no topo permite navegar rápidamente entre: Recente, Novo, Não Lido, Os MelhoresThe bar on top allows you to quickly navigate between latest, new, unread and most active posts. Também pode filtrar as categorias que quer ver usando o botão  ![](pt/forum_basics7.png?resize=133,30).
-No fim desta barra de top encontra o butão para criar uma nova thread de discussão (Novo Tópico).
+A barra no topo permite navegar rapidamente entre os posts: Recente, Novo, Não Lido, Os Melhores. Também pode filtrar as categorias que quer ver usando o botão  ![](pt/forum_basics7.png?resize=133,30).
+No fim desta barra de top encontra o botão para criar uma nova thread de discussão (Novo Tópico).
 
 Os tópicos mais recentes também aparecem listados na sua página principal, à direita do botão C
-"Categorias". Quando carrega nun tópico será encaminhado para o último post não lido desse tópico.
+"Categorias". Quando carrega num tópico será encaminhado para o último post não lido desse tópico.
 
 # "Continua para baixo"
 
 Assim que estiver na thread de um tópico pode simplesmente continuar a ler a thread toda numa única página. Não há botões de "página seguinte", ou "página número X" - para continuar a ler basta continuar mover para baixo!
 
-Á medida que novos posts chegam eles irão aparecer automáticamente na thread.
+Á medida que novos posts chegam eles irão aparecer automaticamente na thread.
 
 # Responder aos posts
 
 Para enviar uma reposta no tópico use o butão ![](pt/forum_basics8.png?resize=80,29) no fim da página.
 
-Para responder a um post específico dentro da thread use o butão ![](pt/forum_basics9.png?resize=82,30) que existe nesse post especifico.
+Para responder a um post específico dentro da thread use o botão ![](pt/forum_basics9.png?resize=82,30) que existe nesse post especifico.
 
 Para inserir uma citação (de algo escrito num post anterior), selecione o texto que quer citar e depois carregue no botão "responder". Repetir este processo no caso de várias citações numa resposta!
 
 Para ter a certeza que que alguém em particular recebe uma notificação acerca da sua resposta, cite o nome de utilizador dessa pessoa. Use uma @ antes para comecar a selecionar o nome de utilizador da pessoa em causa
-To notify someone about your reply, mention their name. Ex: `@umutilizadorqualquer`
+Ex: `@umutilizadorqualquer`
 
 Também pode assinalar um like, partilhar, assinalar, guardar nos um post bookmark.
 
@@ -70,7 +70,7 @@ Também pode assinalar um like, partilhar, assinalar, guardar nos um post bookma
 Também pode convidar outro utilizador a participar numa determinada thread, carregando no botão ![](pt/forum_basics15.png?resize=80,29) no final da página.
 
 # Criar um novo tópico
-Pode criar um tópico dentro de uma categoria (support, changelog, etc) ou indo até à respectiva categoria e carregar no botão  ![](pt/forum_basics10.png?resize=121,26) ou simplesmente carregar no botão novo tópico e quando estiver a compor a mensagem, escolher a categoria na qual quer que a mensagem seja postada.
+Pode criar um tópico dentro de uma categoria (support, changelog, etc) ou indo até à respetiva categoria e carregar no botão  ![](pt/forum_basics10.png?resize=121,26) ou simplesmente carregar no botão novo tópico e quando estiver a compor a mensagem, escolher a categoria na qual quer que a mensagem seja postada.
 
 ![](pt/forum_basics2.gif)
 
@@ -99,7 +99,7 @@ Pode fazer o upload de ficheiros carregando no botão "Carregar" ![](pt/forum_ba
 
 ![](pt/forum_basics6.gif)
 
-## Mover ficheiros, imagens e vídeos de um sition para o outro dentro do post
+## Mover ficheiros, imagens e vídeos de um sitio para o outro dentro do post
 Ficheiros, imagens e vídeos são representados no lado esquerdo do ecrã (onde se pode ver o código todo do post) da seguinte forma, ex:
 
 **Ficheiros**
@@ -112,10 +112,10 @@ Ficheiros, imagens e vídeos são representados no lado esquerdo do ecrã (onde 
 >https ://forum.disroot.org/uploads/default/original/1X/59b17ec97a8daabcb96a787b4900f3d3221083da.mp4
 
 Para os mover de um sítio para o outro dentro do post que está a escrever, basta cortar a linha de texto que representa o ficheiro em causa e colá-la noutra parte do post.
-Para além disso, no caso de imagens, é possivel ajustar o tamanhocom que vão aparecer no post alterando os valores que aparecem à direita de  `height=` (altura) e `width=` (largura) na linha.
+Para além disso, no caso de imagens, é possível ajustar o tamanho com que vão aparecer no post alterando os valores que aparecem à direita de  `height=` (altura) e `width=` (largura) na linha.
 
 ## Adicionar tags/etiquetas ao seu tópico
-Adicionar um tag torna mais fácil para outras pessoas pesquisárem tópicos ou threads especificos sobre um determinado assunto. Adicionar um tag é super fácil.
+Adicionar um tag torna mais fácil para outras pessoas pesquisarem tópicos ou threads específicos sobre um determinado assunto. Adicionar um tag é super fácil.
 
 ![](pt/forum_basics7.gif)
 
@@ -124,7 +124,7 @@ Assim que tiver terminado de compor o seu post basta carregar em  "Criar tópico
 # Como vigiar/acompanhar ou silenciar uma categoria
 No Discourse é possível regular o fluxo de mensagens que se recebe via fórum e por email. Pode silenciar uma categoria ou apenas uma sub-categoria que você não tenha interesse em seguir, ou selecionar "vigiar" categorias, o que vai garantir que receberá sempre notificações e emails da(s) categoria(s) em que está interessado.
 
-Se silenciar uma categoria, irá também silenciar todas as suas sub-categorias, a não ser que especifique que quer vigiar alguma sub-categoria. Se "silenciar" uma categoria ou sub-categoria, será na mesma capaz aceder às mensagens no fórum, caso queira dar uma espreitade-la de tempos a tempos. Simplesmente não receberá nenhum email ou notificação acerca desses posts/tópicos.
+Se silenciar uma categoria, irá também silenciar todas as suas sub-categorias, a não ser que especifique que quer vigiar alguma sub-categoria. Se "silenciar" uma categoria ou sub-categoria, será na mesma capaz aceder às mensagens no fórum, caso queira dar uma olhada de tempos a tempos. Simplesmente não receberá nenhum email ou notificação acerca desses posts/tópicos.
 
 As categorias e sub-categorias existentes no fórum do Disroot atualmente são:
 
@@ -138,19 +138,17 @@ As categorias e sub-categorias existentes no fórum do Disroot atualmente são:
 * TOFU
 * Engineering Yuvasamithi
 
-The best way to watch/mute categories is in your preferences, from there you can set all your mute and watch preferences from one single place.
+A melhor maneira de selecionar categorias para vigiar/silenciar é nas suas preferências, a partir daí pode fazer todas as suas escolhas a partir de um único sítio.
 
 ![](pt/forum_basics12.png)
 
-Just scroll down to **Categories** , you will see the **fields** for **Mute** and **Watched**, write the categories you want in each and in the end **save your settings** for them to take effect.
+Basta ir a **Categories** e irá ver os **campos** para **Silenciado** e **Vigiado**, escrever as que quer em  cada campo e no final carregar em **Guardar as alterações** para elas entrarem em vigor.
 
 ![](pt/forum_basics8.gif)
 
-The other method is to navigate to each category or sub-category one by one and do it from there, by pressing the button that is to right of "new topic" ![](pt/forum_basics13.png?resize=50,25)
+O outro método é ir a cada categoria ou sub categoria e fazê-lo a partir daí carregando no botão à direita de "Novo tópico" ![](pt/forum_basics13.png?resize=50,25)
 
 ![](pt/forum_basics9.gif)
-
-----------
 
 
 
