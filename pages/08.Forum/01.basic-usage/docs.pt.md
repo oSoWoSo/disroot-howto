@@ -1,5 +1,5 @@
 ---
-title: Discourse - Basic usage
+title: Discourse (Fórum)- Introdução
 page-toc:
   active: true
 published: true

@@ -1,5 +1,5 @@
 ---
-title: Using Forum as a mailinglist
+title: Utilizar o fórum como uma mailinglist
 page-toc:
   active: true
 published: true
@@ -15,7 +15,7 @@ Disroot, mainly hosts private forum groups. If you are interested in one, drop u
 **NOTE:** To be able to be a member of a Group (Public or Private) you don't need to have a Disroot account. You can create forum only accounts.
 
 ----------
-## How mailinglist works in Discourse
+##How mailinglist works in Discourse
 
 Discourse, the software used by Disroot, is a Forum software with malinglist functionalities. It has what we for this tutorial call **Groups**. And those Groups can have or not **Categories** in them (think of them as subjects or main topics).
 As an example, the Disroot Group has several Categories dedicated to different subjects to organize discussions and exchange messages between users:
@@ -65,7 +65,7 @@ You can read more about watching and muting categories [here](https://forum.disr
 The name of the Group and of the Categories, and corresponding email aliases, can be whatever you like (unless their already taken).
 
 ----------
-## Private Groups/Mailinglist
+##Private Groups/Mailinglist
 
 Private Groups/Mailinglists work as described above, but like the name says they are private and can only be seen and accessed by the group's members. You can only send an email to this group if you are a member.
 
@@ -80,7 +80,7 @@ Now you don't:
 
 ![](en/forum_ml8.png)
 
-### Adding members to the private group
+###Adding members to the private group
 
 There are two ways to add members to a Private Group:
 
@@ -89,14 +89,14 @@ There are two ways to add members to a Private Group:
 2. The Disroot admins can send bulk invitations to all the members in one single moment and preconfigure their accounts so that they don't receive emails from other Disroot public Groups (e.g: Tutorials, Support, etc.)
 
 ----------
-## Public Groups/Mailinglist
+##Public Groups/Mailinglist
 
 Public Groups work as described in above so far. The main difference from private Groups is that:
 
 They are public, and any of the Forum users can see it's discussions, and make a post there via the Forum Web-interface (or by email if an email address is assigned). They can also be seen by people on the internet, that are not users of the Forum and can show up in results from search engines like google.
 
 ----------
-## The case of Disroot's public Groups
+##The case of Disroot's public Groups
 
 The Disroot Forum public Categories (i.e, FAQ, Features, Changelog, Main, Howto / Toturials, Open Talks, etc.) don't have email aliases assigned to them so you cannot create a topic in those Categories via email.
 
