@@ -128,7 +128,6 @@ The current categories and sub-categories in the Disroot Forum are:
  * feature
  * main
  * FAQ
- * Howto/Tutorials
 * Open Talks
 * TOFU
 * Engineering Yuvasamithi

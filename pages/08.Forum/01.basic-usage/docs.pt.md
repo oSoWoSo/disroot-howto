@@ -83,51 +83,50 @@ O Discourse tem suporte para Markdown e HTML para compôr as mensagens. Do lado 
 
 ![](pt/forum_basics3.gif)
 
-Mas não é necessário aprender Markdown ou HTML para escrever um tópico. Pode simplesmente usar as opções de formatação de texto apresentadas na barra superior: 
-**Citação**, **Bold**, **Itálico**, **Lista de Items**, **Lista Númerada**, **Títulos**, **Linha horizontal**, **Emojis**. Atalhos como CTRL+b ou CTRL+I 
+Mas não é necessário aprender Markdown ou HTML para escrever um tópico. Pode simplesmente usar as opções de formatação de texto apresentadas na barra superior:
+**Citação**, **Bold**, **Itálico**, **Lista de Items**, **Lista Númerada**, **Títulos**, **Linha horizontal**, **Emojis**. Atalhos como CTRL+b ou CTRL+I
 funcionam.
 
 ![](pt/forum_basics4.gif)
 
-## Inserting pictures and videos
-You can insert pictures into your topic by dragging them to the message to the part where you want them to be.
+## Inserir imagens e videos
+Você pode inserir imagens ou vídeos no seu post, arrastando-os do para a parte da mensagem onde os quer colocar.
 
-![](en/forum_basics5.gif)
+![](pt/forum_basics5.gif)
 
-To insert a video it's the same process.
+## Fazer upload de ficheiros para o seu tópico
+Pode fazer o upload de ficheiros carregando no botão "Carregar" ![](pt/forum_basics16.png) e depois navegar pelos ficheiros até encontrar o ficheiro que quer.
 
-## Uploading files to your topic
-You can upload files by pressing the upload button and then browsing until you reach and select the file you want.
+![](pt/forum_basics6.gif)
 
-![](en/forum_basics6.gif)
+## Mover ficheiros, imagens e vídeos de um sition para o outro dentro do post
+Ficheiros, imagens e vídeos são representados no lado esquerdo do ecrã (onde se pode ver o código todo do post) da seguinte forma, ex:
 
-## Moving files, pictures and videos from one place to another in the message
-File, pictures, and videos will be presented on the left side of the screen (where all the code is) like this:
-
-**Files**
+**Ficheiros**
 > < a class="attachment" href="/uploads/default/original/1X/ffd8f38b235dbf199a919f0187ae63a183d22ada.odt">hello world.odt</a> (8.0 KB)
 
-**Pictures**
+**Imagens**
 > < img src="/uploads/default/original/1X/019a9706a4676128e452b81f450851353f36175c.png" width="690" height="347">
 
-**Videos**
+**Vídeos**
 >https ://forum.disroot.org/uploads/default/original/1X/59b17ec97a8daabcb96a787b4900f3d3221083da.mp4
 
-To move them just cut the line and paste it where you want it. Also in the case of pictures you can adjust their size by changing the values for "height" and "width" in the line.
+Para os mover de um sítio para o outro dentro do post que está a escrever, basta cortar a linha de texto que representa o ficheiro em causa e colá-la noutra parte do post.
+Para além disso, no caso de imagens, é possivel ajustar o tamanhocom que vão aparecer no post alterando os valores que aparecem à direita de  `height=` (altura) e `width=` (largura) na linha.
 
-## Adding tags to your topic
-Adding a tag makes it easier for people looking for topics or threads about a certain subject. Adding them is supper easy.
+## Adicionar tags/etiquetas ao seu tópico
+Adicionar um tag torna mais fácil para outras pessoas pesquisárem tópicos ou threads especificos sobre um determinado assunto. Adicionar um tag é super fácil.
 
-![](en/forum_basics7.gif)
+![](pt/forum_basics7.gif)
 
-Once your done with composing your topic just press "Create Topic" ![](en/forum_basics14.png)
+Assim que tiver terminado de compor o seu post basta carregar em  "Criar tópico" ![](pt/forum_basics14.png)
 
-# Howto mute or watch categories
-In Discourse it's possible for you regulate the stream of posts you receive via the forum board or via email. You can mute categories or just a sub-category you are not interested or set categories to watch which will guarantee you will always receive notifications and emails of every post in a category or sub-category you are interested in.
+# Como vigiar/acompanhar ou silenciar uma categoria
+No Discourse é possível regular o fluxo de mensagens que se recebe via fórum e por email. Pode silenciar uma categoria ou apenas uma sub-categoria que você não tenha interesse em seguir, ou selecionar "vigiar" categorias, o que vai garantir que receberá sempre notificações e emails da(s) categoria(s) em que está interessado.
 
-If you just mute a category you will be muting all sub-categories, unless you select a specific sub-category to watch. If you mute a category or sub-category you will still be able to access it in the message board, if you want to check it from time to time. You simply just don't receive any emails or notifications about it.
+Se silenciar uma categoria, irá também silenciar todas as suas sub-categorias, a não ser que especifique que quer vigiar alguma sub-categoria. Se "silenciar" uma categoria ou sub-categoria, será na mesma capaz aceder às mensagens no fórum, caso queira dar uma espreitade-la de tempos a tempos. Simplesmente não receberá nenhum email ou notificação acerca desses posts/tópicos.
 
-The current categories and sub-categories in the Disroot Forum are:
+As categorias e sub-categorias existentes no fórum do Disroot atualmente são:
 
 * disroot
  * disroot-Changelog
@@ -135,25 +134,24 @@ The current categories and sub-categories in the Disroot Forum are:
  * feature
  * main
  * FAQ
- * Howto/Tutorials
 * Open Talks
 * TOFU
 * Engineering Yuvasamithi
 
 The best way to watch/mute categories is in your preferences, from there you can set all your mute and watch preferences from one single place.
 
-![](en/forum_basics12.png)
+![](pt/forum_basics12.png)
 
 Just scroll down to **Categories** , you will see the **fields** for **Mute** and **Watched**, write the categories you want in each and in the end **save your settings** for them to take effect.
 
-![](en/forum_basics8.gif)
+![](pt/forum_basics8.gif)
 
-The other method is to navigate to each category or sub-category one by one and do it from there, by pressing the button that is to right of "new topic" ![](en/forum_basics13.png?resize=50,25)
+The other method is to navigate to each category or sub-category one by one and do it from there, by pressing the button that is to right of "new topic" ![](pt/forum_basics13.png?resize=50,25)
 
-![](en/forum_basics9.gif)
+![](pt/forum_basics9.gif)
 
 ----------
 
 
 
- You can find more tips at [Discourse's welcome message](https://forum.disroot.org/t/welcome-to-discourse)
+ Pode encontrar mais dicas na [Página de boas-vindas do Discourse](https://forum.disroot.org/t/welcome-to-discourse)
