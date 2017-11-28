@@ -26,7 +26,7 @@ These Groups and each Category in them can be assigned an email alias that works
 
 ![](en/forum_ml2.png)
 
-Members of that Group receive a notification of that topic in their message board and in their emails.
+Members of that Group receive a notification of that topic in their message board in their emails.
 
 ![](en/forum_ml3.png)
 
@@ -60,7 +60,7 @@ The system described above has two main advantages:
 2. Since it's possible for users of the Forum (in general) - and in this specific case, members of the Group - to select the categories of which they want to be notified and receive emails from, members of a Group can filter the Group's Categories they are not interested in, instead of being hit by a stream of messages in their mailbox.
 
 Those settings can be changed at any time, and members of a Group/Mailinglist can always access the full content/messages of all Categories in the Forum's web interface, even those they have selected not to receive in their email.
-You can read more about watching and muting categories [here](https://forum.disroot.org/t/forum-how-to-use-the-discourse-web-interface/875#watchmute) if you want.
+You can read more about watching and muting categories [here](https://howto.disroot.org/en/forum/basic-usage) if you want.
 
 The name of the Group and of the Categories, and corresponding email aliases, can be whatever you like (unless their already taken).
 

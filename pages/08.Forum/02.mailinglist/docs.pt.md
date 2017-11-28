@@ -1,5 +1,5 @@
 ---
-title: Utilizar o fórum como uma mailinglist
+title: Utilizar o Fórum como uma mailinglist
 page-toc:
   active: true
 published: true
@@ -8,99 +8,100 @@ taxonomy:
     category:
         - docs
 ---
-In this tutorial we will show how Discourse can be used as a mailinglist for Collectives/Associations/Projects.
+Neste tutorial iremos explicar como o Discourse pode ser utilizado como uma mailinglist para Coletivos/Associações/Projetos.
 
-Disroot, mainly hosts private forum groups. If you are interested in one, drop us a line.
+O Disroot, alberga principalmente grupos privados no Fórum. Se está interessado num entre em contacto connosco.
 
-**NOTE:** To be able to be a member of a Group (Public or Private) you don't need to have a Disroot account. You can create forum only accounts.
+**NOTA:** Para ser membro de um grupo (público, ou privado) não é necessário ter uma conta Disroot. Pode criar uma conta apenas para o fórum.
 
 ----------
-##How mailinglist works in Discourse
+## Como funcionam as mailinglists no Discourse
 
-Discourse, the software used by Disroot, is a Forum software with malinglist functionalities. It has what we for this tutorial call **Groups**. And those Groups can have or not **Categories** in them (think of them as subjects or main topics).
-As an example, the Disroot Group has several Categories dedicated to different subjects to organize discussions and exchange messages between users:
+O software utilizado pelo Disroot, o Discourse é um software de fórum com funcionalidades de mailinglist. Tem, aquilo que para efeitos deste tutorial iremos chamar **Grupos**. E esses grupos podem ter, ou não,  **Categorias** dentro deles (como se fossem assuntos ou tópicos principais dentro de um grupo).
+Por exemplo, o grupo Disroot tem várias categorias dedicadas a tópicos diferentes para organizar discussões e trocar mensagens entre utilizadores:
 
 ![](en/forum_ml1.png)
 
-These Groups and each Category in them can be assigned an email alias that works as an address for a mailinglist, that you can use to create a topic via your email (webmail or client) in that Group/ or Category.
+Cada um destes grupos ou categorias pode ter um alias de email, que funciona como se fosse o endereço da mailinglist, que pode ser usado para criar um tópico por email (webmail or cliente de email) num respectivo grupo ou categoria.
 
 ![](en/forum_ml2.png)
 
-Members of that Group receive a notification of that topic in their message board and in their emails.
+Os membros desse grupo recebem a mensagem tanto no fórum como nos seus emails.
 
 ![](en/forum_ml3.png)
 
 ![](en/forum_ml4.png)
 
-And are able to reply to that topic via the message board or by email, as they prefer.
+E podem responder à mensagem tanto através do fórum como por email, como preferirem.
 
 ![](en/forum_ml5.png)
 
-This creates a system that can be used both by mailinglist fans and Forum fans.
+Isto permite criar um sistema que pode ser usado tanto por fãs de fóruns como por fãs de malinglists.
 
-You can have a Group with only one category and one email alias assigned to it. Or if it's a large collective, with workgroups, you can have a Group with several categories each one with a different email alias and working as a mailinglist of it's own, something like this:
+Você pode ter um grupo com apenas uma categoria e um alias de email atribuído. Ou se for um coletivo grande, com grupos de trabalho, pode ter um grupo com várias categorias, cada um com um alias de email diferente e a funcionar como uma mailinglist autónoma. Algo deste género:
 
-> * **Group** (Collective/Project/Association)
->  * **Main/General/Assembly**
->email alias: **assembly_group@disroot.org**
+> * **Grupo** (Coletivo/Projecto/Associação)
+>  * **Principal/Geral/Assembleia**
+>alias de email: **assembleia_grupo@disroot.org**
 
->  * **Category1**
->email alias: **category1_group@disroot.org**
->  * **Category2**
->email alias: **category2_group@disroot.org**
+>  * **Categoria1**
+>alias de email: **Categoria1_grupo@disroot.org**
+>  * **Categoria2**
+>alias de email: **Categoria2_grupo@disroot.org**
 
->  * **Category3**
->email alias: **category3_group@disroot.org**
+>  * **Categoria3**
+>alias de email: **Categoria3_grupo@disroot.org**
 
-<br>
-The system described above has two main advantages:
 
-1. If you are a part of a collective/association/project with workgroups or lots of subjects, you can divide the discussion of the workgroups or subjects by the different categories instead of having them all mashed together in one single mailinglist.
+O sistema descrito em cima tem duas vantagens principais:
 
-2. Since it's possible for users of the Forum (in general) - and in this specific case, members of the Group - to select the categories of which they want to be notified and receive emails from, members of a Group can filter the Group's Categories they are not interested in, instead of being hit by a stream of messages in their mailbox.
+1. Se é membro de um coletivo/associação/projeto com grupos de trabalho, pode dividir a discussão dos grupos de trabalho ou tópicos pelas diferentes categorias em vez de ter tudo à mistura numa única mailinglist.
 
-Those settings can be changed at any time, and members of a Group/Mailinglist can always access the full content/messages of all Categories in the Forum's web interface, even those they have selected not to receive in their email.
-You can read more about watching and muting categories [here](https://forum.disroot.org/t/forum-how-to-use-the-discourse-web-interface/875#watchmute) if you want.
+2. Tendo em conta que é possível para os utilizadores do fórum (no geral) e neste caso em particular, os membros do grupo, selecionar as categorias cujas mensagens que querem receber no seu email. Os membros do grupo, podem na prática filtrar as categorias que não tem interesse receber mensagens de email em vez de levarem com um grande fluxo de mensagens na sua caixa de entrada do email.
 
-The name of the Group and of the Categories, and corresponding email aliases, can be whatever you like (unless their already taken).
+Estas definições podem ser alteradas a qualquer momento e os membros de um grupo/mailinglist podem sempre ter acesso às mensagens de todos os grupos/categorias no interface web do fórum, incluíndo aquelas que selecionaram não receber por email.
+Se quiser pode ler mais sobre como selecionar "Vigiar" e "Silenciar" categorias no fórum [aqui](https://howto.disroot.org/pt/forum/basic-usage).
+
+O nome do grupo e as respectivas categorias e os alias de email correspondentes podem ser o que você quiser (a não ser que já estejam a ser usados).
 
 ----------
-##Private Groups/Mailinglist
+## Grupos/Mailinglist privados
 
-Private Groups/Mailinglists work as described above, but like the name says they are private and can only be seen and accessed by the group's members. You can only send an email to this group if you are a member.
+Grupos/Mailinglists privadas funcionam como foi descrito em cima, mas tal como o nome indica são privadas e apenas podem ser vistas e acedidas pelos membros do grupo. Apenas pode enviar um email para esse grupo se for membro.
 
-Private Groups can be seen and accessed only by group members in the Forum's web-interface, and have a padlock symbol ![](en/forum_ml6.png?resize=20,21). When you log in to the in the Forum, the categories of the private groups that you are a member of show up at the top.
+No interface web do fórum os grupos privados apenas podem ser acedidos pelos seus membros e aparecem representados por um cadeado ![](en/forum_ml6.png?resize=20,21). Quando faz log in no fórum, os grupos privados a que pertence aparecem sempre no topo.
 
-People that are not members of the Group cannot even see that the private Group exists.
-Now you see me:
+Pessoas que não são membros dos grupos privados nem conseguem ver que o grupo existe.
+
+Agora vês:
 
 ![](en/forum_ml7.png)
 
-Now you don't:
+Agora não:
 
 ![](en/forum_ml8.png)
 
-###Adding members to the private group
+### Adicionar participantes a um grupo privado
 
-There are two ways to add members to a Private Group:
+Há duas maneiras de adicionar participantes a um grupo privado:
 
-1. The owner(s) of the Group can add users individually. But this has two inconveniences, the users are added one by one, second you need do the settings of each user manually (i.e: mutting other public groups in the Disroot Forum so that the members don't receive mails from Disroot that they don't want.
+1. Quem administra o grupo pode adicionar participante individualmente. Mas isto tem dois inconvenientes, os participantes são adicionados um a um, segundo é necessário configurar as definições de cada participante individualmente (ex: silenciar mensagens de grupos públicos no fórum do Disroot, para que os membros do grupo privado não recebam mensagens de grupos públicos que não queiram.
 
-2. The Disroot admins can send bulk invitations to all the members in one single moment and preconfigure their accounts so that they don't receive emails from other Disroot public Groups (e.g: Tutorials, Support, etc.)
-
-----------
-##Public Groups/Mailinglist
-
-Public Groups work as described in above so far. The main difference from private Groups is that:
-
-They are public, and any of the Forum users can see it's discussions, and make a post there via the Forum Web-interface (or by email if an email address is assigned). They can also be seen by people on the internet, that are not users of the Forum and can show up in results from search engines like google.
+2. Os administradores do Disroot podem enviar convites em larga escala de uma única vez com as pré-definições já todas feitas de modo a que os membros do grupo privado não recebam emails de grupos públicos do fórum (ex: Changelog, Support, etc.)
 
 ----------
-##The case of Disroot's public Groups
+## Grupos/Mailinglist públicos
 
-The Disroot Forum public Categories (i.e, FAQ, Features, Changelog, Main, Howto / Toturials, Open Talks, etc.) don't have email aliases assigned to them so you cannot create a topic in those Categories via email.
+Grupos públicos funcionam como descrito em cima. A principal diferença é que:
 
-You can only reply to them via email when you receive a post in your mailbox.
+São públicos, qualquer utilizador do fórum pode ver os tópicos e discussões e fazer um post via o interface web do fórum (ou por email se o grupo tiver um alias de email atribuído). Também podem ser vistos por pessoas na Internet, que não são utilizadores do fórum e podem aparecer em resultados de motores de busca como por exemplo o google.
+
+----------
+## O caso dos grupos públicos do Disroot
+
+As categorias públicas do Disroot no fórum (ex: FAQ, Features, Changelog, Main, Open Talks, etc.) não tem alias de email atribuídos por isso não é possível criar um tópico via email nestes grupos e nas suas respetivas categorias.
+
+Apenas pode responder via email quando recebe o post na sua caixa de correio.
 
 
 ----------
