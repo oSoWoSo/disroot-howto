@@ -35,7 +35,7 @@ Veja as suas definições de email e faça os ajustes necessários, (a única co
 
 ![](pt/android-k9_3.png)
 
-4. **Outgoing email setup**
+4. **Deinições de saída do servidor**
 Tal como nas definições de entrada do servidor. Por favor certifique-se que:
  - Servidor SMTP é **disroot.org**
  - Segurança é **STARTTLS**
