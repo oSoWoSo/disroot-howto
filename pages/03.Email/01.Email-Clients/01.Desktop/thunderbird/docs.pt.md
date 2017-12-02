@@ -1,5 +1,5 @@
 ---
-title: Thunderbird.
+title: Thunderbird
 page-toc:
   active: true
 published: true
