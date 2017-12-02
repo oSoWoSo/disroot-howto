@@ -29,7 +29,7 @@ Once you start the application for the first time, you need to **create new acco
 ![](en/android-k9_2.png)
 
 3. **Incoming email setup**
-Look at the mail settings and adjust it accordingly. (the only thing you should change is *mail.disroot.org* into **disroot.org**). Check the screenshot or follow the [general server setup information.](#Other)
+Look at the mail settings and adjust it accordingly. (the only thing you should change is *mail.disroot.org* into **disroot.org**). Check the screenshot or follow the [general server setup information.](https://howto.disroot.org/pt/email/email-clients)
 
 ![](en/android-k9_3.png)
 
