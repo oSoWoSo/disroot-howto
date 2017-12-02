@@ -1,10 +1,10 @@
 ---
-title: How to setup mail alias
+title: Como configurar um alias de email
 ---
 
-Once you requested email aliases using the [form](https://disroot.org/forms/alias-request-form). You need to set them up. Below you can find how to do it on various email clients.
+Assim que tenha pedido alias de email utilizando o [formulário](https://disroot.org/forms/alias-request-form). Necessita de os configurar. Em baixo pode ler sobre como o fazer em diferentes clientes de mail.
 
 ## Table of contents
-- [Webmail](webmail)
-- [Thunderbird](thunderbird)
-- [K9](k9)
+- [Webmail](webmail/)
+- [Thunderbird](thunderbird/)
+- [K9](k9/)
