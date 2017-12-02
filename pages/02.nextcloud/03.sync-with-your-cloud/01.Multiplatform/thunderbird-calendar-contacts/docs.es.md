@@ -9,142 +9,142 @@ taxonomy:
         - docs
 ---
 
-Las herramientas Contactos y Calendario en Disroot/Nexcloud son bastante geniales, pero si además tienes tu cuenta de correo de Disroot conectada a un cliente de correo como Thunderbird entonces es excelente tenerlas integradas Disroot integrated with Thunderbird aswell and access them from one place on your desktop.
+Las herramientas Contactos y Calendario en Disroot/Nexcloud son bastante geniales, pero si además tienes tu cuenta de correo de Disroot conectada a un cliente como Thunderbird entonces es aún mejor porque puedes tenerlas integradas y acceder a ellas desde un solo lugar en tu escritorio.
 
 ---------
 
 
-# 1 - Installing Needed Add-ons
+# 1 - Instalando los complementos (add-ons) necesarios
 
-In order to sync all your calendars, tasks and contacts to thunderbird, you will need to install those Add-ons:
+Para sincronizar tus calendarios, tareas y contactos en Thunderbird, necesitarás instalar estos complementos:
 
-* **Lightning** - a calendar for Thunderbird
-* **SoGo Connector**  -to sync you contacts
+* **Lightning** - un calendario para Thunderbird.
+* **SoGo Connector**  - para sincronizar tus contactos.
 
-**Note!** Even if you just want to sync your contacts you will still need the lightning add-on. So says the Nextcloud manual [here](https://docs.nextcloud.com/server/9.0/user_manual/pim/sync_thunderbird.html)
+**¡Nota!** Aún cuando sólo quisieras sincronizar tus contactos necesitarás el complemento Lightning. Así lo dice el manual de Nextcloud [aquí](https://docs.nextcloud.com/server/9.0/user_manual/pim/sync_thunderbird.html)
 
-## Installing Lightning
+## Instalando Lightning
 
-In Thunderbird go to > tools > Add-ons
+En Thunderbird ve a > Herramientas > Complementos
 ![](en/thunderbird_1.png)
-In the Add-ons page on the upper right corner you will find a search bar. Just search for "Lightning". Once thunderbird finds it for you, press install.
+En la página de Complementos en la esquina superior derecha encontrarás una barra de búsqueda. Busca "Lightning". Cuando Thunderbird la encuentre, presiona instalar.
 
 ![](en/thunderbird_2.png)
 
-You will need to restart Thunderbird in order to finish the installation of both Add-ons
+Necesitarás reiniciar Thunderbird para finalizar la instalación del complemento.
 
-## Installing So Go Connector
+## Instalando So Go Connector
 
-This Add-on is not listed in the Add-ons menu so we have to download it straight from the developers website [here](https://sogo.nu/download.html#/frontends)
+Este complemento no está listado en el menú así que tenemos que descargarlo directamente del sitio de los desarrolladores. [here](https://sogo.nu/download.html#/frontends)
 
-On the website select **"SoGo Connector"**. Then once downaloaded, go back to thunderbird's  Add-ons menu and select install from file option.
+En el sitio web selecciona **"SoGo Connector"**. Una vez descagado, vuelve al menú de complementos de Thunderbird, en Plugins haz click en el ícono del "engranaje" y selecciona la opción "Instalar desde archivo".
 
 ![](en/thunderbird_3.png)
 
-Now select SoGo connector file (.xpi extension) you've just downloaded from the website.
-The following image should appear next, just press install
+Ahora selecciona el archivo SoGo connector (extensión .xpi) que descargaste del sitio web.
+La siguiente imagen debería aparecer, presiona instalar.
 
 ![](en/thunderbird_4.png)
 
-For both Add-ons to finish their installations you will need to restart Thunderbird
+Igual que antes, necesitarás reiniciar Thunderbird para finalizar la instalación del complemento.
 
 
-## 2 - Integrating calendar with Thunderbird
+## 2 - Integrando el Calendario a Thunderbird
 
-First login to your [Disroot cloud](https://cloud.disroot.org) and go to calendar app. Select options of the calendar you want to sync to thunderbird.
-Now, copy the link URL of your calendar. You will need it to sync with thunderbird.
+Primero, accede a tu cuenta de [nube de Disroot](https://cloud.disroot.org) y ve a la aplicación Calendario. Selecciona las opciones del calendario que deseas sincronizar con Thunderbird.
+Ahora, copia el link URL de tu calendario. Lo necesitarás para sincronizar con Thunderbird.
 
  ![](en/thunderbird_6.png)
 
-Now in Thunderbird. Either go to: File > New > Calendar or go directly to Calendar window and select *"New calendar"* by right clicking on the calendar list.
+Ahora, en Thunderbird, puedes ir a: Archivo > Nuevo > Calendario o directamente a la ventana Calendario y seleccionar *"Nuevo calendario"* haciendo click derecho sobre la lista de calendario.
 
 ![](en/thunderbird_7.png)
 
-Now configure your calendar to sync:
-1- select the option **CalDAV**
-2 - In the location field, paste the link of your Disroot Calendar that you copied earlier
-3 - Select offline support, if you want to keep a local copy of you calendar, in case you need to work offline
-4 - Press next
+Ahora configura tu calendario para sincronizar:
+1: Selecciona la opción **CalDAV**
+2: En el campo ubicación, pega el link de tu calendario Disroot que habías copiado antes.
+3: Selecciona soporte offline, si quieres mantener una copia local de tu calendario, en caso que necesites trabajar fuera de línea.
+4: Presiona Siguiente.
 ![](en/thunderbird_8.png)
 
-Give your calendar a name and assign a color.
-Then press next.
+Dale un nombre a tu calendario y asígnale un color.
+Luego, presiona Siguiente.
 
 ![](en/thunderbird_9.png)
 
-Then press finish.
-Your calendar is now synced with Thunderbird. Any event created in thunderbird will apear on disroot cloud and vice versa.
+Luego, presiona Finalizar.
+Tu calendario está ahora sincronizado con Thunderbird y cualquier evento creado en él aparecerá en la nube de Disroot y viceversa.
 
 ![](en/thunderbird_10.png)
 
-**Note!**
-If you have multiple calendars in your Disroot account, just repeat this process for each calendar. You can use a different color to each calendar to set them apart. This method works for any nextcloud/owncloud provider out there.
-Additionally you can sync any calendars form any provider as long as they support caldav protocol (check with your provider for more details)
+**¡Nota!**
+Si tienes múltiples calendarios en tu cuenta de Disroot, simplemente repite este proceso para cada uno de ellos. También puedes asignarles un color diferente a cada uno para mantenerlos separados. Este método funciona para todos los proveedores de Nextcloud/Owncloud que hay.
+Adicionalmente, puedes sincronizar cualquier calendario de cualquier proveedor en tanto soporten el protocolo caldav (verifica esto con tu proveedor para más detalles).
 
 ![](en/thunderbird_11.png)
 
-### Adding events with multiple calendars
-If you have multiple calendars in Thunderbird, when creating an event you need to to select to which calendar it goes to, otherwise you maybe end up looking for it online in the wrong place
+### Agregando eventos con múltiples calendarios
+Si tienes varios calendarios en Thunderbird, cuando creas un evento necesitas seleccionar a qué calendario corresponde, de otra manera, quizás termines buscándolo online en el lugar equivocado.
 
 ![](en/thunderbird_12.png)
 
-If you right click the calendars in Thunderbird you will have a set of options, from:
+Si haces click derecho sobre los calendarios en Thunderbird, tendrás una serie de opciones tales como:
 
-* Show or hide a Calendar
-* Export Calendar
-* Unsubscribe Calendar (remove it from Thunderbird)
-* Making it read only (in Thunderbird)
-* Synchronize Calendar  
+* Mostrar/Ocultar Calendario
+* Exportar Calendario
+* Dar de baja Calendario (quitarlo de Thunderbird)
+* Hacerlo de sólo lectura (en Thunderbird)
+* Sincronizar Calendario
 
 ![](en/thunderbird_13.png)
 
-# Contacts - Integration with Thunderbird
+# Contactos - Integración con Thunderbird
 
-The process is similar to the integration of Calendars in Thunderbird. First you need to get the link from the contacts in your Disroot account.
+El procedimiento es similar al de integración de Calendarios en Thunderbird. Primero, necesitas obtener el link de los contactos de tu cuenta de Disroot.
 
-Go to the contacts app in Disroot webapp ,then go to settings ('gear' icon in the bottom left-panel).Select the share "url button" so that it presents you with a link.
-Copy that link and save it, you will need it later.
+Ve a la aplicación Contactos en Disroot, luego a Ajustes (el ícono del "engranaje" abajo en el panel izquierdo). Presiona el botón de "compartir" y te mostrará un link.
+Cópialo y guárdalo, lo necesitás luego.
 
 ![](en/thunderbird_contacts-1.png)
 
-In Thunderbird, select Tools > Address Book
+En Thunderbird, selecciona Herramientas > Libreta de Direcciones
 ![](en/thunderbird_contacts-2.png)
 
-Then select: File > New > Remote Address Book
+Luego selecciona: Archivo > Nuevo > Libreta de direcciones remota
 
 ![](en/thunderbird_contacts-3.png)
 
-In the next panel you will be asked to set the name and url:
+En el siguiente panel se te solicitará establecer un nombre y la URL:
 
-* The name is the name you want to give to your address book in thunderbird
-* The url is the link that you got earlier from the contact app in Disroot
+* El nombre es el que quieras darle a tu libreta de direcciones en Thunderbird
+* La url es el link que obtuviste ante de la aplicación Contactos en Disroot
 
-In this same panel
-You can set the periodic syncing to 5 minutes (the default is 15 minutes)
-You can set the contacts to read only if you want to (but if you do that you wont be able to edit the contacts in Thunderbird)
+En este mismo panel
+Puedes establecer sincronizaciones periódicas hasta cada 5 minutos (el valor por defecto es 15 minutos)
+Puedes configurar que los contactos sean de sólo lectura si quieres (pero si lo haces no podrás editarlos en Thunderbird)
 
-When you are done press "ok"
+Cuando hayas terminado, presiona "ok"
 
 ![](en/thunderbird_contacts-4.png)
 
-Right click your new remote address book and select Synchronize
+Haz click derecho sobre tu nueva libreta de direcciones remota y selecciona Sincronizar.
 
 ![](en/thunderbird_contacts-5.png)
 
-You will be prompted to insert your Disroot account credentials
-Username: your Disroot Username
-Password: your Disroot password
+Se te solicitará ingresar las credenciales de tu cuenta de Disroot
+Usuario: tu Usuario de Disroot
+Contraseña: tu contraseña de Disroot
 
-Select the option: **"Use password manager to remember this password"** so that Thunderbird remembers the password and doesn’t ask for it every time you use Thunderbird
+Selecciona la opción: **"Usar el Administrador de contraseñas para recordar esta contraseña"** así Thunderbird la recuerda y no te la solicite cada vez que uses el cliente.
 
-Then press **"ok"**
-
-
-Your contacts in your Disroot account are now synced with the remote contacts address book you created in Thunderbird
+Luego presiona **"ok"**
 
 
-Any contacts you add/remove/edit in your Disroot account will be altered accordingly in your Thunderbird remote calendar and vice versa.
+Tus contactos en tu cuenta de Disroot están ahora sincronizados con la libreta de direcciones remota que creaste en Thunderbird.
 
-If you want to move contacts from your Thunderbird Personal Address Book or Collected Addresses to your new remote address book so that they sync to your Disroot contacts, just select and drag the contact to your remote address book.
 
-However it is advised that you create backups of your contacts. Just in case :wink:
+Cualquier contacto que agregues/quites/edites en tu cuenta de Disroot será modificado consecuentemente en tu calendario remoto de Thunderbird y viceversa.
+
+Si quieres mover los contactos de tu Libreta de direcciones personal o las Direcciones recopiladas, de Thunderbird a tu nueva libreta remota para que sean sincronizadas con tus contactos de Disroot, sólo selecciona y suelta el contacto a tu libreta remota.
+
+De cualquier manera es aconsejable que hagas respaldos de tus contactos. Por las dudas :wink:
