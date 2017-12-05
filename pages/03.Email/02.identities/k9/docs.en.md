@@ -11,8 +11,9 @@ taxonomy:
 First of, open K9 and go to your accounts settings
 ![](en/identity_settings.png)
 
-When in Settings, go to **"Sending Mail"** tab, tap on "**Manage Identities"**. Select **"New identity"** by tapping the "three dot" icon on top right.
-![](en/identity_settings2.gif)
+When in Settings, go to **"Sending Mail"** tab, tap on **"Manage Identities"**.
+
+![](en/identity_settings2.png)
 
 Select **"New identity"** by tapping the "three dot" icon on top right.
 *(Every disroot user by default has an username@disr.it alias he can use)*

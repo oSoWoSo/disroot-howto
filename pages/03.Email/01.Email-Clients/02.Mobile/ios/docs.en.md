@@ -28,4 +28,3 @@ taxonomy:
 ![](en/ios_mail5.PNG)
 
 Click 'Next' and your account should be ready to use within you iOS email client.
-ios_mail1.PNG
