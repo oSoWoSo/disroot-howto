@@ -9,7 +9,7 @@ taxonomy:
         - docs
 ---
 
-The contact and calendar features in Disroot/Nexcloud are pretty cool but if you have your Disroot email connected to an email client like Thunderbird it's nice to have the contacts and calendars from Disroot integrated with Thunderbird aswell and access them from one place on your desktop.
+The contact and calendar features in Disroot/Nexcloud are pretty cool but if you have your Disroot email connected to an email client like Thunderbird it's nice to have the contacts and calendars from Disroot integrated with Thunderbird as well and access them from one place on your desktop.
 
 ---------
 
@@ -102,7 +102,7 @@ If you right click the calendars in Thunderbird you will have a set of options, 
 
 The process is similar to the integration of Calendars in Thunderbird. First you need to get the link from the contacts in your Disroot account.
 
-Go to the contacts app in Disroot webapp ,then go to settings ('gear' icon in the bottom left-panel).Select the share "url button" so that it presents you with a link.
+Go to the contacts app in Disroot webapp, then go to settings ('gear' icon in the bottom left-panel).Select the share "url button" so that it presents you with a link.
 Copy that link and save it, you will need it later.
 
 ![](en/thunderbird_contacts-1.png)

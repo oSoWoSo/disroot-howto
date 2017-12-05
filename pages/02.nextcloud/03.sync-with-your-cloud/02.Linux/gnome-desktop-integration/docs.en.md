@@ -112,7 +112,7 @@ If you never worked with email desktop client and always used webapp to access y
 
 ![](en/gnome_mail.gif)
 
-Now that you have your email setup and integrated with your desktop. You can now use either "Evolution" or "Geary" mail client and enjoy all your emails, calendars, tasks, and contacts integrated in one application. Magic.. :)
+Now that you have your email setup and integrated with your desktop, you can use either "Evolution" or "Geary" mail client and enjoy all your emails, calendars, tasks, and contacts integrated in one application. Magic... :)
 
 ![](en/gnome_mail2.png)
 
