@@ -34,7 +34,7 @@ This will allow you to check, update and remove your contacts from any computer 
 
 ![](en/macos_contacts1.png)
 
-5. Scroll down in the right pane, until you can click at the bottom on '**Add Other Account...**'
+5. Scroll down in the right panel, until you can click at the bottom on '**Add Other Account...**'
 ![](en/macos_contacts2.png)
 
 7. Choose the fourth item from the top: '**CardDAV Account**'

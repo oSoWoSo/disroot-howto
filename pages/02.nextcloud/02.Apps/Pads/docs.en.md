@@ -31,7 +31,7 @@ To open the newly created pad, just click on it's name. The application will ope
 
 # Sharing
 
-Sharing pads with other disroot users is the same as sharing normal files. Click on "sharing" icon and select with whom you want to share the file with. Note using public link will not work as easy since this are not normal files.
+Sharing pads with other disroot users is the same as sharing normal files. Click on "sharing" icon and select with whom you want to share the file with. Note: using public link will not work as easy since this are not normal files.
 
 ![](en/pads_inapp_name2.gif)
 

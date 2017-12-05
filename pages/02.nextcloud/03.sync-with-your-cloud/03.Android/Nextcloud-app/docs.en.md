@@ -55,7 +55,7 @@ You can navigate through the folders by pressing on them and then using the "bac
 If you press the button with the three vertical dots in the top bar of the app, you can there **Refresh account**, **sort** and **Grid view**.
 
 In **Refresh your account** you can order to synchronize your files (if when you start the mobile app for the first time your files don't appear use this option).
-In **sort**, you cant decide if your files will be shown alphabetically, by date and so on.
+In **sort**, you can decide if your files will be shown alphabetically, by date and so on.
 In **Grid view**, you can change how the files are displayed, from a "list files" to Grid view and reverse:
 
 ![](en/nextcloud_app_main2.jpeg)    
@@ -65,7 +65,7 @@ In **Grid view**, you can change how the files are displayed, from a "list files
 
 In the general settings you can:
 
-* Chose to automatically upload any videos and pictures you take/make on your prone to your Cloud
+* Chose to automatically upload any videos and pictures you take/make on your phone to your Cloud
 * Set to which folder these uploads go to
 * Set if you want to keep a local copy of these uploaded pictures and videos
 * Set a password to access the Nexcloud Mobile app

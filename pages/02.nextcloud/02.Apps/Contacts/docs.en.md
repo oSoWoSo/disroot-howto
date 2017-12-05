@@ -10,7 +10,7 @@ page-toc:
 ---
 
 # Contacts
-You can access the contacts app by by pressing the contacts icon ![](en/contacts_top_icon.png?resize=20,20) on the top bar, in nexcloud:
+You can access the contacts app by by pressing the contacts icon ![](en/contacts_top_icon.png?resize=20,20) on the top bar, in nexcloud.
 
 ----------------------
 ## Create a contact
@@ -19,7 +19,7 @@ In the contacts app select "*New contact*"
 
 ![](en/contacts_add1.png)
 
-You will prompted with a form on the "*right-bar*" side you the form to create the new contact.
+You will prompted with a form on the "*right-bar*" side to create the new contact.
 
 ![](en/contacts_add2.png)
 
@@ -56,7 +56,7 @@ Go to "settings" on the lower left corner of the screen in the contacts app.
 
 In settings you can share your address book with other Disroot users by:
 selecting share address book
-writing the username of the disroot user you want to share the address book with
+writing the username of the disroot user you want to share the address book with.
 
 ![](en/contacts_share2.png)
 
@@ -73,7 +73,7 @@ You can import address books or individual contacts, if you have a vcf file of t
 
 ![](en/contacts_import1.png)
 
-Then select the file you want to import, and press ok
+Then select the file you want to import, and press ok.
 
 -----------------------------
 ## Create a new address book

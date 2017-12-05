@@ -12,7 +12,7 @@ page-toc:
 ------------
 # Using Calendar app
 
-You can access your calendar app by pressing the ![](calendar_top_icon.png) icon in the top bar.
+You can access your calendar app by pressing the ![](en/calendar_top_icon.png) icon in the top bar.
 *Left-bar* in the calendar window gives you an overview of your calendars, their options and general settings.
 
 ![](en/calendar_main.png)
@@ -88,7 +88,7 @@ You can also invite people to your event via email by:
 
 * pressing "Attendees"
 * Filing the field with the persons email address
-* press enter<br>
+* press enter
 
 ![](en/calendar_edit_menu7.png)
 
@@ -127,7 +127,7 @@ To share calendars via email or public link:
 
 ------------------------------
 ## Import calendars
-If you have a ICS file with a calendar to import, go to disroot calendar app then go to "Settings & Import" on the lower left corner of the screen.<br>
+If you have a ICS file with a calendar to import, go to disroot calendar app then go to "Settings & Import" on the lower left corner of the screen.
 
 ![](en/calendar_import_menu1.png)
 
