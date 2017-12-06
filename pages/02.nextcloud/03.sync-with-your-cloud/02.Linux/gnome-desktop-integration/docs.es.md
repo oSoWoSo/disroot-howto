@@ -86,29 +86,29 @@ Obtener la integración de los contactos es tan fácil como todo lo demás que h
 ![](en/gnome_contacts1.png)
 
 Luego necesitas cambiar de tu libreta de direcciones predeterminada a la provista por la nube de Disroot.
-En el menú Contacto de la aplicación, selecciona "Cambiar libreta de direcciones". Once you select your disroot account as the current one, all your contacts will be synced to your computer. All new contacts or any modification will be synced back to your disroot cloud and all the devices connected to it.
+En el menú Contacto de la aplicación, selecciona "Cambiar libreta de direcciones". Una vez que seleccionas tu cuenta de Disroot como tu cuenta actual, todos tus contactos serán sincronizados en tu computadora. Todos los nuevos contactos o cualquier modificación será sincronizada de vuelta a tu nube de Disroot y a todos los dispositivos conectados a ella.
 
 ![](en/gnome_contacts2.gif)
 
 ----------
 
-# Email
+# Correo electrónico
 
-If you never worked with email desktop client and always used webapp to access your email, you're simply doing it **wrong!** Despite the recent trend in which big corporations try to convince you otherwise, desktop clients give you integration with your work you always missed. The most popular open source email client is Thunderbird (setup is covered in [this](https://forum.disroot.org/t/email-how-to-setup-email-clients/213#Thunderbird) tutorial). If you don't like Thunderbird and would like to integrate your Email into Gnome, there is also an easy solution for that. Open again your "Gnome  Settings" and click on "Online Accounts". Now you need to scroll all the way down to the "other" option and choose for it. Next, select IMAP Account. At this stage you will be asked several questions regarding your account and mail server setup. Just follow the list below.
+Si nunca trabajaste con el cliente de correo de escritorio y siempre utilizaste el webmail para acceder a tu correo, nos parece, simplemente, que **¡no es la mejor manera!**. A pesar de la tendencia reciente de las grandes corporaciones, que intentan convencerte de lo contrario, los clientes de correo te dan una integración con tu trabajo que estabas perdiendo. El cliente de correo de código abierto más importante es Thunderbird (la configuración está incluida en [este tutorial](https://forum.disroot.org/t/email-how-to-setup-email-clients/213#Thunderbird)). Si no te gusta Thunderbird y quisieras integrar tu correo electrónico en Gnome, hay también una sencilla solución para eso. Abre de nuevo la "Configuración de Gnome" y haz click en "Cuentas en línea". Ahora necesitas deslizarte hacia abajo hasta la opción "Otros" y elegirla. Después, seleccionar Cuenta IMAP. En este punto se te harán varias preguntas con respecto a la configuración de tu cuenta y servidor de correo. Sólo sigue la lista de abajo.
 
-**email address:** *<your_username>*@disroot.org
-**Name:** A name for your account (can be anything)
-**IMAP Settings:**
-**IMAP Server:** disroot.org
-**Username:** *your disroot username*
-**Password:** *your disroot password*
-**encryption:** SSL On dedicated port
+**Dirección de correo electrónico:** *tu_nombre_de_usuario*@disroot.org
+**Nombre:** Un nombre para tu cuenta (puede ser cualquiera)
+**Configuración IMAP:**
+**Servidor IMAP:** disroot.org
+**Usuario:** *tu usuario de Disroot*
+**Contraseña:** *tu contraseña de Disroot*
+**Encriptado:** SSL en puerto dedicado
 
-**SMTP Settings:**
-**SMTP Server:** disroot.org
-**Username:** *your disroot username*
-**Password:** *your disroot password*
-**encryption:** STARTTLS after connecting
+**Configuración SMTP:**
+**Servidor SMTP:** disroot.org
+**Usuario:** *tu usuario de Disroot*
+**Contraseña:** *tu contraseña de Disroot*
+**Encriptado:** STARTTLS después de conectar
 
 ![](en/gnome_mail.gif)
 
