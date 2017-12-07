@@ -11,11 +11,11 @@ Pidgin é um aplicativo de mensagens multiplataforma (usado na maioria dos siste
 
 Para configurar o chat do disroot no Pidgin, siga estes passos básicos:
 
-1. **Instale o Pigdin**
+1. **Instale o Pigdin**.
 Se você é usuário de Windows/MACOS, busque a versão apropriada em [pidgin's website](http://pidgin.im/download/).
 Se você é usuário de GNU/Linux, busque o repositório adequado e plugins adicionais. 
 
-2. **Inicie o programa**
+2. **Inicie o programa**.
 Você receberá uma mensagem de saudação como esta:
 
 ![](en/pidgin1.png)
