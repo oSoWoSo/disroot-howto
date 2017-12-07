@@ -9,6 +9,6 @@ Adicione uma conta.
 
 Adicione um avatar, se quiser, ou pule esta etapa se não deseja ter um ou já o tem em outro aplicativo.
 
-Tudo pronto! Você está pronto para propagar a mensagem: abandonem as companhias malignas e juntem-se à federação Starship.
+Tudo pronto! Você está pronto para propagar a mensagem: abandonem os aplicativos corporativos malignos e juntem-se à federação Starship.
 
 Todos os seus contatos estarão sincronizados entre os diferentes aplicativos. Então, você pode usar o chat disroot em vários dispositivos ao mesmo tempo.
