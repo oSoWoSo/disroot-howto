@@ -41,4 +41,4 @@ Você está pronto para propagar a mensagem: abandonem os aplicativos corporativ
 
 ![](en/pidgin5.png)
 
-**Todos os seus contatos estarão sincronizados entre os diferentes aplicativos. Desta forma, você pode usar o chat disroot em vários dispositivos ao mesmo tempo.**
+**Todos os seus contatos estarão sincronizados entre os diferentes aplicativos. Desta forma, você pode usar o chat do disroot em vários dispositivos ao mesmo tempo.**
