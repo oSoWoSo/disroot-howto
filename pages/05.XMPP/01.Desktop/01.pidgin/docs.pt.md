@@ -37,7 +37,7 @@ Em seguida, preencha a informação solicitada:
 !Observação! Se você quer usar o avatar (opcional), deve selecionar a opção "Use this buddy icon for this account" e então busque em seu computador a imagem que deseja usar como avatar.
 
 4. Pressione "**Adicionar**" e está pronto!
-Você está pronto para propagar a mensagem: abandonem as corporações malignas e juntem-se à federação *Starship*.
+Você está pronto para propagar a mensagem: abandonem os aplicativos corporativos malignos e juntem-se à federação *Starship*.
 
 ![](en/pidgin5.png)
 
