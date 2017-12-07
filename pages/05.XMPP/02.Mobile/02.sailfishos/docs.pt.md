@@ -8,6 +8,6 @@ Configure a conta. Preencha os dados
         Server address: (se você especificou apenas seu nome de usuário no disroot, aqui pode adicionar o domínio) disroot.org
         Port: 5222
 
-  Pressione aceitar e está pronto! Você está pronto para propagar a mensagem: abandonem os aplicativos de companhias malignas e juntem-se à federação Starship.
+  Pressione aceitar e está pronto! Você está pronto para propagar a mensagem: abandonem os aplicativos corporativos malignos e juntem-se à federação Starship.
 
 SailshishOS combina todas as mensagens em um só aplicativo. Você pode usar SMS, Skype e chat no mesmo lugar. Todos os seus contatos estarão sincronizados entre os aplicativos. Então, você pode usar o chat do disroot em vários dispositivos ao mesmo tempo.
