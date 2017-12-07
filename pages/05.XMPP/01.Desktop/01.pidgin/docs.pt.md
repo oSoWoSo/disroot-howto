@@ -7,38 +7,38 @@ taxonomy:
         - docs
 ---
 
-Pidgin is multi-platform (runs on most operating systems) and multi-protocol messaging application. It supports a lot of different messaging protocols such as: xmpp, skype, AIM, TOX, Whatsapp, facebook etc, so you can have all your messaging done with just one app.
+Pidgin é um aplicativo de mensagens multiplataforma (usado na maioria dos sistemas operacionais) e multiprotocolo. Serve a diferentes protocolos de mensagens como xmpp, Skype, AIM, TOX, Whatsapp e Facebook, entre outros, permitindo usar as mensagens em um mesmo aplicativo. 
 
-To setup disroot chat on pidgin, follow those easy steps:
+Para configurar o chat do disroot no Pidgin, siga estes passos básicos:
 
-1. **Install Pidgin.**
-If you use windows/macos check [pidgin's website](http://pidgin.im/download/)and download a version for you.
-If you are a linux user, check your package repository and get it. (check for some additional plugins while you're at it.
+1. **Instale o Pigdin**
+Se você é usuário de Windows/MACOS, busque a versão apropriada em [pidgin's website](http://pidgin.im/download/).
+Se você é usuário de GNU/Linux, busque o repositório adequado e plugins adicionais. 
 
-2. **Fire it up.**
-You will be greeted with a welcome message like this:
+2. **Inicie o programa**
+Você receberá uma mensagem de saudação como esta:
 
 ![](en/pidgin1.png)
 
-To Proceed, we need to **add an account**.
-If it's not the first time you run pidgin you should use menu:
+Para continuar, você precisa **adicionar uma conta**.
+Se esta não é a primeira vez que você usa o Pidgin, deve abrir o menu:
 
 ![](en/pidgin2.png)
 
-3. **Setup account.**
-First of, choose xmpp protocol from the drop-down list:
+3. **Configure uma conta.**
+O primeiro passo é escolher o protocolo xmpp ao percorrer a lista:
 
 ![](en/pidgin3.png)
 
-Next fill in the information needed:
+Em seguida, preencha a informação solicitada:
 
 ![](en/pidgin4.png)
 
-!Note! If you wish to use avatar (optional) you can select "Use this buddy icon for this account" and browse your local filesystem (computer) for the picture you want to use.
+!Observação! Se você quer usar o avatar (opcional), deve selecionar a opção "use esta imagem para esta conta" e busque em seu computador a imagem que deseja usar.
 
-4. Hit "**Add**" and you are done!
-Now you are ready to start preaching people to ditch corporate evil apps and jump on the federation *Starship*.
+4. Pressione "**Adicionar**" e está pronto!
+Você está pronto para propagar a mensagem: abandonem as corporações malignas e juntem-se à federação *Starship*.
 
 ![](en/pidgin5.png)
 
-**All your contacts are synced between all the clients, so you can use disroot chat on all the devices at the same time.**
+**Todos os seus contatos estarão sincronizados entre os diferentes aplicativos. Desta forma, você pode usar o chat disroot em vários dispositivos ao mesmo tempo.**
