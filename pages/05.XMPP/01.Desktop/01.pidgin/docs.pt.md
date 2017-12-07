@@ -34,7 +34,7 @@ Em seguida, preencha a informação solicitada:
 
 ![](en/pidgin4.png)
 
-!Observação! Se você quer usar o avatar (opcional), deve selecionar a opção "use esta imagem para esta conta" e busque em seu computador a imagem que deseja usar.
+!Observação! Se você quer usar o avatar (opcional), deve selecionar a opção "Use this buddy icon for this account" e então busque em seu computador a imagem que deseja usar como avatar.
 
 4. Pressione "**Adicionar**" e está pronto!
 Você está pronto para propagar a mensagem: abandonem as corporações malignas e juntem-se à federação *Starship*.
