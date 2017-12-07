@@ -3,7 +3,7 @@ Siga estas instruções para começar.
 
 Obtenha o Conversations de um dos repositórios.
 
-Adicione uma conta
+Adicione uma conta.
         Escreva seu e-mail completo do disroot (Jabber ID)
         Senha
 
