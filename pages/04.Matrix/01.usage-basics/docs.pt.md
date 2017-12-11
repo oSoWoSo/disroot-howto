@@ -31,59 +31,59 @@ Usamos a expressão "Nativa" entre aspas de propósito porque não é uma soluç
 
 ----------
 
-# Como fazer login / regitar conta.
+# Como fazer login / registar conta.
 Para registar uma conta vá a https://user.disroot.org
 
-**Dica**  Currently your email address will be shared with third party server at matrix.org in order to provide you with better contact discovery, as well as send you forgotten password emails etc. This however is totally optional and if you're concern with privacy and sharing information with matrix.org, you can skip it.
+**Dica**  Atualmente o seu email é partilhado por princípio com o servidor do matrix.org de modo a facilitar a descoberta de contactos e para ter um email para enviar um link de recuperação de password, emails, etc. Isto é opcional e se está preocupado com a sua privacidade e partilha de dados com o matrix.org pode saltar esta opção.
 
-For disroot users - your email address is not filled in by default for the same reason. You should decide whether or not to trust matrix.org with your email address and you can add it in the later stage.
-
-
-----------
-
-# User Interface
-The user interface is quite intuitive if you ever used chat system such as IRC, Slack, Rocket.chat.
-
-![](en/riot_interface1.png)
-
-For the purpose of this howto we'll name some of the key elements of the interface to help identify them later on:
-
- - **Chat List** - Place where you will find all the chat-rooms and Direct Chats you participate in. You can sort those chat-rooms in various categories (favorite, direct chats, low priority) by dragging the rooms into them.
- - **Chat Details** - Is where the rooms name, logo and topic is displayed. Additionally ![](en/riot_interface2.png?resize=23,26) is for searching for keywords in the rooms history and ![](en/riot_interface3.png?resize=18,20) is for rooms settings where you can eg.change the topic, add and manage integration, and various room admin settings.
- - **Main window** - This is the main display of the application. You can see all the chat messages in the room or see all public rooms when going to Room directory.
- - **Message area** - is where you type your message, upload file, start audio or video call or conference
- - **User List** - is where you can see all the users currently participating in the room.
- - **Actions and settings** - here you can start new direct chat, create new room, list all public rooms, enter your user settings
+Para utilizadores do Disroot, o endereço de email não é enviado por predefinição exactamente questão de privacidade. Você deve decidir se confia ou não no matrix.org para terem o seu email e se quiser pode adicionar o seu email mais tarde.
 
 
 ----------
 
-# User Settings
-First thing after you login for the first time is to customize your user settings. To do that click on ![](en/riot_interface4.png?resize=28,23) in **"Actions and settings"** area (bottom left). In this section you can setup various information about yourself, as well as setup behavior of notifications, enable extra interface features and check and verify list of connected devices.
+# Interface de utilizador
+O interface de utilzador é bastante intuítivo caso já tenha utilizado antes sistemas de chat commo por exemplo: IRC, Slack, Rocket.chat.
 
-## Profile
+![](pt/riot_interface1.png)
 
-![](en/riot_interface5.png)
+Para efeitos deste tutorial iremos apelidar alguns dos elementos priincipais do interface para noa ajudar a identificá-los mais em diante:
 
-This section lets you add or change information about your profile.
+ - **Lista de Salas de Chat** - O sítio onde encontrará todas as salas de chat e conversas directas nas quais participa. Pode organizar estas salas de chat em várias categorias (ex: favoritos, conversas directas, baixa prioridade) arrastando as salas para cima e para baixo.
+ - **Detalhes da Sala** - É onde está o nome da sala, o tópico e o logotipo da mesma. Para além disso ![](pt/riot_interface2.png?resize=23,26) serve para procurar palavras chave no histórico da sala e  ![](en/riot_interface3.png?resize=18,20) é onde pode alterar as várias configurações de administração da sala e gerir as integrações (se tiver direitos de administrador da sala).
+ - **Janela principal do chat** - Esta é a janela principal da aplicação. Aqui pode ver todas as mensagens de chat da respectiva sala, ou ver todas as sala de chat públicas quando vai a "Lista de Salas".
+ - **Área de mensagens** - é onde escreve as suas mensagens, faz upload de um ficheiro, inicia uma conversa pu conferência de vídeo ou áudio.
+ - **Utilizadores na Sala** - (Ou Lista de utilizadores) é onde pode ver todos os utilizadores que estão a participar na sala.
+ - **Ações e configurações** - Aqui pode começar novos chats directos, com outros utilizadores, criar uma sala de chat nova, listar as salas públicas todas, editar/editar o seu perfil de utilizador(a).
 
- - You can change or upload your new profile picture
- - Change your display name
- - Add email address **(this is optional)**
- - Sign out
- - Change password **(users with disroot account should only change their password through https://user.disroot.org)**
 
-## Notifications
+----------
 
-![](en/riot_interface6.png)
+# Perfil/configurações de utilizador
+A primeir coisa a afazer depois do primeiro login é costumizar o perfil/configurações de utilizador. Para isso carregue em  ![](en/riot_interface4.png?resize=28,23) **"Configurações"** (em baixo, do lado esquerdo). Aqui pode inserir várias informações sobre si, bem como configurar como funcionarão as notificações, habilitar funcionalidades extra, verificar a lista de dispositivos ligados a esta conta.
 
-Here you can change behavior of notifications for your account (note that this changes will affect all devices running Riot, hopefully in the future we will be able to change notifications settings per device).
+## Perfil
 
-## Devices
-A list of devices connected to your account. You can view the devices ID, general information about the devices origin such as it's name, the url it connected to, operating system and browser name (if connected via the browser), it's IP and the time it last made the connection to your account. You can also delete devices you no longer use. If you see a suspicious device or IP you're never used it might mean your account has been compromised. You should  immediately logout (this will logout all devices), and change your password. Not logging out will not result in the compromised device logging back in. Be careful not to rush to conclusions too quickly! Study the list to be sure before you run around all paranoid.
+![](pt/riot_interface5.png)
 
-## Deactivate account
-On the bottom of your user settings you can deactivate your account.
+Esta parte permite-lhe adicionar ou alterar as informações acerca do seu perfil.
+
+ - Pode alterar ou carregar uma nova fotografia de perfil
+ - Mudar o nome que aparece a outras pessoas
+ - Adicionar um ednreço de emial **(isto é opcional)**
+ - Fazer Logout
+ - Alterar a palavra-passe **(utilizadores do Disroot para alterar a sua palavra-passe devem ir a: https://user.disroot.org)**
+
+## Notificações
+
+![](pt/riot_interface6.png)
+
+Aqui pode alterar o comportamento das notificações da sua conta (tenha em conta que alterações aqui irão afetar todos os seus dispositivos onde tem o Riot a funcionar), esperamos que de futura seja possível ajustar estas definições por dispositivo.
+
+## Dispositivos
+A lista de dispositivos que se ligaram à sua conta. Pode ver a ID dos dispositivos, informação geral acerca dos dispositivos  origem, o url a que se ligou, sistema operativo, e o browser (caso se tenha ligado via browser), o IP e a última ligação feita à sua conta. Também pode apagar o registo de dispositivos que já não utilize. Se vir um IP suspeito que nunca tenha utilizado pode querer significar que a sua conta foi comprometida. Nese caso deve fazer logout imediatamente (isto fará o logout de todos os seus dispositivos) e alterar a sua palavra-passe. Seja cuidadoso e não tire conclusões precipitadas! Estude a lista com cuidado para ter a certeza das suas conclusões antes de entrar em modo paranoico.
+
+## Desactivar a conta
+Neste botão do seu perfil de utilizador pode desativar a sua conta.
 
 ![](en/riot_interface7.png)
 
