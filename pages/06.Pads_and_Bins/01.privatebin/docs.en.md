@@ -89,7 +89,7 @@ from there you can write a message and others can reply to it.
 
 **Note:**
 This is not a Instant Message system where a reply appears automatically. To see a reply you may need to refresh your page.
-This is a very simple and basic discussion board that you can use to communicate in a more private way with others. Noone excpet people you shared the link with (not even system administrators of disroot) will be able to read your discussion. After set expiry, the entire conversation will be erased leaving no trace of it.
+This is a very simple and basic discussion board that you can use to communicate in a more private way with others. None except people you shared the link with (not even system administrators of disroot) will be able to read your discussion. After set expiry, the entire conversation will be erased leaving no trace of it.
 
 ----------
 # Using PrivateBin as a disposable discussion board
