@@ -12,7 +12,7 @@ Pidgin is multi-platform (runs on most operating systems) and multi-protocol mes
 To setup disroot chat on pidgin, follow those easy steps:
 
 1. **Install Pidgin.**
-If you use windows/macos check [pidgin's website](http://pidgin.im/download/)and download a version for you.
+If you use windows/macos check [pidgin's website](http://pidgin.im/download/) and download a version for you.
 If you are a linux user, check your package repository and get it. (check for some additional plugins while you're at it.
 
 2. **Fire it up.**

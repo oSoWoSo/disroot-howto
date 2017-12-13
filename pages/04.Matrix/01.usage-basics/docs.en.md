@@ -159,8 +159,7 @@ Once you started new private room, you will notice it's not that much different 
 Since recently, matrix ships with end to end encryption. What does it mean? It means the messages are encrypted and decrypted on users computer without interference from the server side. This means administrators, or anyone "eavesdropping" on the conversation cannot read it. This quarantines privacy and protects your conversation from any dirty hands.
 
 Matrix uses same technology for encrypting messages as OMEMO on xmpp, SIgnal or Whatsapp. Matrix's implementation of it is called: [Olm](https://matrix.org/blog/2016/11/21/matrixs-olm-end-to-end-encryption-security-assessment-released-and-implemented-cross-platform-on-riot-at-last/)
-To enable encryption in your room go to room settings <img src="riot_interface17.png" width="25" height="25"> and select
-
+To enable encryption in your room go to room settings ![](en/riot_interface17.png) and select
 ![](en/riot_interface18.png)
 
 ## Few things to be aware of when using Encryption
