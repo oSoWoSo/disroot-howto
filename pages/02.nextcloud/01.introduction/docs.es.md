@@ -9,7 +9,7 @@ page-toc:
   active: true
 ---
 
-Nextcloud es el servicio medular de Disroot y la interfaz de usuario más importante que intentamos integrar con la mayoría de las aplicaciones que ofrecemos. En este pequeño manual nos gustaría abarcar lo más elemental de la interfaz explicando el concepto de Interfaz de Usuario (UI) principal, así como algunas acciones básicas sobre archivos y configuraciones personales.
+Nextcloud es el servicio medular de Disroot y la interfaz de usuario más importante que intentamos integrar con la mayoría de las aplicaciones que ofrecemos. En este pequeño manual nos gustaría abarcar lo más elemental de la interfaz explicando el concepto de Interfaz de Usuario principal (UI), así como algunas acciones básicas sobre archivos y configuraciones personales.
 <br>
 <br>
 <br>
@@ -19,7 +19,7 @@ Nextcloud es el servicio medular de Disroot y la interfaz de usuario más import
 
 # Vista general de la Interfaz de Usuario
 
-La experiencia del usuario a través de la aplicación web entera en la nube es consistente y directa.
+La experiencia del usuario a través de la aplicación web en la nube es consistente y directa.
 
 A los fines de este manual, nombraremos algunos de los bloques de la interfaz para ayudarte a identificarlos más adelante:
 
@@ -72,7 +72,7 @@ Aquí puedes decidir si un administrador estará habilitado o no para recuperar 
 ![](es/personal_encryption1.jpeg)
 
 ## Nube federada
-¿Qué es una nube federada? Igual que los correos, que pueden ser enviados entre usuarios de diferentes servidores (gmail, riseup, disroot, etc) también Nextcloud te da la posibilidad de compartir archivos, contactos, calendarios, etc, con personas fuera de Disroot que utilicen también soluciones en nube (owncloud y/o nextcloud). Esto da a los usuarios la libertad de usar la plataforma de su elección, a la vez que posibilita la colaboración de unos con otros. En esta sección puedes ver tu ID de federación. Puedes compartirla con otros enviando un link o vía plataformas predefinidas (para lo cual puedes agregar tus preferidas que no estén incluidas, por supuesto).
+¿Qué es una nube federada? Igual que los correos, que pueden ser enviados entre usuarios de diferentes servidores (gmail, riseup, disroot, etc) también Nextcloud te da la posibilidad de compartir archivos, contactos, calendarios, etc, con personas fuera de Disroot que utilicen también soluciones en nube (Owncloud y/o Nextcloud). Esto da a los usuarios la libertad de usar la plataforma de su elección, a la vez que posibilita la colaboración de unos con otros. En esta sección puedes ver tu ID de federación. Puedes compartirla con otros enviando un link o vía plataformas predefinidas (para lo cual puedes agregar tus preferidas que no estén incluidas, por supuesto).
 
 ![](es/personal_federated.jpeg)
 
@@ -91,7 +91,7 @@ Esta opción es utilizada para autenticación de dos factores, que no está habi
 
 La principal tarea de la nube es administrar archivos. Puedes fácilmente subir, descargar, compartir y comentar.
 
-La *barra izquierda* te permite filtrar archivos basados en ciertos criterios. La *ventana principal* es tu navegador de archivos. Deberías estar familiarizado con esto si alguna vez has utilizado un ordenador antes :P.
+La *barra izquierda* te permite filtrar archivos basados en ciertos criterios. La *ventana principal* es tu navegador de archivos. Deberías estar familiarizado con esto si alguna vez has utilizado un ordenador :P.
 
 ![](es/main_files.jpeg)
 
@@ -102,22 +102,22 @@ Para crear un archivo nuevo, sólo haz click sobre el botón **"+"** y elige el 
 
 ## Subir archivos
 Hay dos maneras de subir archivos.
-Puedes hacerlo arrastrando archivos desde tu ordenador (navegador de archivos) hacia la ventana de navegación de la nube. La otra manera es utilizando el ícono **"+"** y seleccionar la opción **"Subir un archivo"**.
+Puedes hacerlo arrastrando archivos desde tu equipo (navegador de archivos) hacia la ventana de navegación de la nube. La otra manera es utilizando el ícono **"+"** y seleccionar la opción **"Subir un archivo"**.
 
 ![](es/main_files_upload.jpeg)
 
 ## Compartir archivos
-Compartir archivos y directorios es una parte esencial de cualquier servicio de almacenamiento en la nube. Puedes elegir compartir archivos con otros usuarios de disroot o tu grupo entero, pero también con otros usuarios que utilicen Owncloud/Nextcloud en diferentes plataformas. También puedes compartir con cualquiera a través de la opción de link público.
+Compartir archivos y directorios es una parte esencial de cualquier servicio de almacenamiento en la nube. Puedes elegir compartir archivos con otros usuarios de Disroot o tu grupo entero, pero también con otros usuarios que utilicen Owncloud/Nextcloud en diferentes plataformas. También puedes compartir con cualquiera a través de la opción Enlace público.
 
 Para compartir un archivo o un directorio, simplemente haz click en el "*ícono compartir*" justo al lado del nombre del objeto que deseas compartir. Una barra derecha emergente aparecerá con todas las opciones para que elijas una manera de hacerlo.
 
 ![](es/main_files_sharing_menu.jpeg)
 
-Puedes decidir compartir con otros usuarios, grupos o usuarios en diferentes servidores de nube, utilizando la dirección federada o tipeando el nombre de usuario completo (**no proveemos autocompletado por razones de seguridad**). Cuando compartes con otros usuarios o grupos puedes decidir si los usuarios tienen derecho a editar/modificar el contenido de lo compartido (borrar archivos, subir, editar), y si pueden volver a compartirlo con respecto a otros usuarios.
+Puedes decidir compartir con otros usuarios, grupos o usuarios en diferentes servidores de nube, utilizando la dirección federada o tipeando el nombre de usuario completo (**no proveemos autocompletado por razones de seguridad**). Cuando compartes con otros usuarios o grupos puedes decidir si los usuarios tienen o no privilegios para editar/modificar el contenido de lo compartido (borrar archivos, subir, editar), y si pueden volver a compartirlo con respecto a otros usuarios.
 
 ![](es/main_files_sharing_menu2.jpeg)
 
-Además de compartir con otros usuarios, puedes compartir tus datos con cualquiera utilizando "Compartir link", que puedes copiar/pegar a quien quieras. Cualquiera que conozca la dirección (url) podrá acceder a los archivos. La persona no necesita tener una cuenta válida. Compartir un link te da la opción extra de proteger lo que compartes con contraseña y fecha de caducidad.
+Además de compartir con otros usuarios, puedes compartir tus datos con cualquiera utilizando "Compartir Enlace", que puedes copiar/pegar a quien quieras. Cualquiera que conozca la dirección (url) podrá acceder a los archivos. La persona no necesita tener una cuenta válida. Compartir un enlace te da la opción extra de proteger lo que compartes con contraseña y fecha de caducidad.
 
 ![](es/main_files_sharing_menu_publink.jpeg)
 
@@ -141,13 +141,13 @@ Haciendo click en el ícono de **"tres puntos**" próximo al nombre del archivo 
 #Actividades
 ![](en/main_activities_icon.png)
 
-Cuando tu cuenta comienza a ponerse agitada, comienzas a colaborar con muchos otros usuarios y grupos, podrías encontrar muy útil la aplicación **"Actividades"**. Aquí tienes un resumen general de todas las actividades sucediendo dentro de tu cuenta en la nube (cambios de archivos, comentarios, compartidos, contactos, pendientes, calendarios, etc).
+Cuando tu cuenta comience a ponerse agitada, empieces a colaborar con muchos otros usuarios y grupos, podrías encontrar muy útil la aplicación **"Actividades"**. Aquí tienes un resumen general de todas las actividades sucediendo dentro de tu cuenta en la nube (cambios de archivos, comentarios, compartidos, contactos, pendientes, calendarios, etc).
 
 ![](es/main_activities_main.jpeg)
 
 La ventana principal te da una línea de tiempo con todas las actividades, y la barra lateral izquierda te permite filtrar la información según un criterio.
 
-Adicionalmente puedes crear un aviso de actualizaciones RSS de tus actividades (Presiona el "botón configuraciones" al final de la barra lateral izquierda), que puedes seguir utilizando tu lector preferido de rss, compartirlo con alguien o integrarlo en tu aplicación o sitio web (agregar el feed a tu sala matrix, por ejemplo).
+Adicionalmente puedes crear un aviso de actualizaciones RSS de tus actividades (Presiona el "botón configuraciones" al final de la barra lateral izquierda), que puedes seguir utilizando tu lector preferido de RSS, compartirlo con alguien o integrarlo en tu aplicación o sitio web (agregar el feed a tu sala matrix, por ejemplo).
 ![](es/main_activities_rss.png)
 
 

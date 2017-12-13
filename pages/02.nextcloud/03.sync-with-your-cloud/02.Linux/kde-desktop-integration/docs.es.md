@@ -1,5 +1,5 @@
 ---
-title: 'KDE - Desktop Integration'
+title: 'KDE - Integración con el Escritorio'
 visible: false
 page-toc:
   active: true
@@ -9,124 +9,126 @@ taxonomy:
         - docs
 ---
 ----------
-# Sync Contacts Contacts and Tasks
-First setup an account in the app Kaddressbook.
+# Sincronizar Contactos y Tareas
+Primero configura una cuenta en la aplicación Kaddressbook.
 ![](en/kde_kaddressbook1.png)
 
-* In order to set it up all you need to do is:
-* Go to Kaddressbook
-* Select File > New > Add Address Book
-* Select DAV Groupware resource
-* Follow instructions to fill in all your credentials:
- * **Username:** _yourusername_
- * **Password:** _your_super_secret_password_
-* In the option "select one of these servers", select: **owncloud**
-* Host: place the address [cloud.disroot.org](http://https:cloud.disroot.org)
-* Installation path: leave it blank
-* Select the option: "use secure connection"
-* Press:
- * Next
- * Test connection
- * And if the connection checked ok, press finish
+* Para configurarlo, lo que necesitas hacer es:
+* Ir a Kontact > Contactos
+* Seleccionar Archivo > Nuevo > Añadir libreta de direcciones
+* Selecciona Recurso de colaboración DAV
+* Sigue las instrucciones para completar tus credenciales:
+ * **Usuario:** _tunombredeusuario_
+ * **Contraseña:** _tu_contraseña_super_secreta_
+* En la opción "Use uno de estos servidores", selecciona: **ownCloud**
+* Servidor: introduce la dirección [cloud.disroot.org](http://https:cloud.disroot.org)
+* Ruta de instalación: dejalo vacío
+* Marca la opción: "Usar conexión segura"
+* Presiona:
+ * Siguiente
+ * Probar conexión
+ * Y, si la conexión se concretó con éxito, presiona Terminar
 
-After this you need to manually add the URL links for contacts and calendars, in the general settings.
-![](en/kde_kaddressbook2.gif)
+Después de esto, necesitarás agregar manualmente los links URL para los Contactos y Calendarios, en la configuración general.
 
-The general settings will automatically appear after you have pressed finish.
-Then you need to:
+![](es/kde_kaddressbook2.gif)
 
-* Select CalDAV and edit
- * Replace the remote URL, with the URL of your disroot calendar: https://cloud.disroot.org/remote.php/dav/calendars/YOUR_USERNAME/YOUR_CALENDARS/
- * Press "Fetch" and then "Ok"
-* Select CardDAV and edit
- * Replace the remote URL, with the URL of your disroot contacts: https://cloud.disroot.org/remote.php/dav/addressbooks/users/YOUR_USERNAME/YOUR_ADDRESS_BOOK/
- * Press "Fetch" and then "Ok"
+La Configuración general aparecerá automáticamente después que hayas presionado Terminar.
+Luego necesitas:
 
-You can find the correct URL in your disroot calendar and contacts apps share options
+* Seleccionar CalDAV y Editar
+ * Reemplazar la URL remota, con la URL de tu calendario de Disroot: https://cloud.disroot.org/remote.php/dav/calendars/TU_NOMBRE_DE_USUARIO/TUS_CALENDARIOS/
+ * Luego haz click en "Obtener" y luego "Aceptar"
+* Selecciona CardDAV y Editar
+ * Reemplazar la URL remota, con la URL de tus contactos de Disroot: https://cloud.disroot.org/remote.php/dav/addressbooks/users/TU_NOMBRE_DE_USUARIO/TU_LIBRETA_DE_DIRECCIONES/
+ * Haz click en "Obtener" y luego "Aceptar"
 
-In the general settings you can also:
+Puedes encontrar la URL correcta en las opciones para compartir de tus aplicaciones Calendario y Contactos de Disroot.
 
-* Change the name of the general display
-* Remove the time retrieval limits on calendars so it will sync all your events
+En la Configuración general también puedes:
 
-![](en/kde_kaddressbook3.gif)
+* Cambiar el nombre general para mostrar
+* Quitar el límite de intervalo de recuperación en los calendarios así se sincronizarán todos tus eventos.
+
+![](es/kde_kaddressbook3.gif)
 
 ----------
 
-# Calendar
-You can use the KOrganizer app, it has both calendar and tasks.
+# Calendario
+Puedes utilizar la aplicación KOrganizer, que tiene tanto calendarios como tareas.
 
 ![](en/kde_kalendar1.png)
 
-Your events will already be synchronized /adding/removing/editing events is very similar to the Calendar app described before, any changes will be synchronized with your disroot calendar.
+Tus eventos ya estarán sincronizados.
+Agregar/quitar/editar eventos es muy similar a la forma descrita anteriormente para la aplicación Calendario, cualquier modificación será sincronizada con tu calendario de Disroot.
 
-![](en/kde_kalendar2.gif)
+![](es/kde_kalendar2.gif)
 ----------
 
-# Files
+# Archivos
 
-In KDE, you need to add a network folder to access your disroot files remotely. Go to your start menu select "Computer" and then "Network"
+En KDE, necesitas agregar una carpeta de red para acceder en forma remota a tus archivos en Disroot. Abre el Administrador de archivos; y después, haz click en Red.
 
-After that:
+A continuación:
 
-* Select "Add Network Folder"
-* Select "WebFolder Webdav"
-* Follow the instructions to fill your credentials:
- * **Name:** the name you want to give to the folder
- * **User:** _your disroot username_
- * **Server:** [cloud.disroot.org](https://cloud.disroot.org)
- * **Folder:**/remote.php/dav/files/YOUR_DISROOT_USERNAME/
- * Select the checkbox for "Use encryption"
- * Hit "Save and Connect"
- * You will be asked for your password,
+* Selecciona "Añadir carpeta de red"
+* Selecciona "Carpeta Web (Webdav)"
+* Sigue las instrucciones para completar tus credenciales:
+ * **Nombre:** el nombre que quieras darle a la carpeta
+ * **Usuario:** _tu_usuario_de_disroot_
+ * **Servidor:** [cloud.disroot.org](https://cloud.disroot.org)
+ * **Carpeta:** /remote.php/dav/files/tu_usuario_de_disroot/
+ * Selecciona "Usar cifrado"
+ * Click en "Guardar y conectar"
+ * Se te solicitará tu contraseña
 
-![](en/kde_files3.gif)
-
-
-After that you can look in your files app in "network" for your disroot files. Like mentioned before:
-You can easily, add/remove/copy/modify files on your cloud without a need to download them onto your device or login via web-browser. This is very different then using "nextcloud client app", as it does not sync the content of the cloud files to your computer. **Remember you are working directly on your cloud storage** (whatever you change, affects your cloud storage Immediately).
+![](es/kde_files3.gif)
 
 
-----------
-
-# Tasks
-KOrganizer app is your friend. Like in with the calendar option, your tasks will already be synchronized. You can easily add/edit/remove tasks and set deadlines.
-
-![](en/kde_tasks1.gif)
+Luego de esto, podrás ver en el Administrador de archivos, en la carpeta "Red", tus archivos de Disroot. Como ya mencionamos:
+Puedes agregar/quitar/copiar/modificar fácilmente los archivos en tu nube sin necesidad de descargarlos a tu equipo o acceder a través del navegador web. Esto es muy distinto a utilizar el cliente de escritorio "nextcloud-client", porque no está sincronizando el contenido de tus archivos en la nube a la computadora. **Recuerda que estás trabajando directamente en tu espacio en la nube** (lo que modifiques, afecta inmediatamente a lo que está almacenado en tu espacio en la nube).
 
 
 ----------
 
-# Contacts
+# Tareas
+La aplicación KOrganizer es tu amiga. Como con el calendario, tus tareas ya estarán sincronizadas. Puedes de manera sencilla agregar/editar/quitar tareas y establecer vencimientos.
 
-In KDE you can use your KAddressBook to organize your contacts. The working principals are identical to the "Contacts" app described before.
+![](es/kde_tasks1.gif)
 
-![](en/kde_kaddressbook4.gif)
+
 ----------
 
-# Email
-You can integrate your email account with KDE app called KMail
+# Contactos
+
+En KDE puedes usar KAddressBook para organizar tus contactos. Los principios de funcionamiento son idénticos a los de la aplicación "Contactos", que ya describimos antes.
+
+![](es/kde_kaddressbook4.gif)
+----------
+
+# Correo electrónico
+Puedes integrar tu cuenta de correo con la aplicación KMail de KDE
 ![](en/kde_kmail1.png)
 
-The setup credentials are the same as described before. After you open KMail, go to:
+La configuración de las credenciales es la misma que ya describimos. Luego de abrir KMail, ve a:
 
-* Settings
-* Configure KMail
-* Accounts
+* Preferencias
+* Configurar KMail
+* Cuentas
 
-You need to configure both receiving (IMAP or POP3) and sending (SMTP) accounts
-For IMAP or POP3 go to:
+Necesitas configurar las cuentas de recepción (IMAP o POP3) y envío (SMTP).
+Para IMAP o POP3 ve a:
 
-* Receiving
-* Add
-* Select IMAP or POP3
-* Fill the credentials
+* Recepción
+* Agregar
+* Seleccionar IMAP o POP3
+* Completar tus credenciales
 
-For SMTP go to:
+Para SMTP ve a:
 
-* Sending
-* Add
+* Envío
+* Agregar
 * SMTP
-* Fill the credentials
+* Completar tus credenciales
 
 ----------
