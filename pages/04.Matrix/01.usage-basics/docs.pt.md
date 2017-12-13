@@ -194,7 +194,7 @@ Existem cada vez mais bridges a serem escritas por isso em breve poderemos ligar
 ## Outras integrações
 
  - RSS bot - Actualizações e feeds de RSS de um site escolhido por si.
- - Guggy e Giphy - Publicam post com gifs baseados em palavras chave (ex: !guggy awesome)
+ - Guggy e Giphy - Publicam posts com gifs baseados em palavras chave (ex: !guggy awesome)
  - Github - pode criar um issue a partir da sala para o seu projeto no Github
 
 ## Bots
