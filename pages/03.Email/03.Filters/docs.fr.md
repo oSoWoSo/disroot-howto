@@ -1,0 +1,12 @@
+---
+title: Filtres de courriel
+published: true
+visible: true
+taxonomy:
+    category:
+        - docs
+---
+
+Les filtres de courriels vous permettent de gérer les courriels entrants de façon automatisée, tels que le déplacement du courrier entrant vers un répertoire en fonction de certains critères, la configuration de réponse automatique "en dehors du bureau" ou "vacances", le rejet ou le transfert automatique des courriels, etc.
+
+Dans cette section, nous aborderons les principes de base basés sur certains scénarios.
