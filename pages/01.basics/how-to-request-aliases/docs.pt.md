@@ -1,6 +1,10 @@
 ---
-title: Como pedir um alias de email
+title: 'Como pedir um alias de email'
 visible: true
+published: true
+taxonomy:
+    category:
+        - docs
 ---
 
 Aliases de email estão disponíveis para apoiantes regulares. Com "apoiantes regulares" queremos dizer aqueles que nos "pagam" pelo menos um café por mês.
