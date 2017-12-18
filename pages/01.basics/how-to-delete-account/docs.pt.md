@@ -1,6 +1,10 @@
 ---
 title: 'Como apagar a sua conta disroot'
 visible: true
+published: true
+taxonomy:
+    category:
+        - docs
 ---
 
 Para apgar a sua conta de utilizador no disroot apenas necessita de preencher [o formulário para pedir o apagar da sua conta](https://disroot.org/forms/delete-account-form)
