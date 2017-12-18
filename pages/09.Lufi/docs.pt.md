@@ -2,6 +2,12 @@
 title: Usando o Lufi
 page-toc:
   active: true
+published: true
+visible: true
+taxonomy:
+    category:
+        - docs
+---
 ---
 O disroot fornece o Lufi, um software online, open source para fazer o upload e partilhar ficheiros com outras pessoas de um modo seguro e privado, como uma alternativa a serviços como o wetransfer.
 

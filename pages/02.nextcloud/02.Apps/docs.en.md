@@ -1,5 +1,10 @@
 ---
 title: Nextcloud Apps
+published: true
+visible: true
+taxonomy:
+    category:
+        - docs
 ---
 
 In this section we are trying to cover all the apps we supply with out cloud instance.

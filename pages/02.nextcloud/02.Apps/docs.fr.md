@@ -1,5 +1,10 @@
 ---
 title: Applications Nextcloud
+published: true
+visible: true
+taxonomy:
+    category:
+        - docs
 ---
 
 Dans cette section, nous essayons de couvrir toutes les applications que nous fournissons avec l'instance cloud.
