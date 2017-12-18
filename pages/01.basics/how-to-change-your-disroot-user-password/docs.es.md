@@ -1,6 +1,10 @@
 ---
 title: 'Cómo cambiar tu contraseña de usuario de disroot'
 visible: true
+published: true
+taxonomy:
+    category:
+        - docs
 ---
 
 Primero, necesitas acceder al **Centro de Autoservicio** en https://user.disroot.org y seleccionar **Cambiar contraseña**.
