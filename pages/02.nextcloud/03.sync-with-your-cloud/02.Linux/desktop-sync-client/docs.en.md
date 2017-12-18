@@ -18,7 +18,6 @@ web-browser.
 
 If you don't have Nextcloud-client installed on your desktop yet, you can see how to do it [here](https://nextcloud.com/install/#install-clients).
 For users of ubuntu or ubuntu based distributions you can find better detailed instructions [here](https://www.c-rieger.de/how-to-install-nextcloud-desktop-client-for-ubuntu/).
-Or compile from source as described [here](https://forum.disroot.org/t/cloud-howto-install-nextcloud-desktop-client-in-linux/636).
 
 # Add a new account
 

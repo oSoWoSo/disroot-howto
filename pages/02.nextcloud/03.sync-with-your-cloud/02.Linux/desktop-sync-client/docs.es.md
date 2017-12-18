@@ -17,7 +17,6 @@ Esto significa que puedes acceder/agregar/quitar/editar los archivos en tu cuent
 
 Si no tienes el cliente-Nextcloud instalado en tu ordenador, puedes ver cómo hacerlo [aquí](https://nextcloud.com/install/#install-clients).
 Para usuarios de Ubuntu o derivados puedes encontrar instrucciones más detalladas [aquí](https://www.c-rieger.de/how-to-install-nextcloud-desktop-client-for-ubuntu/).
-O compilar desde la fuente como se describe  [aquí](https://forum.disroot.org/t/cloud-howto-install-nextcloud-desktop-client-in-linux/636).
 
 # Agregar una nueva cuenta
 

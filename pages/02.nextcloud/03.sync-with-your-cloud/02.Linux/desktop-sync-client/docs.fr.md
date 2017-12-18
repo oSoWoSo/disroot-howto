@@ -17,7 +17,6 @@ Ce qui signifie que vous pouvez accéder/ajouter/supprimer/éditer les fichiers 
 
 Si vous n'avez pas encore installé Nextcloud-client sur votre bureau, vous pouvez voir comment le faire [ici](https://nextcloud.com/install/#install-clients].
 Pour les utilisateurs d'Ubuntu et des distributions basées sur Ubuntu, vous pouvez trouver des instructions plus détaillées [ici](https://www.c-rieger.de/how-to-install-nextcloud-desktop-client-for-ubuntu/].
-Ou compiler à partir du code source tel que décrit [ici](https://forum.disroot.org/t/cloud-howto-install-nextcloud-desktop-client-in-linux/636].
 
 # Ajouter un nouveau compte
 
