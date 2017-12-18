@@ -1,6 +1,10 @@
 ---
 title: 'Como alterar a sua senha de utilizador do Disroot'
 visible: true
+published: true
+taxonomy:
+    category:
+        - docs
 ---
 
 Antes de mais você necessita de Iniciar Sessão no **Centro de Self Service** em https://user.disroot.org e escolher a opção **Mudar a senha**.
