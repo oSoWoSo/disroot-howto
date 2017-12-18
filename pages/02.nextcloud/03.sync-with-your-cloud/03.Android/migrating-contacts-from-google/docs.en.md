@@ -1,3 +1,8 @@
+---
+title: Migrating Contacts
+visible: true
+---
+
 ### Moving Contacts from Google account To Disroot account
 *(This tutorial is based on cyanogenmod 12.1 minor changes will be applicable for other roms.)*
 
