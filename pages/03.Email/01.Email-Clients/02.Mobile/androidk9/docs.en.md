@@ -19,7 +19,7 @@ page-toc:
 Here is how you setup disroot account on K9.
 
 #Get it
-First of, **get K9 on your phone**. We encourage you to use [F-Droid](https://f-droid.org/) store (it's a store hosting only free and open source applications), but you can get it also via g*** store. (additionally you can get **Matrial K9** version or **P=9** which supports GPG by default)
+First of, **get K9 on your phone**. We encourage you to use [F-Droid](https://f-droid.org/) store (it's a store hosting only free and open source applications), but you can get it also via g*** store. (additionally you can get **Material K9** version or **P=P** which supports GPG by default)
 # Set it up
 Once you start the application for the first time, you need to **create new account**.
 1. **Fill in your disroot's email address and password**
