@@ -1,11 +1,10 @@
 ---
 title: 'How to change your disroot user password'
 published: true
-visible: true
 taxonomy:
     category:
         - docs
-
+visible: true
 ---
 
 First you need to log in to the **Self Service Center** at https://user.disroot.org and choose to **change password**.
