@@ -25,7 +25,7 @@ In this tutorial we'll show you how to use it. You can access Uploads/Lufi at [u
 
 Notes:
 
-- Lufi is not a cloud service (files are only stored online for a certain time, after that they are deleted). For cloud services you have your [cloud](http://https//:cloud.disroot.org) provided by disroot.
+- Lufi is not a cloud service (files are only stored online for a certain time, after that they are deleted). For cloud services you have your [cloud](https//:cloud.disroot.org) provided by disroot.
 - It's different from PrivateBin. Bin can only share text, while Lufi can be used to share and download any type of file.
 
 ----------
@@ -95,7 +95,7 @@ You can also check this information any time you want by pressing the ![](en/luf
 
 ----------
 
-#How to upload and download a file<a name="upadndown"></a>
+# How to upload and download
 
 To upload a file just choose the options you want (if delete after download or not, and how many days it stays online) and "click to open the file browser" in the centre of the screen, and navigate to your file and select it, or just drag your file to the centre of the screen.
 
@@ -114,7 +114,7 @@ To download the file just use the link in the browser:
 ----------
 
 
-#How to share a file<a name="spampeople"></a>
+# How to share a file
 
 Well this is also very simple, you can either:
 
@@ -136,7 +136,7 @@ In this case disroot is a privacy conscious provider, but as a matter of princip
 
 ----------
 
-#How manage/delete your uploads<a name="links"></a>
+# How manage/delete your uploads
 
 You can manage your uploads by pressing the button ![](en/lufi07.png?resize=60,40) in the main panel.
 
