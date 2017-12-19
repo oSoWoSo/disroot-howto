@@ -6,7 +6,7 @@ taxonomy:
     category:
         - docs
 page-toc:
-    active: fals    
+    active: false
 ---
 
 How to setup your email on your desktop:

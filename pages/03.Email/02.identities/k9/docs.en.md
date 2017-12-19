@@ -7,7 +7,7 @@ taxonomy:
         - docs
 ---
 
-## Setup
+# Setup
 First of, open K9 and go to your accounts settings
 ![](en/identity_settings.png)
 
@@ -22,9 +22,9 @@ Select **"New identity"** by tapping the "three dot" icon on top right.
 And fill in the form providing the new alias adress.
 ![](en/identity_settings4.png)
 
-## Set default
+# Set default
 To change the default identity, while still in **"Manage Identities"** settings, just tap and hold the alias you want to set and select **"Move to top / make default"** option.
 ![](en/identity_settings5.png)
 
-## Send email
+# Send email
 To send email with your new alias, just tap on the **"Form"** field and select alias you want to use from the dropdown menu, when composing your mail.

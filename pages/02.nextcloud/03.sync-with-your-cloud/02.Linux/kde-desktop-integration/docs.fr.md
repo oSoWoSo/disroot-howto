@@ -65,7 +65,6 @@ Ajouter/supprimer/éditer des événements est très similaire à l'application 
 ----------
 
 # Fichiers
-
 Dans KDE, vous devez ajouter un dossier réseau pour accéder à distance à vos fichiers disroot. Allez dans le menu de démarrage sélectionnez "Ordinateur" puis "Réseau".
 
 Après ça:
@@ -99,7 +98,6 @@ L'application KOrganizer est votre amie. Comme dans l'option calendrier, vos tâ
 ----------
 
 # Contacts
-
 Dans KDE, vous pouvez utiliser votre carnet d'adresses KAddressBook pour organiser vos contacts. Les principes de fonctionnement sont identiques à l'application "Contacts" décrite précédemment.
 
 ![](en/kde_kaddressbook4.gif)

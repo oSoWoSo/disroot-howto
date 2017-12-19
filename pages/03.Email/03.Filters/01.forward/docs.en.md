@@ -5,6 +5,8 @@ visible: true
 taxonomy:
     category:
         - docs
+page-toc:
+    active: false
 ---
 
 We understand that not everyone wants to use disroot mail as their daily driver. People have their mail accounts for years and it is hard, not practical or in some cases even impossible for them to switch to another provider such as disroot.

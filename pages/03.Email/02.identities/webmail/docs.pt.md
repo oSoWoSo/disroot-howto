@@ -7,7 +7,7 @@ taxonomy:
         - docs
 ---
 
-## Configurar
+# Configurar
 Antes de mais faça login no seu webmail e vá às suas configurações de email no canto inferior esquerdo
 
 ![](pt/settings1.png)
@@ -17,11 +17,11 @@ Nas configurações, vá a **"Identidades"**, carregue em "**Adicionar Identidad
 
 ![](pt/identity_add.gif)
 
-## Colocar como Predefinido
+# Colocar como Predefinido
 Pode gerir as identidades arrastando a identidade para cima ou para baixo.
 ![](pt/identity_default.gif)
 
-## Enviar email
+# Enviar email
 Para enviar um email com o seu novo alias, basta carregar no campo **"De"** e escolher o alias que quer utilizar para este email
 .
 ![](pt/identity_send.gif)

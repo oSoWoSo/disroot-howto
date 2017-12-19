@@ -14,7 +14,7 @@ The contact and calendar features in Disroot/Nexcloud are pretty cool but if you
 ---------
 
 
-# 1 - Installing Needed Add-ons
+# Installing Needed Add-ons
 
 In order to sync all your calendars, tasks and contacts to thunderbird, you will need to install those Add-ons:
 
@@ -49,7 +49,7 @@ The following image should appear next, just press install
 For both Add-ons to finish their installations you will need to restart Thunderbird
 
 
-## 2 - Integrating calendar with Thunderbird
+# Integrating calendar with Thunderbird
 
 First login to your [Disroot cloud](https://cloud.disroot.org) and go to calendar app. Select options of the calendar you want to sync to thunderbird.
 Now, copy the link URL of your calendar. You will need it to sync with thunderbird.
@@ -83,7 +83,7 @@ Additionally you can sync any calendars form any provider as long as they suppor
 
 ![](en/thunderbird_11.png)
 
-### Adding events with multiple calendars
+## Adding events with multiple calendars
 If you have multiple calendars in Thunderbird, when creating an event you need to to select to which calendar it goes to, otherwise you maybe end up looking for it online in the wrong place
 
 ![](en/thunderbird_12.png)

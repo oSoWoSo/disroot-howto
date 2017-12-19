@@ -65,7 +65,6 @@ Adding/removing/editing events is very similar to the Calendar app described bef
 ----------
 
 # Files
-
 In KDE, you need to add a network folder to access your disroot files remotely. Go to your start menu select "Computer" and then "Network"
 
 After that:
@@ -99,7 +98,6 @@ KOrganizer app is your friend. Like in with the calendar option, your tasks will
 ----------
 
 # Contacts
-
 In KDE you can use your KAddressBook to organize your contacts. The working principals are identical to the "Contacts" app described before.
 
 ![](en/kde_kaddressbook4.gif)

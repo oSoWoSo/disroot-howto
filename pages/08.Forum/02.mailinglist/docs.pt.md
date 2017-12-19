@@ -15,7 +15,7 @@ O Disroot, alberga principalmente grupos privados no Fórum. Se está interessad
 **NOTA:** Para ser membro de um grupo (público, ou privado) não é necessário ter uma conta Disroot. Pode criar uma conta apenas para o fórum.
 
 ----------
-## Como funcionam as mailinglists no Discourse
+# Como funcionam as mailinglists no Discourse
 
 O software utilizado pelo Disroot, o Discourse é um software de fórum com funcionalidades de mailinglist. Tem, aquilo que para efeitos deste tutorial iremos chamar **Grupos**. E esses grupos podem ter, ou não,  **Categorias** dentro deles (como se fossem assuntos ou tópicos principais dentro de um grupo).
 Por exemplo, o grupo Disroot tem várias categorias dedicadas a tópicos diferentes para organizar discussões e trocar mensagens entre utilizadores:
@@ -65,7 +65,7 @@ Se quiser pode ler mais sobre como selecionar "Vigiar" e "Silenciar" categorias 
 O nome do grupo e as respectivas categorias e os alias de email correspondentes podem ser o que você quiser (a não ser que já estejam a ser usados).
 
 ----------
-## Grupos/Mailinglist privados
+# Grupos/Mailinglist privados
 
 Grupos/Mailinglists privadas funcionam como foi descrito em cima, mas tal como o nome indica são privadas e apenas podem ser vistas e acedidas pelos membros do grupo. Apenas pode enviar um email para esse grupo se for membro.
 
@@ -81,7 +81,7 @@ Agora não:
 
 ![](en/forum_ml8.png)
 
-### Adicionar participantes a um grupo privado
+## Adicionar participantes a um grupo privado
 
 Há duas maneiras de adicionar participantes a um grupo privado:
 
@@ -90,14 +90,14 @@ Há duas maneiras de adicionar participantes a um grupo privado:
 2. Os administradores do Disroot podem enviar convites em larga escala de uma única vez com as pré-definições já todas feitas de modo a que os membros do grupo privado não recebam emails de grupos públicos do fórum (ex: Changelog, Support, etc.)
 
 ----------
-## Grupos/Mailinglist públicos
+# Grupos/Mailinglist públicos
 
 Grupos públicos funcionam como descrito em cima. A principal diferença é que:
 
 São públicos, qualquer utilizador do fórum pode ver os tópicos e discussões e fazer um post via o interface web do fórum (ou por email se o grupo tiver um alias de email atribuído). Também podem ser vistos por pessoas na Internet, que não são utilizadores do fórum e podem aparecer em resultados de motores de busca como por exemplo o google.
 
 ----------
-## O caso dos grupos públicos do Disroot
+# O caso dos grupos públicos do Disroot
 
 As categorias públicas do Disroot no fórum (ex: FAQ, Features, Changelog, Main, Open Talks, etc.) não tem alias de email atribuídos por isso não é possível criar um tópico via email nestes grupos e nas suas respetivas categorias.
 

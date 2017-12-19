@@ -80,7 +80,7 @@ In the upper centre part of the panel you can set the options mentioned above. I
 
 ----------
 
-## Maximum file size
+# Maximum file size
 
 There is no size limit to the files you can upload. But the maximum amount of time that a file stays stored in Lufi varies according to it's size. After that time expired the file is deleted.
 
@@ -95,7 +95,7 @@ You can also check this information any time you want by pressing the ![](en/luf
 
 ----------
 
-###How to upload and download a file<a name="upadndown"></a>
+#How to upload and download a file<a name="upadndown"></a>
 
 To upload a file just choose the options you want (if delete after download or not, and how many days it stays online) and "click to open the file browser" in the centre of the screen, and navigate to your file and select it, or just drag your file to the centre of the screen.
 
@@ -114,7 +114,7 @@ To download the file just use the link in the browser:
 ----------
 
 
-###How to share a file<a name="spampeople"></a>
+#How to share a file<a name="spampeople"></a>
 
 Well this is also very simple, you can either:
 
@@ -136,7 +136,7 @@ In this case disroot is a privacy conscious provider, but as a matter of princip
 
 ----------
 
-##How manage/delete your uploads<a name="links"></a>
+#How manage/delete your uploads<a name="links"></a>
 
 You can manage your uploads by pressing the button ![](en/lufi07.png?resize=60,40) in the main panel.
 

@@ -5,6 +5,8 @@ visible: true
 taxonomy:
     category:
         - docs
+page-toc:
+    active: false
 ---
 
 Nous comprenons que tout le monde ne veut pas utiliser le courrier Disroot comme email quotidien. Les gens ont leur compte de courrier depuis des années et il est difficile, pas pratique ou dans certains cas même impossible pour eux de passer à un autre fournisseur d'accès, comme par exemple Disroot.

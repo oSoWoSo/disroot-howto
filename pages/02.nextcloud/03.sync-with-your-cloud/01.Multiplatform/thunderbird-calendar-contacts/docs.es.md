@@ -14,7 +14,7 @@ Las herramientas Contactos y Calendario en Disroot/Nexcloud son bastante geniale
 ---------
 
 
-# 1 - Instalando los complementos (add-ons) necesarios
+# Instalando los complementos (add-ons) necesarios
 
 Para sincronizar tus calendarios, tareas y contactos en Thunderbird, necesitarás instalar estos complementos:
 
@@ -49,7 +49,7 @@ La siguiente imagen debería aparecer, presiona instalar.
 Igual que antes, necesitarás reiniciar Thunderbird para finalizar la instalación del complemento.
 
 
-## 2 - Integrando el Calendario a Thunderbird
+# Integrando el Calendario a Thunderbird
 
 Primero, accede a tu cuenta de [nube de Disroot](https://cloud.disroot.org) y ve a la aplicación Calendario. Selecciona las opciones del calendario que deseas sincronizar con Thunderbird.
 Ahora, copia el link URL de tu calendario. Lo necesitarás para sincronizar con Thunderbird.
@@ -83,7 +83,7 @@ Adicionalmente, puedes sincronizar cualquier calendario de cualquier proveedor e
 
 ![](en/thunderbird_11.png)
 
-### Agregando eventos con múltiples calendarios
+## Agregando eventos con múltiples calendarios
 Si tienes varios calendarios en Thunderbird, cuando creas un evento necesitas seleccionar a qué calendario corresponde, de otra manera, quizás termines buscándolo online en el lugar equivocado.
 
 ![](en/thunderbird_12.png)

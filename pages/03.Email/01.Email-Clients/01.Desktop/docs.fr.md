@@ -6,7 +6,7 @@ taxonomy:
     category:
         - docs
 page-toc:
-     active: fals
+     active: false
 ---
 
 Comment configurer votre email sur votre bureau:

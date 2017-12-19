@@ -82,7 +82,7 @@ Ao centro em cima no painel pode selecionar as opções acima mencionadas. No ca
 
 ----------
 
-## Tamanho máximo dos ficheiros
+# Tamanho máximo dos ficheiros
 
 Não há limite máximo para o tamanho dos ficheiros que você pode fazer o upload. Mas o perído de tempo que um ficheiro permanece armazenado no lufi varia de acordo com o tamanho do ficheiro. Após esse tempo expirar, o ficheiro é apagado.
 
@@ -97,7 +97,7 @@ Pode verificar esta informação sempre que quiser carregando no botão ![](en/l
 
 ----------
 
-### Como carregar ou descarregar um ficheiro<a name="upadndown"></a>
+# Como carregar ou descarregar um ficheiro<a name="upadndown"></a>
 
 Para carregar um ficheiro escolha as opções que quer (se o ficheiro é apagado após a primeira descarga ou não e quantos dias permanece online) e carregue em "click to open the file browser" no centro do ecrã, navegue até ao seu ficheiro e selecione-o, ou então arraste o ficheiro para o centro do ecrã.
 
@@ -116,7 +116,7 @@ Para descarregar o ficheiro basta colocar o link no seu browser:
 ----------
 
 
-### Como partilhar um ficheiro<a name="spampeople"></a>
+# Como partilhar um ficheiro<a name="spampeople"></a>
 
 Bem isto é bastante simples, você pode:
 
@@ -138,7 +138,7 @@ Neste caso concreto o disroot é um fornecedor respeitador da privacidade, mas p
 
 ----------
 
-### Como gerir/apagar os seus uploads<a name="links"></a>
+# Como gerir/apagar os seus uploads<a name="links"></a>
 
 Você pode gerir os seus uploads carregando em ![](en/lufi07.png?resize=60,40) no painel principal.
 
