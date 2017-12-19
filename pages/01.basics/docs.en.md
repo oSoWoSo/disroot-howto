@@ -4,6 +4,8 @@ published: true
 taxonomy:
     category:
         - docs
+page-toc:
+     active: false
 ---
 
 # Welcome to **Disroot** Howto pages.
