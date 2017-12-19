@@ -30,7 +30,7 @@ The main differences between "Schedule an event" and "Make a standard poll" are:
 
 * **Standard poll** is better suited do surveys. *If you want to do a poll about an event that spans over several days (with no options on starting hour), Standard Poll is also better suited.*
 
-Once you choose which type off poll you prefer, the first step in making a poll is common to both, in the first page you need to fill:
+Once you choose which type of poll you prefer, the first step in making a poll is common to both, in the first page you need to fill:
 
 * Your name (which will be publicly shown as the creator of the poll, choose whatever name you like)
 * Poll title
