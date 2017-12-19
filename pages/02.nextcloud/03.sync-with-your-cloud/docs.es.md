@@ -1,5 +1,10 @@
 ---
 title: 'Sincronizando tu dispositivo'
+taxonomy:
+    category:
+        - docs
+page-toc:
+     active: false
 ---
 
 Nextcloud se integra con tu dispositivo de manera muy sencilla, proporcionando una experiencia nativa para la mayoría de los dispositivos y sistemas operativos.

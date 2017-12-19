@@ -4,6 +4,8 @@ published: true
 taxonomy:
     category:
         - docs
+page-toc:
+     active: false
 ---
 
 This section is dedicated to help all those awesome people who decided to aid us with contributions to translations and creating tutorials.

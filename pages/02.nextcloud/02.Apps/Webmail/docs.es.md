@@ -6,7 +6,7 @@ taxonomy:
     category:
         - docs
 page-toc:
-  active: true
+  active: false
 ---
 # Sincronizando los contactos en la nube con el webmail
 Sincronizar los contactos en la nube con el webmail es muy sencillo y te permitirá tener ambas libretas actualizadas simultáneamente.

@@ -1,6 +1,11 @@
 ---
 title: Android
 visible: true
+taxonomy:
+    category:
+        - docs
+page-toc:
+     active: false
 ---
 
 Ci-dessous vous pouvez apprendre comment intégrer nextcloud avec votre appareil Android.

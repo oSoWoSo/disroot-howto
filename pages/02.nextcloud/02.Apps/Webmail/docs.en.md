@@ -6,7 +6,7 @@ taxonomy:
     category:
         - docs
 page-toc:
-  active: true
+  active: false
 ---
 # Syncing cloud contacts with webmail
 Syncing cloud contacts with Webmail is very easy. It will permit contacts from your webmail and cloud to be in sync.

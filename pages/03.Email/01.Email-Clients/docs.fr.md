@@ -1,5 +1,10 @@
 ---
 title: Comment configurer les clients de messagerie
+taxonomy:
+    category:
+        - docs
+page-toc:
+     active: false
 ---
 
 Cette section est dédiée à essayer de vous convaincre d'utiliser un courriel d'un navigateur Internet pour une expérience écologiquement productive à travers un client de courriel sur votre appareil.

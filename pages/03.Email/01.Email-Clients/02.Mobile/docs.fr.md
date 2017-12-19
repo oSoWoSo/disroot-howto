@@ -1,5 +1,10 @@
 ---
 title: 'Clients de téléphone'
+taxonomy:
+    category:
+        - docs
+page-toc:
+     active: false
 ---
 
 Comment configurer votre email avec votre appareil mobile:

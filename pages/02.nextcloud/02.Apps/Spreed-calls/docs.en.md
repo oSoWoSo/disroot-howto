@@ -5,7 +5,8 @@ visible: true
 taxonomy:
     category:
         - docs
-
+page-toc:
+     active: false
 ---
 
 Since January 2017 we've introduced spreed calls to our cloud. It's very simple audio/video conference app you can use to communicate not only with other disroot users but with anyone who has a computer connected to the internet and up to date web browser supporting WebRTC technology.
@@ -26,7 +27,7 @@ On the bottom right of the window you will see your avatar and few options where
 
 That's pretty much it. You should be ready to start your new call
 
-##Creating Calls
+#Creating Calls
 To start calling, you need to create a room. Click on **"Choose person"** to do so. In the popup window you have an option to invite existing disroot account, or create public room.
 You will see there is a new room listed on the left sidebar.
 When clicking on the options button of the room, you can either:

@@ -1,5 +1,10 @@
 ---
 title: MacOS
+taxonomy:
+    category:
+        - docs
+page-toc:
+     active: false
 ---
 
 Below you can learn how to integrate Nextcloud with your MacOS device

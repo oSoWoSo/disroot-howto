@@ -4,7 +4,8 @@ published: true
 taxonomy:
     category:
         - docs
-
+page-toc:
+     active: false
 ---
 
-Coming soon.
+<br>

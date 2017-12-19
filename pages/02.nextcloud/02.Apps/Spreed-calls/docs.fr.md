@@ -5,7 +5,8 @@ visible: true
 taxonomy:
     category:
         - docs
-
+page-toc:
+     active: false
 ---
 
 Depuis janvier 2017, nous avons introduit des appels spreed dans notre cloud. Il s'agit d'une application de conférence audio/vidéo très simple que vous pouvez utiliser pour communiquer non seulement avec d'autres utilisateurs disroot, mais aussi avec toute personne qui a un ordinateur connecté à Internet et un navigateur web à jour et supportant la technologie WebRTC.

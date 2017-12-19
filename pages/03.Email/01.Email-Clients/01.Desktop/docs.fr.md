@@ -5,6 +5,8 @@ visible: true
 taxonomy:
     category:
         - docs
+page-toc:
+     active: fals
 ---
 
 Comment configurer votre email sur votre bureau:

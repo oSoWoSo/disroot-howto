@@ -4,6 +4,8 @@ published: true
 taxonomy:
     category:
         - docs
+page-toc:
+     active: false
 ---
 
 # Bem-vindos à página de manuais do **Disroot**.

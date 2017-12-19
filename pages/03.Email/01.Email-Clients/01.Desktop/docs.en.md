@@ -5,6 +5,8 @@ visible: true
 taxonomy:
     category:
         - docs
+page-toc:
+    active: fals    
 ---
 
 How to setup your email on your desktop:

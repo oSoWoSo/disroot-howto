@@ -1,5 +1,10 @@
 ---
 title: 'Synchroniser vers votre appareil'
+taxonomy:
+    category:
+        - docs
+page-toc:
+     active: false
 ---
 
 Nextcloud s'intègre très facilement avec votre appareil, offrant une expérience native pour la plupart des appareils et systèmes d'exploitation.

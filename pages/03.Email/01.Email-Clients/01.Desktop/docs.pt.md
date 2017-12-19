@@ -5,6 +5,8 @@ visible: true
 taxonomy:
     category:
         - docs
+page-toc:
+     active: fals
 ---
 
 Como configurar o seu cliente de email no seu desktop:

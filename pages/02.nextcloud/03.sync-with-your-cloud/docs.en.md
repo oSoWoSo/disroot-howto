@@ -1,5 +1,10 @@
 ---
 title: 'Syncing to your device'
+taxonomy:
+    category:
+        - docs
+page-toc:
+     active: false
 ---
 
 Nextcloud integrates with your device very easily, providing native experience for most devices and operating systems.

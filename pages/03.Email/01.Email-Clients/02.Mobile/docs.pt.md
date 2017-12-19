@@ -1,5 +1,10 @@
 ---
 title: 'Clientes de telemóvel'
+taxonomy:
+    category:
+        - docs
+page-toc:
+     active: false
 ---
 
 Como configurar o seu email Disroot no seu telemóvel:

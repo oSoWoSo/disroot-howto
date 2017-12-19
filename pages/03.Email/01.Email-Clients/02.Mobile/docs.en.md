@@ -1,5 +1,10 @@
 ---
 title: 'Mobile Clients'
+taxonomy:
+    category:
+        - docs
+page-toc:
+     active: false
 ---
 
 How to setup your email with your mobile device:

@@ -1,5 +1,10 @@
 ---
 title: How to setup Email Clients
+taxonomy:
+    category:
+        - docs
+page-toc:
+     active: false
 ---
 
 This section is dedicated to get you off the stupid webmail crap and onto truly productive, native experience on your device.

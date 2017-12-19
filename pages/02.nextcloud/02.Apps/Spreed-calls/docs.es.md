@@ -5,7 +5,8 @@ visible: true
 taxonomy:
     category:
         - docs
-
+page-toc:
+     active: false
 ---
 
 Desde Enero de 2017, hemos implementado llamadas con Spreed en nuestra nube. Es una aplicación muy sencilla para conferencias de audio/video que puedes utilizar para comunicarte, no sólo con otros usuarios de Disroot, sino con cualquiera que disponga de un ordenador conectado a internet y un navegador actualizado que soporte tecnología [WebRTC](https://es.wikipedia.org/wiki/WebRTC).

@@ -1,5 +1,10 @@
 ---
 title: 'Linux'
+taxonomy:
+    category:
+        - docs
+page-toc:
+     active: false
 ---
 
  Nextcloud se integra con Linux enormemente. Debajo puedes encontrar links que te ayudrán a tener todo en funcionamiento.
