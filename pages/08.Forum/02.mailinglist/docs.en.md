@@ -17,7 +17,7 @@ Disroot, mainly hosts private forum groups. If you are interested in one, drop u
 ----------
 # How mailinglist works in Discourse
 
-Discourse, the software used by Disroot, is a Forum software with malinglist functionalities. It has what we for this tutorial call **Groups**. And those Groups can have or not **Categories** in them (think of them as subjects or main topics).
+Discourse, the software used by Disroot, is a Forum software with mailinglist functionalities. It has what we for this tutorial call **Groups**. And those Groups can have or not **Categories** in them (think of them as subjects or main topics).
 As an example, the Disroot Group has several Categories dedicated to different subjects to organize discussions and exchange messages between users:
 
 ![](en/forum_ml1.png)
