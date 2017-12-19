@@ -5,6 +5,8 @@ visible: false
 taxonomy:
     category:
         - docs
+page-toc:
+    active: false
 ---
 
 # Configurações
