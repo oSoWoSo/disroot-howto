@@ -109,13 +109,13 @@ File, pictures, and videos will be presented on the left side of the screen (whe
 To move them just cut the line and paste it where you want it. Also in the case of pictures you can adjust their size by changing the values for "height" and "width" in the line.
 
 ## Adding tags to your topic
-Adding a tag makes it easier for people looking for topics or threads about a certain subject. Adding them is supper easy.
+Adding a tag makes it easier for people looking for topics or threads about a certain subject. Adding them is super easy.
 
 ![](en/forum_basics7.gif)
 
 Once your done with composing your topic just press "Create Topic" ![](en/forum_basics14.png)
 
-# Howto mute or watch categories
+# How to mute or watch categories
 In Discourse it's possible for you regulate the stream of posts you receive via the forum board or via email. You can mute categories or just a sub-category you are not interested or set categories to watch which will guarantee you will always receive notifications and emails of every post in a category or sub-category you are interested in.
 
 If you just mute a category you will be muting all sub-categories, unless you select a specific sub-category to watch. If you mute a category or sub-category you will still be able to access it in the message board, if you want to check it from time to time. You simply just don't receive any emails or notifications about it.
