@@ -29,52 +29,66 @@ Los usuarios de IOS probablemente tengan que pagar alrededor de 0,99€ por él 
 ----------
 
 # Configuración de la cuenta
-Once the app is installed, start it and login with you Disroot account credentials:
+Una vez que la aplicación está instalada, iniciala:
 
-* **Server:** [https://cloud.disroot.org](https://cloud.disroot.org)
-* **Username:** _your Disroot username_
-* **Password:** _your Disroot password_
+* **Servidor:** [https://cloud.disroot.org](https://cloud.disroot.org)
 
-![](en/nextcloud_app_login.jpeg)
+![](es/nextcloud_app_login1.png)
 
-----------
-# General interface
+Se te solicitará permiso para conceder a tu dispositivo acceso a la cuenta de Disroot.
 
-The general interface is pretty straightforward and easy to use. In the center it shows your files
-In the top bar you have:
+![](es/nextcloud_app_login2.png)
 
-* A search tool
-* A hamburger type button on the left side to access your settings.
-* On the right side a button to refresh your account and set the display mode.
-* On the lower right side you have the plus button that presents you with upload options.
+Una vez que hayas autorizado al dispositivo, completa los datos de tus credenciales de Disroot:
+* **Usuario:** _tu usuario de Disroot_
+* **Contraseña:** _tu contraseña de Disroot_
 
-![](en/nextcloud_app_main1.jpeg)
-
-You can navigate through the folders by pressing on them and then using the "back button" on the upper left corner.
-
-If you press the button with the three vertical dots in the top bar of the app, you can there **Refresh account**, **sort** and **Grid view**.
-
-In **Refresh your account** you can order to synchronize your files (if when you start the mobile app for the first time your files don't appear use this option).
-In **sort**, you can decide if your files will be shown alphabetically, by date and so on.
-In **Grid view**, you can change how the files are displayed, from a "list files" to Grid view and reverse:
-
-![](en/nextcloud_app_main2.jpeg)    
+![](es/nextcloud_app_login3.png)
 
 ----------
-## General settings
+# Interfaz general
 
-In the general settings you can:
+La interfaz general es bastante clara y sencilla de usar. En el centro, te muestra tus archivos. En la barra superior tienes:
 
-* Chose to automatically upload any videos and pictures you take/make on your phone to your Cloud
-* Set to which folder these uploads go to
-* Set if you want to keep a local copy of these uploaded pictures and videos
-* Set a password to access the Nexcloud Mobile app
-* Set if you want the app to display hidden files
-* Install DAVDroid so that you can sync calendars, tasks and contacts
+* Una herramienta de búsqueda
+* Un botón de tres líneas horizontales a la izquierda para acceder a tus configuraciones.
+* A la derecha un botón con tres puntos verticales para actualizar tu cuenta y establecer el modo de visualización.
+* Abajo a la derecha, tienes el botón "más" que te muestra las opciones de subida.
 
-You can access these settings by pressing the hamburger button on the upper left side and then "settings".
+![](es/nextcloud_app_main1.png)
 
-![](en/nextcloud_app_settings1.jpeg)
+Puedes navegar a través de las carpetas presionando sobre ellas y luego usando el "botón de retroceso" en la esquina superior izquierda.
+
+Si presionas el botón con los tres puntos verticales en la barra superior de la aplicación, allí tienes las opciones de **Actualizar cuenta**, **Ordenar**, **Seleccionar todo** y **Vista en cuadrícula**.
+
+En **Actualizar cuenta** puedes forzar la sincronización de tus archivos (si cuando inicias la aplicación del móvil por primera vez tus archivos no aparecen, utiliza esta opción).<br>
+En **Ordenar**, puedes decidir si tus archivos se mostrarán por orden alfabético, por fecha y demás.<br>
+**Seleccionar todo** hace exactamente eso, selecciona todos los archivos.<br>
+En **Vista en cuadrícula**, puedes cambiar la manera en que se visualizan los archivos, de "Vista de lista" a "Vista en cuadrícula" y viceversa:
+
+![](es/nextcloud_app_main3.png)
+
+![](es/nextcloud_app_main2.png)
+
+----------
+## Configuración general
+
+En la configuración general puedes:
+
+* Elegir subir automáticamente cualquier video/foto que hagas/tomes en tu teléfono a tu nube
+* Establecer a qué carpeta irán estas subidas
+* Establecer si quieres mantener o no una copia local de esas imágenes y videos subidas
+* Establecer una contraseña para acceder a la aplicación para móviles de Nextcloud
+* Establecer si quieres que la aplicación muestre archivos ocultos
+* Instalar DAVDroid así puedes sincronizar calendarios, tareas y contactos
+
+Puedes acceder a estas configuraciones presionando el botón de tres líneas horizontales arriba a la izquierda y luego seleccionando "Configuración".
+
+![](es/nextcloud_app_settings.png)
+
+![](es/nextcloud_app_settings1.png)
+
+![](es/nextcloud_app_settings2.png)
 
 **NEEDS TO BE UPDATED**
 ## Pictures and videos automatic uploads
