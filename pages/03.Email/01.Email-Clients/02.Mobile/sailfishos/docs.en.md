@@ -39,7 +39,7 @@ Setting up disroot mail on SailfishOS is very easy. Just follow those simple ste
 
 ![](en/sailfish_mail4.png)
 
-6. Swipe "**Accept**"<p>
+6. Swipe "**Accept**"
 
 7. Edit details such as **description** and "**Your name**", and swipe "**Accept**"
 

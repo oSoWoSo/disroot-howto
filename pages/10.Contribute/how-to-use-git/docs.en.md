@@ -12,7 +12,7 @@ This article will try to explain the basics of using git to contribute to transl
 In order to follow all the changes and work with multiple people at the same time, we have chosen to use **git** as our version control system. Git is very popular tool among developers and system administrators but it's features can be easily applicable everywhere where history of changes and ability to submit content and collaborate in a group is required.
 
 
-In this tutorial we will not cover all the aspects of using git. It's very complex and powerfull tool with tons of in-depth tutorials and books written about it. What we are aiming at is providing as short and easy way to contribute to tutorials and translations.
+In this tutorial we will not cover all the aspects of using git. It's very complex and powerfull tool with tons of in-depth tutorials and books written about it. What we are aiming at is providing a short and easy way to contribute to tutorials and translations.
 
 # How to Create account on git instance
 First of you need an account on the git instance used by disroot.org. Unfortunately git is not yet a federated service so you need to have a account. Thanks to our friends at **FOSS Community India** we host all our work on their gitlab instance.
@@ -22,7 +22,7 @@ To create an account just go over to https://git.fosscommunity.in and register. 
 Since all the modifications will happen on your local machine, you need to [install git](https://gist.github.com/derhuerst/1b15ff4652a867391f03) to be able to send your changes as well as sync changes of others. Depending on your platform the ways to install git may vary so check the link above or refer to your platform specific documentation.
 
 # Installing Atom editor
-If you haven't yet, it's time to install [Atom](https://atom.io). Atom is a feature rich text editor with special git integration. If your Operating system is not automatically detected or listed when going to [Atoms](https://atom.io) website, check [Other platfroms](https://github.com/atom/atom/releases/latest). For all Arch users, you can simply install it using `pacman -S atom` or other package manager of your choice.
+If you haven't yet, it's time to install [Atom](https://atom.io). Atom is a feature rich text editor with special git integration. If your Operating system is not automatically detected or listed when going to [Atoms](https://atom.io) website, check [Other platforms](https://github.com/atom/atom/releases/latest). For all Arch users, you can simply install it using `pacman -S atom` or other package manager of your choice.
 
 # Clonning repository
 Git is created with collaboration in it's core. First thing we need to do is get a copy of all files within the project (git repository) onto your local harddrive. All modifications are done on your local machine (you work offline). Only when you decide, the changes (new tutorial, translation) are finished you can decide to sent/sync (push) them back to the repository on the server.
@@ -53,7 +53,7 @@ To save the file changes use the *File* menu or *Ctrl+s* shortcut.
 
 # Git Branches
 Branches are basically your own private workspaces. Each git project has it's own **master** branch. Master branch is the main, *production* copy of the project. This branch is automatically synced with the website, so any change made to that branch are instantly visible on the website. That is also why adding any changes to the **master** branch is restricted only to the owners of the project.
-I order for you to start working is, create your own branch. This will basically make a clone of the **master** branch.
+In order for you to start working is, create your own branch. This will basically make a clone of the **master** branch.
 
 ![](en/atom-branch1.gif)
 
@@ -85,7 +85,7 @@ Once you think your work is finished and ready to be published on the website, i
 - This will open Merge request form.
 - Add title
 - Add descripton
-- make sure **source branch** is the one you want to merge form (one you worked on)
+- make sure **source branch** is the one you want to merge from (one you worked on)
 - make sure **target branch** is the one you want to merge to (usually master branch)
 
 ![](en/git-merge_request.gif)
@@ -93,7 +93,7 @@ Once you think your work is finished and ready to be published on the website, i
 Once you created merge request, it will be reviewed by Disroot admins. Admins can then aprove your commit which means it will be merged with the master branch and therefor visible on the website or request you to correct something. Once all the corrections are made and Disroot *"overlords"* are satified, your merge request will be pulled to the master.
 
 # Pulling changes from the server
-If you want to keep the local **master** branch and your local branched up to date, you need to pull changes from the server. Each time someones gets his merge request pulled in to the master, everyone should also pull the changes to their local branches. Then you can easily see what's new and what has changed recently. On the master branch we keep a file called "CHANGELOG" where we note all significant changes to Howtos.
+If you want to keep the local **master** branch and your local branch up to date, you need to pull changes from the server. Each time someones gets his merge request pulled in to the master, everyone should also pull the changes to their local branches. Then you can easily see what's new and what has changed recently. On the master branch we keep a file called "CHANGELOG" where we note all significant changes to Howtos.
 Pulling should be done on regular basis (specially before you start working on new branch).
 
  - Open push / pull popup window
