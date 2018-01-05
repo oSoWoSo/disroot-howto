@@ -1,5 +1,5 @@
 ---
-title: 'Calling with Spreed'
+title: 'Chamadas com o Spreed'
 published: true
 visible: true
 taxonomy:
