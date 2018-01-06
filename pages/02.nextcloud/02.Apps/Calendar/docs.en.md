@@ -12,7 +12,7 @@ page-toc:
 ------------
 # Using Calendar app
 
-You can access your calendar app by pressing the ![](calendar_top_icon.png) icon in the top bar.
+You can access your calendar app by pressing the ![](en/calendar_top_icon.png) icon in the top bar.
 *Left-bar* in the calendar window gives you an overview of your calendars, their options and general settings.
 
 ![](en/calendar_main.png)
@@ -25,7 +25,7 @@ Then press "*create*".
 
 ![](en/calendar_add_new.png)
 
-You can create multiple calendars for different purposes (work, activism, etc.) by repeating this process. If you do that, you can use different colors to set them apart (last icon is the color picker which allows you to choose any color you want).
+You can create multiple calendars for different purposes (work, activism, etc.) by repeating this process. If you do that, you can use different colors to set them apart (last icon is the color picker which allows you to choose any color you want![](en/calendar_colorpick_icon.png)).
 
 ![](en/calendar_list.png)
 
