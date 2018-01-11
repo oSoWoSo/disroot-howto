@@ -1,5 +1,5 @@
 ---
-title: 'User Interface basics'
+title: 'A felhasználói felület alapjai'
 published: true
 visible: true
 taxonomy:
