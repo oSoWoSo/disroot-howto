@@ -9,7 +9,7 @@ page-toc:
   active: true
 ---
 
-A Nextcloud a Disroot alapvető szolgáltatása és a fő felhasználói felülete, mely intergrálva van a legtöbb általunk kínált alkalmazással. Ebben a kis útmutatóban szeretnénk végigmenni a felület alapjain, megmagyarázva a felhasználói felület fogalmát és néhány alapfájlműveletet és személyes beállítást is.
+A Nextcloud a Disroot alapvető szolgáltatása és a fő felhasználói felülete, mely integrálva van a legtöbb általunk kínált alkalmazással. Ebben a kis útmutatóban szeretnénk végigmenni a felület alapjain, megmagyarázva a felhasználói felület fogalmát és néhány alapfájlműveletet és személyes beállítást is.
 <br>
 <br>
 <br>
@@ -21,7 +21,7 @@ A Nextcloud a Disroot alapvető szolgáltatása és a fő felhasználói felüle
 
 Az egész felhő-webalkalmazás egységes és egyértelmű felhasználói élményt nyújt.
 
-Ebben a leírásban megnevezzük a felület egyes részeit, hogy később könnyebben lehessen felismerni őket:
+Ebben a leírásban megnevezzük a felület egyes részeit, hogy később könnyebben lehessen felismerni őket, amikor hivatkozunk rájuk:
 
  - **Felső csík**: az oldal tetején található csík, rajta az összes alkalmazásra mutató linkekkel, a személyes beállításaiddal, a jelenleg megnyitott alkalmazás gombjaival és értesítésekkel
  - **Bal oldali sáv**: itt találod a beállításokat, szűrőket stb.
@@ -57,11 +57,11 @@ Figyelj oda, miközben kitöltöd ezeket az információkat (amely *nem kötelez
 
 ## Csoportok és nyelv
 
-Lentebb láthatod, mely csoportokhoz tartozol (ha egyáltalán tartozol leglább egyhez). Alapértelmezetten egy Disroot fiók sincs hozzákapcsolva egy csoporthoz sem. Megváltoztathatod az előnyben részesített nyelvedet is.
+Lentebb láthatod, mely csoportokhoz tartozol (ha egyáltalán tartozol legalább egyhez). Alapértelmezetten egy Disroot fiók sincs hozzákapcsolva egy csoporthoz sem. Megváltoztathatod az előnyben részesített nyelvedet is.
 
 ## Munkamenetek
 
-Itt láthatod, hány eszköz csatlakozik jelenleg a fiókodhoz. Ha olyan eszközöket látsz, amelyeknek nem kellene szerepelniük a listában, lehet, hogy illetéktelenek fértek hozzá a fiókodhoz és meg kellene változtatnod a jelszavadat. (Ne feledd, hogy minden böngésző, mobileszköz, számítógép stb. külön eszközként szerepel, valahányszor pl. hálózatot váltasz, úgyhogy először ne ilyedj meg, hanem nézz át alaposan mindent, mielőtt paranoiás módba kapcsolnál.)
+Itt láthatod, hány eszköz csatlakozik jelenleg a fiókodhoz. Ha olyan eszközöket látsz, amelyeknek nem kellene szerepelniük a listában, lehet, hogy illetéktelenek fértek hozzá a fiókodhoz és meg kellene változtatnod a jelszavadat. (Ne feledd, hogy minden böngésző, mobileszköz, számítógép stb. külön eszközként szerepel, valahányszor pl. hálózatot váltasz, úgyhogy először ne ilyedj meg, hanem nézz át alaposan mindent, mielőtt paranoiás módba kapcsolnál!)
 
 ## Tevékenység
 
@@ -71,7 +71,7 @@ A Tevékenység szekcióban eldöntheted, hogyan akarsz értesülni a felhődben
 
 ## Alap titkosítási modul
 
-Itt eldöntheted, hogy képes legyen-e egy adminisztrátor helyreállítani a fájljaidat, ha netán elveszítenéd a jelszavadat. Ez a lehetőség alapértelmezetten ki van kapcsolva, mivel ez lehetővé teszi, hogy a Disroot adminisztrátorok dekódolják és megnezzék a fájljaidat. **Nem lehet helyreállítani a fájljaidat, ha a jelszód elvesztése után kapcsolod be a beállítást!** Előre kell meghoznod ezt a döntést. **Erősen javasoljuk, hogy inkább ne veszítsd el a jelszavadat és tárold biztos helyen.** Így tudod a legnagyobb biztonságban tartani a fájljaidat és a fiókodat. Mi nagyon nem akarunk hozzáférni.
+Itt eldöntheted, hogy képes legyen-e egy adminisztrátor helyreállítani a fájljaidat, ha netán elveszítenéd a jelszavadat. Ez a lehetőség alapértelmezetten ki van kapcsolva, mivel ez lehetővé teszi, hogy a Disroot adminisztrátorok dekódolják és megnezzék a fájljaidat. **Nem lehet helyreállítani a fájljaidat, ha a jelszód elvesztése után kapcsolod be a beállítást!** Előre kell meghoznod ezt a döntést. **Erősen javasoljuk, hogy inkább ne veszítsd el a jelszavadat és tárold biztos helyen.** Így tudod a legnagyobb biztonságban tartani a fájljaidat és a fiókodat. Mi nem igazán akarjuk, hogy hozzá tudjunk férni.
 
 ![](en/personal_encryption1.png)
 
@@ -79,13 +79,13 @@ Itt eldöntheted, hogy képes legyen-e egy adminisztrátor helyreállítani a f�
 
 Mi az egyesített felhő? Mint ahogyan emaileket tudnak küldeni különböző szerverek felhasználói (GMail, Riseup, Disroot stb.), a Nextclouddal lehetőséged van olyan Disrooton kívüli emberekkel megosztani fájlokat, névjegyeket, naptárakat stb., akik hasonló felhőalapú megoldást használnak (ownCloud és/vagy Nextcloud). Ez lehetővé teszi a felhasználóknak, hogy szabadon válasszák meg a platformukat az együttműködéshez.
 
-Ebben a szekcióban láthatod az egyesített felhő azonosítódat. Megoszthatod másokkal egy link küldésén keresztül vagy előre meghatározott platformokon keresztül (természetesen tetszőleges platformokat is hozzáadhatsz).
+Ebben a szekcióban láthatod az egyesített felhő azonosítódat. Megoszthatod másokkal egy link küldésén vagy előre meghatározott platformokon keresztül (természetesen tetszőleges platformokat is hozzáadhatsz).
 
 ![](en/personal_federated.png)
 
 ## Spreed videóhívások
 
-Kivéve ha rendelkezel saját TURN szerverrel való hozzáféréssel, **hagyd ezt a mezőt üresen!** Ezzel a lehetőséggel egy olyan szolgáltatást állíthatsz be, amely segíti meghatározni az IP címedet, amikor a „Videóhívások” alkalmazást használod hang-/videókonferenciákhoz a Disrooton. Alapértelmezetten mindegyik Disrootfiók a Disroot Turn szerverét használja.
+Hacsak nem rendelkezel saját TURN szerverrel való hozzáféréssel, **hagyd üresen ezt a mezőt!** Ezzel a lehetőséggel egy olyan szolgáltatást állíthatsz be, amely segíti meghatározni az IP címedet, amikor a „Videóhívások” alkalmazást használod hang-/videókonferenciákhoz a Disrooton. Alapértelmezetten mindegyik Disrootfiók a Disroot TURN szerverét használja.
 
 ## Kétlépcsős biztonsági kódok
 
@@ -95,12 +95,12 @@ Ez a lehetőség a kétlépcsős azonosításhoz használatos, amely pillanatnyi
 ----------
 
 
-# FÁJLOK
+# Fájlok
 
 
-A felhő legfőbb feladata a fájlok kezelése. Könnyen feltölthetsz, letölthetsz, megoszthatsz fájlokat és hozzájuk is szólhatsz.
+A felhő legfőbb feladata a fájlok kezelése szokott lenni. Könnyen feltölthetsz, letölthetsz, megoszthatsz fájlokat és hozzájuk is szólhatsz.
 
-A *bal oldali sávon* adott kritériumok szerint szűrhetsz. A *főablak* a te fájlböngésződ. Biztosan tudod, hogyan kell használni, ha már használtál valaha számítógépet. :P
+A *bal oldali sávon* adott kritériumok szerint szűrheted, mi jelenjen meg. A *főablak* a te fájlböngésződ. Biztosan tudod, hogyan kell használni, ha már használtál valaha számítógépet. :P
 
 ![](en/main_files.png)
 
@@ -112,39 +112,39 @@ A *bal oldali sávon* adott kritériumok szerint szűrhetsz. A *főablak* a te f
 
 ## Fájlok feltöltése
 
-Két féleképpen tudsz feltölteni fájlokat: a számítógéped fájlkezelőjéből az egérrel egyszerűen a felhőt tartalmazó böngészőablakba húzol fájlokat, vagy pedig a „**+**” ikont használva kiválasztod a „Fájl feltöltése” lehetőséget.
+Kétféleképpen tudsz feltölteni fájlokat: a számítógéped fájlkezelőjéből az egérrel egyszerűen a felhőt tartalmazó böngészőablakba húzol fájlokat, vagy pedig a „**+**” ikont használva kiválasztod a „Fájl feltöltése” lehetőséget.
 
 ![](en/main_files_upload.png)
 
 ## Fájlok megosztása
 
-A fájlok megosztása bármilyen felhőszolgáltatás létfontosságú része. Megoszthatsz fájlokat más Disrootfelhasználókkal, az egész csoportoddal vagy akár más platformokon lévő ownCloud/Nextcloud felhasználókkal. A publikos link funckióval pedig bárkivel megoszthatsz.
+A fájlok megosztása bármilyen felhőszolgáltatás létfontosságú része. Megoszthatsz fájlokat más Disrootfelhasználókkal, az egész csoportoddal vagy akár más platformokon lévő ownCloud/Nextcloud felhasználókkal. A publikus link funkcióval pedig bárkivel megoszthatsz.
 
-Egy fájl vagy könyvtár megosztásához kattints a „megosztási ikonra” a megosztani kívánt fájl vagy könyvtár neve mellett! Meg fog jelenni egy jobb oldali sáv az összes megosztási lehetőséggel.
+Egy fájl vagy könyvtár megosztásához kattints a megosztási ikonra a megosztani kívánt fájl vagy könyvtár neve mellett! Meg fog jelenni egy jobb oldali sáv az összes megosztási lehetőséggel.
 
 ![](en/main_files_sharing_menu.png)
 
-Megoszthatsz más felhasználókkal, csoportokkal vagy más felhőszerver felhasználóival az egyesített felő azonosítón keresztül a teljes felhasználónevük megadásával (az automatikus kiegészítés nálunk nem engedélyezett magánszféravédelmi okokból). Amikor más felhasználókkal vagy csoportokkal osztasz meg, eldöntheted, hogy a felhasználóknak legyen-e engedélyük változtatni a megosztott tartalmon (törölni, feltölteni, szerkeszteni) és hogy ismét meg tudják-e osztani másokkal.
+Megoszthatsz más felhasználókkal, csoportokkal vagy más felhőszerver felhasználóival az egyesített felhő azonosítón keresztül a teljes felhasználónevük megadásával (az automatikus kiegészítés nálunk nem engedélyezett magánszféravédelmi okokból). Amikor más felhasználókkal vagy csoportokkal osztasz meg, eldöntheted, hogy a felhasználóknak legyen-e engedélyük változtatni a megosztott tartalmon (törölni, feltölteni, szerkeszteni) és hogy ismét meg tudják-e osztani másokkal.
 
 ![](en/main_files_sharing_menu2.png)
 
-Ezen kívül bárkivel megoszthatod az adatodat a „Megosztás hivatkozással” lehetőséggel. Bárki, aki ismeri a hivatkozást, képes lesz hozzáférni a fájlokhoz. Akivel megosztod, nem szükséges, hogy rendelkezzen érvényes fiókkal. A „Megosztás hivatkozással” lehetőséged ad egy jelszóval és lejárati dátummal való védelemre is.
+Ezen kívül bárkivel megoszthatod az adatodat a „Megosztás hivatkozással” lehetőséggel. Bárki, aki ismeri a hivatkozást, képes lesz hozzáférni a fájlokhoz. Akivel megosztod, nem szükséges, hogy rendelkezzen érvényes fiókkal. A „Megosztás hivatkozással” lehetőséget ad egy jelszóval és lejárati dátummal való védelemre is.
 
 ![](en/main_files_sharing_menu_publink.png)
 
 ## Hozzászólások, tevékenységek, verziók
 
-Amint észrevetted, amikor megosztást állítottál be, további lehetőségek vannak a jobb oldali sávon.
+Amint biztosan észrevetted, amikor megosztást állítottál be, további lehetőségek vannak a jobb oldali sávon.
 
 ![](en/main_files_comments1.png)
 
- - **Tevékenységek**: egy áttekintést ad a fájl összes eseményeiről. Megmutatja, mikor lett lérehozva, megosztva, szerkesztve, hozzászólva stb..
+ - **Tevékenységek**: egy áttekintést ad a fájl összes eseményeiről. Megmutatja, mikor lett létrehozva, megosztva, szerkesztve, hozzászólva stb..
  - **Hozzászólások**: nagyon hasznos, amikor egy fájlon dolgozol együtt másokkal. Mindenki, akivel fájlt osztasz meg, olvashat és hozzáadhat hozzászólásokat.
- - **Verziók**: megmutatja az összes a fájlon végzett változtatást. Letölthetsz korábbi változatait a fájlnak és vissza is térhetsz rá (ami törli az összes utána végzett változtatást).
+ - **Verziók**: megmutatja az összes a fájlon végzett változtatást. Letöltheted a fájlnak korábbi változatait és vissza is térhetsz rájuk (ami törli az összes utána végzett változtatást).
 
 ## Egyéb fájlműveletek
 
-A fájl- vagy könyvtárnév melletti három pont ikonra kattintva további lehetőségeket láthatsz. Azok a lehetőségek meguktól értetődőek. Itt átnevezhetsz, áthelyezhetsz, letölthetsz vagy törölhetsz fájlokat vagy Könyvtárakat.
+A fájl- vagy könyvtárnév melletti három pont ikonra kattintva további lehetőségeket láthatsz. Ezek nevei magukról beszélnek. Itt átnevezhetsz, áthelyezhetsz, letölthetsz vagy törölhetsz fájlokat vagy könyvtárakat.
 
 ![](en/main_files_other_menu.png)
 
