@@ -25,7 +25,7 @@ Then press "*create*".
 
 ![](en/calendar_add_new.png)
 
-You can create multiple calendars for different purposes (work, activism, etc.) by repeating this process. If you do that, you can use different colors to set them apart (last icon is the color picker which allows you to choose any color you want).
+You can create multiple calendars for different purposes (work, activism, etc.) by repeating this process. If you do that, you can use different colors to set them apart (last icon is the color picker which allows you to choose any color you want![](en/calendar_colorpick_icon.png)).
 
 ![](en/calendar_list.png)
 
