@@ -112,7 +112,7 @@ Si nunca trabajaste con el cliente de correo de escritorio y siempre utilizaste 
 
 ![](en/gnome_mail.gif)
 
-Now that you have your email setup and integrated with your desktop. You can now use either "Evolution" or "Geary" mail client and enjoy all your emails, calendars, tasks, and contacts integrated in one application. Magic.. :)
+Ahora tienes tu correo electrónico configurado e integrado con tu escritorio. Puedes usar los clientes de correo "Evolution" o "Geary" y disfrutar de todos tus correos, calendarios, tareas y contactos integrados en una aplicación. Mágico... :)
 
 ![](en/gnome_mail2.png)
 
@@ -120,16 +120,16 @@ Now that you have your email setup and integrated with your desktop. You can now
 ----------
 
 
-# News
-News app on disroot cloud lets you aggregate all the new posts of your favorite websites and services using RSS Feed, and sync it with all your devices. It comes extra handy when you want to stay on top of news that interest you. Most of the websites offer RSS feeds.Usually you can find them via this ![](en/gnome_news1.png?resize=20,20), or by typing address similar to https://disroot.org/feed
+# Noticias
+La aplicación News (Noticias) de la nube de Disroot te permite agregar todas las nuevas publicaciones de tus sitios y servicios, usando contenido RSS, y sincronizarla con todos tus dispositivos. Se vuelve extra útil cuando quieres estar al tanto de inmediato sobre noticias que te interesan. La mayoría de los sitios web ofrecen contenido RSS. Generalmente, puedes encontrarlos a través de esto![](en/gnome_news1.png?resize=20,20), o tipeando https://disroot.org/feed
 
-Besides traditional web app and mobile app we can easily integrate News with your desktop. Just like all the previous app integrations in this tutorial, first step is to install appropriate software. The RSS Feed application that integrates with disroot cloud is called **"FeedReader"**, which should be available in your distributions "Software" center (app store). if it isn't then you can look for instructions on how to install it [here](https://github.com/jangernert/feedreader).
+Además de la aplicación web tradicional y la aplicación del móvil, podemos integrar fácilmente News con tu escritorio. Igual que todas las integraciones de aplicaciones previas en este tutorial, el primer paso es descargar el software apropiado. La aplicación que integra el lector de RSS con la nube de Disroot se llama **"FeedReader"**, que debería estar disponible en el gestor de "Software" de tu distribución. Si no está, entonces puedes buscar las instrucciones para instalarla [aquí](https://github.com/jangernert/feedreader).
 
-Once you get it up and running, all you need to do is fill in your disroot credentials, and you are ready to go.
+Una vez que la tengas funcionando, todo lo que necesitas hacer es ingresar tus credenciales de Disroot, y ya estás listo.
 
 ![](en/gnome_news2.gif)
 
-Once your account is setup, initial synchronization will take place. All your currently subscribed feeds will be synced to your desktop. Just like on mobile or webapp you can now read latest news, add / remove feeds, categorize them etc. Everything will be synced back to your cloud account. The app checks for new posts in the background and sends you desktop notification even if the app itself is closed, so you won't miss-out on anything.
+Luego de configurar tu cuenta, se llevará a cabo la sincronización inicial. Todos los canales de feeds a los que estés suscrito serán sincronizados en tu escritorio. Igual que en el móvil o en la web ahora puedes leer las últimas noticias, agregar/remover canales de feeds, categorizarlos, etc. Todo será sincronizado de vuelta con tu cuenta en la nube. La aplicación verifica en segundo plano si hay nuevas publicaciones y te envía una notificación en el escritorio, aún cuando esté cerrada, así estás informado.
 
 ![](en/gnome_news3.gif)
 
