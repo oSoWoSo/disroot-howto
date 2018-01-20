@@ -17,27 +17,28 @@ Riot is the main and most feature rich client (app) to use with matrix. It ships
 ----------
 
 # How to access Riot?
-There are numerous ways you can interact with matrix network through Riot client.
+There are numerous ways you can interact with the network of Matrix through the client Riot.
 
 ## Webapp
 The easiest way to access Riot on disroot is by going to <https://chat.disroot.org>. All you need is a supported web browser (Currently Mozilla Firefox and Chromium/Google Chrome are supported. Other browsers might also work, but there's no guarantee that all features will work perfectly.)
 
 ## Mobile app
-For android we of course recommend using Riot shipped via [F-droid](https://f-droid.org/repository/browse/?fdfilter=riot&fdid=im.vector.alpha), though if you want to receive push notification and your life depends on google services, you can also find riot on google's play store.
+For Android, we of course recommend using Riot shipped via [F-droid](https://f-droid.org/repository/browse/?fdfilter=riot&fdid=im.vector.alpha), though if you want to receive push notifications and your life depends on Google Services, you can also find Riot on Google's Play Store.
 
-For iOS of course you don't have alternative and you must use their appstore. just search for "Riot".
+For iOS of course you don't have any alternatives and you must use their app store. Just search for "Riot".
+
 ## "Native" desktop app
-We intentionally use "native" in quotes because it isn't purely native solution. It is basically the webapp but severed from your own computer. It is however providing you with best security as it does not rely on third party (not even disroot or any other server providing riot). To get it up and running follow one of this link: https://riot.im/desktop.html
+We intentionally use "native" in quotes because it isn't a purely native solution. It is basically the webapp but run from your own computer. It however provides you with the best security as it does not rely on any third parties (not even disroot or any other server providing Riot). To get it up and running, follow this link: <https://riot.im/desktop.html>.
 
 
 ----------
 
-# How to login / register account.
-To register account, go to https://user.disroot.org
+# How to login/register an account
+To register an account, go to <https://user.disroot.org>.
 
-**TIP** Currently your email address will be shared with third party server at matrix.org in order to provide you with better contact discovery, as well as send you forgotten password emails etc. This however is totally optional and if you're concern with privacy and sharing information with matrix.org, you can skip it.
+**TIP**: Currently your email address will be shared with a third party server at matrix.org in order to provide you with better contact discovery, as well as send you emails about forgotten passwords etc. This, however, is totally optional and if you're concerned with privacy and sharing information with matrix.org, you can skip it.
 
-For disroot users - your email address is not filled in by default for the same reason. You should decide whether or not to trust matrix.org with your email address and you can add it in the later stage.
+For disroot users - your email address is not filled in by default for the same reason. You should decide whether or not to trust matrix.org with your email address and you can add it at a later stage.
 
 
 ----------
