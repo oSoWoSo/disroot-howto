@@ -44,18 +44,18 @@ For disroot users - your email address is not filled in by default for the same 
 ----------
 
 # User Interface
-The user interface is quite intuitive if you ever used chat system such as IRC, Slack, Rocket.chat.
+The user interface is quite intuitive if you ever used a chat system such as IRC, Slack, or Rocket.chat.
 
 ![](en/riot_interface1.png)
 
-For the purpose of this howto we'll name some of the key elements of the interface to help identify them later on:
+For the purpose of this howto, we'll name some of the key elements of the interface to help you identify them later on:
 
- - **Chat List** - Place where you will find all the chat-rooms and Direct Chats you participate in. You can sort those chat-rooms in various categories (favorite, direct chats, low priority) by dragging the rooms into them.
- - **Chat Details** - Is where the rooms name, logo and topic is displayed. Additionally ![](en/riot_interface2.png?resize=23,26) is for searching for keywords in the rooms history and ![](en/riot_interface3.png?resize=18,20) is for rooms settings where you can eg.change the topic, add and manage integration, and various room admin settings.
- - **Main window** - This is the main display of the application. You can see all the chat messages in the room or see all public rooms when going to Room directory.
- - **Message area** - is where you type your message, upload file, start audio or video call or conference
- - **User List** - is where you can see all the users currently participating in the room.
- - **Actions and settings** - here you can start new direct chat, create new room, list all public rooms, enter your user settings
+ - **Chat List** - The place where you will find all the chatrooms and “Direct Chats” (chatrooms with exactly one person other than you) you participate in. You can sort these chatrooms in various categories (favorite, direct chats, low priority) by dragging the rooms into them.
+ - **Chat Details** - This is where the room’s name, logo and topic are displayed. Additionally, ![](en/riot_interface2.png?resize=23,26) is for searching for keywords in the room’s history and ![](en/riot_interface3.png?resize=18,20) is for the room’s settings where you can e.g. change the topic, add and manage integrations, and adjust various room admin settings.
+ - **Main window** - This is the main part of the application. Here you can see all the chat messages in the currently selected room or all the public rooms when going to the Room directory.
+ - **Message area** - This is where you type your messages, upload files, start audio or video calls or conferences.
+ - **User List** - Here you can see all the users currently participating in the room.
+ - **Actions and settings** - Here you can start a new direct chat, create a new room, list all public rooms, as well as enter your user settings.
 
 
 ----------
