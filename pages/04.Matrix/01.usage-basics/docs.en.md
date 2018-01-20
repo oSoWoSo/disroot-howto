@@ -18,8 +18,10 @@ Riot is the main and most feature rich client (app) to use with matrix. It ships
 
 # How to access Riot?
 There are numerous ways you can interact with matrix network through Riot client.
+
 ## Webapp
-The easiest way to access Riot on disroot is by going to https://chat.disroot.org All you need is a working web browser
+The easiest way to access Riot on disroot is by going to <https://chat.disroot.org>. All you need is a supported web browser (Currently Mozilla Firefox and Chromium/Google Chrome are supported. Other browsers might also work, but there's no guarantee that all features will work perfectly.)
+
 ## Mobile app
 For android we of course recommend using Riot shipped via [F-droid](https://f-droid.org/repository/browse/?fdfilter=riot&fdid=im.vector.alpha), though if you want to receive push notification and your life depends on google services, you can also find riot on google's play store.
 
