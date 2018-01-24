@@ -17,7 +17,7 @@ When in Settings, go to **"Sending Mail"** tab, tap on **"Manage Identities"**.
 
 Select **"New identity"** by tapping the "three dot" icon on top right.
 *(Every disroot user by default has an username@disr.it alias he can use)*
-![](en/identity_settings3.gif)
+![](en/identity_settings3.png)
 
 And fill in the form providing the new alias adress.
 ![](en/identity_settings4.png)

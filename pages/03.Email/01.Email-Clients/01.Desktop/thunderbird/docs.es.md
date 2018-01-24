@@ -7,35 +7,34 @@ taxonomy:
     category:
         - docs
 ---
-Thunderbird is a powerful open-source email client, calendar and RSS-Feed manager.
+Thunderbird es un poderoso cliente de correo, calendario y administrador de RSS-Feed de código abierto.
 
-1. **Install Thunderbird.**
-If you don't have thunderbird yet, got to  https://www.mozilla.org/en-US/thunderbird/all/ and choose your language and Operating System.
-**!Note** For linux users we recommend using your distribution package manager to get the latest and updatable version of thunderbird.
+1. **Instalar Thunderbird.**
+Si aún no tienes Thunderbird, ve a https://www.mozilla.org/en-US/thunderbird/all/ y selecciona tu idioma y Sistema Operativo. **Nota:** Para usuarios de GNU/Linux recomendamos utilizar el administrador de software de tu distribución para obtener la última y actualizable versión de Thunderbird.
 
-2. **Open thunderbird**
-If it's the first time you run thunderbird you will be directly greeted with account setup. Please skip the partnership suggestion and get right to the setup.
+2. **Abre Thunderbird**
+Si es la primera vez que ejecutas Thunderbird, serás recibido directamente con la configuración de cuenta. Por favor, saltea la sugerencia de la compañía y pasa directamente a la configuración.
 
 ![](en/thunderbird_setup1.png)
 
-If you  are using thunderbird already and have some accounts setup just select '**New Account**" icon in the root view.
+Si ya estás utilizando Thunderbird y tienes algunas cuentas configuradas sólo selecciona el icono de **Nueva Cuenta** en la vista de raíz.
 
 ![](en/thunderbird_setup2.png)
 
-3. **Fill in your account information**
+3. **Completa la información de la cuenta**
 
-![](en/thunderbird_setup3.png)
+![](es/thunderbird_setup3.png)
 
- - **Your name** Name that will be displayed in "from" field
- - **Email address** Your disroot email address eg. testuser@disroot.org
- - **Password** - Your password
- - **Remember Password?** - If you want thunderbird to remember your password for you and not prompt you for it every time you start thunderbird, select it.
- - Click "**Continue**" button once you're done and verified everything is correct..<p>
+- **Su nombre:** Nombre que será mostrado en el campo "de"
+- **Correo electrónico:** Tu dirección de correo de disroot. Ej. usuariodeprueba@disroot.org
+- **Contraseña:** Tu contraseña
+- **Recordar contraseña:** Si quieres que Thunderbird recuerde tu contraseña y no te la solicite cada vez que ejecutas el cliente, selecciónalo.
+- Click en el botón "**Continuar**" una vez que has terminado y verificado que todo está correcto.
 
-4. Thunderbird now should auto-detect the needed settings like this:
+4. Thunderbird debería ahora auto-detectar la configuración necesaria, algo como esto:
 
-![](en/thunderbird_setup4.png)
+![](es/thunderbird_setup4.png)
 
-**Done** \o/
+**¡Hecho!** \o/
 
-![](en/thunderbird_setup5.png)
+![](es/thunderbird_setup5.png)
