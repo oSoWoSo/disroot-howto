@@ -61,7 +61,7 @@ For the purpose of this howto, we'll name some of the key elements of the interf
 ----------
 
 # User Settings
-First thing after you login for the first time is to customize your user settings. To do that click on ![](en/riot_interface4.png?resize=28,23) in **"Actions and settings"** area (bottom left). In this section you can setup various information about yourself, as well as setup behavior of notifications, enable extra interface features and check and verify list of connected devices.
+First thing after you login for the first time is to customize your user settings. To do that click on ![](en/riot_interface4.png?resize=28,23) in the area **"Actions and settings"** (bottom left corner). In this section, you can set up various information about yourself, as well as set up the behavior of notifications, enable extra interface features and check and verify the list of connected devices.
 
 ## Profile
 
@@ -79,13 +79,13 @@ This section lets you add or change information about your profile.
 
 ![](en/riot_interface6.png)
 
-Here you can change behavior of notifications for your account (note that this changes will affect all devices running Riot, hopefully in the future we will be able to change notifications settings per device).
+Here you can change the behavior of notifications for your account. (Note that these changes will affect all devices running Riot. Hopefully in the future we will be able to change notifications settings per device.)
 
 ## Devices
-A list of devices connected to your account. You can view the devices ID, general information about the devices origin such as it's name, the url it connected to, operating system and browser name (if connected via the browser), it's IP and the time it last made the connection to your account. You can also delete devices you no longer use. If you see a suspicious device or IP you're never used it might mean your account has been compromised. You should  immediately logout (this will logout all devices), and change your password. Not logging out will not result in the compromised device logging back in. Be careful not to rush to conclusions too quickly! Study the list to be sure before you run around all paranoid.
+Here you can see a list of devices connected to your account. You can view the devices ID, general information about the devices origin such as their name, the url they are connected to, the name of the operating system and browser or client being used, the IP address and the time they last made the connection to your account. You can also delete devices you no longer use. If you see a suspicious device or IP address you're never used, it might mean your account has been compromised and you should immediately logout (this will logout all devices), and change your password. Not logging out will not result in the compromised device logging back in. Be careful not to rush to conclusions too quickly! Study the list to be sure before you run around all paranoid.
 
 ## Deactivate account
-On the bottom of your user settings you can deactivate your account.
+At the bottom of your user settings, you can deactivate your account.
 
 ![](en/riot_interface7.png)
 
@@ -94,22 +94,22 @@ On the bottom of your user settings you can deactivate your account.
 
 
 # Room Directory
-The coolest thing about matrix is the fact that its totally federated. It means you can join any channel on any server. In Room directory you can search for and discover rooms on friendly servers we have listed (list will keep growing) as well as search for rooms on servers (if you know the servers URL). All public rooms of given server are listed in the main window.
+The coolest thing about Matrix is the fact that it’s totally federated. It means you can join any channel on any server that’s part of the federation. In the Room Directory, you can search for and discover rooms on friendly servers we have listed (the list will keep growing) as well as search for rooms on servers (if you know the server’s URL). All public rooms of given server are listed in the main window.
 
 ![](en/riot_interface8.png)
 
-Right dropdown menu lets you filter public rooms in of specific server, or simply add url of server that isn't yet listed.
+The right dropdown menu lets you filter public rooms in of specific server, or simply add url of server that isn't yet listed.
 
 ![](en/riot_interface9.png)
 
-The left input field is used to either type in the full room address (if you know it) or search for rooms using keyword.
+The left input field is used to either type in the full room address (if you know it) or search for rooms using keywords.
 
 ![](en/riot_interface10.png)
 
 
 ----------
 
-# Joining Channel
+# Joining a Channel
 You can join a room in many ways.
 The most straight forward way to join public rooms is to search for them in room directory. You can either choose a room from the list given by the predefined servers or search for the room on the server you know the address of.
 
