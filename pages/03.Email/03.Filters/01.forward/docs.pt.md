@@ -9,31 +9,31 @@ page-toc:
     active: false
 ---
 
-We understand that not everyone wants to use disroot mail as their daily driver. People have their mail accounts for years and it is hard, not practical or in some cases even impossible for them to switch to another provider such as disroot.
+Compreendemos que nem toda a gente queira usar o seu email do Disroot como a sua conta de email principal. As pessoas tem as suas contas de email há muito tempo e por vezes é pouco prático mudar de conta de email para outro fornecedor de email como por exemplo o Disroot.
 
-However, there are important information you should not miss out on.
+No entanto há informações inprtantes que não deve perder.
 
- - Get  notifications for forum and nextcloud. Those services are tight to disroot email and you cannot change it.
- - To be up to date with what's going on in dirsoot. Every three /six weeks we are sending email to all users informing them about recent developments, new features and services. We are also sending information about scheduled downtime of services if they are longer then 20 min. We have no intention to spam you with too much information so don't worry about that.
+ - Receber notificações do fórum e da sua conta de cloud. Esses serviços estão ligados à sua conta de email do Disroot e isso não pode ser alterado.
+ - Estar a par do que se passa com o Disroot. Cada três a seis semanas enviamos emails a todos os nossos utilizadores com informações sobre novos desenvolvimentos, novos serviços adicionados ao Disroot. Também enviamos informação acerca de períodos de manutençao, que normalmente não excedem os 20 minutos.
+ Não temos a intenção de o spamar com demasiada informação, não precisa de se preocupar com isso.
 
-In this short howto I would like to show you how to forward your disroot emails to your preferred email address
-(it should take you no more then 3minutes to get this setup).
+Neste pequeno tutorial gostariamos de lhe mostrar como pode reencaminhar automaticamente os emails da sua conta Disroot para outra conta de email (não deve demorar mais do que três minutos paa configurar).
 
-## Steps needed to forward your mail
+## Passos necessários para reencaminhar automaticamente o seu email
 
-1. **Login to webmail** (https://mail.disroot.org)
+1 - **Fazer login no [webmail](https://mail.disroot.org)**
 
 
 ![](en/login.jpg)
+<br>
 
-
-2. **Go to Settings** (hit the 'gear' icon on bottom left of the window)
+2 - **Ir a definições** (carregue no ícone 'roda dentada' no canto inferior esquerdo da janela)
 
 
 ![](en/webmail1.jpg)
 
 
-3. Once in Settings **Hit Filter Tab.**
+3 - Once in Settings **Hit Filter Tab.**
 Filters help you manage your emails. Based on your filer conditions, you can move, copy, forward any email automatically. This is quite straight forward so if you want to setup some extra filters just look around. Here I'll show you how to setup forwarding filter for all your mail.
 
 
