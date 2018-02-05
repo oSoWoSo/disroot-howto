@@ -17,48 +17,51 @@ Riot is the main and most feature rich client (app) to use with matrix. It ships
 ----------
 
 # How to access Riot?
-There are numerous ways you can interact with matrix network through Riot client.
-## Webapp
-The easiest way to access Riot on disroot is by going to https://chat.disroot.org All you need is a working web browser
-## Mobile app
-For android we of course recommend using Riot shipped via [F-droid](https://f-droid.org/repository/browse/?fdfilter=riot&fdid=im.vector.alpha), though if you want to receive push notification and your life depends on google services, you can also find riot on google's play store.
+There are numerous ways you can interact with the network of Matrix through the client Riot.
 
-For iOS of course you don't have alternative and you must use their appstore. just search for "Riot".
+## Webapp
+The easiest way to access Riot on disroot is by going to <https://chat.disroot.org>. All you need is a supported web browser (Currently Mozilla Firefox and Chromium/Google Chrome are supported. Other browsers might also work, but there's no guarantee that all features will work perfectly.)
+
+## Mobile app
+For Android, we of course recommend using Riot shipped via [F-droid](https://f-droid.org/repository/browse/?fdfilter=riot&fdid=im.vector.alpha), though if you want to receive push notifications and your life depends on Google Services, you can also find Riot on Google's Play Store.
+
+For iOS of course you don't have any alternatives and you must use their app store. Just search for "Riot".
+
 ## "Native" desktop app
-We intentionally use "native" in quotes because it isn't purely native solution. It is basically the webapp but severed from your own computer. It is however providing you with best security as it does not rely on third party (not even disroot or any other server providing riot). To get it up and running follow one of this link: https://riot.im/desktop.html
+We intentionally use "native" in quotes because it isn't a purely native solution. It is basically the webapp but run from your own computer. It however provides you with the best security as it does not rely on any third parties (not even disroot or any other server providing Riot). To get it up and running, follow this link: <https://riot.im/desktop.html>.
 
 
 ----------
 
-# How to login / register account.
-To register account, go to https://user.disroot.org
+# How to login/register an account
+To register an account, go to <https://user.disroot.org>.
 
-**TIP** Currently your email address will be shared with third party server at matrix.org in order to provide you with better contact discovery, as well as send you forgotten password emails etc. This however is totally optional and if you're concern with privacy and sharing information with matrix.org, you can skip it.
+**TIP**: Currently your email address will be shared with a third party server at matrix.org in order to provide you with better contact discovery, as well as send you emails about forgotten passwords etc. This, however, is totally optional and if you're concerned with privacy and sharing information with matrix.org, you can skip it.
 
-For disroot users - your email address is not filled in by default for the same reason. You should decide whether or not to trust matrix.org with your email address and you can add it in the later stage.
+For disroot users - your email address is not filled in by default for the same reason. You should decide whether or not to trust matrix.org with your email address and you can add it at a later stage.
 
 
 ----------
 
 # User Interface
-The user interface is quite intuitive if you ever used chat system such as IRC, Slack, Rocket.chat.
+The user interface is quite intuitive if you ever used a chat system such as IRC, Slack, or Rocket.chat.
 
 ![](en/riot_interface1.png)
 
-For the purpose of this howto we'll name some of the key elements of the interface to help identify them later on:
+For the purpose of this howto, we'll name some of the key elements of the interface to help you identify them later on:
 
- - **Chat List** - Place where you will find all the chat-rooms and Direct Chats you participate in. You can sort those chat-rooms in various categories (favorite, direct chats, low priority) by dragging the rooms into them.
- - **Chat Details** - Is where the rooms name, logo and topic is displayed. Additionally ![](en/riot_interface2.png?resize=23,26) is for searching for keywords in the rooms history and ![](en/riot_interface3.png?resize=18,20) is for rooms settings where you can eg.change the topic, add and manage integration, and various room admin settings.
- - **Main window** - This is the main display of the application. You can see all the chat messages in the room or see all public rooms when going to Room directory.
- - **Message area** - is where you type your message, upload file, start audio or video call or conference
- - **User List** - is where you can see all the users currently participating in the room.
- - **Actions and settings** - here you can start new direct chat, create new room, list all public rooms, enter your user settings
+ - **Chat List** - The place where you will find all the chatrooms and “Direct Chats” (chatrooms with exactly one person other than you) you participate in. You can sort these chatrooms in various categories (favorite, direct chats, low priority) by dragging the rooms into them.
+ - **Chat Details** - This is where the room’s name, logo and topic are displayed. Additionally, ![](en/riot_interface2.png?resize=23,26) is for searching for keywords in the room’s history and ![](en/riot_interface3.png?resize=18,20) is for the room’s settings where you can e.g. change the topic, add and manage integrations, and adjust various room admin settings.
+ - **Main window** - This is the main part of the application. Here you can see all the chat messages in the currently selected room or all the public rooms when going to the Room directory.
+ - **Message area** - This is where you type your messages, upload files, start audio or video calls or conferences.
+ - **User List** - Here you can see all the users currently participating in the room.
+ - **Actions and settings** - Here you can start a new direct chat, create a new room, list all public rooms, as well as enter your user settings.
 
 
 ----------
 
 # User Settings
-First thing after you login for the first time is to customize your user settings. To do that click on ![](en/riot_interface4.png?resize=28,23) in **"Actions and settings"** area (bottom left). In this section you can setup various information about yourself, as well as setup behavior of notifications, enable extra interface features and check and verify list of connected devices.
+First thing after you login for the first time is to customize your user settings. To do that click on ![](en/riot_interface4.png?resize=28,23) in the area **"Actions and settings"** (bottom left corner). In this section, you can set up various information about yourself, as well as set up the behavior of notifications, enable extra interface features and check and verify the list of connected devices.
 
 ## Profile
 
@@ -76,13 +79,13 @@ This section lets you add or change information about your profile.
 
 ![](en/riot_interface6.png)
 
-Here you can change behavior of notifications for your account (note that this changes will affect all devices running Riot, hopefully in the future we will be able to change notifications settings per device).
+Here you can change the behavior of notifications for your account. (Note that these changes will affect all devices running Riot. Hopefully in the future we will be able to change notifications settings per device.)
 
 ## Devices
-A list of devices connected to your account. You can view the devices ID, general information about the devices origin such as it's name, the url it connected to, operating system and browser name (if connected via the browser), it's IP and the time it last made the connection to your account. You can also delete devices you no longer use. If you see a suspicious device or IP you're never used it might mean your account has been compromised. You should  immediately logout (this will logout all devices), and change your password. Not logging out will not result in the compromised device logging back in. Be careful not to rush to conclusions too quickly! Study the list to be sure before you run around all paranoid.
+Here you can see a list of devices connected to your account. You can view the devices ID, general information about the devices origin such as their name, the url they are connected to, the name of the operating system and browser or client being used, the IP address and the time they last made the connection to your account. You can also delete devices you no longer use. If you see a suspicious device or IP address you're never used, it might mean your account has been compromised and you should immediately logout (this will logout all devices), and change your password. Not logging out will not result in the compromised device logging back in. Be careful not to rush to conclusions too quickly! Study the list to be sure before you run around all paranoid.
 
 ## Deactivate account
-On the bottom of your user settings you can deactivate your account.
+At the bottom of your user settings, you can deactivate your account.
 
 ![](en/riot_interface7.png)
 
@@ -91,22 +94,22 @@ On the bottom of your user settings you can deactivate your account.
 
 
 # Room Directory
-The coolest thing about matrix is the fact that its totally federated. It means you can join any channel on any server. In Room directory you can search for and discover rooms on friendly servers we have listed (list will keep growing) as well as search for rooms on servers (if you know the servers URL). All public rooms of given server are listed in the main window.
+The coolest thing about Matrix is the fact that it’s totally federated. It means you can join any channel on any server that’s part of the federation. In the Room Directory, you can search for and discover rooms on friendly servers we have listed (the list will keep growing) as well as search for rooms on servers (if you know the server’s URL). All public rooms of given server are listed in the main window.
 
 ![](en/riot_interface8.png)
 
-Right dropdown menu lets you filter public rooms in of specific server, or simply add url of server that isn't yet listed.
+The right dropdown menu lets you filter public rooms in of specific server, or simply add url of server that isn't yet listed.
 
 ![](en/riot_interface9.png)
 
-The left input field is used to either type in the full room address (if you know it) or search for rooms using keyword.
+The left input field is used to either type in the full room address (if you know it) or search for rooms using keywords.
 
 ![](en/riot_interface10.png)
 
 
 ----------
 
-# Joining Channel
+# Joining a Channel
 You can join a room in many ways.
 The most straight forward way to join public rooms is to search for them in room directory. You can either choose a room from the list given by the predefined servers or search for the room on the server you know the address of.
 
