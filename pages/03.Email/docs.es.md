@@ -5,5 +5,6 @@ taxonomy:
     category:
         - docs
 page-toc:
-     active: false
+    active: false
 ---
+
