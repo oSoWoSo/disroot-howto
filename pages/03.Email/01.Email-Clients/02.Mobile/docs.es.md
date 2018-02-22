@@ -1,5 +1,10 @@
 ---
 title: 'Clientes para móviles'
+taxonomy:
+    category:
+        - docs
+page-toc:
+     active: false
 ---
 
 Cómo configurar tu correo en tu dispositivo móvil:
