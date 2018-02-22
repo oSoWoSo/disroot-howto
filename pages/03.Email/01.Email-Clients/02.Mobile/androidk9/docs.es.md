@@ -5,6 +5,8 @@ visible: false
 taxonomy:
     category:
         - docs
+page-toc:
+    active: false
 ---
 
 [K9](https://en.wikipedia.org/wiki/K-9_Mail) es un cliente de correo libre y de código abierto independiente, lleno de características, para Android. Supera a cualquiera de los que hay por ahí, incluso tal vez a muchas aplicaciones de escritorio. Recomendamos mucho probarlo. Algunas características:
