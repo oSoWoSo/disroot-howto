@@ -5,6 +5,8 @@ visible: true
 taxonomy:
     category:
         - docs
+page-toc:
+    active: false
 ---
 
 Cómo configurar tu correo en el escritorio:
