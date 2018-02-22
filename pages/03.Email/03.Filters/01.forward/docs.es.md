@@ -5,6 +5,8 @@ visible: true
 taxonomy:
     category:
         - docs
+page-toc:
+    active: false
 ---
 
 Entendemos que no todos quieran utilizar el correo de Disroot como su cuenta de todos los días. La gente tiene sus cuentas de correos desde hace años y es difícil, poco o nada práctico y, en algunos casos, incluso imposible, cambiar a otro proveedor como Disroot.
