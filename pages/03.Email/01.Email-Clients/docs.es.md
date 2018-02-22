@@ -1,5 +1,10 @@
 ---
 title: Cómo configurar clientes de correo electrónico
+taxonomy:
+    category:
+        - docs
+page-toc:
+     active: false
 ---
 
 Esta sección está destinada a ayudarte a abandonar el webmail e introducirte en una experiencia verdaderamente productiva y nativa en tu dispositivo.
