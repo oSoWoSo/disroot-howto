@@ -1,5 +1,5 @@
 ---
-title: 'Syncing to your device'
+title: 'Sincronizar com o seu dispositivo'
 taxonomy:
     category:
         - docs
