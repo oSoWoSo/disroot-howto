@@ -79,7 +79,7 @@ Once your poll is created you will see in the left side of the screen the public
 
 ----------
 # Administer your poll
-To administer your poll after it was created you need the "Admin link for the poll", which you can see and copy on the center part of the screen. **(don't loose it or else you wont be able to enter the admin panel)**
+To administer your poll after it was created you need the "Admin link for the poll", which you can see and copy on the center part of the screen. **(don't lose it or else you wont be able to enter the admin panel)**
 
 ![](en/polls3.png)
 
