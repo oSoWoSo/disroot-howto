@@ -24,7 +24,7 @@ Since all the modifications will happen on your local machine, you need to [inst
 # Installing Atom editor
 If you haven't yet, it's time to install [Atom](https://atom.io). Atom is a feature rich text editor with special git integration. If your Operating system is not automatically detected or listed when going to [Atoms](https://atom.io) website, check [Other platforms](https://github.com/atom/atom/releases/latest). For all Arch users, you can simply install it using `pacman -S atom` or other package manager of your choice.
 
-# Clonning repository
+# Cloning repository
 Git is created with collaboration in it's core. First thing we need to do is get a copy of all files within the project (git repository) onto your local harddrive. All modifications are done on your local machine (you work offline). Only when you decide, the changes (new tutorial, translation) are finished you can decide to sent/sync (push) them back to the repository on the server.
 
 The easiest way to clone the repository is opening your terminal, navigating to the directory you would like to clone the repository to, and run `git clone <url>` command, where *<url>* is basically the address of the repository you want to clone. In our case it would be:
