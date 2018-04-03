@@ -20,7 +20,7 @@ Riot is the main and most feature rich client (app) to use with matrix. It ships
 There are numerous ways you can interact with the network of Matrix through the client Riot.
 
 ## Webapp
-The easiest way to access Riot on disroot is by going to <https://chat.disroot.org>. All you need is a supported web browser (Currently Mozilla Firefox and Chromium/Google Chrome are supported. Other browsers might also work, but there's no guarantee that all features will work perfectly.)
+The easiest way to access Riot on disroot is by going to <https://chat.disroot.org>. All you need is a supported web browser (Currently Mozilla Firefox and Chromium/Google Chrome are supported. Other browsers might also work, but there's no guarantee that all features will work perfectly).
 
 ## Mobile app
 For Android, we of course recommend using Riot shipped via [F-droid](https://f-droid.org/repository/browse/?fdfilter=riot&fdid=im.vector.alpha), though if you want to receive push notifications and your life depends on Google Services, you can also find Riot on Google's Play Store.
@@ -79,7 +79,7 @@ This section lets you add or change information about your profile.
 
 ![](en/riot_interface6.png)
 
-Here you can change the behavior of notifications for your account. (Note that these changes will affect all devices running Riot. Hopefully in the future we will be able to change notifications settings per device.)
+Here you can change the behavior of notifications for your account. (Note that these changes will affect all devices running Riot. Hopefully in the future we will be able to change notifications settings per device).
 
 ## Devices
 Here you can see a list of devices connected to your account. You can view the devices ID, general information about the devices origin such as their name, the url they are connected to, the name of the operating system and browser or client being used, the IP address and the time they last made the connection to your account. You can also delete devices you no longer use. If you see a suspicious device or IP address you're never used, it might mean your account has been compromised and you should immediately logout (this will logout all devices), and change your password. Not logging out will not result in the compromised device logging back in. Be careful not to rush to conclusions too quickly! Study the list to be sure before you run around all paranoid.
@@ -130,7 +130,7 @@ Clicking room's settings button ![](en/riot_interface13.png?resize=25,25) in the
  - Enable Encryption
  - Permissions to read rooms history
  - User permissions
- - additional aliases.
+ - additional aliases
 
 ## Aliases
 Remember when I said the rooms are federated? Since the room gets duplicated to other servers (whenever some user from other server joins the room), the rooms can continue living in the network even if the originating server is no longer available. This is the true power of decentralized and federated networks. They are immune to server shutdowns or censorship.
@@ -167,7 +167,7 @@ To enable encryption in your room go to room settings ![](en/riot_interface17.pn
 
 ## Few things to be aware of when using Encryption
 1. Encryption keys are created per device! This means you won't be able to read history of the conversation if you joined in at later stage with your device (eg. second laptop)
-2. If you logout, or your browser (if using browser to connect) closes the session, your keys will be lost and newly created ones upon login will not be able to read history. This makes sense as in case your account is compromised, the history of your encrypted chats won't be view-able. We recommend therefor to use Riot mobile and native desktop versions and never hit the logout button (unless you want to loose your encrypted room history).
+2. If you logout, or your browser (if using browser to connect) closes the session, your keys will be lost and newly created ones upon login will not be able to read history. This makes sense as in case your account is compromised, the history of your encrypted chats won't be view-able. We recommend therefore to use Riot mobile and native desktop versions and never hit the logout button (unless you want to lose your encrypted room history).
 3. Once Encryption is enabled in the room, it cant be disabled.
 4. You can't make use of any integration (linking to irc or slack or having rss bot for example).
 
@@ -194,13 +194,13 @@ To enable any of the integration, go to your room's Settings and click on "Manag
 
 
 ## Bridges
-At this moment you can easily bridge any room on several IRC networks. Slack and Gitter. There is more and more bridges being written so soon we will be able to easily integrate and link more networks with eachother. At the moment we are looking into integration with: xmpp muc, telegram, hangouts, libpurple, etc. If you are interested, ask us for more details.
+At this moment you can easily bridge any room on several IRC networks. Slack and Gitter. There is more and more bridges being written so soon we will be able to easily integrate and link more networks with each other. At the moment we are looking into integration with: xmpp muc, telegram, hangouts, libpurple, etc. If you are interested, ask us for more details.
 
 ## Other integrations
 
  - RSS bot - Updates posts based on RSS feed of chosen website.
- - Guggy and Giphy - Posts animated gifs based on keyword (eg. !guggy awesome)
+ - Guggy,Imgur and Giphy - Posts animated gifs based on keyword (eg. !guggy awesome)
  - Github - you can post issued form the channel directly to your github project
 
 ## Bots
-We are working on deploying various bots you can invite to your room. Bots are there to basically serve you. From useful stuff such as, give you weather information on any given place, or distance between two cities, search wikipedia, loading RSS feeds, search the net, to useless things such as telling you a joke, or insult any give person. You can already now invite mijris (@mijris:chat.weho.st) form our friends at [weho.st](https://weho.st) to your channel. For more info type **!help** once mijris joins or ask us on our disroot channel for help.
+We are working on deploying various bots you can invite to your room. Bots are there to basically serve you. From useful stuff such as, give you weather information on any given place, or distance between two cities, search wikipedia, loading RSS feeds, search the net, to useless things such as telling you a joke, or insult any given person. You can already now invite mijris (@mijris:chat.weho.st) form our friends at [weho.st](https://weho.st) to your channel. For more info type **!help** once mijris joins or ask us on our disroot channel for help.
