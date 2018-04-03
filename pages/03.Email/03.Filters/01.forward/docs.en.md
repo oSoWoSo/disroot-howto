@@ -17,7 +17,7 @@ However, there are important information you should not miss out on.
  - To be up to date with what's going on in dirsoot. Every three /six weeks we are sending email to all users informing them about recent developments, new features and services. We are also sending information about scheduled downtime of services if they are longer then 20 min. We have no intention to spam you with too much information so don't worry about that.
 
 In this short howto I would like to show you how to forward your disroot emails to your preferred email address
-(it should take you no more then 3minutes to get this setup).
+(it should take you no more then 3 minutes to get this setup).
 
 ## Steps needed to forward your mail
 
@@ -61,4 +61,4 @@ You will be presented with dialog window that guides you through the setup.
 
 ![](en/filters3.jpg)
 
-###Viola! From now on all your emails to disroot account will be forwarded to your preferred email address. If you ever decide to actually switch to disroot mail as your main email address just simple remove that rule or alter it to your liking.
+###Voila! From now on all your emails to disroot account will be forwarded to your preferred email address. If you ever decide to actually switch to disroot mail as your main email address just simply remove that rule or alter it to your liking.

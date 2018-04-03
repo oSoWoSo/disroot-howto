@@ -9,7 +9,7 @@ page-toc:
   active: true
 ---
 
-Etherpad and Ethercalc are collaborative applications for multi-user real-time document edition. You can reach them directly from your browser at: https://pad.disroot.org and https://calc.disroot.org No user account is needed to make use of them. However our cloud comes with very handy plugin that helps you keep track of all your pads, just as if they are one of your files.
+Etherpad and Ethercalc are collaborative applications for multi-user real-time document edition. You can reach them directly from your browser at: https://pad.disroot.org and https://calc.disroot.org. No user account is needed to make use of them. However our cloud comes with very handy plugin that helps you keep track of all your pads, just as if they are one of your files.
 
 **Note!** "Pads" and "calcs" aren't files containing your data but are links to your work stored  on either https://pad.disroot.org or https://calc.disroot.org.
 
@@ -31,7 +31,7 @@ To open the newly created pad, just click on it's name. The application will ope
 
 # Sharing
 
-Sharing pads with other disroot users is the same as sharing normal files. Click on "sharing" icon and select with whom you want to share the file with. Note: using public link will not work as easy since this are not normal files.
+Sharing pads with other disroot users is the same as sharing normal files. Click on "sharing" icon and select with whom you want to share the file with. Note: Using public link will not work as easy since these are not normal files.
 
 ![](en/pads_inapp_name2.gif)
 
