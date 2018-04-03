@@ -23,5 +23,5 @@ Fill in details
 4. **Swipe accept, and you're done!**
 Now you are ready to start preaching people to ditch corporate evil apps and jump on the federation starship.
 
-SailshishOS integrates all messaging into one app so now you can sms, skype, and chat from one place
+SailfishOS integrates all messaging into one app so now you can sms, skype, and chat from one place.
 **All your contacts are synced between all the clients, so you can use disroot chat on all the devices at the same time.**
