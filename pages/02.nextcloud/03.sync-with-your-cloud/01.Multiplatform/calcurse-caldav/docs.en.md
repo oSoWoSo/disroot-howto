@@ -88,4 +88,14 @@ CALCURSE_CALDAV_PASSWORD=$(keepassxc-cli show mydatabase.kdbx Disroot -k superse
 
 ## Testing your configuration
 
+For syncing for the first time, you need to issue the command `calcurse-caldav` together with one of the following arguments:
 
+```
+--init=keep-remote Remove all local calcurse items and import remote objects
+--init=keep-local  Remove all remote objects and push local calcurse items
+--init=two-way     Copy local objects to the CalDAV server and vice versa
+```
+
+In other words, if, for instance, you want to import your calendar from Nextcloud to calcurse *without* making any changes on Nextcloud for the first time, use `calcurse-caldav --init=keep-remote`.
+
+If there are no error messages, go back to your `config` file and change the value of `DryRun` to `No`, and run the above command again. For any subsequent sync requests, `calcurse-caldav` (optionally with the `CALCURSE_CALDAV_PASSWORD` variable, as mentioned earlier) will be enough.
