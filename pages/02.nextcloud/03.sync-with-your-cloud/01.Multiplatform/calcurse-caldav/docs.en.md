@@ -17,7 +17,7 @@ Note: the following has been tested on GNU/Linux with the Nextcloud instance hos
 
 ## Before we start
 
-According to the website of the project, CalDav support is currently experimental. For this reason, making backups, especially *before* the initial setup, is highly recommended.
+According to the website of the project, CalDAV support is currently experimental. For this reason, making backups, especially *before* the initial setup, is highly recommended.
 
 For more information on how to back up (i.e. download a local copy of) your calendar, look at [this section](https://howto.disroot.org/en/nextcloud/apps/calendar#delete-edit-download-calendar) in the howto on the Nextcloud Calendar app.
 
