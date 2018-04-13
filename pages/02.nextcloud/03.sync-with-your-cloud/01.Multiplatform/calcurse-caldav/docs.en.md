@@ -9,7 +9,7 @@ taxonomy:
         - docs
 ---
 
-calcurse is, quoting [its website](http://calcurse.org/), "a calendar and scheduling application for the command line".
+calcurse is "a calendar and scheduling application for the command line", quoting [its website](http://calcurse.org/).
 
 This tutorial shows you how to set up synchronization between your Nextcloud calendar and calcurse.
 
