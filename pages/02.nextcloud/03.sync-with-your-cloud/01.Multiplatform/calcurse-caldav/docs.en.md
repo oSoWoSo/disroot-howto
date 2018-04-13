@@ -72,15 +72,15 @@ Uncomment the first two lines (including the header `[Auth]`), i.e. remove the `
 
 ### Multiple ways of handling your password
 
-Although saving your password in your config file is convenient as you only need to do it once, anyone who has access to your home folder can normally see what your password is. If you're OK with this, uncomment the line for the password and replace "pass" with your password.
+One way of providing your password is uncomment the line for the password and replacing "pass" with your password in the config file. Although this is convenient as you only need to do it once, anyone who has access to your home folder can normally see what your password is.
 
-On the other hand, if security is more important to you, you can leave the password line commented and provide the password through a password manager each time you start the synchronization process instead. In the case of [pass](https://www.passwordstore.org/), you would use the following:
+For this reason, the [official documentation](https://github.com/lfos/calcurse/tree/master/contrib/caldav#usage) mentions using a password manager together with the `CALCURSE_CALDAV_PASSWORD` variable each time you start the synchronization process as an alternative. In the case of [pass](https://www.passwordstore.org/), this would be something like:
 
 ```
 CALCURSE_CALDAV_PASSWORD=$(pass show disroot) calcurse-caldav
 ```
 
-If you use [KeepassXC](https://keepassxc.org/), you can do the same with the command below:
+If you use [KeepassXC](https://keepassxc.org/), you would do the same with the command below:
 
 ```
 CALCURSE_CALDAV_PASSWORD=$(keepassxc-cli show mydatabase.kdbx Disroot -k supersecretkeyfile.png -a Password) calcurse-caldav
