@@ -99,3 +99,5 @@ For syncing for the first time, you need to issue the command `calcurse-caldav` 
 In other words, if, for instance, you want to import your calendar from Nextcloud to calcurse *without* making any changes on Nextcloud for the first time, use `calcurse-caldav --init=keep-remote`.
 
 If there are no error messages, go back to your `config` file and change the value of `DryRun` to `No`, and run the above command again. For any subsequent sync requests, `calcurse-caldav` (optionally with the `CALCURSE_CALDAV_PASSWORD` variable, as mentioned earlier) will be enough.
+
+And that's it! If everything went well, you should have synchronization set up between your Nextcloud calendar and calcurse through CalDAV.
