@@ -10,5 +10,4 @@ taxonomy:
 Voici comment ajouter des guides et des tutoriels pour les applications multiplateformes (applications qui fonctionnent sur différents systèmes d'exploitation).
 
 - [Synchronisation de Thunderbird - Calendrier et Contact](thunderbird-calendar-contacts)
-
-![](thunderbird.png)
+- [Calcurse calendar sync](calcurse-caldav)
