@@ -27,7 +27,7 @@ De modo a poder sincronizar os seus calendários, tarefas e contactos no Thunder
 
 Neste momento o Lightning já vem pré-instalado no Thunderbird. Se não o tiver presente no seu thunderbird, faça uma atualização do Thunderbird.
 
-Se por algum motivo o Lightning não estiver instalado mesmo após actializar o Thunderbird pode seguir estes passos:
+Se por algum motivo o Lightning não estiver instalado mesmo após atualizar o Thunderbird pode seguir estes passos:
 
 No Thunderbird vá a > Ferramentas > Extras > Extensões
 Na página de Extensões irá encontrar um motor de busca no canto superior direito. Basta pesquisar por "Lightning". Assim que o Lightning aparecer basta carregar em Instalar.
@@ -68,8 +68,8 @@ Agora configure o calendário:<br>
 * No campo **"Localização"** coloque o link URL do seu calendário.<br>
 * Selecione a opção **"Suporte offline"** se quiser manter uma cópia local do seu calendário.<br>
 * Carregue em **"Seguinte"**<br>
-* Dê um nome e uma cor ao seu calendário (isto ajuda a distingir os vários calendários diferentes)<br>
-* Carregue em **Concluír**
+* Dê um nome e uma cor ao seu calendário (isto ajuda a distinguir os vários calendários diferentes)<br>
+* Carregue em **Concluir**
 
 No final deste processo o Thunderbird irá pedir as credenciais de acesso ao seu calendário:<br>
 * **Nome de utilizador** *(O seu nome de utilizador da sua conta no Disroot)*
@@ -89,8 +89,8 @@ Para além disso pode sincronizar no seu thunderbird calendários de outros forn
 
 ![](en/thunderbird_11.png)
 
-## Adicionar eventos com multiplos calendários
-Se tem vários calendários no Thunderbird então quando criar um evento necessita de escolher em qual calendário esse evento será criado. Caso contrário pode acabar a procurar as infromações do seu evento no sítio errado.
+## Adicionar eventos com múltiplos calendários
+Se tem vários calendários no Thunderbird então quando criar um evento necessita de escolher em qual calendário esse evento será criado. Caso contrário pode acabar a procurar as informações do seu evento no sítio errado.
 
 ![](pt/thunderbird_12.png)
 
@@ -103,13 +103,13 @@ Se carregar com a tecla direita do rato num calendário irá aparecer uma série
 * Synchronize Calendar  
 * Em propriedades pode escolher:
   * Tornar o calendário só de leitura
-  * Alterar a actualização do calendário de 30 em 30 minutos para 5 em 5 por exemplo
+  * Alterar a atualização do calendário de 30 em 30 minutos para 5 em 5 por exemplo
 
 ![](pt/thunderbird_5.gif)
 
 # Contatos - Integração com o Thunderbird
 
-O processo é semelhante  à integração de um calendério no Thunderbird. Primeiro é necessário obter um endereço URL do seu Livro de Endereços na sua conta Distoot.
+O processo é semelhante  à integração de um calendário no Thunderbird. Primeiro é necessário obter um endereço URL do seu Livro de Endereços na sua conta Distoot.
 
 Vá à aplicação de contactos na sua cloud do Disroot.
 
@@ -117,7 +117,7 @@ Vá à aplicação de contactos na sua cloud do Disroot.
 * Selecione o Livro de Endereços que quer sincronizar com o Thunderbird
 * Carregue no botão com 3 pontinhos e selecione **"Compartilhar Hiperligação"**
 
-O link será copiado automáticamente, guarde o link, num documento, vamos precisar dele depois.
+O link será copiado automaticamente, guarde o link, num documento, vamos precisar dele depois.
 
 ![](pt/thunderbird_contacts_1.gif)
 
@@ -130,7 +130,7 @@ Em seguida escolha:
 ![](pt/thunderbird_contacts_2.gif)
 
 
-Na janela seguinte ser-lhe-á pedido que coloque onome do livro de endereços e o link:
+Na janela seguinte ser-lhe-á pedido que coloque o nome do livro de endereços e o link:
 
 * O **Name** é o nome que quiser dar a este livro de endereços no Thunderbird
 * **URL** é o link URL que copiou anteriormente na sua na aplicação de contactos do Disroot
@@ -138,7 +138,7 @@ Na janela seguinte ser-lhe-á pedido que coloque onome do livro de endereços e 
 No mesmo painel:
 * Pode alterar o intervalo de sincronização da lista de endereços para de 5 em 5 minutos (por omissão é de 15 em 15 minutos)
 * Pode alterar as permissões do calendário para "Read-only" (apenas de leitura) mas se fizer isso não será capaz de editar os seus contactos deste livro de endereços no Thunderbird.
-* Configurar notificações **(se não quiser ser notificado cada vez que há uma sincronização, aconselhamos a desactivar todas as notificações)**
+* Configurar notificações **(se não quiser ser notificado cada vez que há uma sincronização, aconselhamos a desativar todas as notificações)**
 
 Quando terminar carregue em **"OK"**
 
@@ -153,16 +153,15 @@ Ser-lhe-à pedido as suas credenciais de acesso à sua conta do Disroot
 * **Username:** *o seu nome de utilizador do Disroot*
 * **Password:** *a sua password de acesso à sua conta Disroot*
 
-Select the option: **"Use password manager to remember this password"** so that Thunderbird remembers the password and doesn’t ask for it every time you use Thunderbird
+Selecione a opção: **"Use password manager to remember this password"** para que o Thunderbird se lembre da password e não lha peça sempre que usa o thunderbird.
 
-Then press **"ok"**
-
-
-Your contacts in your Disroot account are now synced with the remote contacts address book you created in Thunderbird
+Carregue em **"ok"**
 
 
-Any contacts you add/remove/edit in your Disroot account will be altered accordingly in your Thunderbird remote calendar and vice versa.
+Os contactos do seu livro de endereços no no Disroot está agora sincronizado com o Livro de endereços remoto que acabou de criar no thunderbird
 
-If you want to move contacts from your Thunderbird Personal Address Book or Collected Addresses to your new remote address book so that they sync to your Disroot contacts, just select and drag the contact to your remote address book.
+Qualquer contacto que adicione/remova/edite na sua conta Disroot será alterado também no livro de endereços do thunderbird e vice versa.
 
-However it is advised that you create backups of your contacts. Just in case :wink:
+Se quiser mover contactos do seu Livro de Endereços pessoal do thunderbird ou Outros Endereços, basta selecionar e arrastar o contacto em causa para o Livro de Endereços remoto.
+
+Contudo é aconselhável criar backups dos seus contactos. So pó caso. :wink:
