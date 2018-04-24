@@ -1,5 +1,5 @@
 ---
-title: 'Desktop File-sync client'
+title: 'Cliente de sincronização com o Desktop'
 visible: false
 page-toc:
   active: true
