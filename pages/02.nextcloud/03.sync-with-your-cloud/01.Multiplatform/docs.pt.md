@@ -1,5 +1,5 @@
 ---
-title: Multiplatform
+title: Multiplatforma
 published: true
 visible: true
 taxonomy:
@@ -7,8 +7,8 @@ taxonomy:
         - docs
 ---
 
-Here are add howtos and tutorials for multiplatform applications (apps that work on different operating systems).
+Aqui estão tutoriais para aplicações multiplataforma (apps que funcionam em sistema operativos diferentes).
 
-- [Thunderbird - Calendar and Contact sync](thunderbird-calendar-contacts)
+- [Thunderbird - Sincronizar contatos, Calendários e Tarefas](thunderbird-calendar-contacts)
 
 ![](thunderbird.png)
