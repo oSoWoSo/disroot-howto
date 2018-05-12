@@ -1,11 +1,11 @@
 ---
-title: Pads and Bins
+title: 'Pads and Bins'
 published: true
 taxonomy:
     category:
         - docs
 page-toc:
-     active: false
+    active: false
 ---
 
 <br>
