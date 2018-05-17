@@ -22,9 +22,11 @@ First, you have to **choose a channel role and privacy** (you can change it late
 
 Then, you have to choose a **Name or caption**. Normally, your first channel will be one that represents you - so using your own name (or pseudonym) as the channel name is a good idea. The channel name should be thought of as a title, or brief description of your channel. This is how people with know and find your channel.
 
-The **choose a short nickname** box is similar to a **username** field. It is used to create a channel address, which other people will use to connect to you, and you will use to log in to other sites. This will look like an email address, and takes the form **nickname@hub.disroot.org**
+The **choose a short nickname** box is similar to a **username** field. It is used to create a channel address, which other people will use to connect to you, and you will use to log in to other sites. This will look like an email address, and takes the form **nickname@hub.disroot.org**. It is automatically generated according to your **Name and caption**, checking if the username already exists and being transliterated (so that it federates well). Basically you can use only the same characters as email addresses. If the username suggested fits you, click on **Create** to create your channel.
 
-Click on **Validate** to check if you can use the username you chose. If that's ok, click on **Validate** to create your channel. There you go!
+If you don't like the nickname chosen for you and want to change it, the **Create** button becomes blue and you can't click on it: that means you need to click on **Validate** to check if you can use the username you chose. If that's ok, the **Create** button becomes green and you can click on it to create your channel.
+![channel_nickname](en/channel_nickname.gif)
+
 
 After setting your Role, name (real or not) and your nickname, you will be redirected on the profile page of your new channel (or something else if your site admin decided otherwise).
 
