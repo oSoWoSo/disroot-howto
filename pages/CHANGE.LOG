@@ -1,11 +1,11 @@
 This is changelog of howto.disroot.org page. Here we will be noting all significant changes to the texts, such as new howtos, significant modifications and updates to existing ones etc.
 
 **CHANGELOG:**
+ - 17.05.2018 - Updated 10.DisHub --> 03.Channels and added --> 04.Connections and 05.Permissions
+ - 12.05.2018 - Started DisHub how to. Changed "10.Contribute" to "11.contribute"
+ - 10.05.2018 - Started Italian translation. Basics is done. Made docs.it.md in Nextcloud directory. Made it directory in 01.Introduction, and uploaded main1.png
  - 19.12.2017 - added TOC to pages
  - 18.12.2017 - added taxonomy in header to fix navigation arrows
  - 13.12.2017 - Forwarding email howto
  - 13.12.2017 - email/filter category created
  - 21.11.2017 - added "How to Use Git"
- - 10.05.2018 - Started Italian translation. Basics is done. Made docs.it.md in Nextcloud directory. Made it directory in 01.Introduction, and uploaded main1.png
- - 12.05.2018 - Started DisHub how to. Changed "10.Contribute" to "11.contribute", added 10.DisHub --> 03.Channels --> Creating - Connecting Channels.
-
