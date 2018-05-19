@@ -26,6 +26,7 @@ To block a channel you visit [your connection page](https://hub.disroot.org/conn
 ![BlockChannel](en/BlockChannel.gif)  
 
 ! You can undo the block in the same way you blocked a channel.
+
 ![UnBlockChannel](en/UnBlockChannel.gif)  
 
 ### Completely block a channel
@@ -38,4 +39,5 @@ Here you click on the avatar of the channel you want to block an select **Comple
 ! #### Here is hou you do this.
 ! You go on your [settings page](https://hub.disroot.org/settings).  
 ! And from her you select **Addon settings** and then click on **Superblock settings**. Now you click on the trash bin icon of the channel you want to unblock.
+
 ![CompletelyUnBlockChannel](en/CompletelyUnBlockChannel.gif)
