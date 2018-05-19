@@ -18,7 +18,7 @@ So you will be presented with the "Add a channel" screen.
 
 First, you have to **choose a channel role and privacy** (you can change it later though). For example, you can choose **Social, Mostly Public**. According to what you choose, the default permission will change. For example, *Can comment on or like my posts* is public by default for **Social, Federation** and for your connections only in **Social, Mostly public**.
 
-[See the permission page to understand channel roles better](04.Permissions/docs.en.md)
+[See the permission page to understand channel roles better](../../permissions)
 
 Then, you have to choose a **Name or caption**. Normally, your first channel will be one that represents you - so using your own name (or pseudonym) as the channel name is a good idea. The channel name should be thought of as a title, or brief description of your channel. This is how people with know and find your channel.
 
