@@ -23,11 +23,11 @@ There are two way of blocking:
 
 ### Block a channel
 To block a channel you visit [your connection page](https://hub.disroot.org/connections), from here you select the **edit** button of the channel you want to block. Then **Connections tools** and from the dropdown menu **block**.
-![BlockChannel](en/BlockChannel.gif)  
+![](en/BlockChannel.gif)
 
 ! You can undo the block in the same way you blocked a channel.
 
-![UnBlockChannel](en/UnBlockChannel.gif)  
+![](en/UnBlockChannel.gif)  
 
 ### Completely block a channel
 If you want to completely block a channel you have to do it from a post or comment frrom within your channel.
