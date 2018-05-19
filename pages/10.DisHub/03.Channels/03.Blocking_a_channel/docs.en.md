@@ -22,7 +22,7 @@ There are two way of blocking:
 ## So how do i block a channel?  
 
 ### Block a channel
-To block a channel you visit [your connection page](https://hub.disroot.org/connections), from here you select the **edit** button of the channel you want to block. Then **Connections tools** and from the dropdown menu **block**.
+To block a channel you visit [your connection page](https://hub.disroot.org/connections), from here you select the **edit** button of the channel you want to block. Then **Connections tools** and from the dropdown menu **Block**.
 ![BlockChannel](en/BlockChannel.gif)
 
 !!! You can undo the block in the same way you blocked a channel.
