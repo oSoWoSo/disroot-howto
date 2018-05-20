@@ -10,14 +10,15 @@ page-toc:
 ---
 
 ## What does ignore a channel do?
+When you ignore a channel, this channel can see your posts if it has permission (and if the post you write is also accesssible for that channel, for example if you make it public).
 
-the channel can see your posts if it has permission and if the post itself is also open for that channel, but you will ignore him. So everyting the channel posts will not be seen by you.
+But you won't see anyting that this channel will post, and it won't be allowed to write on your channel (wall or @mention)
 
- ## So how do i ignore a channel?
+## How do I ignore a channel?
 To ignore a channel you visit [your connection page](https://hub.disroot.org/connections), from here you select the **edit** button of the channel you want to ignore. Then **Connections tools** and from the dropdown menu **Ignore**.
 
 ![IgnoreChannel](en/IgnoreChannel.gif)
 
-!!! You can undo the ignore in the same way you ignored a channel.
+You can undo the ignore in the same way you ignored a channel.
 
 ![UnIgnoreChannel](en/UnIgnoreChannel.gif)
