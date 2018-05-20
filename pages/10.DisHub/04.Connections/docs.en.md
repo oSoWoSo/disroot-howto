@@ -55,11 +55,11 @@ Some communications offer more than one protocol. If you wish to connect with so
 
 You may connect with somebody over a specific protocol by prepending the protocol name in square brackets to their "webbie". For example
 
-[activitypub]https://foo.bar/foobar
-[ostatus]foobar@foo.bar
-[diaspora]foobar@foo.bar
-[zot]foobar@foo.bar
-[rss]https://foo.bar/foobar
+- [activitypub]https://foo.bar/foobar
+- [ostatus]foobar@foo.bar
+- [diaspora]foobar@foo.bar
+- [zot]foobar@foo.bar
+- [rss]https://foo.bar/foobar
 
 
 ### You want to connect with RSS feeds
@@ -71,19 +71,44 @@ DisHub admins may impose limits on how many feeds you may add, which is not the 
 
 
 ## Block/Ignore/Archive/Hide channels WIP
-Channels in your address book can have statuses such as blocked, ignored, archived and hidden. From your connections page you can see tabs that display the channels with those statuses. From your edit connection pages you can change the statuses of a channel.
+When someone adds you as a connection, you receive a connection message (except in two channel roles: Forum - Mostly public and Feed - Mostly public).
+![connection_message](en/Connection_message.png)
 
 Here's their meaning:
 
-**Blocked**: the channel can't read your items regardless of permissions, nor can it write to your channel.
+**Approve**: you accept this connection. It appears in your contact list. The default permissions set by your channel role to your connections applies.
 
-**Ignored**: the channel can read your items if it has permission, but can't write to your channel.
+**Ignore**: the channel can see your posts if it has permission (according to your channel role) and if the post you write is also accesssible for that channel (for example if you make it public). But you won't see anything that this channel will post in your network stream, and it won't be allowed to write on your channel (wall or @mention).
 
-**Hidden**: the channel does not show up in your profile's connections list, noone can see you're connected, but beware they may still show up to your other connections, for example in post replies.
+This connection is not approved, as you can see on the message you get when you click on ignore:
 
-**Archived**: if a channel can't be reached for 30 days, it is automatically marked as archived. This keeps all the data but stops polling the channel for new information and removes it from autocomplete. If later you learn the channel has come back online, you may manually unarchive it.
+![connection_ignored](en/Connection_ignored.png)
+
+Here is what the other connection will see when going to the individual connection permissions:
+![connection_permission](en/Connection_ignored_permission.png)
+The permissions may changed according to your channel role. But you can see that this channel got some permissions. YOU CAN'T CHANGE THEM, unless you change the channel status, from Ignore to Approve.
+
+You appear in the ignored connection channel's connection list, but with a one-way sign
+
+![connection_refused](en/Connection_refused.png)
+
+This channel doesn't appear in your connections list on your profile, but appears in the connections page. That means that you can change its status any time you want.
 
 
-## Premium Channels WIP
+**Delete**: you don't accept this connection, but you don't block it either. That means that this channel has the same permissions as any other channel that you don't have a connection with. The only difference is that this connection can see your post directly in their network stream. **TO BE CHECKED, I CAN'T SEE THE DIFFERENCE WITH IGNORED**
 
-Some channels are designated **Premium Channels** and may require some action on your part before a connection can be established. The Connect button will for these channels will take you to a page which lists in detail what terms the channel owner has set. If the terms are accepted, the connection will then proceed normally. In some cases, such as with celebrities and world-reknowned publishers, this may involve payment. If you do not agree to the terms, the connection will not proceed, or it may proceed but with reduced permissions allowed on your interactions with that channel.
+Here is what the other connection will see when going to the individual connection permissions:
+![connection_permission](en/Connection_permission.png)
+The permissions may changed according to your channel role. But you can see that this channel got some permissions. YOU CAN'T CHANGE THEM, unless you create a connection with this channel.
+
+You appear in the deleted connection channel's connection list, but with a one-way sign.
+
+![connection_refused](en/Connection_refused.png)
+
+This channel doesn't appear in your connections list on your profile, nor in the connections page. That means that if you want to set a connection with a channel that you previously deleted, you have to create it again on your side, like creating a new connection. The only difference will be that this channel won't have the approval message as the connection is already set on its side.
+
+## Premium Channels
+Some channels are designated **Premium Channels** and may require some action on your part before a connection can be established. The Connect button for these channels will take you to a page which lists in detail what terms the channel owner has set. If the terms are accepted, the connection will then proceed normally. In some cases, such as with celebrities and world-reknowned publishers, this may involve payment. If you do not agree to the terms, the connection will not proceed, or it may proceed but with reduced permissions allowed on your interactions with that channel.
+
+Here is an example of such a message:
+![connections_premium_message](en/Connection_premium_message.png)
