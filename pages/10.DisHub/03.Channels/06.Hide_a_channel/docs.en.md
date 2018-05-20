@@ -11,7 +11,8 @@ page-toc:
 
 ## What does hide a channel do?
 
-If you don't want to show you are connected to a channel, you can choose to hide this connection to others. No one can see you're connected. But beware they may still show up to your other connections, for example if you get a comment on a post from that channel.
+If you don't want to show you are connected to a channel, you can choose to hide this connection to others. No one can see you're connected. But beware they may still show up to your other connections, for example if you get a comment on a post from that channel.  
+See it like this. You hide someone in your closet, people who comes by don't see him. But if you say something and that person who is hidden reacts, others in the room will hear it. Otherwise, if you say something on a public place. Like for example while waiting in a waiting room, and you try to hide that the fact that you are in contact with that someone, even if he comments something you said people can't now if it is a stranger for you or if you know him.
 
 ## So how do i hide a channel?
 
