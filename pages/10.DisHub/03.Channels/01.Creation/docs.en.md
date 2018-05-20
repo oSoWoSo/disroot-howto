@@ -43,3 +43,13 @@ Click on your avatar in the nav bar and select your channel.
 ## How to make one of your channels your default one?
 Click on your avatar on the nav bar, and choose **Channel manager**. You then can click on **Make default**.
 ![channel_default](en/channel_default.png)
+
+## How to make your channel a "Premium Channel"
+Some channels are designated **Premium Channels** and may require some action before a connection can be established with it. The Connect button for these channels will open a page which lists in detail what terms the channel owner has set. If the terms are accepted, the connection will then proceed normally. In some cases, such as with celebrities and world-reknowned publishers, this may involve payment. If the channel does not agree to the terms, the connection will not proceed, or it may proceed but with reduced permissions allowed on interactions with that channel.
+
+Here is an example of such a message:
+![connections_premium_message](en/Connection_premium_message.png)
+
+To set a premium channel, go to your channel **Settings**, then on **Premium Channel Settings**
+![channel_premium](en/channel_premium.png)
+Enable the premium channel restriction, enter your message and click on *Submit*.
