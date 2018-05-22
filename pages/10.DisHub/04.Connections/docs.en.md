@@ -14,7 +14,7 @@ Making connections between channels to share things is what social communication
 
 Connections in Hubzilla can take on a great many different meanings. **A connection is more accurately defined as a set of permissions that you have granted to somebody else**. In traditional social network applications, all connections are granted the same permissions; or at most there two levels (friends and 'followers'). In Hubzilla, a range of separate permissions may be set/adjusted depending on the situation and relationship you have with the other channel. You can allow somebody to view your posts but not your photos. You can also deny them permission to comment on your posts or send private mail to you.
 
-[For more information about permissions....](05.Permissions/docs.en.md)
+[For more information about permissions....](../permissions/)
 
 ## How to connect to a channel?
 There are severals way to connect to a channel:

@@ -1,5 +1,5 @@
 ---
-title: DisHub Howto
+title: DisHub
 published: true
 taxonomy:
     category:

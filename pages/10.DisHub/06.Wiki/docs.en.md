@@ -77,7 +77,7 @@ On this image, you can see that "my_wiki" isn't locked to any type of content, w
 If there are some permissions set (see the following paragraph), there is lock icon next to your username. If you click on it, you'll see the channels that  can see this post annd that you allowed to see your wiki.
 ![wiki_post_lock](en/Wiki_post_lock.gif)
 
-- There is also a **lock icon** next to *Submit* ![lock_icon](en/lock_icon.png). It allows you to decide who can see your wiki. It opens the ACL: Access Control List. [To have more information about permissions...](../04.Permissions)
+- There is also a **lock icon** next to *Submit* ![lock_icon](en/lock_icon.png). It allows you to decide who can see your wiki. It opens the ACL: Access Control List. [To have more information about permissions...](../permissions)
 
 If you want to change your wiki's name, go on your wiki list page. Click on the pencil icon, change the name of the wiki and *Submit*.
 ![wiki_change_name](en/Wiki_change_name.gif)
