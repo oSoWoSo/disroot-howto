@@ -78,7 +78,7 @@ Here's their meaning:
 
 **Approve**: you accept this connection. It appears in your contact list. The default permissions set by your channel role to your connections applies.
 
-**Ignore**: the channel can see your posts if it has permission (according to your channel role) and if the post you write is also accesssible for that channel (for example if you make it public). But you won't see anything that this channel will post in your network stream, and it won't be allowed to write on your channel (wall or @mention).
+**Ignore**: the channel can see your stream if it has permission (according to your channel role) and if the post you write is also accesssible for that channel (for example if you make it public). But you won't see anything that this channel will post in your network stream, and it won't be allowed to write on your channel (wall or @mention).
 
 This connection is not approved, as you can see on the message you get when you click on ignore:
 
@@ -95,7 +95,7 @@ You appear in the ignored connection channel's connection list, but with a one-w
 This channel doesn't appear in your connections list on your profile, but appears in the connections page. That means that you can change its status any time you want.
 
 
-**Delete**: you don't accept this connection, but you don't block it either. That means that this channel has the same permissions as any other channel that you don't have a connection with. The only difference is that this connection can see your post directly in their network stream. **TO BE CHECKED, I CAN'T SEE THE DIFFERENCE WITH IGNORED**
+**Delete**: you don't accept this connection, but you don't block it either. That means that this channel has the same permissions as any other channel that you don't have a connection with, the same rights as the general public.
 
 Here is what the other connection will see when going to the individual connection permissions:
 ![connection_permission](en/Connection_permission.png)
