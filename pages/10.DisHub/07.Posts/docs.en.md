@@ -8,4 +8,4 @@ page-toc:
      active: false
 ---
 In this section we will see the different options you have when posting or commenting.  
-There are parts it's reccomended to understand the different [permission roles](../permissions) first, so the posts are delivered to those  who are mented to.
+It's recommended to understand the different [permission roles](../permissions) first, so the posts are delivered to those who are mented to.
