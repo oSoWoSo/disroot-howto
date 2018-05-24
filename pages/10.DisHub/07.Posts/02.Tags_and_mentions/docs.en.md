@@ -34,7 +34,7 @@ Like already seen in the [Composing](../composing) part, you can choose with who
 
 ### Topical Tags (also known as Hashtags)
 
-You can set one or more topical tags. This will help others search for a specific topic. This is easily done by addin **#** before the topic. For example **#tutorial**
+You can set one or more topical tags. This will help others search for a specific topic. This is easily done by adding **#** before the topic. For example **#tutorial**
 
 ---
 
