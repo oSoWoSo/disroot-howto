@@ -71,4 +71,4 @@ You can find the options on the next group of buttons.
   * Let's you see a preview
  * Permission settings.
   * Here you choose with who you share the post. Public, to a group, more groups, or only one Contact. You can also set it that the Connection or group is not allowed to view the post.
-  For more information it's reccommended to visit [the permissions](../permissions) chapter.
+  For more information it's reccommended to visit [the permissions](../../permissions) chapter.
