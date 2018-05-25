@@ -72,3 +72,14 @@ You can find the options on the next group of buttons.
  * Permission settings.
   * Here you choose with who you share the post. Public, to a group, more groups, or only one Contact. You can also set it that the Connection or group is not allowed to view the post.
   For more information it's reccommended to visit [the permissions](../../permissions) chapter.
+
+  ---
+
+  ### Markup languages
+
+  You can use BBcode or markup when composing a post or in a comment. You can also combine the codes.  
+  Here is an example.
+
+  ![MarkupExample](en/MarkupExample.png)  
+
+    If you want to know more about bbcode you can visit the [Hubzilla help page](https://hub.disroot.org/help/en/member/bbcode).
