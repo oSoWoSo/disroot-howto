@@ -14,18 +14,20 @@ Like many other platforms, Hubzilla uses a special notation inside messages to i
 ## Mentions
 You can mention a person in a post, so that the mentioned channel receives a notification. Using @mentions will reproduce a copy of your post on the profile specified, as though you posted on the channel wall.
 
-This is simply done by adding **@** before the channel name you want to mention. For example **@dishubuser+1813**.
+!!! In the permission settings, **Can forward to all my channel connections via @+ mentions in posts.** must be allowed by a channel to be able to mention it.
+
+To use mention, simply add **@** before the channel name you want to mention. For example **@dishubuser+1813**.
 
 The number is different for every user, every connection. If the channel you want to mention allows mentions, then an auto-complete box will appears, so you just have to click on the channel you want to mention.
 ![mention](en/Mention.gif)
 
-**Note**: in the permission settings, **Can forward to all my channel connections via @+ mentions in posts.** must be allowed by a channel to be able to mention it.
+Iy you write the channel's name manually, if there are only one space in the channel's name, there will be no problem. So, **@Robert Johnson** will tag **Robert Johnson**. If there are more than one space, for example **Blind Lemon Jefferson**, you have to enclose the entire name in double quotes or change the spaces to underscores, **@"Blind Lemon Jefferson"** or **@Blind_Lemon_Jefferson**.
 
 **Important**: At the moment (05/27/2018), the @mention works only if you set a connection with the channel. But it should be available for any channel soon.
 
 ---
 
-### Deliverable Mentions
+## Deliverable Mentions
 The deliverable mention is only used for forums or special channel. This means that when you use the deliverable mention your post will be posted on that channel's wall, but also to this Forum or Channel "network" (e.g. send to all the forum members; if you have permission to do so).
 
 The deliverable mention is done by adding **!** before the channel name, for example **!disroot+516**. Here to the auto-complete box will show.  
@@ -34,7 +36,7 @@ The deliverable mention is done by adding **!** before the channel name, for exa
 
 ---
 
-### Private Mentions
+## Private Mentions
 Like already seen in the [Composing](../composing) part, you can choose to restrict the viewing of a post to a single person or a number of people. You can do this by selecting channels or privacy groups from the privacy tool. But if you prefer you can also just tag them with a privacy tag.
 
 A **privacy tag** is an username preceded by the two characters **@!**, for example **@!dishubuser**.
@@ -50,18 +52,16 @@ You may also **tag privacy groups** which are "public" with **@!Name_of_the_grou
 
 ---
 
-### Topical Tags (also known as Hashtags)
-You can set one or more topical tags. This will help others search for a specific topic. This is easily done by adding **#** before the topic. For example **#tutorial**
-
-**Note**: Topical tags are generally a minimum of three characters in length.  Shorter search terms are not likely to yield any search results, although this depends on the database configuration.
-
-Topical tags are also not linked if they are purely numeric, e.g. #1. If you wish to use a numeric hashtag, please add some descriptive text such as #2018-photos
-
----
-
-#### Mentions in comments
+## Mentions in comments
 You can use mentions in comments.
 
 But using Deliverable or Private mentions has **no effect**, except that the mentioned channel may receive notification if they were already included as a recipient in the conversation. **TO BE CHECKED**
 
 ---
+
+## Topical Tags (also known as Hashtags)
+You can set one or more topical tags. This will help others search for a specific topic. This is easily done by adding **#** before the topic. For example **#tutorial**
+
+**Note**: Topical tags are generally a minimum of three characters in length.  Shorter search terms are not likely to yield any search results, although this depends on the database configuration.
+
+Topical tags are also not linked if they are purely numeric, e.g. #1. If you wish to use a numeric hashtag, please add some descriptive text such as **#2018-photos**
