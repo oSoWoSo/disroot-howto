@@ -16,7 +16,7 @@ On DisHub, there is limit on disk usage. **TO BE COMPLETED**
 Your files are visible to anybody who is allowed to view them.
 
 ## Web Access
-To access you personnal cloud storage, either go to https://hub.disroot.org/cloud/your_username  or click on the top_right hamburger menu and choose **Files**.
+To access you personal cloud storage, either go to https://hub.disroot.org/cloud/your_username  or click on the top_right hamburger menu and choose **Files**.
 
 ![cloud_access_menu](en/Cloud_access_menu.png)
 
@@ -37,7 +37,7 @@ You can delete a folder at anytime. Just click on the trash can icon:
 
 You can also edit its permissions. Click on the pencil icon, then on the lock icon. Don't forget to *Submit*.
 ![cloud_folder_edit](en/Cloud_folder_edit.gif)
-The **Include all files and sub folders** is important if you want to apply your permissions changes to allfiles and sub folders of the folder you just change permissions of.
+The **Include all files and sub folders** is important if you want to apply your permissions changes to all files and sub folders of the folder you just change permissions of.
 
 **Important**: You can not change its name.
 

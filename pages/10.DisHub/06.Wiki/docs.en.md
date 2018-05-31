@@ -47,11 +47,11 @@ You can disable this feature by doing the opposite.
 ### 2nd step: enable the wiki app? (optional)
 As explained just above, you wiki is accessible at this address: https://hub.disroot.org/wiki/your_channel_name
 
-However, you may want other people (or even yourself!) to be able to access your wiki easier. It can be done by enabling the wiki app. Like this, people visiting your channel will be able to go to your wiki by clicking the hamburger menu and selectiong "wiki".
+However, you may want other people (or even yourself!) to be able to access your wiki easier. It can be done by enabling the wiki app. Like this, people visiting your channel will be able to go to your wiki by clicking the hamburger menu and selecting "wiki".
 
 ![wiki_access](en/Wiki_access.gif)
 
-To do so, click on the **hamburger menu** and select **Add apps**. Go down to the wiki app and ebale it bly **clicking on its star**. You will now be able to see it in the hamburger menu (sometimes, you need to refresh the page so that the app appears in the menu).
+To do so, click on the **hamburger menu** and select **Add apps**. Go down to the wiki app and enabale it by **clicking on its star**. You will now be able to see it in the hamburger menu (sometimes, you need to refresh the page so that the app appears in the menu).
 
 ![wiki_enable_app](en/Wiki_enable_app.gif)
 
@@ -99,7 +99,7 @@ In the **Edit page**, you write you text. Prior to saving page edits, you may en
 
 In the **View page**, you see what those that will be allowed to visit your wiki will see.
 
-In the **History page**, you have a list of the changes made on the page. You have the author name, the sort description of the change, and its date. You can compare what has been changed between the actual version and an older on by clickin on **Compare**.
+In the **History page**, you have a list of the changes made on the page. You have the author name, the sort description of the change, and its date. You can compare what has been changed between the actual version and an older on by clicking on **Compare**.
 The **Revert** button will load the selected revision but will not automatically save the page.
 
 **Work in Progress: problem with REVERT.**
@@ -120,7 +120,7 @@ You can edit your connection permissions if you want to give/remove a specific p
 To get there, click on the **connections icon**, ![connection_icon](en/connection_icon.png), then click on **Edit** next to the connection you want to change permission with. Click on **Individual Permissions**. Check the **Can view my wiki pages** box to give that permission, and click on *Submit*.
 ![wiki_connections](en/Wiki_connection.gif)
 
-**Note**: if you choose a channel role that allows anyone to view your wiki, you can't change any permission in the channel permission settings. It is possible only if you chose a channel role that allows only members of your privacy group to see your wiki. Like this, you can give the right to see your wiki to connections that are not members of this group (but you also need to use the ACL, see the follwing section)
+**Note**: if you choose a channel role that allows anyone to view your wiki, you can't change any permission in the channel permission settings. It is possible only if you chose a channel role that allows only members of your privacy group to see your wiki. Like this, you can give the right to see your wiki to connections that are not members of this group (but you also need to use the ACL, see the following section)
 
 #### Access Control List on wiki creation
 When you create a wiki, you can restrain who can see it. There is a **lock icon** ![lock_icon](en/lock_icon.png). It allows you to decide who can see your wiki. It opens the ACL: Access Control List:
@@ -132,7 +132,7 @@ When you create a wiki, you can restrain who can see it. There is a **lock icon*
 
 ### Who can edit my wiki?
 #### Connection permission
-There is only place where you can set who can edit your wiki: it is in the individual Connection page. To get there, click on the **connections icon**, ![connection_icon](en/connection_icon.png), then click on **Edit** next to the connection you want to change permission with. Click on **Individual Permissions**. Check/Uncheck the **Can write to my wiki pages** box to give/remvove that permission, and click on *Submit*.
+There is only place where you can set who can edit your wiki: it is in the individual Connection page. To get there, click on the **connections icon**, ![connection_icon](en/connection_icon.png), then click on **Edit** next to the connection you want to change permission with. Click on **Individual Permissions**. Check/Uncheck the **Can write to my wiki pages** box to give/remove that permission, and click on *Submit*.
 ![wiki_connections](en/Wiki_connection.gif)
 
 
@@ -148,9 +148,9 @@ You can download a wiki with all its files on your computer by going on the wiki
 
 ## How to delete?
 ### Delete a whole wiki
-Go our the your wiki page. You see the list of all your wikis. Simply cick on the trash can.
+Go our the your wiki page. You see the list of all your wikis. Simply click on the trash can.
 ![wiki_delete](en/Wiki_delete.png)
 
 ### Delete a page
-On the "Wiki Pages" panel, if you mouve you moose over the pages names, you'll see a trash can appearing. Click on it to remove the page.
+On the "Wiki Pages" panel, if you move you mouse over the pages names, you'll see a trash can appearing. Click on it to remove the page.
 ![wiki_delete_page](en/Wiki_delete_page.png)

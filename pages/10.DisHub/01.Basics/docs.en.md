@@ -24,19 +24,25 @@ For the purpose of this tutorial we will name the parts, or blocks, of the User 
 
 ![basics_UI](en/Basics_UI.png)
 
+!!! #### The sidebars on mobile are hidden.  
+!!! If you want to show the left sidebar you have to click on the arrow icon ![MobileLeftBar](en/MobileLeftBar.gif)
+!!! The right bar is limited to activity notifications only. If you want to see the notifications click on the exclamation point icon. ![MobileLeftBar](en/MobilerightBar.gif)
+
 01. **Navigation bar**: From here you access to your personal settings, the menu, the network and public streams, apps, the directory, wikis, the chat, etc. It is very customizable, and it functions like a shortcut and launch applications bar.
 02. **Profile section**: Here there’s some basic information about your channel, like your name and hub address. You can add more info if you want.
 03. **Share box**: The place where you write and share your thoughts, things you like, your photos, compose articles, etc. By clicking on it the post compositor opens. It’s a very well-suited editor to compose and edit your post or shares.
 04. **Activity Notifications**: It informs you about what is happening in the network stream, in the public stream and if you received a connection request, a mail, if someone commented a post you’ve created or a post that you’ve been following. We’ll see about it later.
 05. **Connections**: Here you can see some of your connections (those you interact the most) and the common connections you may have with other users while visiting a channel.
 06. **Channel stream**: It works like the “wall” of most social networks, it’s the place where you see your posts, the comments on them (if they’re enable), the posts you’ve re-shared, and those from the people you’ve give permissions to write on it, the posts of your connections.
-07. **Right side widgets**: This space can be used not only as a widget section, but almost anything you want to have accesible (information, apps, notes, sites, shortcuts, etc, as we’ll see later) can be setted to appear in this place.
+07. **Right side widgets**: This space can be used not only as a widget section, but almost anything you want to have accessible (information, apps, notes, sites, shortcuts, etc, as we’ll see later) can be setted to appear in this place.
 
 Let’s take a closer look at the parts.
 
 ## 01. Navigation bar
 
 ![Basics_navigation_ bar](en/Basics_navigation_bar.png)
+
+!!! On mobile pinned apps are hidden and only accessible through the hamburger menu on the right ![MobileNavigationBar](en/MobileNavigationBar.png)
 
 ![Profile](en/Basics_profile_icon.png) **Profile**: By clicking on it, you access to view and edit your profile, your channel manager, the general settings and to log out.
 
@@ -76,7 +82,7 @@ At the right of your **Edit Profile Details** page you’ll find the **Profile T
 
 - **View this profile**: Shows you the way your profile looks.
 
-[To know more about profiles and the available options...](../02.Profiles)
+[To know more about profiles and the available options...](../channels/profiles)
 
 
 ### Channel Manager
@@ -92,6 +98,8 @@ From here you can create and switch between channels. The process to create a ch
 Clicking on the **Settings** option you access to a wide range of settings categorized by its functionality. We will see each one of them.
 
 ![basics_settings](en/Basics_settings.png)
+
+!!! The settings options are on the left sidebar. So if you want to show the options on mobile you have to clikc on the arrow icon in the nav bar. ![ArrowIcon](en/ArrowIcon.png)
 
 ##### Account settings
 In the **Account settings** you can change your email address, your password and set Your **technical skill level**. Every level sets different user features according to what you expect or want to do. By default, DisHub skill level is **4. Expert**, in orden to provide most of the features available.

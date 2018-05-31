@@ -21,7 +21,7 @@ To use mention, simply add **@** before the channel name you want to mention. Fo
 The number is different for every user, every connection. If the channel you want to mention allows mentions, then an auto-complete box will appears, so you just have to click on the channel you want to mention.
 ![mention](en/Mention.gif)
 
-Iy you write the channel's name manually, if there are only one space in the channel's name, there will be no problem. So, **@Robert Johnson** will tag **Robert Johnson**. If there are more than one space, for example **Blind Lemon Jefferson**, you have to enclose the entire name in double quotes or change the spaces to underscores, **@"Blind Lemon Jefferson"** or **@Blind_Lemon_Jefferson**.
+If you write the channel's name manually, if there are only one space in the channel's name, there will be no problem. So, **@Robert Johnson** will tag **Robert Johnson**. If there are more than one space, for example **Blind Lemon Jefferson**, you have to enclose the entire name in double quotes or change the spaces to underscores, **@"Blind Lemon Jefferson"** or **@Blind_Lemon_Jefferson**.
 
 **Important**: At the moment (05/27/2018), the @mention works only if you set a connection with the channel. But it should be available for any channel soon.
 

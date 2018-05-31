@@ -16,7 +16,7 @@ For most people, their first channel with be "Me".
 
 The most important features for a channel that represents "me" are:
 * Secure and private "spam free" communications
-* Identity and "single-signon" across the entire network
+* Identity and "single-sign on" across the entire network
 * Privacy controls and permissions which extend to the entire network
 * Directory services (like a phone book)
 

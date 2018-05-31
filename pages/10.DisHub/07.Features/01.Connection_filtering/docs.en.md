@@ -20,7 +20,7 @@ On connection that you want to modify, click on *Edit*
 Then, click on **Set Affinity & Profile**.
 ![affinity_set](en/set_affinity.gif)
 
-The slider appears : select the degree of friendship you want to set with the connnection. Think of this as a measure of how much you like or dislike it and how much you want to see this connection's posts.
+The slider appears : select the degree of friendship you want to set with the connection. Think of this as a measure of how much you like or dislike it and how much you want to see this connection's posts.
 
 Even if you see *Me, Family, Friends*, you can set the slider anywhere between 1 (for people you like) and 99 (for people you don't care for). Don't forget to *Submit*.
 

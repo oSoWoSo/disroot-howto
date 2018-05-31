@@ -55,7 +55,7 @@ This determines who can edit your webpages. This is useful for sites with multip
 
 - **Can write to my wiki pages.**
 
-This determines who can edit your wifi. This is useful for wikis with multiple editors.
+This determines who can edit your WiFi. This is useful for wikis with multiple editors.
 
 - **Can post on my channel (wall) page.**
 
@@ -202,7 +202,7 @@ In this role privacy is more important than the previous ones. This is what you 
 What does it do?
 - You are listed in the directory.
 - By default all posts and published items are sent to your 'Friends' privacy group and not made public. New friends are added to this privacy group. you're still able to make posts more public if you want.
-- Only your 'my "friends" privacy goup' can comment on your public posts, send you private mail and chat with you.
+- Only your 'my "friends" privacy group' can comment on your public posts, send you private mail and chat with you.
 - Your online presence (for chat) and your connections (friends) are visible to your profile viewers.   
 - Anyone can see your other connections.
 
@@ -212,7 +212,7 @@ Privacy is the most important for this role. You will have to handle more with p
 What does it do?
 - You are listed in the directory.
 - By default all posts and published items are sent to your 'Friends' privacy group and not made public. New friends are added to this privacy group. you're still able to make posts more public if you want.
-- Only your 'my "friends" privacy goup' can comment on your public posts, send you private mail and chat with you.
+- Only your 'my "friends" privacy group' can comment on your public posts, send you private mail and chat with you.
 - Your online presence (for chat) and your connections (friends) is hidden.   
 - Only your connections can see your other connections.
 
@@ -225,17 +225,17 @@ This setting is for typical forum. Anyone can see channel posts. So as the name 
 What does it do?
 - The channel is visible in the directory.
 - By default posts and published items are public.
-- Members may post by !mention or wall-to-wall post anc comment.
+- Members may post by !mention or wall-to-wall post and comment.
 - Posting photos and other published items is blocked.
 - Members are added automatically.
 
 ##### Restricted
-The most important difference with the mostly public setting is that only connactions are allowed to see the formu stream and posts.
+The most important difference with the mostly public setting is that only connections are allowed to see the forum stream and posts.
 
 What does it?
 - The channel is visible in the directory.
 - By default all posts and published items are sent to the channel's 'Friends' privacy group. New friends are added to this privacy group.
-- Members may post by !mention or wall-to-wall post, but posts and replies may also be seen by other receipients of the top-level post who are not members.
+- Members may post by !mention or wall-to-wall post, but posts and replies may also be seen by other recipients of the top-level post who are not members.
 - Members must be manually added by the forum owner.
 
 ##### Private
@@ -360,7 +360,7 @@ You have different choices:
 
 **Note**: This list can be slightly different, depending of where you use the ACL.
 
-If you choose **Friends** or **Custom selection**, you then have a list of your conenection.
+If you choose **Friends** or **Custom selection**, you then have a list of your connection.
 ![ACL_list](en/ACL_list.png)
 
 Just click on **Show** o **Don't show** for each connection to which to want to show or not show.

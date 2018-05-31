@@ -28,13 +28,13 @@ After setting your Role, name (real or not) and your nickname, you will be redir
 Click on **Default Profile** if you want to customize your profile.  
 ![Profile page](en/ProfilePage.png)
 
-From there you are free to complete information about yourself. There are at least two information that are required. There are in the **Personnal tab**:
+From there you are free to complete information about yourself. There are at least two information that are required. There are in the **Personal tab**:
 - **Profile name (required)**: it is the name you want to give to the profile. It helps when you have multiple profiles. For example you could call it "Public Profile", "Family Profile", etc.
 - **Your full name (required)**: it is the name that will be shown to everyone.
 
 ![Profile edit1](en/EditProfile.png)
 
-You can change the profile picture (cavatar). From the **Profile Tools** dropdown menu, select **Change profile photo**.
+You can change the profile picture (cavatar). From the **Profile Tools** drop-down menu, select **Change profile photo**.
 
 ![Profile edit2](en/EditProfile.gif)
 
@@ -48,11 +48,11 @@ When you press **Done Editing** you will be redirected back to the profile edito
 
 Returning to your channel home page you will see that a post notifying others of your new profile pic has been automatically posted.
 
-You can also customize the cover photo. From the **Profile Tools** dropdown menu, select **Change cover photo**.
+You can also customize the cover photo. From the **Profile Tools** drop-down menu, select **Change cover photo**.
 
 ![Profile edit2](en/EditProfile.gif)
 
-If you'd like to meet people that share some general interests with you, please take a moment and add some **Keywords** to your profile, such as "music, linux, photography" or whatever. You can add as many keywords as you like.
+If you'd like to meet people that share some general interests with you, please take a moment and add some **Keywords** to your profile, such as "music, Linux, photography" or whatever. You can add as many keywords as you like.
 To do so click on the **Miscellaneous** tab and add the keywords in **Keywords used in directory listings**.
 
 ![Profile_keywords](en/Profile_keywords.png)
@@ -104,7 +104,7 @@ Click on the pencil to edit, on the trash can to remove it!
 Hubzilla gives you the possibility to:
 - Create a **clone of an existing profile** if you only wish to change a few items but don't wish to enter all the information again.
 - Backup a profile by choosing **Export profile to file**. It will create a .json file that you can save on your computer and import later if needed.
-- Import a profile by choosing  **Import profile from file**. You can import a .json file that you previously saved oon your computer.
+- Import a profile by choosing  **Import profile from file**. You can import a .json file that you previously saved on your computer.
 - **Delete*** a profile you don't use/want anymore.
 
 
@@ -127,7 +127,7 @@ Go on the **Edit Profile Details"** page: click on your **avatar** in the nav ba
 ### What is it?
 Your default profile is public by default and you can't change it. That means that anyone can see the information you added on it when they come on your channel.
 
-However, as explained before, you may create additionnal profiles to give more or less information about you to your connections.
+However, as explained before, you may create additional profiles to give more or less information about you to your connections.
 
 The "visibility" of a profile is the setting that organized who is going to see this profile.
 

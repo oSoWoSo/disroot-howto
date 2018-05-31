@@ -14,14 +14,14 @@ If you want to share something, just click on the **share bar** ![Share](en/Shar
 This is what you will happen:
 ![Compising_composer](en/Composing_composer.gif)
 
-The first thing you probably want to do is setting a **title**. It's not obligatory, so it's up to you if you want to set one or not. However, it is a good practise to set one as it makes your post more visible.
+The first thing you probably want to do is setting a **title**. It's not obligatory, so it's up to you if you want to set one or not. However, it is a good practice to set one as it makes your post more visible.
 
 The same thing is for the **categories** part. Here you can add one or more categories, "tags", just separate each words/sentences you add by a comma. For example **How to, hubzilla**.
 Here again, it's a good practise to use categories as it helps people to find your posts easier. Indeed, when there is a **Categories widget** on the channel that you visit, you can click on the category you're interested in so that if filters all the channel's posts that have been composed with this tag.
 ![Composing_categories](en/Composing_categories.png)
 
 Now the first basic options you have when composing your post are **Bold, Italic, Underline, Quote and Code**.
-So when composing you want for example to write some text in bold, you click on the bold button and put the text you want in between the **[b]** tags. Or you can write your text first, then select waht you want to change (for example select your text and click on **B** to set it bold).
+So when composing you want for example to write some text in bold, you click on the bold button and put the text you want in between the **[b]** tags. Or you can write your text first, then select what you want to change (for example select your text and click on **B** to set it bold).
 ![ShareExample](en/ShareExample.gif)
 
 And here is the result
@@ -45,7 +45,7 @@ With the next three buttons you can easily **attach a file** from your device, *
 ![AddButtons](en/AddButtons.png)  
 They are pretty self explanatory, so don't need further explanation.
 
-**Note**: If you want to embed an image without having to upload it first on one of your albums you can use the attach button and select an image from your device. If you're on a computer, you can also simply add your picture by dragging it direclty in your post.
+**Note**: If you want to embed an image without having to upload it first on one of your albums you can use the attach button and select an image from your device. If you're on a computer, you can also simply add your picture by dragging it directly in your post.
 
 ---
 
@@ -56,7 +56,7 @@ You can find the options on the next group of buttons.
 
 ### The options are:
 * **Set your location**: you are able to share your location with others. A popup opens asking you to set the location you want, so it's not using geolocalization ![compsing_location](en/Composing_location.png)
-* **Set expiration date**: the post will autodestruct on the date set.
+* **Set expiration date**: the post will auto destruct on the date set.
 * **Set publish date**: the post will be published in a future date.
 * **Encrypt text**: this let's you encrypt text. Therefore you need to set a passphrase and make sure the ones that you want to share with know the passphrase.
 * **Toggle voting**: If you want others to vote for something. They will have those options ![voting](en/Voting.png) on your post when clicking on this icon.
@@ -71,8 +71,8 @@ Before clicking on the **Share** button you may want to check the permissions an
 
 ### These options are:
 * **Preview**: let you see a preview of your post. This preview appears just under your actual post.
-* **Permission settings**: Here you choose with whom you share the post. Most of the time, you won't even click on that button as it is automatically set according to your channel role. However, you change who can see your post: to the public, to a group, more groups, or only one connnction. You can also set it that one or several connections or groups are not allowed to view the post. YOU CAN'T CHANGE IT ONCE POSTED!
-For more information it's reccommended to visit [the permissions](../../permissions) section.
+* **Permission settings**: Here you choose with whom you share the post. Most of the time, you won't even click on that button as it is automatically set according to your channel role. However, you change who can see your post: to the public, to a group, more groups, or only one connection. You can also set it that one or several connections or groups are not allowed to view the post. YOU CAN'T CHANGE IT ONCE POSTED!
+For more information it's recommended to visit [the permissions](../../permissions) section.
 
 ---
 
