@@ -24,11 +24,11 @@ For the purpose of this tutorial we will name the parts, or blocks, of the User 
 
 ![basics_UI](en/Basics_UI.png)
 
-*NOTE: On the mobile version, the sidebars are hidden.*
-    - If you want to show the left sidebar you have to click on the arrow icon
-![MobileLeftBar](en/MobileLeftBar.gif)
-    - The right bar is limited to activity notifications only. If you want to see the notifications click on the exclamation point icon.
-    ![MobileLeftBar](en/MobilerightBar.gif)
+**NOTE: On the mobile version, the sidebars are hidden.**
+If you want to show the left sidebar you have to click on the arrow icon</ br>
+![MobileLeftBar](en/MobileLeftBar.gif)</ br>
+The right bar is limited to activity notifications only. If you want to see the notifications click on the exclamation point icon.</ br>
+![MobileLeftBar](en/MobilerightBar.gif)</ br>
 
 01. **Navigation bar**: From here you access to your personal settings, the menu, the network and public streams, apps, the directory, wikis, the chat, etc. It is very customizable, and it functions like a shortcut and launch applications bar.
 02. **Profile section**: Here there’s some basic information about your channel, like your name and hub address. You can add more info if you want.
