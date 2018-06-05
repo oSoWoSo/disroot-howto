@@ -22,8 +22,7 @@ Yes, it doesn’t look much pretty, huh? But, don’t get into a daze, by the en
 Let’s start by knowing the spaces our new home first. Later you could decorated whatever you want.
 For the purpose of this tutorial we will name the parts, or blocks, of the User Interface (UI) in order to identify them later.
 
-![basics_UI](en/Basics_UI.png)
-</br>
+![basics_UI](en/Basics_UI.png)</br>
 **NOTE: On the mobile version, the sidebars are hidden.**
 If you want to show the left sidebar you have to click on the arrow icon</br>
 ![MobileLeftBar](en/MobileLeftBar.gif)</br>
@@ -44,7 +43,7 @@ Let’s take a closer look at the parts.
 
 ![Basics_navigation_ bar](en/Basics_navigation_bar.png)
 
-!!! On mobile pinned apps are hidden and only accessible through the hamburger menu on the right ![MobileNavigationBar](en/MobileNavigationBar.png)
+On mobile pinned apps are hidden and only accessible through the hamburger menu on the right ![MobileNavigationBar](en/MobileNavigationBar.png)
 
 ![Profile](en/Basics_profile_icon.png) **Profile**: By clicking on it, you access to view and edit your profile, your channel manager, the general settings and to log out.
 
@@ -55,34 +54,17 @@ Clicking on **“View profile”** you’ll see your public profile with the inf
 
 ![basics_profile](en/Basics_profile.png)
 
-There you can:
-1. Change:
-	- your profile name
-	- your personal name
-	- your profile picture
-	- your connections list visibility
-2. Add or remove:
-	- tags
-	- title or description of your profile
-	- your birthdate
-	- your locations
-	- a homepage url
-	- keywords to help others find you via the directory
-	- more info about yourself.
+**View Profile:** Clicking on “View profile” you’ll see your public profile with the information you has submited, such as your name and tags. You can edit this public profile by clicking on the Edit option at the right of the profile title bar.
+(See Profiles Settings for more information about configuration)
 
-At the right of your **Edit Profile Details** page you’ll find the **Profile Tools**. Clicking on the button opens a menu with some options:
+**Edit Profiles:** Here you can see your default and created profiles if there any or create new ones.
+(See Profiles Settings for more information about creating and managing profiles)
 
-![basics_profile_tools](en/Basics_profile_tools.png)
+**Channel Manager:** From here you can manage your channels and create new ones.
+Note: Channels are different from profiles. A profile is a collection of information about yourself so you can have different profiles depending on the data you want to share with different users or groups. For example: your public or default profile (which is always available to the general public and can’t be hidden) is GNU/Linux and FOSS related. You set the permissions and establish connections with those who may share those interests. But if you have your group of friends that don’t care about that much, and you don’t want to bore them with it, you can create a new profile with a new set of permissions called “friends”, that allow its members access only to another kind of information.
+A channel, on the other hand, it’s the space on the web that contains collections of content stored in one place, that’s the stream (will see that later). What kind of content? Well, that’s exactly the point of it. You can create different channels for different kinds of content and specifies whose of your contacts or public can see it. In other words, a profile is information about you and a channel is the space where specific information it’s gathered and showed up.
 
-- **Change profile photo**: your profile image
-- **Change cover photo**: the cover photo from your channel.
-- **Add profile things**: A thing it’s a piece of information you can add to your profile section that works like lists of things you “has”, “wants”, “likes”, or “dislikes”. It also allows your Hubzilla contacts to like those objects as well.
-
-![basics_add_things](en/Basics_add_things.gif)
-
-![basics_things](en/Basics_things.png)
-
-- **View this profile**: Shows you the way your profile looks.
+**Settings:** By clicking on it, you will access to the Account, Channel, Features settings and other configurations.
 
 [To know more about profiles and the available options...](../channels/profiles)
 
