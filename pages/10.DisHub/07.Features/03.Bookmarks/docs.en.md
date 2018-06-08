@@ -26,7 +26,7 @@ You now can see the word **Saved** at the bottom of the post, indicating that it
 ![Bookmarks_save_text](en/Bookmarks_save_text.png)
 
 ## Where to see my bookmarks?
-In your **Network activity** page, there is the **"Saved Folders" widget** on the right. There, you can see the folders of bookmarks you created. Just click on on of them to its bookmarks.
+In your **Network activity** page, there is the **"Saved Folders" widget** on the right. There, you can see the folders of bookmarks you created. Just click on one of them to its bookmarks.
 
 ![Bookmarks_folder](en/Bookmarks_folder.png)
 
