@@ -22,7 +22,10 @@ It is now available in your apps list.
 
 ## How to create a chatroom?
 Go on your chatrooms page by clicking on its icon in the apps list.
-From there, simply click on **Create New**. Set a **Chatroom name** and an **Expiration** time limit. You can change the visibility by clicking on the lock icon. Click on *Submit* when you're done.
+From there, simply click on **Create New**. Set a **Chatroom name** and an **Expiration** time limit (applies to the messages, not to the chatroom). You can change the visibility by clicking on the lock icon. Click on *Submit* when you're done.
+
+!!! **Expiration time limit**: the chats (messages) that are already on the screen aren't deleted, but if one enters the room, the expired chats (messages) are deleted and won't be shown. SO THIS OPTION IS NOT TO DELETE A CHAT ROOM, JUST ITS MESSAGES.
+
 
 ![Chat_create](en/Chat_create.gif)
 
