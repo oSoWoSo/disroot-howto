@@ -7,7 +7,7 @@ page-toc:
      active: false
 ---
 
-Aqui pode aprender com integrar o Nextcloud com o seu dispositivo MacOS
+Aqui pode aprender como integrar o Nextcloud com o seu dispositivo MacOS
 - [Sincronizar Calendários](calendar-syncing)
 - [Sincronizar contactos](contact-syncing)
 
