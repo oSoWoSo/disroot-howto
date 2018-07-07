@@ -18,8 +18,8 @@ Es decir, los archivos están encriptados antes de que salgan de tu computadora,
 
 Entre otras cosas, puedes usarlo para:
 
-    - Almacenar archivos (temporalmente) en línea, descargarlos, compartirlos con otras personas
-    - Enviar a alguien archivos que se eliminarán del servidor después de la primera descarga
+- Almacenar archivos (temporalmente) en línea, descargarlos, compartirlos con otras personas
+- Enviar a alguien archivos que se eliminarán del servidor después de la primera descarga
 
 En este tutorial, te mostraremos cómo usarlo. Puedes acceder a Uploads/Lufi desde [upload.disroot.org](https://upload.disroot.org)
 
