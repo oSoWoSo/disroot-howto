@@ -1,11 +1,11 @@
 ---
-title: Discourse - Forum
+title: 'Discourse - Forum'
 published: true
 taxonomy:
     category:
         - docs
 page-toc:
-     active: false
+    active: false
 ---
 
 <br>
