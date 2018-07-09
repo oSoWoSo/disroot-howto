@@ -64,7 +64,7 @@ También puedes añadir imágenes y enlaces a las opciones que creaste, pero en 
 
 ![](en/polls5.gif)
 
-## Establecer elecciones para "Programar un evento"
+## Establecer elecciones para «Programar un evento»
 Puedes elegir la cantidad de opciones que desees utilizando los botones + y - ![](en/polls2.png?resize=40,18) Selecciona las fechas para cada elección y las horas. Una vez que hayas terminado, presiona «siguiente», selecciona la fecha de vencimiento de tu encuesta y presione «crear encuesta».
 
 ![](en/polls6.gif)
