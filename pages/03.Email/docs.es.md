@@ -1,5 +1,5 @@
 ---
-title: Email
+title: Correo electrónico
 published: true
 taxonomy:
     category:
