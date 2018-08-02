@@ -1,5 +1,5 @@
 ---
-title: 'Pads y Bins'
+title: 'Pads y bins'
 published: true
 taxonomy:
     category:
