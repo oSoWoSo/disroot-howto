@@ -58,13 +58,9 @@ These networks/protocols do not support account migration and location independe
 
 Some communications offer more than one protocol. If you wish to connect with somebody on Mastodon (for instance) they can use either the 'ostatus' or the 'activitypub' protocol for communication. Generally the 'activitypub' protocol will provide a better experience than 'ostatus', but Hubzilla will often choose the first protocol it discovers and this may not be the one you want.
 
-You may connect with somebody over a specific protocol by prepending the protocol name in square brackets to their "webbie". For example
+You may connect with somebody over a specific protocol the same way you would add a contact on hubzilla, but changing his/her address to point to the right protocol instance.
 
-- [activitypub]https://foo.bar/foobar
-- [ostatus]foobar@foo.bar
-- [diaspora]foobar@foo.bar
-- [zot]foobar@foo.bar
-- [rss]https://foo.bar/foobar
+For example if you want to connect to a mastodon user: **username@mastodon.instance**.
 
 
 ### You want to connect with RSS feeds
