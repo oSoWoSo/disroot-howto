@@ -8,7 +8,7 @@ taxonomy:
     category:
         - docs
 ---
-Disroot ofrece PrivateBin como servicio. Un *pastebin* en línea de código abierto minimalista y un panel de discusión de conocimiento cero. Lo que sifnifica qui ni el servidor ni sus administradores pueden descifrar el contenido de los *pastes*.
+Disroot ofrece PrivateBin como servicio. Un *pastebin* en línea de código abierto minimalista y un panel de discusión de conocimiento cero. Lo que significa que ni el servidor ni sus administradores pueden descifrar el contenido de los *pastes*.
 
 Estas son algunas de las cosas para lo que lo puedes usar:
 
