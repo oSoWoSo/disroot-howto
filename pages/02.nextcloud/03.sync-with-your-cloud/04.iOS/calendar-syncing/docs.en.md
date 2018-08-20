@@ -52,4 +52,4 @@ From the drop down menu:
 
 7. On the following screen make sure Calendars and Reminders are selected then press '**Save**'
 
-Now your calendar and reminders as added. If you now open the Calendar app you will see your calendars. If you would like, go to the Calendar and Reminders app settings to set your defaults to Disroot.
+Now your calendar and reminders are added. If you now open the Calendar app you will see your calendars. If you would like, go to the Calendar and Reminders app settings to set your defaults to Disroot.
