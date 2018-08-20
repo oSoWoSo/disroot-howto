@@ -9,12 +9,12 @@ taxonomy:
         - docs
 ---
 
-_This tutorial was last updated on 15 August 2018_
+_This tutorial was last updated on 19 August 2018_
 
 # Goal:
 **Sync the iOS Calendar and Reminders apps with the Disroot cloud.**
 
-This will allow you to check, update and remove your events and reminders from any iOS device with an internet connection. Once it runs, and nothing breaks, you'll forget it is there.
+This will allow you to check, update, and remove your events and reminders from any iOS device with an internet connection. Once it runs, and nothing breaks, you'll forget it's there.
 
 # Requirements
 
@@ -24,7 +24,7 @@ This will allow you to check, update and remove your events and reminders from a
 * A working internet connection
 * 15 minutes
 
-# Set up Calendar and Reminders Syncing.
+# Set up Calendar and Reminders Syncing
 
 1. Go to the  **Settings** app on your device.
 2. Click on '**Passwords & Accounts**'.
@@ -40,10 +40,11 @@ This will allow you to check, update and remove your events and reminders from a
 6. On the next screen enter the following, then click '**Next**':
 
 From the drop down menu:
-**Server**: `cloud.disroot.org`
-**User Name**: your username  (_without @disroot.org_)
-**Password**: your password
-**Description**: whatever you'd like
+
+* **Server**: `cloud.disroot.org`
+* **User Name**: your username  (_without @disroot.org_)
+* **Password**: your password
+* **Description**: whatever you'd like
 
 ![](en/ios_calendar3.png)
 
