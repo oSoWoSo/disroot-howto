@@ -52,11 +52,13 @@ To do so, click on the **profile picture** of that channel and then choose **Con
  ![connect3](en/Connect3.gif)
 
 ### You want to connect with channels on other networks
-The process for connecting to channels on other networks (such as GNU-Social, Mastodon, and Diaspora) is similar - type their "webbie" into the **Add New Connections** box on the **Connections page**. Before you do this however, please visit your **Settings** page, **Addon Settings** and ensure that the relevant protocol (Diaspora, GNU-Social/OStatus, or ActivityPub) is provided on your hub and activated for your channel.
+The process for connecting to channels on other networks (such as GNU-Social, Mastodon, and Diaspora) is similar - type their "webbie" into the **Add New Connections** box on the **Connections page**. Before you do this however, please visit your **Settings** page, **Addon Settings** and ensure that the relevant protocol (Diaspora, GNU-Social/OStatus, ActivityPub, or others) is provided on your hub and activated for your channel.
 
 These networks/protocols do not support account migration and location independence so if you move location or clone your channel elsewhere, communications with these connections may fail. For this reason these protocols are not activated by default, but only through your consent. Activating these protocols involves an important decision between communicating with friends on these networks or providing fail-safe account resilience if your server fails.    
 
-Some communications offer more than one protocol. If you wish to connect with somebody on Mastodon (for instance) they can use either the 'ostatus' or the 'activitypub' protocol for communication. Generally the 'activitypub' protocol will provide a better experience than 'ostatus', but Hubzilla will often choose the first protocol it discovers and this may not be the one you want.
+Some softwares you might have heard of might use a communication protocol with a different name. For example Mastodon, Pleroma, Peertube all use ActivityPub so if you want to connect with people on these softwares, ativate  'activitypub' protocol for communication.
+Some softwares, like Mastodon and Pleroma also support the 'Osatus' protocol.
+Generally the 'activitypub' protocol will provide a better experience than 'ostatus', but Hubzilla will often choose the first protocol it discovers and this may not be the one you want.
 
 You may connect with somebody over a specific protocol the same way you would add a contact on hubzilla, but changing his/her address to point to the right protocol instance.
 
