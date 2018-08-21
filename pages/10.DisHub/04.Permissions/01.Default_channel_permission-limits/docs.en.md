@@ -10,7 +10,7 @@ page-toc:
 ---
 
 ### What is it?
-There are a set of default permission limits that apply to all items shared by a channel. This determines the first "limit" on who can access an itemof your channel: a post, a wiki, a photo, etc.
+There are a set of default permission limits that apply to all items shared by a channel. This determines the first "limit" on who can access an item of your channel: a post, a wiki, a photo, etc.
 
 ### What kind of permissions can be set?
 
