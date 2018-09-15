@@ -30,7 +30,7 @@ If you don't see any wiki, then this channel may have viewing restrictions or si
 
 ## Enable wiki creation
 ### 1st step: enable the wiki feature
-If you want to be able to use the wiki feature, you have to enable it first. To do so, go to your channel **Settings**, click on the **Additionnal features** tab.
+If you want to be able to use the wiki feature, you have to enable it first. To do so, go to your channel **Settings**, click on the **Aditionnal features** tab.
 
 To see be able to enable the wiki feature, you need to set your skill to at least **"2. Intermediate..."**. (You can see any other level superior to 2)
 
@@ -51,7 +51,7 @@ However, you may want other people (or even yourself!) to be able to access your
 
 ![wiki_access](en/Wiki_access.gif)
 
-To do so, click on the **hamburger menu** and select **Add apps**. Go down to the wiki app and enabale it by **clicking on its star**. You will now be able to see it in the hamburger menu (sometimes, you need to refresh the page so that the app appears in the menu).
+To do so, click on the **hamburger menu** and select **Add apps**. Go down to the wiki app and enable it by **clicking on its star**. You will now be able to see it in the hamburger menu (sometimes, you need to refresh the page so that the app appears in the menu).
 
 ![wiki_enable_app](en/Wiki_enable_app.gif)
 

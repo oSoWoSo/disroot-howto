@@ -10,13 +10,13 @@ page-toc:
 ---
 
 ### What is it?
-There are a set of default permission limits that apply to all items shared by a channel. This determines the first "limit" on who can access an itemof your channel: a post, a wiki, a photo, etc.
+There are a set of default permission limits that apply to all items shared by a channel. This determines the first "limit" on who can access an item of your channel: a post, a wiki, a photo, etc.
 
 ### What kind of permissions can be set?
 
 - **Can view my channel stream and posts.**
 
-This permision determines who can view your channel "stream" : your non-private posts that appear on the *channel page* ![channel_icon](en/channel_icon.png) when you're logged in.
+This permision determines who can view your channel "stream": your non-private posts that appear on the *channel page* ![channel_icon](en/channel_icon.png) when you're logged in.
 
 - **Can send me their channel stream and posts.**
 
@@ -116,7 +116,7 @@ Anybody with a channel on the same hub/website as you will have permission appro
 
 - **Anybody in this network**
 
-Anybody in Hubzilla will have this permission approved. Even complete strangers. However, anybody not logged in/authenticated will have this permission denied.
+Anybody in the Hubzilla network will have this permission approved. Even complete strangers. However, anybody not logged in/authenticated will have this permission denied.
 
 - **Anybody authenticated**
 

@@ -12,7 +12,7 @@ page-toc:
 ## What is a profile?
 You have surely registered with some other internet services, such as forums or online communities. For all of them you provided some information about yourself, such as date of birth, country, age and the likes. Think of your profile as **the basic information about yourself you tell other people**.
 
-Here is an example of a profile with not much on it :)
+Here is an example of a profile with not much on it
 ![profile_view](en/Profile_view.png)
 
 And the same one, but seen from a directory research on "meaz" !

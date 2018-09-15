@@ -42,9 +42,10 @@ Here you can see your default and created profiles if there any or create new on
 [To know more about profiles and the available options...]((../../02.Channels/02.Profiles))
 
 ### Channel Manager
-From here you can manage your channels and create new ones.
-Note: Channels are different from profiles. A profile is a collection of information about yourself so you can have different profiles depending on the data you want to share with different users or groups. For example: your public or default profile (which is always available to the general public and can’t be hidden) is GNU/Linux and FOSS related. You set the permissions and establish connections with those who may share those interests. But if you have your group of friends that don’t care about that much, and you don’t want to bore them with it, you can create a new profile with a new set of permissions called “friends”, that allow its members access only to another kind of information.
-A channel, on the other hand, it’s the space on the web that contains collections of content stored in one place, that’s the stream (will see that later). What kind of content? Well, that’s exactly the point of it. You can create different channels for different kinds of content and specifies whose of your contacts or public can see it. In other words, a profile is information about you and a channel is the space where specific information it’s gathered and showed up.
+From here you can manage your channels and create new ones.<br>
+**Note: Channels are different from profiles.**<br>
+**A profile** is a collection of information about yourself so you can have different profiles depending on the data you want to share with different users or groups. For example: your public or default profile (which is always available to the general public and can’t be hidden) is GNU/Linux and FOSS related. You set the permissions and establish connections with those who may share those interests. But if you have your group of friends that don’t care about that much, and you don’t want to bore them with it, you can create a new profile with a new set of permissions called “friends”, that allow its members access only to another kind of information.<br>
+**A channel**, on the other hand, it’s the space on the web that contains collections of content stored in one place, that’s the stream (will see that later). What kind of content? Well, that’s exactly the point of it. You can create different channels for different kinds of content and specifies whose of your contacts or public can see it. In other words, a profile is information about you and a channel is the space where specific information it’s gathered and showed up.
 
 Click on the **Channel Manager** to access its options.
 
@@ -103,5 +104,6 @@ You can also use the **search box** to look for a tag, an user, etc. ![Search_bo
 It allows to see your connections and to edit them [Informations here](../../03.Connections)
 
 ## 6. Directory: ![home](en/Icon_directory.png)
-It allows to see any channel on hubzilla (not just Dishub)
+It allows to see and search any channel on hubzilla (not just Dishub). To search a specific channel use the search engine on the upper left side of the directory page
+
 ![Directory](en/Directory.png)

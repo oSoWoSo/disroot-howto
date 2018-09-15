@@ -50,6 +50,6 @@ Some channels are designated **Premium Channels** and may require some action be
 Here is an example of such a message:
 ![connections_premium_message](en/Connection_premium_message.png)
 
-To set a premium channel, go to your channel **Settings**, then on **Premium Channel Settings**
+To set a premium channel, go to your channel **Settings**, then on the same left side bar select **Premium Channel Settings**
 ![channel_premium](en/channel_premium.png)
 Enable the premium channel restriction, enter your message and click on *Submit*.

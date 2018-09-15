@@ -21,7 +21,7 @@ First setup an account in the app Kaddressbook.
  * **Username:** _yourusername_
  * **Password:** _your_super_secret_password_
 * In the option "select one of these servers", select: **owncloud**
-* Host: place the address [cloud.disroot.org](http://https:cloud.disroot.org)
+* Host: place the address [cloud.disroot.org](https//:cloud.disroot.org)
 * Installation path: leave it blank
 * Select the option: "use secure connection"
 * Press:
