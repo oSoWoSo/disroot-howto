@@ -39,8 +39,6 @@ This will allow you to check, update, and remove your events and reminders from 
 
 6. On the next screen enter the following, then click '**Next**':
 
-From the drop down menu:
-
 * **Server**: `cloud.disroot.org`
 * **User Name**: your username  (_without @disroot.org_)
 * **Password**: your password
@@ -51,6 +49,6 @@ From the drop down menu:
 >For additional security, you may choose to use an app password instead of your main Disroot password. To do so, visit cloud.disroot.org.
 >Once logged in, click your profile picture in the top right, click Settings, then click Security.
 
-7. On the following screen make sure Calendars and Reminders are selected then press '**Save**'
+7. On the following screen make sure Calendars and Reminders are selected then press '**Save**' You're done!
 
 Now your calendar and reminders are added. If you now open the Calendar app you will see your calendars. If you would like, go to the Calendar and Reminders app settings to set your defaults to Disroot.
