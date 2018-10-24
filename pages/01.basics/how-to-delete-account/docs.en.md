@@ -8,8 +8,8 @@ taxonomy:
 
 ---
 
-To delete your Disroot account you just need to fill in the [delete account request form](https://disroot.org/forms/delete-account-form)
+To delete your Disroot navigate to https://user.disroot.org and log in with your Disroot credentials.
 
-Once you confirm the request, your account will be added to our deletion list and will be deleted on the first monday following a one week waiting period.
+Select the 'Delete my Account' box and continue as instructed.
 
-If you change your mind during the waiting period, and you want to keep your account, please contact us via support@disroot.org
+Please notice: This process is irreversible! Once confirmed you will not be able to log in to your account or ask to restore it later. All your remaining data will be deleted within 48 hours, and your current user name will not be available when creating a new account.

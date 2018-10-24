@@ -8,8 +8,8 @@ taxonomy:
 
 ---
 
-Per eliminare il tuo account dovrai solo completare il modulo di Disroot [eliminazione del modulo di richiesta conto](https://disroot.org/forms/delete-account-form)
+Per eliminare il tuo account Disroot, vai su https://user.disroot.org e accedi con le tue credenziali di Disroot.
 
-Dopo aver confermato il tuo ordine, il tuo account verrà aggiunto alla nostra lista di eliminazione e verrà eliminato il primo lunedì dopo il periodo di attesa di una settimana.
+Seleziona la casella "Cancella il mio account" e continua come indicato.
 
-Se si cambia idea durante il periodo di attesa e desidera mantenere il vostro account, vi preghiamo di contattarci via support@disroot.org
+Si prega di notare: Questo processo è irreversibile! Una volta confermato non sarai in grado di accedere al tuo account o di chiederne il ripristino in un secondo momento. Tutti i tuoi dati rimanenti saranno cancellati entro 48 ore, e il tuo nome utente attuale non sarà disponibile quando crei un nuovo account.

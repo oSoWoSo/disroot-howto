@@ -8,8 +8,8 @@ taxonomy:
 
 ---
 
-Pour supprimer votre compte Disroot, il vous suffit de remplir le [formulaire de demande de suppression de compte](https://disroot.org/forms/delete-account-form)
+Pour supprimer votre compte Disroot, rendez-vous sur https://user.disroot.org et connectez-vous avec vos identifiants Disroot.
 
-Une fois la demande confirmée, votre compte sera ajouté à notre liste de suppression et sera supprimé le premier lundi suivant une période d'attente d'une semaine.
+Cochez la case 'Supprimer mon compte' et suivez les instructions.
 
-Si vous changez d'avis pendant la période d'attente et que vous souhaitez conserver votre compte, veuillez nous contacter via support@disroot.org
+S'il vous plaît notez : ce processus est irréversible ! Une fois confirmé, vous ne pourrez pas vous connecter à votre compte ou demander à le restaurer plus tard. Toutes vos données restantes seront supprimées dans les 48 heures et votre nom d'utilisateur actuel ne sera pas disponible lors de la création d'un nouveau compte.

@@ -8,8 +8,8 @@ taxonomy:
 
 ---
 
-A Disroot fiókod törléséhez csak a [fióktörlési űrlapot](https://disroot.org/forms/delete-account-form) kell kötöltened.
+To delete your Disroot navigate to https://user.disroot.org and log in with your Disroot credentials.
 
-Amint megerősíted a kérelmet, a fiókod hozzá lesz adva az eltávolítandó fiókok listájához és egy hétnyi várakozási idő után következő hétfőn törlésre kerül.
+Select the 'Delete my Account' box and continue as instructed.
 
-Ha meggondolod magad a várakozási idő alatt és meg akarod tartani a fiókodat, kérlek, írj nekünk a support@disroot.org-ra!
+Please notice: This process is irreversible! Once confirmed you will not be able to log in to your account or ask to restore it later. All your remaining data will be deleted within 48 hours, and your current user name will not be available when creating a new account.

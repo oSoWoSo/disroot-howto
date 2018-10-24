@@ -7,8 +7,9 @@ taxonomy:
         - docs
 ---
 
-Para apgar a sua conta de utilizador no disroot apenas necessita de preencher [o formulário para pedir o apagar da sua conta](https://disroot.org/forms/delete-account-form)
+Para apagar a sua conta de utilizador vá a https://user.disroot.org faça login com as suas credenciais de utilizador Disroot.
 
-Assim que confirmar o seu pedido, a sua conta será apagada na primeira Segunda-Feira após um período de espera de uma semana.
+Selecione a opção "Apagar a minha conta" e siga as instruções.
 
-Se mudar de ideias durante o período de espera e queira manter a sua conta, por favor contacte-nos através enviando-nos um email para support@disroot.org
+Por favor tem em conta que este processo é inrreversível!                                       
+Uma vez confirmada, você não será capaz de voltar a fazer login na sua conta ou pedir para a sua conta ser restaurada. Todos os seus dados e ficheiros serão apagados em 48 horas e o seu nome de utilizador actual não estará disponível para criar uma nova conta mais tarde.
