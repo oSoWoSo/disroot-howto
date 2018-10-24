@@ -19,7 +19,7 @@ Neste tutorial vamos demonstrar como trabalhar com o disroot polls.
 Nota: neste momento o software utilizado pelo disroot polls ainda não tem uma versão em língua portuguesa
 
 
-# Como uma votação (poll)
+# Como criar uma votação (poll)
 
 Criar uma poll é bastante simples, basta visitar [poll.disroot.org](https://poll.disroot.org/). Pode escolher a língua da poll (neste caso ainda não há português) no canto superior direito, escolher se quer uma "standard poll" ou uma poll para agendar um evento/encontro "schedule an event".
 
