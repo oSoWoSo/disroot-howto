@@ -1,11 +1,10 @@
 ---
-title: GDPR
+title: 'GDPR'
 published: true
 taxonomy:
     category:
         - docs
-page-toc:
-    active: false
+visible: true
 ---
 
-<br> 
+# WIP
