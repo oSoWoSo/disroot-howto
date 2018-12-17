@@ -8,7 +8,7 @@ page-toc:
     active: false
 ---
 
-There are few ways to export content of your hubzilla channel. First of of course, you need to login to your hubzilla account at (https://hub.disroot.org)[https://hub.disroot.org] (dont forget to use your disroot email account for that like, *username@disroot.org*)
+There are few ways to export content of your hubzilla channel. First of of course, you need to login to your hubzilla account at [https://hub.disroot.org](https://hub.disroot.org) (dont forget to use your disroot email account for that like, *username@disroot.org*)
 
 
 # Export Channel
