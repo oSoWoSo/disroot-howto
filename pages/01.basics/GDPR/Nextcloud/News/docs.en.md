@@ -1,11 +1,22 @@
 ---
-title: Nextcloud - News
+title: Nextcloud - Exporting News data
 published: true
 taxonomy:
     category:
         - docs
-page-toc:
-    active: false
 ---
 
-<br> 
+Exporting your news feeds and your subscriptions is as easy as in case of any Nextcloud app.
+
+1. Login to [cloud](https://cloud.disroot.org)
+
+2. Select **News** app
+![](en/select_app.gif)
+
+3. Select Settings on the bottom of the left side-bar.
+
+5. Depending on your needs you can either decided to export:
+  - Your subscriptions (OPML) - This is specially useful if you want to change your News feed (RSS reader) provider or if you simply would like to have a backup of current news site list.
+  - Unread/Starred articles - If you want to export the article content themselves either for offline use, archive purpose or migration. Note read articles get removed in regular intervals.
+
+![](en/export.gif)
