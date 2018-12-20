@@ -19,5 +19,5 @@ Obtaining data you provided to Diaspora is fully automated and can be done at an
 Once you hit any of the request buttons, you'll need to wait few moments (depending on the size of your account) until the request is processed and you are ready to download your data
 ![](en/wait-request.png)
 
-4. Once the data is ready to be downloaded you can do so by clocking "Download" button back at the bottom of settings.
+4. Once the data is ready to be downloaded you can do so by clicking "Download" button back at the bottom of settings.
 ![](en/data-download.png)
