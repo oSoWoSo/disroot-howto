@@ -15,7 +15,7 @@ Discourse, the software used by Disroot for Forum, allows you to export the text
 - Press your Gravatar on the upper right corner of the screen ![](en/export_data_discourse_01.png)
 - Press the button with your username ![](en/export_data_discourse_02.png)
 - Press the button _"Download my posts"_ ![](en/export_data_discourse_03.png)
-- Press _"yes"_ when the pop-up window asks if you want to download your posts an the press _"ok"_
+- Press _"yes"_ when the pop-up window asks if you want to download your posts and then press _"ok"_
 
 **NOTE:** The data can only be downloaded once every 24h
 <br>
