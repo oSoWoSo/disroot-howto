@@ -36,7 +36,7 @@ To navigate to different apps, you simply click an icon on the topbar.
 # Personal Settings
 Lets start from looking at what can you setup and customize on your cloud account. Click on your avatar in top right corner and choose **"Personal"** settings (if you did not set avatar yet it's the 'gear' icon in top right cornet of the topbar).
 
-![](en/main_personal.png)
+![](en/main_personal.gif)
 
 The settings are divided into sections. You can use quick links on the *left-sidebar* to get to them easily.
 
@@ -54,34 +54,52 @@ And so:
 
 You should pay extra attention when filling up this information *(which is optional)* and decide how much information about yourself you want to reveal to the world
 
-## Groups and language
+### Groups and language
 Below you can see to which **groups** you belong to (if any). By default disroot accounts are not associated with any group.
 You you can also change your preferred language.
 
-## Sessions
+## Security
+Security is the place where you can review, set (additional) and revoke security settings.
+
+### Devices & sessions
 Here you can see how many devices are currently connected to your account. If you see devices connected to your account that shouldn't be listed, it might mean your account has been compromised and you should proceed to change your password. *(Keep in mind every browser, mobile, computer etc. will be shown as separate device each time you change your network for example, so do not freak out at first, and really double check everything, before you go full on paranoid mode)*.
 
+#### App passwords
+When you have two-factor enabled, third party applications like your email, notes or news clients will not be able to login anymore with just your user credentials. For these devices you can create a specific password for that app.
+
+### Two-factor authentication
+Two-factor authentication can be used if you want have a more secure login (https://en.wikipedia.org/wiki/Multi-factor_authentication). When enabled, you will be asked not only for your login name and password, but also for an extra authentication like a one-time-password (OTP) or verification via a hardware device. Disroot offers two types of two-factor authentication: TOTP (Time-based One-Time-Password) and U2F (Universal 2nd factor).
+
+![](en/TOTP_authentication.png)
+
+TOTP is like Google Authenticator. This is an app you can run on your phone and will generate a time based password. You can also use open source authenticators like "andOTP" located on F-droid.
+
+U2F uses a hardware device like a USB dongle by Yubico. You plug the device into your laptop and press the device button to authorize. After adding the browser will communicated with the U2F device to authorize you to log in.  
+
+You can add as many devices as you like. It is recommended to give each device a distinct name. Chrome is the only browser that supports U2F devices by default. You need to install the "U2F Support Add-on" on Firefox to use U2F.
+
+### Two-factor backup codes
+It is very advisable to download backup codes when you have enabled two-factor. If, for some reason, your OTP app does not work (you lost your phone!), you still want to be able to login. You keep these backup codes in a safe place (not your phone!) and each code allows you to login once. Once you are in you can reconfigure you OTP or disable two-factor.
+
+### Basic encryption module
+Here you can decide whether or not an administrator will be able to recover your files in case you loose your password. This option is disabled by default as it enables admins of disroot to decrypt and view your files. **Enabling this option after your password was lost will not recover your files!** You need to make this decision beforehand. **We strongly encourage you to never loose your password in the first place and keep it stored safe.** This is the best way to keep your files and your account safe. We really don't want to have access to it.
+
+![](en/personal_encryption1.png)
 
 ## Activity
 In activity section you can decide how you want to be informed about events going on on your cloud. You can choose between getting mail notification and / or being notified in the Activity stream, or even choose not to get notified at all. You can decide to have your email notifications sent to you on: **Hourly**, **Daily** or **weekly** basis.
 
 ![](en/personal_activity.png)
 
-## Basic encryption module
-Here you can decide whether or not an administrator will be able to recover your files in case you loose your password. This option is disabled by default as it enables admins of disroot to decrypt and view your files. **Enabling this option after your password was lost will not recover your files!** You need to make this decision beforehand. **We strongly encourage you to never loose your password in the first place and keep it stored safe.** This is the best way to keep your files and your account safe. We really don't want to have access to it.
+## Sharing
 
-![](en/personal_encryption1.png)
-
-## Federated cloud
+### Federated cloud
 What is federated cloud? Just like emails that can be send between users on different servers (gmail, riseup, disroot etc) also nextcloud gives you opportunity to share files, contacts, calendars etc. with people outside of disroot that also use similar cloud solution (owncloud and / or nextcloud). This gives the freedom to the users to use platform of their choice while being able to collaborate with each other. In this section you can see your federation ID. You can share it with others by just sending a link or via predefined platforms (to which you can add your preferred ones that are not included of course).
 
 ![](en/personal_federated.png)
 
 ## Spreed video calls
 Unless you have access to your personal TURN Server, you should **leave this fields blank**. This option is for setting up a service that helps determine you IP address when you are using "calls" app for audio/video conferencing in disroot. By default all disroot accounts are using disroot's TURN Server.
-
-## Second-factor backup codes
-This option is used for two factor authentication which is not enabled at this moment.
 
 
 ----------
