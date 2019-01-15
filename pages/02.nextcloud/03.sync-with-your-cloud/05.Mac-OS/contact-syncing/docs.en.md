@@ -1,5 +1,5 @@
 ---
-title: 'MacOS - Syncing Contacts'
+title: 'macOS and OS X - Syncing Contacts'
 visible: false
 page-toc:
   active: true
@@ -9,12 +9,13 @@ taxonomy:
         - docs
 ---
 
-_This tutorial was last updated on 11 feb. 2017_
-This is Work in Progress. The tutorial does not work yet.
+_This tutorial was last updated on 28 dec. 2018_
+
+This is Work in Progress, but should work on macOS Mojave and before.
 
 
 # Goal:
-**Sync the macOSX Contacts App with the Disroot cloud.**
+**Sync the macOS or OS X Contacts App with the Disroot cloud.**
 
 This will allow you to check, update and remove your contacts from any computer with an internet connection. Also it will enable syncing contacts  with your smartphone and/or tablet. Once it runs, and nothing breaks, you'll forget it is there.
 
@@ -22,7 +23,7 @@ This will allow you to check, update and remove your contacts from any computer 
 
 * Your Disroot login name
 * Your Disroot password
-* An Apple computer with OSX (10.8 - 10.11.6) installed
+* An Apple computer with OS X or macOS (10.8 - 10.14) installed
 * A working internet connection
 * 15 minutes
 
@@ -35,6 +36,7 @@ This will allow you to check, update and remove your contacts from any computer 
 ![](en/macos_contacts1.png)
 
 5. Scroll down in the right panel, until you can click at the bottom on '**Add Other Account...**'
+
 ![](en/macos_contacts2.png)
 
 7. Choose the fourth item from the top: '**CardDAV Account**'
@@ -42,18 +44,29 @@ This will allow you to check, update and remove your contacts from any computer 
 A window opens called **'Add CardDAV account'**
 
 Use these settings:
-**Account type:** Advanced.
-**Username**: your username  _(without @disroot.org)_
-**Password**: your password
-**Server Address**: `cloud.disroot.org`
-**Server Path**: `/remote.php/dav/addressbooks/users/USERNAME/contacts/` (replace USERNAME with your username)
-**Port**: `443` and **Use SSL** ticked.
+
+**Account type:** Advanced.  
+**Username**: your username  _(without @disroot.org)_  
+**Password**: your password  
+**Server Address**: `https://cloud.disroot.org`  
+**Server Path**: `/remote.php/dav/principals/users/USERNAME/` (replace USERNAME with your username)  
+**Port**: `443` and **Use SSL** ticked.  
+
+![](en/macos_contacts4.png)
+
+For systems **before macOS Mojave** these settings should work:  
+**Account type:** Advanced.  
+**Username**: your username  _(without @disroot.org)_  
+**Password**: your password  
+**Server Address**: `cloud.disroot.org`  
+**Server Path**: `/remote.php/dav/addressbooks/users/USERNAME/contacts/` (replace USERNAME with your username)  
+**Port**: `443` and **Use SSL** ticked.  
 
 ![](en/macos_contacts3.png)
 
 Click `Sign In`!
 
-Now your calendar is added. If you now open the Contacts App, cloud.disroot.org will show in the left column. You can change the name in the Contacts App preferences.
+Now your contacts are added. If you now open the Contacts App, cloud.disroot.org will show in the left column. You can change the name in the Contacts App preferences or in the System Preferences.
 
 Any contacts you now add will be synced automagically to the Disroot servers.
 
