@@ -1,5 +1,5 @@
 ---
-title: H2: Disroot How-tos
+title: Disroot How-tos
 published: true
 taxonomy:
     category:
