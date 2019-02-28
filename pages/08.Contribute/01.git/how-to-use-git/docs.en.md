@@ -1,5 +1,5 @@
 ---
-title: Contribute: Git
+title: How-to Contribute: Git
 published: true
 visible: true
 taxonomy:

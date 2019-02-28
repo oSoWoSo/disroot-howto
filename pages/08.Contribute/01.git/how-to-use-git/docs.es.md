@@ -1,5 +1,5 @@
 ---
-title: Cómo usar Git para contribuir a las guías prácticas de Disroot
+title: Cómo contribuir: Git
 published: true
 visible: true
 taxonomy:
