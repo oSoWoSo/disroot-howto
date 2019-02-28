@@ -1,5 +1,5 @@
 ---
-title: 'Cloud: Nextcloud How2'
+title: 'Cloud: Nextcloud How-to'
 published: true
 visible: true
 taxonomy:
@@ -90,7 +90,7 @@ When Two-Factor Authentication is enable, third party applications (like your em
 
 ## Two-factor authentication
 
-|What is Two-factor authentication (2FA)?|Is a security process that has a two steps verification: usually, the combination of two factors:<br>1) something you know (like a password),<br>2) something you have (could be a security token, a card, a QR code, etc.) or<br>3) something you are (like your fingerprint).<br>An example of how it works: when you go to an ATM to extract money you need to use your bank card (something you have) and a PIN (something you know). If the combination fails, you can't extract the money.|
+|What is Two-factor authentication (2FA)?|Is a security process that has a two steps verification, usually, the combination of two factors:<br>1) something you know (like a password),<br>2) something you have (could be a security token, a card, a QR code, etc.) or<br>3) something you are (like your fingerprint).<br>An example of how it works: when you go to an ATM to extract money you need to use your bank card (something you have) and a PIN (something you know). If the combination fails, you can't extract the money.|
 |:--:|--|
 
 Two-factor authentication can be used if you want have a more secure login (you can read more about it [here](https://en.wikipedia.org/wiki/Multi-factor_authentication)). When enabled, you will be asked not only for your login name and password, but also for an extra authentication like a one-time-password (OTP) or verification via a hardware device.<br>
@@ -118,7 +118,7 @@ You can add as many devices as you like. It is recommended to give each device a
 ### Basic encryption module
 Here you can decide whether or not an administrator will be able to recover your files in case you loose your password. This option is disabled by default as it enables admins of Disroot to decrypt and view your files.
 
-|![](en/note.png) NOTE|
+|![](en/note.png) **NOTE**|
 |:--:|
 |**Enabling this option after your password was lost will not recover your files!** You need to make this decision beforehand. **We strongly encourage you to never loose your password in the first place and keep it stored safe.**<br>This is the best way to keep your files and your account safe. We really don't want to have access to it.|
 
@@ -173,5 +173,7 @@ What is federated cloud? Just like emails that can be send between users on diff
 ------
 # Additional settings
 
+## App order
 
+![](en/app_order.gif)
 ----------

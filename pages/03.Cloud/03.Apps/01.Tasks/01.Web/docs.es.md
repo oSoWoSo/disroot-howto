@@ -1,6 +1,7 @@
 ---
-title: Glossary
+title: Tareas: Web
 published: true
+visible: true
 taxonomy:
     category:
         - docs
@@ -8,9 +9,4 @@ page-toc:
     active: false
 ---
 
-- Git
-- Pull request
-- Server
-- Instance
-- Cloud
-- GPDR
+## Tasks

@@ -9,7 +9,7 @@ page-toc:
 ---
 |![](en/round_logo.png)|
 |:--:|
-|**DisHub: Disroot's Hubzilla instance** how2|
+|**DisHub: Disroot's Hubzilla instance** how-to|
 
 [**Hubzilla**](https://project.hubzilla.org/page/hubzilla/hubzilla-project) is a powerful, free and open source software to create decentralized and federated web platforms which includes webpages tools, wikis, forums, cloud storage, social networks and more. Any attempt to accurately define Hubzilla may end up being inadequate.<br>
 While it shares similarity with other web services software, **Hubzilla** offers some very particular features that no others do, like full and precise permission system that gives you control about the privacy of the information and content you may share; nomadic identity (which means you own your online identity and can take/migrate it across the network, no matter the hubs, instance, servers); multiple profiles and channels; account cloning; among other features.

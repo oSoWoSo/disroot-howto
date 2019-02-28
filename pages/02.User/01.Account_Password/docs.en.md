@@ -8,7 +8,7 @@ page-toc:
     active: false
 ---
 
-|**How2:**|
+|**How-to:**|
 |:--:|
 
 |**[Change your password](password-change)**|**[Request email Alias](alias-request)**|**[Delete your Account](account-deletion)**|

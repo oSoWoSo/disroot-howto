@@ -1,5 +1,5 @@
 ---
-title: 'Cómo borrar tu cuenta de disroot'
+title: 'Cómo borrar tu cuenta de Disroot'
 published: true
 visible: true
 taxonomy:

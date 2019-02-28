@@ -1,5 +1,5 @@
 ---
-title: Glossary
+title: Glosario
 published: true
 taxonomy:
     category:

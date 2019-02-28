@@ -1,5 +1,5 @@
 ---
-title: How2 Contribute
+title: How-to Contribute
 published: true
 taxonomy:
     category:
