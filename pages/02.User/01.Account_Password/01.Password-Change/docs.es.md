@@ -23,5 +23,4 @@ Verás un mensaje amarillo en la parte superior de la página:
 
 |![](en/note.png) **AVISO**|
 |:--:|
-|Si pierdes tu contraseña, no podrás recuperar tus archivos en la nube ya que están encriptados, y tampoco los administradores del servidor pueden ver su contenido.<br>Si quieres asegurarte de no perder tu información, selecciona **Habilitar** en la opción "Módulo básico de encriptado" dentro de la sección "Seguridad" de tu Configuración Personal. Esto permitirá a los administradores del servidor recuperar tus datos si lo solicitas.|
-|![](es/moduloencriptado.png)|
+|Si pierdes tu contraseña, no podrás recuperar tus archivos en la nube ya que están encriptados, y tampoco los administradores del servidor pueden ver su contenido. |

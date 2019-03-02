@@ -23,5 +23,4 @@ You will see a yellow message on top of the page:<br>
 
 |![](en/note.png) **NOTE**|
 |:--:|
-|If you lose your password, you won't be able to retrieve your files on the cloud as they're encrypted, so even the server administrators can't see their content.<br>If you want to be sure you won't lose your data, check the **Enable password recovery** box in your Personal settings. This will allow the server administrators to retrieve your data upon request.|
-|![](en/bemodule.png)|
+|If you lose your password, you won't be able to retrieve your files on the cloud as they're encrypted, so even the server administrators can't see their content. |

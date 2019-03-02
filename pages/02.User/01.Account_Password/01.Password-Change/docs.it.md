@@ -17,4 +17,4 @@ Verrà visualizzato un messaggio con sfondo giallo nella parte superiore della p
 3. Far scorrere verso il basso fino a  **Modulo di crittografia di base Nextcloud** e digitare la vecchia password e la nuova password e fare clic su **Chiave privata di aggiornamento password**.
 4. Si disconnette da Nextcloud e ritorni per entrare. Questo è tutto - ora è tutto pronto e si possono vedere i file nuovamente.
 
-**Consiglio:** Se perdi la password, non sarà possibile recuperare i file in Nextcloud poiché sono criptati e anche gli amministratori di server possono visualizzarne il contenuto. Se si desidera assicurarsi di non perdere i dati, si contrassegna l'opzione **Abilita ripristino password** nella configurazione Personale. Questo consentirà agli amministratori di server di recuperare i dati se lo richiedete.
+**Consiglio:** Se perdi la password, non sarà possibile recuperare i file in Nextcloud poiché sono criptati e anche gli amministratori di server possono visualizzarne il contenuto. 

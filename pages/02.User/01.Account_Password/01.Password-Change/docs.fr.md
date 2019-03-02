@@ -18,4 +18,4 @@ Clé privée invalide pour l'application de chiffrement. S'il vous plaît mettez
 3. Faites défiler jusqu' à **Module de chiffrement basique** et tapez votre ancien mot de passe et votre nouveau mot de passe, puis cliquez sur **Mise à jour du mot de passe de la clé privée**.
 4. Déconnectez-vous de Nextcloud et reconnectez-vous et c'est tout - tout est réglé et vous pouvez voir votre fichier à nouveau.
 
-CONSEIL: Si vous perdez votre mot de passe, vous ne pourrez pas récupérer vos fichiers sur Nextcloud car ils sont chiffrés de sorte que même les administrateurs du serveur ne puissent pas voir leur contenu. Si vous voulez être sûr de ne pas perdre vos données, cochez la case **Activer la récupération du mot de passe** dans vos Paramètres personnels. Ceci permettra aux administrateurs du serveur de récupérer vos données sur demande.
+CONSEIL: Si vous perdez votre mot de passe, vous ne pourrez pas récupérer vos fichiers sur Nextcloud car ils sont chiffrés de sorte que même les administrateurs du serveur ne puissent pas voir leur contenu. 

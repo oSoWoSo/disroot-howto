@@ -17,4 +17,4 @@ Verá uma mensagem a amarelo no topo da página:
 3. Vá até à opção **Nextcloud basic encryption module**, insira a sua senha antiga e a sua nova senha e carregue **Atualizar a Palavra-passe da Chave Privada**.
 4. Faça Log out do Nextcloud e volte a entrar, e é isso - está tudo pronto e pode ver os seus ficheiros novamente.
 
-Dica: Se você perder a sua senha não será capaz de recuperar os seus ficheiros no Nextcloud pois eles estão encriptados de modo a que nem os administradores do serviço possam ver o seu conteúdo. Se quiser ter a certeza que não perderá os seus dados, selecione a opção **Enable password recovery** nas suas opções pessoais. Isto permitirá aos administradores do servidor recuperar os seus dados a pedido.
+Dica: Se você perder a sua senha não será capaz de recuperar os seus ficheiros no Nextcloud pois eles estão encriptados de modo a que nem os administradores do serviço possam ver o seu conteúdo. 
