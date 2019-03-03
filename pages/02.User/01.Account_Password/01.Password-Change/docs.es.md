@@ -19,7 +19,7 @@ Verás un mensaje amarillo en la parte superior de la página:
 `Invalid private key for Encryption App. Please update your private key password in your personal settings to recover access to your encrypted files.`
 2. Haz click sobre tu nombre en la esquina superior derecha y selecciona la opción **Personal** del menú.
 3. Deslízate hacia abajo hasta **Módulo de encriptado básico de Nextcloud** y escribe tu antigua contraseña y tu nueva contraseña y haz click en **Actualizar Clave Privada de Contraseña**.
-4. Cierra la sesión de Nextcloud y vuelve a ingresar. Eso es todo - ya estás listo y puedes ver tus archivos de nuevo.
+4. Cierra la sesión de Nextcloud y vuelve a ingresar. Eso es todo. Ya estás listo y puedes ver tus archivos de nuevo.
 
 |![](en/note.png) **AVISO**|
 |:--:|

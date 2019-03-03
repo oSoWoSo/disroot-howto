@@ -18,7 +18,7 @@ page-toc:
 
 |[**Mail**<br>![](icons/email.png)](/communication/email/)|[**Chat**<br>![](icons/chat.png)](/communication/chat/)|[**Forum**<br>![](icons/forum.png)](/communication/forum/)|
 |:--:|:--:|:--:|
-|01.[Email settings](/communication/email/clients)<br>02.[Setting aliases](/communication/email/alias)<br>03.[Setting filters](email/filters)<br><br>**WEB**:<br>[Webmail](/communication/email/webmail)<br><br>**DESKTOP**:<br>[Clients](/communication/email/clients/desktop)<br><br>**MOBILE**:<br>[Clients](/communication/email/clients/mobile)|**WEB**:<br>[Webchat](/communication/chat/webchat)<br><br>**DESKTOP**:<br>[Clients](/communication/chat/desktop)<br><br>**MOBILE**:<br>[Clients](/communication/chat/mobile)|[Discourse](/communication/forum/)|
+|01.[Email settings](/communication/email/clients)<br>02.[Setting aliases](/communication/email/alias)<br>03.[Setting filters](/communication/email/filters)<br><br>**WEB**:<br>[Webmail](/communication/email/webmail)<br><br>**DESKTOP**:<br>[Clients](/communication/email/clients/desktop)<br><br>**MOBILE**:<br>[Clients](/communication/email/clients/mobile)|**WEB**:<br>[Webchat](/communication/chat/webchat)<br><br>**DESKTOP**:<br>[Clients](/communication/chat/desktop)<br><br>**MOBILE**:<br>[Clients](/communication/chat/mobile)|[Discourse](/communication/forum/)|
 <br>
 
 |[**SOCIAL**<br>![](icons/social.png)](/social/)|

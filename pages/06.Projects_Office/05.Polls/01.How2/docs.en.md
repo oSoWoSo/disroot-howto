@@ -1,5 +1,5 @@
 ---
-title: Polls How2
+title: Polls How-to
 page-toc:
     active: true
 published: true

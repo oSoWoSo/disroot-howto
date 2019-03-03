@@ -16,7 +16,7 @@ While it shares similarity with other web services software, **Hubzilla** offers
 
 At **Disroot**, we think it’s an awesome piece of software and that everybody should try it because of its potential and the power it’s giving to decentralization and federation services. So we built **DisHub**, the **Disroot’s Hubzilla instance**. But, due to the amount of features, apps, services and user control settings, and because Hubzilla is beyond comparison, it may be kind of difficult until you fully get it. That’s why we made this Howto.
 
-Think of Hubzilla as your new digital house: You have many rooms that you can arrange and decorate as you want, it’s your place to talk and share whatever you want with the people you want. And more than that, because you can even take your home wherever (other hubzilla instances) you want.
+Think of Hubzilla as your new digital house: You have many rooms that you can arrange and decorate as you want, it’s your place to talk and share whatever you want with the people you want. And more than that, because you can even take your home wherever (other Hubzilla instances) you want.
 
 So, exercise your freedom, your imagination and welcome to DisHub.
 

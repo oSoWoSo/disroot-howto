@@ -11,7 +11,7 @@ taxonomy:
 
 # How safe is Lufi and how it works
 
-When you use Lufi to upload files, "All the files are encrypted by your the browser! It means that your files never leave your computer unencrypted. The administrator of the Lufi instance you use will not be able to see what is in your file, neither will your network administrator, or your ISP".
+When you use Lufi to upload files, "all the files are encrypted by your the browser! It means that your files never leave your computer unencrypted. The administrator of the Lufi instance you use will not be able to see what is in your file, neither will your network administrator, or your ISP".
 
 When someone downloads your file, it is decrypted locally in that person's browser after the download. Meaning, the network administrator, or the ISP will not be able to see what's in the downloaded file.
 

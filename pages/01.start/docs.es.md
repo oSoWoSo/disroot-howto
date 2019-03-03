@@ -34,6 +34,6 @@ page-toc:
 |[Gestión de proyectos](/projects_office/taiga/)|**WEB**:<br>01.[Pads](/projects_office/pads/)<br>02.[Pastebin](/projects_office/bin)<br>03.[Encuestas](/projects_office/polls/)<br>04.[Intercambio de archivos](/projects_office/lufi/)<br><br>**MÓVIL**:<br>01.[DisApp](/projects_office/disapp)<br>02.[Padland](/projects_office/padland)|
 <br>
 
-|[Glosario de H2](/glosary)|[Cómo contribuir](/contribute)|[Licencia de los manuales](/licensing)|
+|[Glosario de H2](/glossary)|[Cómo contribuir](/contribute)|[Licencia de los manuales](/licensing)|
 |:--:|:--:|:--:|
 |Términos y conceptos básicos utilizados en los manuales|Formas de colaborar a mejorar este sitio|La licencia de los documentos del sitio|

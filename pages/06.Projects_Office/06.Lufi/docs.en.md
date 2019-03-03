@@ -14,7 +14,7 @@ taxonomy:
 
 Lufi works in a zero knowledge logic.
 
-Meaning the files are encrypted before they leave your computer, so that your Internet Service Provider and "the administrator of disroot" can not see the file's content. The administrator can only see the file's name, its size and its mimetype (what kind of file it is: video, text, etc).
+Meaning the files are encrypted before they leave your computer, so that your Internet Service Provider and "the administrator of Disroot" can't see the file's content. The administrator can only see the file's name, its size and its mimetype (what kind of file it is: video, text, etc).
 
 **You "don't need to register yourself to upload files".**
 
@@ -23,7 +23,7 @@ Amongst other things you can use it to:
    - Store (temporarily) files online, download them, share them with other people
    - Send someone files that will delete themselves from the server after the first download
 
-In this tutorial we'll show you how to use it. You can access Uploads/Lufi at [upload.disroot.org](https://upload.disroot.org)
+In this tutorial we'll see how to use it. You can access Uploads/Lufi at [upload.disroot.org](https://upload.disroot.org)
 
 |![](en/note.png) **Note**|
 |:--:|

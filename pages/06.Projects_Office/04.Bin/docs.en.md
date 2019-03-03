@@ -14,11 +14,11 @@ taxonomy:
 
 **Some of the things you can use it for**:
 
-- Quickly share content  of a text file with anyone without a need of copy/pasting large chunk of text or sending email with the content
+- Quickly share content of a text file with anyone without a need of copy/pasting large chunk of text or sending email with the content
 - Publish information/documents online so that others can access
 - Using it as a disposable message board, using it's message board feature
 - Sending information to someone, via a url link that needs to be "burned after reading"
-- Send someone a copy of a script or piece of code, note or confidential information you dont want anyone else to see|
+- Send someone a copy of a script or piece of code, note or confidential information you dont want anyone else to see.
 
 
 In this how2 we'll see how to use PrivateBin at [bin.disroot.org](https://bin.disroot.org)

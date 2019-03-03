@@ -11,7 +11,7 @@ taxonomy:
 |:--:|
 |Gajim is multi-platform (runs on most operating systems) messaging application.|
 
-To setup disroot chat on Gajim, follow those easy steps:
+To setup Disroot chat on Gajim, follow those easy steps:
 
 ## Install Gajim
 If you use windows/macos check [Gajim's website](https://gajim.org/downloads.php) and download a version for you.
