@@ -1,5 +1,5 @@
 ---
-title: 'Clientes de correo'
+title: Correo: Clientes para el escritorio
 published: true
 visible: true
 taxonomy:
@@ -11,7 +11,7 @@ page-toc:
 
 Cómo configurar tu correo en el escritorio:
 
-## Índice
+## Clientes
 - [Thunderbird - Cliente de correo multiplataforma](thunderbird)
 
-![](c64.jpg)
+![](en/email_icon.png)

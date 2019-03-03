@@ -1,5 +1,5 @@
 ---
-title: Dino
+title: Clientes de chat: Dino
 published: true
 visible: true
 taxonomy:

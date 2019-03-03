@@ -13,3 +13,5 @@ How2 setup your email on your desktop:
 
 ## Clients
 - [Thunderbird: multiplatform email client](thunderbird)
+
+![](en/email_icon.png)

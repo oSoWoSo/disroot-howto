@@ -9,7 +9,7 @@ page-toc:
 
 This is the information you need if you want to configure an email client.
 
-|IMAP|SSL Port| Authentication|
+|IMAP|SSL Port|Authentication|
 |:--:|:--:|:--:|
 |disroot.org|993|Normal Password|
 
@@ -21,6 +21,6 @@ This is the information you need if you want to configure an email client.
 
 <br>
 
-|POP |SSL Port|Authentication|
+|POP|SSL Port|Authentication|
 |:--:|:--:|:--:|
 |disroot.org|995|Normal Password|

@@ -1,5 +1,5 @@
 ---
-title: 'Clientes para móviles'
+title: 'Correo: Clientes para el móvil'
 taxonomy:
     category:
         - docs
@@ -7,11 +7,10 @@ page-toc:
      active: false
 ---
 
-Cómo configurar tu correo en tu dispositivo móvil:
+Cómo configurar el correo electrónico en tu móvil:
 
-## Índice
- - [K9 - Aplicación de correo para Android](androidk9)
- - [SailfishOS](sailfishos)
- - [iOS](ios)
+## Clientes
 
-![](mobile.jpg)
+|**Android**|**SailfishOS**|**iOS**|
+|:--:|:--:|:--:|
+|**[K9](k9)**|**[App de Correo](sailfishos)**|**[App de Correo](ios)**|
