@@ -1,5 +1,5 @@
 ---
-title: Nextcloud - Exportar Calendários
+title: Nextcloud: Exportar Calendários
 published: true
 taxonomy:
     category:

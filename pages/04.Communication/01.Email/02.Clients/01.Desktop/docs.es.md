@@ -12,6 +12,6 @@ page-toc:
 Cómo configurar tu correo en el escritorio:
 
 ## Clientes
-- [Thunderbird - Cliente de correo multiplataforma](thunderbird)
+- [Thunderbird: Cliente de correo multiplataforma](thunderbird)
 
 ![](en/email_icon.png)

@@ -34,6 +34,6 @@ page-toc:
 |[Project Management](/projects_office/taiga/)|**WEB**:<br>01.[Pads](/projects_office/pads/)<br>02.[Pastebin](/projects_office/bin)<br>03.[Polls](/projects_office/polls/)<br>04.[File Sharing](/projects_office/lufi/)<br><br>**MOBILE**:<br>01.[DisApp](/projects_office/disapp)<br>02.[Padland](/projects_office/padland)|
 <br>
 
-|[How2 Glossary](/glosary)|[How2 contribute](/contribute)|[How2 License](/licensing)|
+|[How-to Glossary](/glossary)|[How-to contribute](/contribute)|[How-to License](/licensing)|
 |:--:|:--:|:--:|
 |Basic terms and concepts used throughout the How2s|Ways to collaborate improving this site|The How2 documents license|

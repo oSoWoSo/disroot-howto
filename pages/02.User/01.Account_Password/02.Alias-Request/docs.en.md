@@ -1,5 +1,5 @@
 ---
-title: How2 request an email alias
+title: How-to request an email alias
 published: true
 visible: true
 taxonomy:

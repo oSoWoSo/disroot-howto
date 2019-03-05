@@ -1,5 +1,5 @@
 ---
-title: 'Cliente de escritorio para Sincronización de Archivos'
+title: GNU/Linux: Cliente de escritorio
 visible: false
 page-toc:
   active: true

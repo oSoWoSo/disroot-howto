@@ -1,5 +1,5 @@
 ---
-title: 'KDE - Desktop Integration'
+title: GNU/Linux: KDE Desktop Integration
 visible: false
 page-toc:
   active: true

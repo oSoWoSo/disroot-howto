@@ -1,5 +1,5 @@
 ---
-title: Nextcloud - Exportar Feeds de Notícias
+title: Nextcloud: Exportar Feeds de Notícias
 published: true
 taxonomy:
     category:

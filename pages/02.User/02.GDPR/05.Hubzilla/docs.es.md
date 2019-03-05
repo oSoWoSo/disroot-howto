@@ -1,5 +1,5 @@
 ---
-title: Hubzilla - Exportar el contenido de tu canal
+title: Hubzilla: Exportar el contenido de tu canal
 published: true
 taxonomy:
     category:

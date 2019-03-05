@@ -1,5 +1,5 @@
 ---
-title: Nextcloud - Files
+title: Nextcloud: Files
 published: true
 taxonomy:
     category:

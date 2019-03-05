@@ -1,5 +1,5 @@
 ---
-title: SailfishOS mail client
+title: Mobile clients: SailfishOS mail client
 published: true
 visible: false
 taxonomy:

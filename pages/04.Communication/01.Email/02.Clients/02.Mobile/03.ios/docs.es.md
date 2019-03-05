@@ -1,5 +1,5 @@
 ---
-title: Cliente de correo iOS
+title: Clientes para el móvil: Aplicación de correo para iOS
 published: true
 visible: false
 taxonomy:

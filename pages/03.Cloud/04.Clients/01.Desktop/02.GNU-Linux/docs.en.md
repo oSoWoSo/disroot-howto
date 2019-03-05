@@ -1,12 +1,11 @@
 ---
-title: 'GNU/Linux'
+title: Desktop clients: GNU/Linux
 taxonomy:
     category:
         - docs
 page-toc:
      active: false
 ---
-
 |![](gnu_linux.png)|
 |:--:|
 |Nextcloud integrates with GNU/Linux greatly. Below you can find useful links that will help you get everything up and running.|

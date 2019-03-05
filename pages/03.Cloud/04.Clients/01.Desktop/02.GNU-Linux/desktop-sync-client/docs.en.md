@@ -1,5 +1,5 @@
 ---
-title: 'Desktop File-sync client'
+title: GNU/Linux: Desktop client
 visible: false
 page-toc:
   active: true

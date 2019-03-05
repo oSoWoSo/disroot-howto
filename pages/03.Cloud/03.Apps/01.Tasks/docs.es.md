@@ -1,5 +1,5 @@
 ---
-title: Cloud Apps: Tasks
+title: Aplicaciones en la Nube: Tareas
 published: true
 visible: true
 taxonomy:
@@ -9,7 +9,7 @@ page-toc:
     active: false
 ---
 
-## Tasks
+## Tareas
 
-|[**WEB**](web)|[**DESKTOP**](desktop)|[**MOBILE**](mobile)|
+|[**WEB**](web)|[**ESCRITORIO**](desktop)|[**MÓVIL**](mobile)|
 |:--:|:--:|:--:|

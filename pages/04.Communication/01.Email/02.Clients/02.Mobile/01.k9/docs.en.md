@@ -1,5 +1,5 @@
 ---
-title: Android - K9
+title: Mobile clients: K9
 published: true
 visible: false
 taxonomy:

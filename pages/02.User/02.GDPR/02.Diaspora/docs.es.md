@@ -1,5 +1,5 @@
 ---
-title: Diaspora - Solicitar tus datos
+title: Diaspora*: Solicitar tus datos
 published: true
 taxonomy:
     category:

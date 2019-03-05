@@ -1,5 +1,5 @@
 ---
-title: Discourse - Exportando tus publicaciones en el Foro
+title: Discourse: Exportar tus publicaciones en el Foro
 published: true
 taxonomy:
     category:

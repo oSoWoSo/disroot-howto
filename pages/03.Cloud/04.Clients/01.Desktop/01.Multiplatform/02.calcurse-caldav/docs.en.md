@@ -1,5 +1,5 @@
 ---
-title: 'calcurse calendar sync'
+title: 'calcurse: Calendar sync'
 visible: false
 page-toc:
   active: true
@@ -8,8 +8,9 @@ taxonomy:
     category:
         - docs
 ---
-
-calcurse is "a calendar and scheduling application for the command line", quoting [its website](http://calcurse.org/).
+|![](en/calcurse.png)|
+|:--:|
+|calcurse is "a calendar and scheduling application for the command line", quoting [its website](http://calcurse.org/).|
 
 This tutorial shows you how to set up synchronization between your Nextcloud calendar and calcurse.
 

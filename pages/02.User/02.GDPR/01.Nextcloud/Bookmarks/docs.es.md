@@ -1,5 +1,5 @@
 ---
-title: Nextcloud - Exportando Marcadores
+title: Nextcloud: Exportar Marcadores
 published: true
 taxonomy:
     category:

@@ -1,5 +1,5 @@
 ---
-title: 'Nextcloud App'
+title: Mobile clients: Nextcloud App
 visible: false
 page-toc:
   active: true

@@ -1,5 +1,5 @@
 ---
-title: Discourse - Exporting your Forum posts
+title: Discourse: Exporting your Forum posts
 published: true
 taxonomy:
     category:

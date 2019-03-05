@@ -1,5 +1,5 @@
 ---
-title: 'GNOME - Integración con el Escritorio'
+title: GNU/Linux: Integración con el entorno GNOME
 visible: false
 page-toc:
   active: true

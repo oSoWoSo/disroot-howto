@@ -7,7 +7,7 @@ page-toc:
      active: false
 ---
 
-How2 setup your email with your mobile device:
+How-to setup your email with your mobile device:
 
 ## Clients
 

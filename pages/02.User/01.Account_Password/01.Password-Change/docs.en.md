@@ -1,5 +1,5 @@
 ---
-title: 'How2 change your Disroot user password'
+title: 'How-to change your Disroot user password'
 published: true
 taxonomy:
     category:

@@ -1,5 +1,5 @@
 ---
-title: 'Thunderbird - Syncing Contacts, Calendars and Tasks'
+title: 'Thunderbird: Syncing Contacts, Calendars and Tasks'
 visible: false
 page-toc:
   active: true

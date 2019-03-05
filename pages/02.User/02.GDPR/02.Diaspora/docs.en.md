@@ -1,5 +1,5 @@
 ---
-title: Diaspora - Requesting your data
+title: Diaspora*: Requesting your data
 published: true
 taxonomy:
     category:

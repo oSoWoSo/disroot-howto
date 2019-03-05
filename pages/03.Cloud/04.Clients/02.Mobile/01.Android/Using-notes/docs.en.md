@@ -1,5 +1,5 @@
 ---
-title: 'Using Notes'
+title: Mobile clients: Notes App
 visible: false
 page-toc:
   active: true

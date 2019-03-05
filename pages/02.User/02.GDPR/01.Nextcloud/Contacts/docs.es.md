@@ -1,5 +1,5 @@
 ---
-title: Nextcloud - Exportar Contactos
+title: Nextcloud: Exportar Contactos
 published: true
 taxonomy:
     category:

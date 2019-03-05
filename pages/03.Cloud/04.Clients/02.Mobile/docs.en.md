@@ -11,4 +11,6 @@ page-toc:
 Nextcloud integrates with your device very easily, providing native experience for most devices and operating systems.
 Here in Disroot we are trying to include and document all of them to make it easy for anyone to get up and running.
 
-If you would like to help us, your contribution is more than welcome.
+|Android|iOS|MacOS|
+|:--:|:--:|:--:|
+|[Nextcloud apps](android)|[iOS app](ios)|[MacOS app](mac-os)|

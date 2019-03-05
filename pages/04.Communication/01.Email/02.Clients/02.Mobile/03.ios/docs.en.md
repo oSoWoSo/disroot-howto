@@ -1,5 +1,5 @@
 ---
-title: iOS mail client
+title: Mobile client: iOS mail client
 published: true
 visible: false
 taxonomy:
