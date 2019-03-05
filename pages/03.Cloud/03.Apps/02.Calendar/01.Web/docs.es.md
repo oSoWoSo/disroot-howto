@@ -1,5 +1,5 @@
 ---
-title: 'Aplicación Calendario'
+title: Calendario: Web
 published: true
 visible: true
 taxonomy:

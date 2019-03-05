@@ -1,5 +1,5 @@
 ---
-title: Nextcloud - Ficheiros
+title: Nextcloud: Ficheiros
 published: true
 taxonomy:
     category:

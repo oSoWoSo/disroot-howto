@@ -1,5 +1,5 @@
 ---
-title: Hubzilla - exporting your channel content
+title: Hubzilla: Exporting your channel content
 published: true
 taxonomy:
     category:

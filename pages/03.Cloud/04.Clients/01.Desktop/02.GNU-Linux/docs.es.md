@@ -1,18 +1,17 @@
 ---
-title: 'Linux'
+title: Clientes para el escritorio: GNU/Linux
 taxonomy:
     category:
         - docs
 page-toc:
      active: false
 ---
+|![](gnu_linux.png)|
+|:--:|
+|Nextcloud se integra con GNU/Linux enormemente. Debajo puedes encontrar links que te ayudrán a tener todo en funcionamiento.|
 
- Nextcloud se integra con Linux enormemente. Debajo puedes encontrar links que te ayudrán a tener todo en funcionamiento.
-
- ## Tabla de Contenidos
+ ## Contenidos
  - [Sincronizando archivos con el cliente de escritorio](desktop-sync-client)
- - [GNOME - Integración con el escritorio](gnome-desktop-integration)
- - [KDE - Integración con el escritorio](kde-desktop-integration)
- - [News: Aplicación de Noticias - Sincronizando con tu escritorio](news-app-syncing)
-
- ![](Tux.png)
+ - [GNOME: Integración con el escritorio](gnome-desktop-integration)
+ - [KDE: Integración con el escritorio](kde-desktop-integration)
+ - [Aplicación de Noticias: Sincronizando con tu escritorio](news-app-syncing)

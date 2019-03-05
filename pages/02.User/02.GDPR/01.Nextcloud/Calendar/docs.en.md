@@ -1,5 +1,5 @@
 ---
-title: Nextcloud - Exporting Calendars
+title: Nextcloud: Exporting Calendars
 published: true
 taxonomy:
     category:

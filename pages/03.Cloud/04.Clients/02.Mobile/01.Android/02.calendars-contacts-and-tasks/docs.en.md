@@ -1,5 +1,5 @@
 ---
-title: 'calendars, contacts and tasks'
+title: Mobile clients: Calendars, Contacts and Tasks'
 visible: false
 page-toc:
   active: true

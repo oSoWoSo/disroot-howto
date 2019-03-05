@@ -1,5 +1,5 @@
 ---
-title: Android
+title: Mobile clients: Android
 visible: true
 taxonomy:
     category:
@@ -8,7 +8,7 @@ page-toc:
      active: false
 ---
 
-Below you can learn how to integrate nextcloud with your Android device.
+In the following How-to, we'll try to help you integrate Nextcloud with your Android device.
 
 - [Nextcloud app](Nextcloud-app)
 - [Syncing Calendars, Contacts and Tasks](calendars-contacts-and-tasks)

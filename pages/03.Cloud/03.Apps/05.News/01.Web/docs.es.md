@@ -1,5 +1,5 @@
 ---
-title: 'Aplicación Noticias'
+title: Noticias: Web
 published: true
 visible: true
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: Cliente de correo SailfishOS
+title: Clientes para el móvil: Aplicación de correo para SailfishOS
 published: true
 visible: false
 taxonomy:

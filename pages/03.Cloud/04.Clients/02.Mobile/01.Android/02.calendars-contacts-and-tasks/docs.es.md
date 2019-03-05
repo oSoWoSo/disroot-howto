@@ -1,5 +1,5 @@
 ---
-title: 'calendarios, contactos and tareas'
+title: Clientes para el móvil: Calendarios, Contactos y Tareas
 visible: false
 page-toc:
   active: true

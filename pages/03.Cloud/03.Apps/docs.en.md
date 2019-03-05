@@ -1,5 +1,5 @@
 ---
-title: Cloud Apps
+title: Cloud: Apps
 published: true
 visible: true
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: Nextcloud - Exporting Bookmarks
+title: Nextcloud: Exporting Bookmarks
 published: true
 taxonomy:
     category:

@@ -1,5 +1,5 @@
 ---
-title: Nextcloud - Exportando informaciÃ³n de Noticias
+title: Nextcloud: Exportando información de Noticias
 published: true
 taxonomy:
     category:

@@ -1,5 +1,5 @@
 ---
-title: Discourse - Exportar os seus posts do Fórum
+title: Discourse: Exportar os seus posts do Fórum
 published: true
 taxonomy:
     category:

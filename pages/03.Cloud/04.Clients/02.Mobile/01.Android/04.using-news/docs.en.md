@@ -1,5 +1,5 @@
 ---
-title: 'Using News'
+title: Mobile clients: News App
 visible: false
 page-toc:
   active: true

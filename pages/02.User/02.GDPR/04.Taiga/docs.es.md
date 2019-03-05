@@ -1,5 +1,5 @@
 ---
-title: Taiga - Exportar proyecto
+title: Taiga: Exportar proyecto
 published: true
 taxonomy:
     category:

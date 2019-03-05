@@ -1,5 +1,5 @@
 ---
-title: 'Aplicación Contactos'
+title: Contactos: Web
 published: true
 visible: true
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: Thunderbird.
+title: Email clients: Thunderbird
 page-toc:
   active: true
 published: true
