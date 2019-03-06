@@ -21,6 +21,12 @@ Esta es la información que necesitas si quieres configurar un cliente de correo
 
 <br>
 
+|SMTPS|Puerto TLS|Autenticación|
+|:--:|:--:|:--:|
+|disroot.org|465|Contraseña Normal|
+
+<br>
+
 |POP|Puerto SSL|Autenticación|
 |:--:|:--:|:--:|
 |disroot.org|995|Contraseña Normal|

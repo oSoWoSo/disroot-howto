@@ -21,6 +21,12 @@ This is the information you need if you want to configure an email client.
 
 <br>
 
+|SMTPS|TLS Port|Authentication|
+|:--:|:--:|:--:|
+|disroot.org|465|Normal Password|
+
+<br>
+
 |POP|SSL Port|Authentication|
 |:--:|:--:|:--:|
 |disroot.org|995|Normal Password|

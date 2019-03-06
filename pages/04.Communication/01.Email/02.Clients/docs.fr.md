@@ -14,6 +14,7 @@ Si votre client de messagerie préféré ne figure pas dans la liste, suivez sim
 ```
 IMAP: disroot.org | SSL Port 993 | Authentication: Normal Password
 SMTP: disroot.org | STARTTLS Port 587 | Authentication: Normal Password
+SMTPS: disroot.org | TLS Port 465 | Authentication: Normal Password
 POP: disroot.org | SSL Port 995 | Authentication: Normal Password
 ```
 Au cas où vous souhaiteriez voir un tutoriel sur la configuration d'un client de votre choix qui n'est pas encore listé, pensez à écrire un petit guide pratique et partagez-le avec la communauté.
