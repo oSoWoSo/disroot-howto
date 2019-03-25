@@ -73,7 +73,7 @@ El procedimiento para agregar una cuenta adicional es el mismo que al agregar la
 
 Después de agregar una segunda cuenta, ésta se mostrará en la barra superior de la aplicación. Así es cómo podrás cambiar entre cuentas si necesitas modificar las configuraciones.
 
-![](en/desktop_client6)
+![](en/desktop_client6.png)
 
 ## Pestaña Actividad
 La pestaña **Actividad** te da una visión general de todos los archivos subidos/descargados/agregados/quitados y los directorios de tus cuentas. Es similar a la aplicación Actividad en la interface de la nube en Disroot.
