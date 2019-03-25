@@ -1,6 +1,6 @@
 ---
 title: 'Utilisation de News'
-visible: false
+visible: true
 page-toc:
   active: true
 published: true

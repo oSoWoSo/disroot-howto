@@ -1,6 +1,6 @@
 ---
 title: 'KDE - Intégration du bureau'
-visible: false
+visible: true
 page-toc:
   active: true
 published: true

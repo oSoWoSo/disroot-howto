@@ -1,6 +1,6 @@
 ---
 title: GNU/Linux: Cliente de escritorio
-visible: false
+visible: true
 page-toc:
   active: true
 published: true

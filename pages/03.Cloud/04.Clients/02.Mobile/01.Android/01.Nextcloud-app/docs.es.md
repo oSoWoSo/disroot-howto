@@ -1,6 +1,6 @@
 ---
 title: Clientes para el móvil: Aplicación Nextcloud
-visible: false
+visible: true
 page-toc:
   active: true
 published: true

@@ -1,6 +1,6 @@
 ---
 title: Mobile clients: Notes App
-visible: false
+visible: true
 page-toc:
   active: true
 published: true

@@ -3,6 +3,7 @@ title: Nube: Clientes para el móvil
 taxonomy:
     category:
         - docs
+visible: true
 page-toc:
      active: false
 ---

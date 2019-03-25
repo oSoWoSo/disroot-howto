@@ -1,6 +1,6 @@
 ---
 title: GNU/Linux: KDE Desktop Integration
-visible: false
+visible: true
 page-toc:
   active: true
 published: true

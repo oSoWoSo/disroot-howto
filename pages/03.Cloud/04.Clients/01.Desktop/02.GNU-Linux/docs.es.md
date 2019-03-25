@@ -3,6 +3,7 @@ title: Clientes para el escritorio: GNU/Linux
 taxonomy:
     category:
         - docs
+visible: true
 page-toc:
      active: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Aplicação Nextcloud'
-visible: false
+visible: true
 page-toc:
   active: true
 published: true

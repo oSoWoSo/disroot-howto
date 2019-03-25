@@ -1,6 +1,6 @@
 ---
 title: 'Client bureau de synchronisation de fichiers'
-visible: false
+visible: true
 page-toc:
   active: true
 published: true

@@ -1,6 +1,6 @@
 ---
 title: Mobile clients: News App
-visible: false
+visible: true
 page-toc:
   active: true
 published: true

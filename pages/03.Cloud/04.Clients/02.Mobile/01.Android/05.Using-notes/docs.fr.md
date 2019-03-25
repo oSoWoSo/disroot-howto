@@ -1,6 +1,6 @@
 ---
 title: 'Utilisation de Notes'
-visible: false
+visible: true
 page-toc:
   active: true
 published: true

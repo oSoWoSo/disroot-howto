@@ -1,6 +1,6 @@
 ---
 title: 'calcurse: Sincronización de calendarios'
-visible: false
+visible: true
 page-toc:
   active: true
 published: true

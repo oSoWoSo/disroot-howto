@@ -1,6 +1,6 @@
 ---
 title: Mobile clients: Calendars, Contacts and Tasks'
-visible: false
+visible: true
 page-toc:
   active: true
 published: true

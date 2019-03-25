@@ -1,6 +1,6 @@
 ---
 title: 'GNOME - Integração com o Desktop'
-visible: false
+visible: true
 page-toc:
   active: true
 published: true
