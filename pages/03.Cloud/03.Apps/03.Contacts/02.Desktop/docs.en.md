@@ -15,3 +15,7 @@ Nextcloud integrates with GNU/Linux greatly. Below you can find useful links tha
 
 - [GNOME: Desktop Integration](gnome-desktop-integration)
 - [KDE: Desktop Integration](kde-desktop-integration)
+
+In alternative you can use some multiplatform applications (apps that work on different operating systems).
+
+- [Thunderbird: Calendar and Contact sync](thunderbird-calendar-contacts)
