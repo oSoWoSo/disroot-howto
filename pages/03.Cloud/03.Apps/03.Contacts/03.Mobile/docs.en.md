@@ -56,7 +56,12 @@ Press the big orange button with the account name.
 -------------------
 # Contacts
 Your Contacts should be straight away available and synced with Disroot.
+If you use multiple accounts, make sure that you select on witch account you want to save your contact when adding one.
+If you want to use Disroot only, make sure that you disable other accounts or if you don't want to disable other accounts but want to display only Disroot contacts, you can select your Disroot account on the contacts to display option.
+
+![](en/contacts_to_display.gif)  
+
 **Note:**
-If you want to migrate your Android contacts to your Disroot contacts and stop syncing with Google, then follow [this](https://howto.disroot.org/en/nextcloud/sync-with-your-cloud/android/migrating-contacts-from-google) tutorial.
+If you want to migrate your Android contacts to your Disroot contacts and stop syncing with Google, then follow [this](/cloud/clients/mobile/android/migrating-contacts-from-google) tutorial.
 
 ---------------------
