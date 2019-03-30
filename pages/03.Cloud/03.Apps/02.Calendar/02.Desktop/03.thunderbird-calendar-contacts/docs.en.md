@@ -16,7 +16,7 @@ The contact and calendar features in Disroot/Nexcloud are pretty cool but if you
 
 # Installing Needed Add-ons
 
-In order to sync all your calendars, tasks and contacts to thunderbird, you will need to install those Add-ons:
+In order to sync all your calendars, you will need to install those Add-ons:
 
 * **Lightning** - a calendar for Thunderbird
 
