@@ -9,7 +9,7 @@ taxonomy:
         - docs
 ---
 ----------
-# Sync Contacts and Tasks
+# Sync Contacts
 First setup an account in the app Kaddressbook.
 ![](en/kde_kaddressbook1.png)
 
@@ -35,14 +35,11 @@ After this you need to manually add the URL links for contacts and calendars, in
 The general settings will automatically appear after you have pressed finish.
 Then you need to:
 
-* Select CalDAV and edit
- * Replace the remote URL, with the URL of your disroot calendar: https://cloud.disroot.org/remote.php/dav/calendars/YOUR_USERNAME/YOUR_CALENDARS/
- * Press "Fetch" and then "Ok"
 * Select CardDAV and edit
- * Replace the remote URL, with the URL of your disroot contacts: https://cloud.disroot.org/remote.php/dav/addressbooks/users/YOUR_USERNAME/YOUR_ADDRESS_BOOK/
+ * Replace the remote URL, with the URL of your Disroot contacts: https://cloud.disroot.org/remote.php/dav/addressbooks/users/YOUR_USERNAME/YOUR_ADDRESS_BOOK/
  * Press "Fetch" and then "Ok"
 
-You can find the correct URL in your disroot calendar and contacts apps share options
+You can find the correct URL in your Disroot calendar and contacts apps share options
 
 In the general settings you can also:
 
