@@ -1,5 +1,6 @@
 ---
 title: Email Settings
+visible: false
 taxonomy:
     category:
         - docs

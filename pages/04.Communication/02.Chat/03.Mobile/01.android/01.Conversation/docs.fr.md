@@ -1,7 +1,7 @@
 ---
 title: Conversations - Android
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs
@@ -15,7 +15,7 @@ Voici ce que vous devez faire pour faire marcher les choses.
 2. **Ajouter un compte**
  - Indiquez votre **adresse email Disroot** complète (**Jabber ID**)
  - **Mot de passe**
-  
+
 ![](en/conversations.png)
 
 3. **Ajoutez un avatar** si vous aimez **ou sautez cette étape** si vous n'aimez pas ou utilisez déjà avatar sur un autre client.

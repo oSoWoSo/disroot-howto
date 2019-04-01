@@ -1,7 +1,7 @@
 ---
 title: 'Comment supprimer votre compte disroot'
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

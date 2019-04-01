@@ -1,6 +1,6 @@
 ---
 title: GNU/Linux: Integración con el entorno GNOME
-visible: true
+visible: false
 page-toc:
   active: true
 published: true

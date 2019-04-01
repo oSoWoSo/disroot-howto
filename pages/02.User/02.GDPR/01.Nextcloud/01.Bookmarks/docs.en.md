@@ -1,6 +1,7 @@
 ---
 title: Nextcloud: Exporting Bookmarks
 published: true
+visible: false
 taxonomy:
     category:
         - docs

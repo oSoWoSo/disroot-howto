@@ -1,6 +1,7 @@
 ---
 title: Diaspora*: Pedir os seus dados
 published: true
+visible: false
 taxonomy:
     category:
         - docs

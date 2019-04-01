@@ -1,5 +1,6 @@
 ---
 title: 'Email: Mobile Clients'
+visible: false
 taxonomy:
     category:
         - docs

@@ -3,7 +3,7 @@ title: 'Sincronizar com o seu dispositivo'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 page-toc:
      active: false
 ---

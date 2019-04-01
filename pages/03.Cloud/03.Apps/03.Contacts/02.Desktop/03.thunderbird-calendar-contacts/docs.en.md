@@ -1,6 +1,6 @@
 ---
 title: 'Thunderbird: Syncing Contacts'
-visible: true
+visible: false
 page-toc:
   active: false
 published: true

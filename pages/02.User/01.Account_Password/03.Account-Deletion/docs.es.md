@@ -1,7 +1,7 @@
 ---
 title: 'Cómo borrar tu cuenta de Disroot'
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

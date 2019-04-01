@@ -1,6 +1,7 @@
 ---
 title: Nextcloud: Files
 published: true
+visible: false
 taxonomy:
     category:
         - docs

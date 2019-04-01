@@ -1,7 +1,7 @@
 ---
 title: Encaminhar emails da sua conta Disroot para o seu email principal
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

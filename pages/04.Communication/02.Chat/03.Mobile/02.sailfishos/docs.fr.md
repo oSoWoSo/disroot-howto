@@ -1,7 +1,7 @@
 ---
 title: SailfishOS
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs
@@ -16,7 +16,7 @@ taxonomy:
  - **Mot de passe:** *Mot de passe Disroot*
  - **Adresse du serveur:** (si vous avez spécifié seulement votre nom d'utilisateur Disroot, ici vous pouvez ajouter le domaine) *disroot.org*
  - **Port:** 5222
- 
+
 ![](en/sailfish_xmpp1.png)
 
 4. **Glisser accepter, et vous avez fini!**

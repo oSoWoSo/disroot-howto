@@ -1,6 +1,6 @@
 ---
 title: 'Thunderbird: Syncing Contacts, Calendars and Tasks'
-visible: true
+visible: false
 page-toc:
   active: true
 published: true

@@ -2,6 +2,7 @@
 title: Email clients: Thunderbird
 page-toc:
   active: true
+visible: false
 published: true
 taxonomy:
     category:

@@ -1,6 +1,6 @@
 ---
 title: GNU/Linux: Desktop client
-visible: true
+visible: false
 page-toc:
   active: true
 published: true

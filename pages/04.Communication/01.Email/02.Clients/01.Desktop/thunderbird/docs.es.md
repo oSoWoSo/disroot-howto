@@ -2,6 +2,7 @@
 title: Clientes de correo: Thunderbird
 page-toc:
   active: true
+visible: false
 published: true
 taxonomy:
     category:

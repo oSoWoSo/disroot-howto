@@ -1,6 +1,6 @@
 ---
 title: 'Utilizando a aplicação de Notas'
-visible: true
+visible: false
 page-toc:
   active: true
 published: true

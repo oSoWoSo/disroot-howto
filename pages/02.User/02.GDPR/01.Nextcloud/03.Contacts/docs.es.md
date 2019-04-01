@@ -1,6 +1,7 @@
 ---
 title: Nextcloud: Exportar Contactos
 published: true
+visible: false
 taxonomy:
     category:
         - docs

@@ -1,6 +1,6 @@
 ---
 title: Clientes para el móvil: Android
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

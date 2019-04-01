@@ -1,6 +1,6 @@
 ---
 title: 'Cliente de sincronização com o Desktop'
-visible: true
+visible: false
 page-toc:
   active: true
 published: true

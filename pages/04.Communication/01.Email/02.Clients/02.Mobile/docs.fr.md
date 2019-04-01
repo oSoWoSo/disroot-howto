@@ -1,5 +1,6 @@
 ---
 title: 'Clients de téléphone'
+visible: false
 taxonomy:
     category:
         - docs

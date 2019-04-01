@@ -1,7 +1,7 @@
 ---
 title: Aplicaciones en la Nube: Keep or Sweep (Mantener o limpiar)
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

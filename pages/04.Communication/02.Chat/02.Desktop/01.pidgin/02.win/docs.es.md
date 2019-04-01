@@ -1,6 +1,7 @@
 ---
 title: Pidgin en MS Windows
 published: true
+visible: false
 taxonomy:
     category:
         - docs

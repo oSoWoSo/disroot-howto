@@ -1,6 +1,6 @@
 ---
 title: Migrar contactos
-visible: true
+visible: false
 ---
 
 ### Mover os seus contactos da sua conta Google para a sua conta Disroot

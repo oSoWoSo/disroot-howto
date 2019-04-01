@@ -1,6 +1,7 @@
 ---
 title: Hubzilla: DisHub Basics
 published: true
+visible: true
 taxonomy:
     category:
         - docs

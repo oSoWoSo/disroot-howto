@@ -1,7 +1,7 @@
 ---
 title: 'Clients de bureau'
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

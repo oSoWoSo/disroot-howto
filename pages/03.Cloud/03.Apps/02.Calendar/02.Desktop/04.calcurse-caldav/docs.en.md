@@ -1,6 +1,6 @@
 ---
 title: 'calcurse: Calendar sync'
-visible: true
+visible: false
 page-toc:
   active: false
 published: true

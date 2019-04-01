@@ -1,6 +1,6 @@
 ---
 title: Mobile clients: Android
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

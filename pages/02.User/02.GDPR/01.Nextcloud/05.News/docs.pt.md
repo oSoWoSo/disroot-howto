@@ -1,6 +1,7 @@
 ---
 title: Nextcloud: Exportar Feeds de Notícias
 published: true
+visible: false
 taxonomy:
     category:
         - docs

@@ -1,7 +1,7 @@
 ---
 title: 'Cliente de desktop'
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

@@ -1,7 +1,7 @@
 ---
 title: 'How-to delete your Disroot account'
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

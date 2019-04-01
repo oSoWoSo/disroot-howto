@@ -1,6 +1,6 @@
 ---
 title: GNU/Linux: GNOME Desktop Integration
-visible: true
+visible: false
 page-toc:
   active: true
 published: true

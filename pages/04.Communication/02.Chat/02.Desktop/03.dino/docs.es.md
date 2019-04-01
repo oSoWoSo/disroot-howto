@@ -1,7 +1,7 @@
 ---
 title: Clientes de chat: Dino
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

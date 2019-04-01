@@ -1,6 +1,7 @@
 ---
 title: Hubzilla Basics: Navigation Bar
 published: true
+visible: true
 taxonomy:
     category:
         - docs

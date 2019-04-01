@@ -4,7 +4,7 @@ published: true
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 First you need to log in to the **Self Service Center** at https://user.disroot.org and choose to **change password**.

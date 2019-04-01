@@ -1,7 +1,7 @@
 ---
 title: Cloud Apps: Keep or Sweep
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

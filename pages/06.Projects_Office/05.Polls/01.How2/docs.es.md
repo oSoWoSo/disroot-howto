@@ -3,6 +3,7 @@ title: Encuestas: Cómo usarlas
 page-toc:
     active: true
 published: true
+visible: false
 taxonomy:
     category:
         - docs

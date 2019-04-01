@@ -3,7 +3,7 @@ title: 'Subir archivos: Manual de Lufi'
 page-toc:
     active: true
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

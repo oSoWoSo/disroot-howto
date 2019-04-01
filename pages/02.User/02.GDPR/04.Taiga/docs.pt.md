@@ -1,6 +1,7 @@
 ---
 title: Taiga: Exportar projeto
 published: true
+visible: false
 taxonomy:
     category:
         - docs

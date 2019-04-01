@@ -1,6 +1,6 @@
 ---
 title: Clientes para el móvil: Migrar contactos
-visible: true
+visible: false
 ---
 
 ###  Mover contactos de una cuenta de Google a una cuenta de Disroot

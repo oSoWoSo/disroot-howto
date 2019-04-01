@@ -1,5 +1,6 @@
 ---
 title: Configuración de correo
+visible: false
 taxonomy:
     category:
         - docs

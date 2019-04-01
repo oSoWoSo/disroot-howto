@@ -1,7 +1,7 @@
 ---
 title: Pidgin en GNU/Linux
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

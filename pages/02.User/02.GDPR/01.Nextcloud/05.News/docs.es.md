@@ -1,6 +1,7 @@
 ---
 title: Nextcloud: Exportando información de Noticias
 published: true
+visible: false
 taxonomy:
     category:
         - docs

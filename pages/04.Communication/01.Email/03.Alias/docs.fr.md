@@ -1,5 +1,6 @@
 ---
 title: Comment configurer l'alias de messagerie
+visible: false
 taxonomy:
     category:
         - docs

@@ -1,5 +1,6 @@
 ---
 title: 'Clientes de telemóvel'
+visible: false
 taxonomy:
     category:
         - docs

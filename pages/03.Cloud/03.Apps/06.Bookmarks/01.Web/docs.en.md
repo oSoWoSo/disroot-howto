@@ -1,7 +1,7 @@
 ---
 title: Bookmarks: Web
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

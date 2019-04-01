@@ -3,7 +3,7 @@ title: 'Linux'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 page-toc:
      active: false
 ---

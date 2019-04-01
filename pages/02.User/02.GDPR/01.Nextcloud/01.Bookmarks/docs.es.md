@@ -1,6 +1,7 @@
 ---
 title: Nextcloud: Exportar Marcadores
 published: true
+visible: false
 taxonomy:
     category:
         - docs

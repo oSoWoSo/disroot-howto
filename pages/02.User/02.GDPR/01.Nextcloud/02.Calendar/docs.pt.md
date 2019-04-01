@@ -1,6 +1,7 @@
 ---
 title: Nextcloud: Exportar Calendários
 published: true
+visible: false
 taxonomy:
     category:
         - docs

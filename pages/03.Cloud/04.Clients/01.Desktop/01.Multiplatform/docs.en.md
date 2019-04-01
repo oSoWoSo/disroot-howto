@@ -1,7 +1,7 @@
 ---
 title: Desktop Clients: Multiplatform
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

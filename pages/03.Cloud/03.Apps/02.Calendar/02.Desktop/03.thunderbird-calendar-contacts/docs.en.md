@@ -1,6 +1,6 @@
 ---
 title: 'Thunderbird: Syncing Calendars'
-visible: true
+visible: false
 page-toc:
   active: false
 published: true

@@ -1,6 +1,7 @@
 ---
 title: Gajim on MS Windows
 published: true
+visible: false
 taxonomy:
     category:
         - docs

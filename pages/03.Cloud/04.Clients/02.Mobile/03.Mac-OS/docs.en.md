@@ -1,5 +1,6 @@
 ---
 title: MacOS
+visible: false
 taxonomy:
     category:
         - docs

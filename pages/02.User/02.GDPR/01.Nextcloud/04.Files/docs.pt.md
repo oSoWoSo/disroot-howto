@@ -1,6 +1,7 @@
 ---
 title: Nextcloud: Ficheiros
 published: true
+visible: false
 taxonomy:
     category:
         - docs

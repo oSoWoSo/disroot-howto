@@ -1,6 +1,6 @@
 ---
 title: 'Aplicação de notícias'
-visible: true
+visible: false
 page-toc:
   active: true
 published: true

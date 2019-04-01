@@ -1,6 +1,7 @@
 ---
 title: Clientes de chat: Pidgin
 published: true
+visible: false
 taxonomy:
     category:
         - docs

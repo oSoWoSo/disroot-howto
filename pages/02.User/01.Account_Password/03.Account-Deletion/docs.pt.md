@@ -1,6 +1,6 @@
 ---
 title: 'Como apagar a sua conta disroot'
-visible: true
+visible: false
 published: true
 taxonomy:
     category:

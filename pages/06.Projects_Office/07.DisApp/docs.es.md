@@ -1,6 +1,7 @@
 ---
 title: DisApp
 published: true
+visible: false
 taxonomy:
     category:
         - docs

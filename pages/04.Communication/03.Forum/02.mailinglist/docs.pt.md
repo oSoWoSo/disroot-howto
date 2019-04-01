@@ -3,7 +3,7 @@ title: Utilizar o Fórum como uma mailinglist
 page-toc:
   active: true
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

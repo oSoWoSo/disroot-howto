@@ -1,6 +1,7 @@
 ---
 title: Hubzilla: Exporting your channel content
 published: true
+visible: false
 taxonomy:
     category:
         - docs
