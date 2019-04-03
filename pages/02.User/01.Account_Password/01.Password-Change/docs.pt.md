@@ -1,6 +1,6 @@
 ---
 title: 'Como alterar a sua senha de utilizador do Disroot'
-visible: false
+visible: true
 published: true
 taxonomy:
     category:

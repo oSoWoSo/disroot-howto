@@ -1,7 +1,7 @@
 ---
 title: Taiga: Project export
 published: true
-visible: false
+visible: true
 taxonomy:
     category:
         - docs

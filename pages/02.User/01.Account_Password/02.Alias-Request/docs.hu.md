@@ -1,7 +1,7 @@
 ---
 title: Hogyan igényelj alternatív domainneveket emailhez
 published: true
-visible: false
+visible: true
 taxonomy:
     category:
         - docs

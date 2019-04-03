@@ -1,7 +1,7 @@
 ---
 title: 'Hogyan töröld a Disroot fiókodat'
 published: true
-visible: false
+visible: true
 taxonomy:
     category:
         - docs

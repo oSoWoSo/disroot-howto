@@ -1,7 +1,7 @@
 ---
 title: 'Comment modifier votre mot de passe utilisateur disroot'
 published: true
-visible: false
+visible: true
 taxonomy:
     category:
         - docs

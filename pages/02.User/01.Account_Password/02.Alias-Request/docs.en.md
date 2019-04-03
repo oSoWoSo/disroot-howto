@@ -1,7 +1,7 @@
 ---
 title: How-to request an email alias
 published: true
-visible: false
+visible: true
 taxonomy:
     category:
         - docs

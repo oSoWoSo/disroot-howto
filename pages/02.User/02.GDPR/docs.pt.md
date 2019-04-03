@@ -1,6 +1,7 @@
 ---
 title: 'GDPR - Exportar os seus dados pessoais por si próprio'
 published: true
+visible: true
 taxonomy:
     category:
         - docs
