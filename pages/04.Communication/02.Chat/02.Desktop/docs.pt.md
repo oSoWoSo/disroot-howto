@@ -1,6 +1,7 @@
 ---
 title: Aplicativos de Desktop
 published: true
+visible: false
 taxonomy:
     category:
         - docs

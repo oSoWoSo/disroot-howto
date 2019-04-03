@@ -74,7 +74,7 @@ Adding extra account is the same as adding the first one. You will be asked the 
 
 After you add a second account your, it will show up on the top bar of the app. This is how you also switch between accounts if you need to change settings.
 
-![](en/desktop_client6)
+![](en/desktop_client6.png)
 
 ## Activity tab
 **Activity** tab gives you an overview on all the uploaded/downloaded/added/removed files and folders from your accounts. Similar to Activity app in disroot cloud interface.

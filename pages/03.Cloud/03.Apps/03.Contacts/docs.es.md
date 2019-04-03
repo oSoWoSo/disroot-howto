@@ -1,7 +1,7 @@
 ---
 title: Aplicaciones en la Nube: Contactos
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

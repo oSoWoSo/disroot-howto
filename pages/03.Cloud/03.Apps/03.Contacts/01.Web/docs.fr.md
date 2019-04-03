@@ -1,7 +1,7 @@
 ---
 title: 'Application Contacts'
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

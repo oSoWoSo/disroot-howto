@@ -1,7 +1,7 @@
 ---
 title: Forward emails from Disroot to your primary email
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

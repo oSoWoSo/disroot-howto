@@ -1,6 +1,7 @@
 ---
 title: Chat: Clientes para el escritorio
 published: true
+visible: false
 taxonomy:
     category:
         - docs

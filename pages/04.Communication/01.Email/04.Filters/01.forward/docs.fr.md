@@ -1,7 +1,7 @@
 ---
 title: Faire suivre les emails de Disroot vers votre email primaire
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

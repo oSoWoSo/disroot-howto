@@ -1,7 +1,7 @@
 ---
 title: Aplicaciones en la Nube: Calendario
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

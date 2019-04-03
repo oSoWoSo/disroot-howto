@@ -1,7 +1,7 @@
 ---
 title: Clientes para el escritorio: Multiplatforma
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

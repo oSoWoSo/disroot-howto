@@ -1,6 +1,7 @@
 ---
 title: Discourse: Exportar tus publicaciones en el Foro
 published: true
+visible: false
 taxonomy:
     category:
         - docs

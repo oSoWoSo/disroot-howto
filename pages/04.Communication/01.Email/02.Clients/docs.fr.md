@@ -1,5 +1,6 @@
 ---
 title: Comment configurer les clients de messagerie
+visible: false
 taxonomy:
     category:
         - docs

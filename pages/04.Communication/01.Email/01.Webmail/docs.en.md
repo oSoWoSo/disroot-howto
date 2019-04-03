@@ -1,5 +1,6 @@
 ---
 title: Webmail
+visible: false
 published: true
 taxonomy:
     category:

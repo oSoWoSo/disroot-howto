@@ -3,6 +3,7 @@ title: iOS
 taxonomy:
     category:
         - docs
+visible: false
 page-toc:
      active: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Chamadas com o Spreed'
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

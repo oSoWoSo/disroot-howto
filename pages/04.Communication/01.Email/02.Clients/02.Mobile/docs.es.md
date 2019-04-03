@@ -1,5 +1,6 @@
 ---
 title: 'Correo: Clientes para el móvil'
+visible: false
 taxonomy:
     category:
         - docs

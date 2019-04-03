@@ -3,7 +3,7 @@ title: 'Upload: Lufi How2'
 page-toc:
     active: true
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

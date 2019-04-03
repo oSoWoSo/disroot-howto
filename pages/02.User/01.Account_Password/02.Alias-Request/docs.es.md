@@ -1,7 +1,7 @@
 ---
 title: Cómo solicitar Alias de correo electrónico
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

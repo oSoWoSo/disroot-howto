@@ -3,6 +3,7 @@ title: Polls How-to
 page-toc:
     active: true
 published: true
+visible: false
 taxonomy:
     category:
         - docs

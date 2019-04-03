@@ -1,5 +1,6 @@
 ---
 title: Cómo configurar el Alias de Correo
+visible: false
 taxonomy:
     category:
         - docs

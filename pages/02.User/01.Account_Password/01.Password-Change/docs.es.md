@@ -1,6 +1,6 @@
 ---
 title: 'Cómo cambiar tu contraseña de usuario de Disroot'
-visible: true
+visible: false
 published: true
 taxonomy:
     category:

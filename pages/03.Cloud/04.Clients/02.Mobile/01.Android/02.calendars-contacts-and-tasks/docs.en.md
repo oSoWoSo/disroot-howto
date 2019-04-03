@@ -1,6 +1,6 @@
 ---
 title: Mobile clients: Calendars, Contacts and Tasks'
-visible: false
+visible: true
 page-toc:
   active: true
 published: true
@@ -11,18 +11,18 @@ taxonomy:
 
 Disroot has calendar, contacts and tasks apps enabled.
 
-In this tutorial we'll show you how to setup and use your disroot calendar, contacts and tasks on your Android device.
-To do this you will need to install the DAVdroid app and Open Tasks in Android.
-For Open Tasks to work it will need DAVdroid to also be installed, but if you just want to sync your calendar or contacts you don't need to install Open Tasks.
+In this tutorial we'll show you how to setup and use your Disroot calendar, contacts and tasks on your Android device.
+To do this you will need to install the DAVx⁵ app and Open Tasks in Android.
+For Open Tasks to work it will need DAVx⁵ to also be installed, but if you just want to sync your calendar or contacts you don't need to install Open Tasks.
 
 
 ----------
-# Install DAVdroid
+# Install DAVx⁵
 ## From appstore
-DAVdroid Is available on your favorite app store. We encourage you to use [F-Droid](https://f-droid.org/).
+DAVx⁵ Is available on your favorite app store. We encourage you to use [F-Droid](https://f-droid.org/).
 
 ## From NextcloudApp
-If you have nextcloud mobile app installed and linked to your disroot cloud you can install it from there:
+If you have nextcloud mobile app installed and linked to your Disroot cloud you can install it from there:
  - Open Nextcloud Android App
  - Got to settings > **"Sync calendar and contacts"**
 
@@ -30,10 +30,10 @@ If you have nextcloud mobile app installed and linked to your disroot cloud you 
 
  ---------------
 
-## Add your disroot account to DAVdroid
+## Add your Disroot account to DAVx⁵
 
-If you haven't install DAVDroid via NextcloudApp you will have to manually setup an account.
-To get started open-up "DavDroid app" and press the *"plus"* (**+**) button.
+If you haven't install DAVx⁵ via NextcloudApp you will have to manually setup an account.
+To get started open-up "DAVx⁵ app" and press the *"plus"* (**+**) button.
 
 ![](en/nextcloud_davdroid1.jpeg)
 
@@ -41,13 +41,13 @@ To get started open-up "DavDroid app" and press the *"plus"* (**+**) button.
 Select "login with url and username", and put server address and credentials
 
 > Server address: https://cloud.disroot.org
-> Username: your disroot username
-> Password: your disroot password
+> Username: your Disroot username
+> Password: your Disroot password
 
 
 ![](en/nextcloud_davdroid2.jpeg)
 
-After you setup your account, you need to select which calendars and address books you want to sync from disroot to your android device.
+After you setup your account, you need to select which calendars and address books you want to sync from Disroot to your android device.
 Press the big orange button with the account name.
 
 ![](en/nextcloud_davdroid3.jpeg)
@@ -56,23 +56,23 @@ Press the big orange button with the account name.
 -------------------
 
 # Calendar
-Now your Calendars from disroot will be synced to your device and will appear in your Calendar app of choice. Any event added on the phone will be automatically synced to disroot and vice versa.
+Now your Calendars from Disroot will be synced to your device and will appear in your Calendar app of choice. Any event added on the phone will be automatically synced to Disroot and vice versa.
 
-After that, the calendars in your disroot account that you selected will be synced and visible in your Android device calendar.
+After that, the calendars in your Disroot account that you selected will be synced and visible in your Android device calendar.
 
 ---------------------
 # Contacts
-Your Contacts should be straight away available and synced with disroot.
+Your Contacts should be straight away available and synced with Disroot.
 **Note:**
-If you want to migrate your Android contacts to your disroot contacts and stop syncing with google, then follow [this](https://howto.disroot.org/en/nextcloud/sync-with-your-cloud/android/migrating-contacts-from-google) tutorial.
+If you want to migrate your Android contacts to your Disroot contacts and stop syncing with google, then follow [this](https://howto.disroot.org/en/nextcloud/sync-with-your-cloud/android/migrating-contacts-from-google) tutorial.
 
 ---------------------
 # Tasks
 
 [Open Tasks](https://f-droid.org/packages/org.dmfs.tasks/) Is available in F-Droid and in other commercial app stores.
 
-If you have already followed previous steps and your DAVdroid account is setup and syncing your calendars from disroot cloud, all the tasks should be available the moment you install and open *"Open Tasks"* app.
-All Tasks are asigned to each calendar. Tapping the name of the calendar will reveal the tasks.
+If you have already followed previous steps and your DAVx⁵ account is setup and syncing your calendars from Disroot cloud, all the tasks should be available the moment you install and open *"Open Tasks"* app.
+All Tasks are assigned to each calendar. Tapping the name of the calendar will reveal the tasks.
 
 ![](en/nextcloud_tasks1.jpeg)
 

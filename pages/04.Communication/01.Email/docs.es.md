@@ -1,6 +1,7 @@
 ---
 title: Correo electrónico
 published: true
+visible: true
 taxonomy:
     category:
         - docs

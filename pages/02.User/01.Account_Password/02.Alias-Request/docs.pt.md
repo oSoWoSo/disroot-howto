@@ -1,6 +1,6 @@
 ---
 title: 'Como pedir um alias de email'
-visible: true
+visible: false
 published: true
 taxonomy:
     category:

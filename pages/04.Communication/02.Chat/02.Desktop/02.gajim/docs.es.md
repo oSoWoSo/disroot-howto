@@ -1,6 +1,7 @@
 ---
 title: Clientes de chat: Gajim
 published: true
+visible: false
 taxonomy:
     category:
         - docs

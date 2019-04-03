@@ -1,7 +1,7 @@
 ---
 title: Tareas: Escritorio
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

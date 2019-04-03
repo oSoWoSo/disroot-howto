@@ -1,6 +1,7 @@
 ---
 title: Hubzilla Basics: DisHub User Interface
 published: true
+visible: true
 taxonomy:
     category:
         - docs

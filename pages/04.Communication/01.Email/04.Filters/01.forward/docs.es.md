@@ -1,7 +1,7 @@
 ---
 title: Reenvío de correos desde Disroot a tu cuenta de correo principal
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

@@ -3,7 +3,7 @@ title: Utiliser le forum comme liste de diffusion
 page-toc:
   active: true
 published: true
-visible: true
+visible: false
 taxonomy:
     category:
         - docs

@@ -3,6 +3,7 @@ title: 'Synchroniser vers votre appareil'
 taxonomy:
     category:
         - docs
+visible: false
 page-toc:
      active: false
 ---

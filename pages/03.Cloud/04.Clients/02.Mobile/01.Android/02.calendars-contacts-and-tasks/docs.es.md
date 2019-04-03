@@ -1,6 +1,6 @@
 ---
 title: Clientes para el móvil: Calendarios, Contactos y Tareas
-visible: false
+visible: true
 page-toc:
   active: true
 published: true

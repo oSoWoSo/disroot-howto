@@ -1,6 +1,7 @@
 ---
 title: Hubzilla: DisHub Basics
 published: true
+visible: true
 taxonomy:
     category:
         - docs
@@ -20,7 +21,7 @@ Now, you can **create post**:
 <br>
 ![Share_box](en/Share_box.png)
 
-[To know how](../posts)
+[To know how](../posting)
 
 Or you can **add friends** (called *connections* in hubzilla) that you can follow:
 <br>

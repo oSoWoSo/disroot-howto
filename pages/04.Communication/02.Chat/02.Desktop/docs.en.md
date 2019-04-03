@@ -1,6 +1,7 @@
 ---
 title: Chat: Desktop Clients
 published: true
+visible: false
 taxonomy:
     category:
         - docs

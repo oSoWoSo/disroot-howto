@@ -4,7 +4,7 @@ published: true
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Először be kell jelentkezned az **Önkiszolgáló központba** a https://user.disroot.org helyen és kiválasztanod, hogy **Jelszóváltoztatás**.
@@ -18,4 +18,4 @@ Látni fogsz egy sárga üzenetet az oldal tetején:
 3. Görgess le az **Alap titkosítási modul**hoz, gépeld be a régi jelszavad és az új jelszavad, és kattints a **Privát kulcs jelszó frissítésé**re.
 4. Jelentkezz ki a Nextcloudból, majd vissza be, és készen is vagy! Ismét meg tudod nézni a fájljaidat.
 
-TIPP: Ha elveszíted a jelszavad, nem leszel képes visszaállítani a fájljaidat a Nextcloudon, mivel titkosítva vannak, így még a szerveradminisztrátorok sem láthatják a tartalmukat. 
+TIPP: Ha elveszíted a jelszavad, nem leszel képes visszaállítani a fájljaidat a Nextcloudon, mivel titkosítva vannak, így még a szerveradminisztrátorok sem láthatják a tartalmukat.

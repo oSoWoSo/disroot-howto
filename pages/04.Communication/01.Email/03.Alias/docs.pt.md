@@ -1,5 +1,6 @@
 ---
 title: Como configurar um alias de email
+visible: false
 taxonomy:
     category:
         - docs

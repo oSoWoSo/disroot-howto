@@ -2,6 +2,7 @@
 title: Thunderbird
 page-toc:
   active: true
+visible: false
 published: true
 taxonomy:
     category:

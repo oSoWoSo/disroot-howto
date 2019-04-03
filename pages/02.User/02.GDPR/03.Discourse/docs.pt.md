@@ -1,6 +1,7 @@
 ---
 title: Discourse: Exportar os seus posts do Fórum
 published: true
+visible: false
 taxonomy:
     category:
         - docs

@@ -1,5 +1,6 @@
 ---
 title: Como configurar um cliente de email
+visible: false
 taxonomy:
     category:
         - docs

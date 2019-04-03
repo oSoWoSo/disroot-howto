@@ -1,6 +1,6 @@
 ---
 title: Mobile clients: Migrating Contacts
-visible: true
+visible: false
 ---
 
 ### Moving Contacts from Google account To Disroot account

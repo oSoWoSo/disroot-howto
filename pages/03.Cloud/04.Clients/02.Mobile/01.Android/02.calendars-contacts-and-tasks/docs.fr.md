@@ -1,6 +1,6 @@
 ---
 title: 'calendriers, contacts et tâches'
-visible: false
+visible: true
 page-toc:
   active: true
 published: true

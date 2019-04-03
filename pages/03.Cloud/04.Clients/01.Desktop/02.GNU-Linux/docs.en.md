@@ -3,6 +3,7 @@ title: Desktop clients: GNU/Linux
 taxonomy:
     category:
         - docs
+visible: false
 page-toc:
      active: false
 ---
