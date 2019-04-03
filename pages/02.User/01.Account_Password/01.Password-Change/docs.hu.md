@@ -4,7 +4,7 @@ published: true
 taxonomy:
     category:
         - docs
-visible: false
+visible: true
 ---
 
 Először be kell jelentkezned az **Önkiszolgáló központba** a https://user.disroot.org helyen és kiválasztanod, hogy **Jelszóváltoztatás**.

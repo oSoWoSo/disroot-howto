@@ -1,7 +1,7 @@
 ---
 title: Comment demander un alias de courriel
 published: true
-visible: false
+visible: true
 taxonomy:
     category:
         - docs

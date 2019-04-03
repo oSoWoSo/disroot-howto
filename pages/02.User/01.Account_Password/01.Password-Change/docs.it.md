@@ -4,7 +4,7 @@ published: true
 taxonomy:
     category:
         - docs
-visible: false
+visible: true
 ---
 
 In primo luogo, è necessario accedere alla **centro self-service** nella https://user.disroot.org e selezionare **cambiare password**.

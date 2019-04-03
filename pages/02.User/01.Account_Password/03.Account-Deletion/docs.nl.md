@@ -1,6 +1,6 @@
 ---
 title: 'U disroot account verwijderen'
-visible: false
+visible: true
 published: true
 taxonomy:
     category:

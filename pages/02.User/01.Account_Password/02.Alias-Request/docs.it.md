@@ -1,7 +1,7 @@
 ---
 title: Come applicare l'Alias di posta elettronica
 published: true
-visible: false
+visible: true
 taxonomy:
     category:
         - docs

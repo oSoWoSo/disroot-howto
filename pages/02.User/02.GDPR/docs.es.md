@@ -1,6 +1,7 @@
 ---
 title: 'RGDP: Exportar tus datos personales'
 published: true
+visible: true
 taxonomy:
     category:
         - docs

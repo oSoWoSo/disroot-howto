@@ -1,5 +1,6 @@
 ---
 title: Account & Password Management
+visible: true
 published: true
 taxonomy:
     category:

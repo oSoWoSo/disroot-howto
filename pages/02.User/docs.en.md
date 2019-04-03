@@ -1,6 +1,7 @@
 ---
 title: User
 published: true
+visible: true
 taxonomy:
     category:
         - docs

@@ -4,7 +4,7 @@ published: true
 taxonomy:
     category:
         - docs
-visible: false
+visible: true
 page-toc:
     active: false
 ---

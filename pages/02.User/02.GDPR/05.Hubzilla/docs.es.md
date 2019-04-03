@@ -1,7 +1,7 @@
 ---
 title: Hubzilla: Exportar el contenido de tu canal
 published: true
-visible: false
+visible: true
 taxonomy:
     category:
         - docs

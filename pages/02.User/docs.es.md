@@ -1,5 +1,6 @@
 ---
 title: Usuario
+visible: true
 published: true
 taxonomy:
     category:

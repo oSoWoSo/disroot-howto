@@ -1,5 +1,6 @@
 ---
 title: 'GDPR Compliance'
+visible: true
 published: true
 taxonomy:
     category:

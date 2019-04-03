@@ -1,5 +1,6 @@
 ---
 title: Gestión de cuenta y contraseña
+visible: true
 published: true
 taxonomy:
     category:
