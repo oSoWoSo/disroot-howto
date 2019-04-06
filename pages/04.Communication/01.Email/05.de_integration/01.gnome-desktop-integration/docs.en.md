@@ -9,11 +9,11 @@ page-toc:
     active: false
 ---
 
-Gnome is a very popular, slick, modern and easy to use graphical desktop environment for Linux. It's my desktop of choice and it is mainly due to it's awesome integration with Disroot's services.
+Gnome is a very popular, slick, modern and easy to use graphical desktop environment for Linux. It also have an awesome integration with Disroot's services.
 
 Integration with desktop environment means, you no longer need to login to Disroot's cloud via the browser, every time you need to add or lookup information. It means everything you need is available to you directly from your desktop. Furthermore it makes it look and feel unified with all other apps you use while you work. It's definitely **THE** way to get things done.
 
-In this tutorial I would like to show you how easy and handy it is to integrate your mails on your computer. Setup procedure should take no longer then few minutes of your time.
+In this tutorial we would like to show you how easy and handy it is to integrate your mails on your computer. Setup procedure should take no longer then few minutes of your time.
 
 -------
 # Set Online accounts
