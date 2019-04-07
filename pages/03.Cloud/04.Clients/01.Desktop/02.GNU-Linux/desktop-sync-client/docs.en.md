@@ -48,7 +48,7 @@ There are two ways of doing it:
 ## App Password (for Two factor authentication)
 If you have enabled **Two-Factor Authentication (2FA)** in your **Disroot Cloud**, then you need to:
 
-- Generate an "App Password", in the **Security** section of your **Disroot Cloud** account web interface, to generate an especific **App Password** for the Nextcloud Desktop Client. You can read on how to do that [here](https://howto.disroot.org/en/cloud/introduction#app-password).
+- Generate an "App Password", in the **Security** section of your **Disroot Cloud** account web interface, to generate an specific **App Password** for the Nextcloud Desktop Client. You can read on how to do that [here](https://howto.disroot.org/en/cloud/introduction#app-password).
 
 Once you have your **App Password** token **created** and **copied**, in the login menu:
 
@@ -72,12 +72,12 @@ If you do not have 2FAenabeled then just:
 
 ## Configure sync folder
 
-Final step in addin a new account is to configure the sync folder.
+Final step in adding a new account is to configure the sync folder.
 After you successfully log in you will be prompted with a options panel where you can:
 
 - Select what folders to sync from your **Disroot Cloud** to your machine, by pressing "Choose what to sync"
 - Set a limit to not sync any file above a certain size you decided (this can be changed later at any point).
-- Authorize if you also want to sync external storages (you can know more about External Storages [here](https://howto.disroot.org/en/cloud/introduction#external-storages))
+- Authorize if you also want to sync External Storage's (you can know more about External Storage's [here](https://howto.disroot.org/en/cloud/introduction#external-storages))
 - Change the destination folder where your files will be synced in your hard drive (The Nextcloud Desktop Client will by default create a folder called "Nextcloud", in your home folder).
 
 Once you are happy with the settings, just hit "Connect" at the lower left corner of the menu.
@@ -162,7 +162,7 @@ You will also see one separate **Activity tab** for each account.
 **General** tab lets you:
 
  - Set the limit for files sizes that you download to you local folder
- - Set if the client should ask permission to sync external storages
+ - Set if the client should ask permission to sync External Storage's
  - Set to show notifications on your desktop
  - Launch Nextcloud Desktop Client when the system starts
  - See legal notice and if there are any updates
@@ -228,16 +228,16 @@ Once you copied the link just send it via email, or some other way.
 
 To share directly with **another user or group** of **Disroot Cloud** (if you the persons username, or the group name)
 Just:
-- Write the username or group name in question in the textbox
-- Press the arrow button on the right side of the textbox
+- Write the username or group name in question in the text box
+- Press the arrow button on the right side of the text box
 
-And you will see in the botton of the window information regarding that particular share.
+And you will see in the button of the window information regarding that particular share.
 
 ![](en/desktop-client-11.gif)
 
 And manage the share with the user in question:
 - Deleting the share
-- Allow resharing
+- Allow re-sharing
 - Allow editing
 
 ![](en/desktop-client-13.gif)
@@ -251,7 +251,7 @@ You can manage these shares you create from your file manager at any time by the
 **File status icon**
 
 With file manager integration, the file manager generates icons on the folders and files inside your nextcloud folder.
-This allows you to quicklly see which files and folders where:
+This allows you to quickly see which files and folders where:
 - Successfully synced or not
 - That are still syncing
 - Shared
