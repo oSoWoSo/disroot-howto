@@ -1,0 +1,29 @@
+---
+title: 'Template'
+visible: false
+page-toc:
+  active: true
+published: true
+taxonomy:
+    category:
+        - docs
+---
+
+---
+
+# Meta information
+This howto was last updated on **dd-mm-yyyy** and it reffers to:<br> <!-- edit dd-mm-yyyy to the actual date  -->
+
+**- Software: version - 60.5.3.1 For Arch Linux**<br> <!-- edit Software to the actual software  -->
+**- Addon?? Add-on: version 6.2.5.3**<br> <!-- edit Addon?? to eventual addon or remove this line  -->
+
+**NOTE:** If the howto refers to an older software version than the provided by **Disroot**, or the one you're using in your device, there could be missing features or small parts of the information that may have changed.<br><br>
+**Disroot**'s how-to documentation is a community driven process. We try to keep it as updated as we can.
+
+---
+# Actual how to content comes here
+---
+
+ <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
+
+---

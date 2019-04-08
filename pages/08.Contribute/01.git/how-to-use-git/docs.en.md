@@ -103,3 +103,6 @@ Pulling should be done on regular basis (specially before you start working on n
 # Some vocabulary and explanation
 
 **git repository** - Directory that consists all the files belonging to the project
+
+# Template to use for how to's
+You can copy the content [here](en/template.txt) and create your how to file.
