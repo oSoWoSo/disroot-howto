@@ -1,6 +1,6 @@
 ---
-title: 'Template'
-visible: false
+title: 'Template' <!-- edit Title  -->
+visible: false <!-- edit visibility in tree in true or false  -->
 page-toc:
   active: true
 published: true
@@ -14,8 +14,8 @@ taxonomy:
 # Meta information
 This howto was last updated on **dd-mm-yyyy** and it reffers to:<br> <!-- edit dd-mm-yyyy to the actual date  -->
 
-**- Software: version - 60.5.3.1 For Arch Linux**<br> <!-- edit Software to the actual software  -->
-**- Addon?? Add-on: version 6.2.5.3**<br> <!-- edit Addon?? to eventual addon or remove this line  -->
+**- Software: version -  version 00.0.0-0 For Distro Linux**<br> <!-- edit Software and version of the actual software  -->
+**- Addon?? Add-on: version 00.0.0-0**<br> <!-- edit Addon?? to eventual addon or remove this line  -->
 
 **NOTE:** If the howto refers to an older software version than the provided by **Disroot**, or the one you're using in your device, there could be missing features or small parts of the information that may have changed.<br><br>
 **Disroot**'s how-to documentation is a community driven process. We try to keep it as updated as we can.
