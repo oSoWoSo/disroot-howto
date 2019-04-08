@@ -94,7 +94,7 @@ Nextcloud client opens by default in the background. By interacting with nextclo
 The app consists of 4 main tabs:
  - [Your account tab](#your-account-tab)
  - [Activity tab](#activity-tab)
- - [General tab](#General tab)
+ - [General tab](#general-tab)
  - [Network tab](#network-tab)
 
 ![](en/desktop_client04.png)
@@ -107,7 +107,7 @@ Gives you general sense of what's the current status of your app.
 **You can:**
  - See the status of any synchronization, and remaining disk space on your **Disroot Cloud** account
 
-![](en/desktop_client05.png)
+![](en/desktop_client06.png)
 
  - Choose what folders to sync or stop syncing by clicking in the checkbox option. You will need to press the Apply button on the lower right corner of the window for the changes to take effect
 
@@ -156,6 +156,7 @@ You will also see one separate **Activity tab** for each account.
 
 # Activity tab
 **Activity** tab gives you an overview on all the uploaded/downloaded/added/removed files and folders from your accounts. Similar to Activity app in **Disroot cloud interface.**
+
 ![](en/desktop_client08.png)
 
 # General tab
