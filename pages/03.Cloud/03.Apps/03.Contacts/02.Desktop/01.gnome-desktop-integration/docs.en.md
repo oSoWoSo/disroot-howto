@@ -9,7 +9,17 @@ taxonomy:
         - docs
 ---
 
-----------
+---
+
+# Meta information
+This howto was last updated on **08-04-2019** and it reffers to:<br> <!-- edit dd-mm-yyyy to the actual date  -->
+
+**- Gnome: version - 3.30.2 For Manjaro Linux**<br> <!-- edit Software to the actual software  -->
+
+**NOTE:** If the howto refers to an older software version than the provided by **Disroot**, or the one you're using in your device, there could be missing features or small parts of the information that may have changed.<br><br>
+**Disroot**'s how-to documentation is a community driven process. We try to keep it as updated as we can.
+
+---
 
 Gnome is a very popular, slick, modern and easy to use graphical desktop environment for Linux. It's my desktop of choice and it is mainly due to it's awesome integration with Disroot's cloud services.
 
@@ -49,4 +59,8 @@ Just select "Change Address Book" from the Contact app menu. Once you select you
 
 ![](en/gnome_contacts2.gif)
 
-----------
+---
+
+ <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
+
+---

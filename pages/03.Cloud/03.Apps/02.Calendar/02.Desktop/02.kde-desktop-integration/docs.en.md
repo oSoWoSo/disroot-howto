@@ -8,7 +8,19 @@ taxonomy:
     category:
         - docs
 ---
-----------
+---
+
+# Meta information
+This howto was last updated on **08-04-2019** and it reffers to:<br> <!-- edit dd-mm-yyyy to the actual date  -->
+
+**- KDE Plasma: version - 5.15.2 For Manjaro Linux**<br> <!-- edit Software to the actual software  -->
+**- KOrganizer: version - 18.12.3-2 For Manjaro Linux**<br> <!-- edit Software to the actual software  -->
+**- Kaddressbook: version - 18.12.3-1 For Manjaro Linux**<br> <!-- edit Software to the actual software  -->
+
+**NOTE:** If the howto refers to an older software version than the provided by **Disroot**, or the one you're using in your device, there could be missing features or small parts of the information that may have changed.<br><br>
+**Disroot**'s how-to documentation is a community driven process. We try to keep it as updated as we can.
+
+---
 # Sync Calendar
 First setup an account in the app Kaddressbook.
 ![](en/kde_kaddressbook1.png)
@@ -20,7 +32,7 @@ First setup an account in the app Kaddressbook.
 * Follow instructions to fill in all your credentials:
  * **Username:** _yourusername_
  * **Password:** _your_super_secret_password_
-* In the option "select one of these servers", select: **owncloud**
+* In the option "select one of these servers", select: **Nextcloud**
 * Host: place the address [cloud.disroot.org](https//:cloud.disroot.org)
 * Installation path: leave it blank
 * Select the option: "use secure connection"
@@ -59,4 +71,9 @@ Your events will already be synchronized.
 Adding/removing/editing events is very similar to the Calendar app described before, any changes will be synchronized with your disroot calendar.
 
 ![](en/kde_kalendar2.gif)
-----------
+
+---
+
+ <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
+
+---

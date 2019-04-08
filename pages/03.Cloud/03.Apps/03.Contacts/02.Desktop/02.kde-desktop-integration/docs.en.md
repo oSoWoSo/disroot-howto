@@ -8,7 +8,19 @@ taxonomy:
     category:
         - docs
 ---
-----------
+
+---
+
+# Meta information
+This howto was last updated on **08-04-2019** and it reffers to:<br> <!-- edit dd-mm-yyyy to the actual date  -->
+
+**- KDE Plasma: version - 5.15.2 For Manjaro Linux**<br> <!-- edit Software to the actual software  -->
+**- Kaddressbook: version - 18.12.3-1 For Manjaro Linux**<br> <!-- edit Software to the actual software  -->
+
+**NOTE:** If the howto refers to an older software version than the provided by **Disroot**, or the one you're using in your device, there could be missing features or small parts of the information that may have changed.<br><br>
+**Disroot**'s how-to documentation is a community driven process. We try to keep it as updated as we can.
+
+---
 # Sync Contacts
 First setup an account in the app Kaddressbook.
 ![](en/kde_kaddressbook1.png)
@@ -54,4 +66,9 @@ In the general settings you can also:
 In KDE you can use your KAddressBook to organize your contacts. The working principals are identical to the "Contacts" app described before.
 
 ![](en/kde_kaddressbook4.gif)
-----------
+
+---
+
+ <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
+
+---

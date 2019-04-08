@@ -11,7 +11,7 @@ taxonomy:
 Thunderbird is a powerful open-source email client, calendar and RSS-Feed manager.
 
 1. **Install Thunderbird.**
-If you don't have thunderbird yet, got to  https://www.mozilla.org/en-US/thunderbird/all/ and choose your language and Operating System.
+If you don't have thunderbird yet, got to  https://www.mozilla.org/en-US/thunderbird/all/ and choose your language and Operating System.  
 **!Note** For linux users we recommend using your distribution package manager to get the latest and updatable version of thunderbird.
 
 2. **Open thunderbird**
