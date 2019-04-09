@@ -1,6 +1,6 @@
 ---
 title: 'Template' <!-- edit Title  -->
-visible: false <!-- edit visibility in tree in true or false  -->
+visible: false <!-- edit visibility in tree: true or false  -->
 page-toc:
   active: true
 published: true
@@ -11,14 +11,11 @@ taxonomy:
 
 ---
 
-# Meta information
-This howto was last updated on **dd-mm-yyyy** and it reffers to:<br> <!-- edit dd-mm-yyyy to the actual date  -->
+|```Meta information```|
+|:--:|
+|```This howto was last updated on``` **date here** *(date format could be mm-dd-yy or yyyy-mm-dd, e.g: 01-04-19 or 2019-01-04)* ```and it reffers to:```<br>**Software name: version 00.0.0-0 for GNU/Linux distro:**<br> <!-- edit Software and version of the actual software  -->|
 
-**- Software: version -  version 00.0.0-0 For Distro Linux**<br> <!-- edit Software and version of the actual software  -->
-**- Addon?? Add-on: version 00.0.0-0**<br> <!-- edit Addon?? to eventual addon or remove this line  -->
-
-**NOTE:** If the howto refers to an older software version than the provided by **Disroot**, or the one you're using in your device, there could be missing features or small parts of the information that may have changed.<br><br>
-**Disroot**'s how-to documentation is a community driven process. We try to keep it as updated as we can.
+**NOTE:**```If the howto reffers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
 
 ---
 # Actual how to content comes here
