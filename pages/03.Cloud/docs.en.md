@@ -7,16 +7,18 @@ taxonomy:
 page-toc:
     active: false
 ---
-|![](/start/icons/nc_logo.png)|
-|:--:|
-|**Nextcloud** is Disroot's core service and the main user interface we try to integrate with most of the apps we offer. In this howto we would like to go through the basics of the interface, explaining the main UI (User interface) concept, as well as some basic actions on files and personal settings.|
-<br>
-
 |```Meta information```|
 |:--:|
 |```This howto was last updated on``` April, 2019 ```and it reffers to:```<br>**Nextcloud: version 15**|
 
 **NOTE:**```If the howto reffers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
+
+----
+
+|![](/start/icons/nc_logo.png)|
+|:--:|
+|**Nextcloud** is Disroot's core service and the main user interface we try to integrate with most of the apps we offer. In this howto we would like to go through the basics of the interface, explaining the main UI (User interface) concept, as well as some basic actions on files and personal settings.|
+<br>
 
 ----
 
