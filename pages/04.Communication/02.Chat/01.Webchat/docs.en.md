@@ -19,7 +19,7 @@ page-toc:
 
 **[webchat.disroot.org](https:webchat.disroot.org)** provides a way to connect to your XMPP account directly from your web browser.
 
-# Connexion
+# Connection
 Open your favorite web browser and go on **[webchat.disroot.org](https://webchat.disroot.org)**
 
 ![](en/01_connexion.png)
