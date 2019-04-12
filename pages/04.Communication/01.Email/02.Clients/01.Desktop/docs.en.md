@@ -9,9 +9,14 @@ page-toc:
     active: false
 ---
 
-How2 setup your email on your desktop:
-
-## Clients
+## Multiplatform clients
 - [Thunderbird: multiplatform email client](thunderbird)
 
+---
+
+## GNU/Linux desktop integration
+- [Gnome: email desktop integration](gnome-desktop-integration)
+- [Kde: email desktop integration](kde-desktop-integration)
+
+---
 ![](en/email_icon.png)
