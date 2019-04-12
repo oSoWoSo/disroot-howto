@@ -23,7 +23,7 @@ The client will ask you to add an account the first time you will launch KMail.
    - **Full name:** *Name that will be displayed in "from" field*
    - **E-mail:** *yourusername@disroot.org*
    - **Password:** *your_super_secret_password*
-   - Click "**Next**" button once you're done and verified everything is correct..
+   - Click "**Next**" button once you're done and verified everything is correct...
 ![](en/kmail1.png)
 
  - On the Next screen you will be asked if you want to secure your communication. You are free to choose if you want it or not but it is recommended to encrypt your communication.
@@ -31,7 +31,7 @@ The client will ask you to add an account the first time you will launch KMail.
  ![](en/kmail2.png)
 
  - On the final screen you will be shown that the setup is completed.
-   - Just click on Finish and you are **Done** \o/.
+ - Just click on Finish and you are **Done** \o/.
  ![](en/kmail3.png)
 
 ---
