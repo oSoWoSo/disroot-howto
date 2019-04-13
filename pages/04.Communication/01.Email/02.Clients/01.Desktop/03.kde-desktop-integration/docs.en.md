@@ -15,27 +15,32 @@ page-toc:
 **NOTE:**```If the howto reffers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
 
 ---
-KMail is KDE default mail client.
+|![](en/kde.png)|
+|:--:|
+|KMail is the email component of Kontact, the integrated personal information manager from KDE desktop environment.|
+
 The advantage of using KMail is that it integrates with your desktop and [Kaddressbook](/cloud/apps/contacts/desktop/kde-desktop-integration). Use a package manager to install KMail if it is not installed by default on your favourite distro.  
 
 The client will ask you to add an account the first time you will launch KMail.
- - Follow instructions to fill in all your credentials:
-   - **Full name:** *Name that will be displayed in "from" field*
-   - **E-mail:** *yourusername@disroot.org*
-   - **Password:** *your_super_secret_password*
-   - Click "**Next**" button once you're done and verified everything is correct...
+Follow instructions to fill in all your credentials:
 
-![](en/kmail1.png)
+|![](en/kmail1.png)|Full name: ```Name that will be displayed in the "From:" field```<br>Email: ```your_username_@_disroot.org```<br>Password: ```your_super_secret_password```|
+|:--:|--|
 
- - On the Next screen you will be asked if you want to secure your communication. You are free to choose if you want it or not but it is recommended to encrypt your communication.
-   - Click "**Next**" button once you're done.
+Click "**Next**" once you've done and verified that everything is correct.
 
- ![](en/kmail2.png)
+The next screen will prompt a "Secure your communication" feature setting that will require that you activate it or not. It is recommended to encrypt your communication.
 
- - On the final screen you will be shown that the setup is completed.
- - Just click on Finish and you are **Done** \o/.
+![](en/kmail2.png)
 
- ![](en/kmail3.png)
+Click "**Next**" button once you're done.
+
+
+On the final screen you will be shown that the setup is completed.
+
+![](en/kmail3.png)
+
+Just click on Finish and you're **done** \o/.
 
 ---
 
