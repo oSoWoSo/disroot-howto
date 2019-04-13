@@ -6,33 +6,12 @@ taxonomy:
     category:
         - docs
 page-toc:
-    active: false
+    active: true
 ---
 |![](en/thing2.jpg)|
 |:--:|
 
 # **Disroot How-to** guidelines
-
-## Table of contents
-- [How-to's text content structure](#How-to text content structure)<br>
-    - Meta Information
-    - The how-to content
-- [Some formating tips](#Some formating tips)
-    - Titles
-    - Bullet Points
-    - Bold
-    - Italic
-    - Links
-    - Embedding videos / gifs / screenshots in the howto
-    - Code
-    - Terminologies
-- [Licensing of text how-to's](#Licensing of text how-to's)
-- [Video how-to's](#Video how-to's)
-    - Description of Content
-    - Content
-    - Licensing of video how-to's
-
-----
 
 This section intends to provide some basic guidelines about how to write a tutorial or a how-to for the **Disroot**'s [How-to Website](https://howto.disroot.org).
 The purpose of it is to help keep a similar structure to all the how-tos, and to make sure that they contain some features that the **Disroot** community (after some debates) think are important to be in the tutorials.
