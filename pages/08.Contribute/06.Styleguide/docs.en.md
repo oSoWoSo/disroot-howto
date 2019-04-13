@@ -5,12 +5,34 @@ visible: true
 taxonomy:
     category:
         - docs
+page-toc:
+    active: false
 ---
 |![](en/thing2.jpg)|
 |:--:|
 
-
 # **Disroot How-to** guidelines
+
+## Table of contents
+- [How-to's text content structure](#How-to text content structure)<br>
+    - Meta Information
+    - The how-to content
+- [Some formating tips](#Some formating tips)
+    - Titles
+    - Bullet Points
+    - Bold
+    - Italic
+    - Links
+    - Embedding videos / gifs / screenshots in the howto
+    - Code
+    - Terminologies
+- [Licensing of text how-to's](#Licensing of text how-to's)
+- [Video how-to's](#Video how-to's)
+    - Description of Content
+    - Content
+    - Licensing of video how-to's
+
+----
 
 This section intends to provide some basic guidelines about how to write a tutorial or a how-to for the **Disroot**'s [How-to Website](https://howto.disroot.org).
 The purpose of it is to help keep a similar structure to all the how-tos, and to make sure that they contain some features that the **Disroot** community (after some debates) think are important to be in the tutorials.
@@ -19,7 +41,7 @@ As we mentioned in our contribute page [here](/contribute/git/how-to-use-git), w
 
 But if you're not feel comfortable with these tools you can just write a pad, email, etc. We'll take it all :smiley:
 
-## How-to's text content structure
+# How-to's text content structure
 
 Basically, a how-to should have the following structure:
 
@@ -27,7 +49,7 @@ Basically, a how-to should have the following structure:
 2.  **Content**
 3.  **Licensing Information**
 
-#### Meta Information
+## Meta Information
 This is the first section of the how-to and goes before any content. By meta information we mean:
 - **Date of last change to the howto**: this allow anyone to know how old the howto is
 - **What version of the software in question it reffers to**: this way everyone can see if it is updated and reffers to the same software versions they're using
@@ -45,7 +67,7 @@ All of this can be done by placing a copy of the following paragraph on the top 
 
 [Here](/contribute/git/how-to-use-git/en/template.txt) you can find the template.
 
-### The how-to content
+## The how-to content
 
 We think that how-to's text content should be kept at the minimum for the clarity and portabilaty sake of it. In the ideal case, just the specific context necessary, the essential steps to do a task and, whenever it's possible, supported by visual aids (screenshots, gifs) showing how a task is being done.
 
@@ -68,13 +90,13 @@ The content of a how-to then should meet the following criteria:
 5. **Use bullet points instead of a big paragraphs when describing several steps or features**
 
 
-### Some formating tips
+# Some formating tips
 
 **Disroot**'s [How-to Website](https://howto.disroot.org/) is built with [Grav](https://getgrav.org/), and uses **Markdown** as Markup / Formating text composing language because it's an easy one to do so.
 
 So if you want to write a how-to for **Disroot** and you're not experienced with Markdown, here are some tips and recomandations about the text formating of a tutorial.
 
-#### **Titles**
+## **Titles**
 
 The how-to title itself goes in the page header, you can edit it if you use git.
 
@@ -125,7 +147,7 @@ Smaller titles appear as "sub chapters" in the TOC. This could be useful to do s
 
 ---
 
-#### **Bullet Points**
+## **Bullet Points**
 
 Please, use bullet points to list steps or features in a howto.
 
@@ -140,7 +162,7 @@ Making bullet points is easy. Writing...<br><br>
 
 ---
 
-#### **Bold**
+## **Bold**
 
 Please, use bold to highlight:<br>
 - Important information
@@ -157,7 +179,7 @@ it will be displayed as:
 
 ---
 
-#### **Italic**
+## **Italic**
 
 Italic works in a similar way as bold. You can use the `_` symbol or one `*` symbol before and after the word or text section you want to apply the format.<br>
 Examples:<br>
@@ -173,7 +195,7 @@ _example_<br>
 
 ---
 
-#### **Links**
+## **Links**
 
 Sometimes we need to insert links to some pages or websites. It can be done this way:
 
@@ -184,7 +206,7 @@ will be displayed as:
 [link to Disroot website](disroot.org)
 
 
-#### **Embedding videos / gifs / screenshots in the howto**
+## **Embedding videos / gifs / screenshots in the howto**
 
 As we've mentioned, we like images / videos in the tutorials. You can embed them by doing the following:
 
@@ -212,7 +234,7 @@ The structure described above also works to embed gifs and .mp4 videos.
 
 ---
 
-#### **Code**
+## **Code**
 
 If you need to show some terminal commands, code lines, instructions or examples like the ones we've been doing through this guide, you can use the **`** symbol before and after the text you want to show.<br>
 For example:<br>
@@ -248,7 +270,7 @@ This way, if the expressions are regular, it's easier to just do a "*Search and 
 
 ---
 
-#### Licensing of text how-to's
+# Licensing of text how-to's
 
 As we'd stated at the [licensing page](howto.disroot.org/en/licensing), all how-tos in this website are under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA), so we ask anyone who wants to contribute with a howto to license their work under this same licensing. If you have any doubts, please, visit our licensing page.
 
@@ -271,7 +293,7 @@ You can do it by pasting the following code at the end of the related howto:
 
 ---
 
-## Video how-to's
+# Video how-to's
 
 For video how-tos we also think that the content should be **kept at the minimum** and **short** enough for the user to be able to complete a task and for the clarity sake of it.
 
@@ -283,7 +305,7 @@ Same as the text how-tos, the tutorials should have the folowing structure:
 
 **Meta information** and **licensing information** will be place by the **Disroot** admins in the video description of the Peertube instance where the videos will be hosted.
 
-#### Description of Content
+## Description of Content
 
 To the extent possible, videos should go with:
 
@@ -293,9 +315,9 @@ To the extent possible, videos should go with:
 
 So that they can be placed by **Disroot** admins on the video description at the Peertube instance.
 
-#### Content
+## Content
 
-#### Licensing of video how-to's
+## Licensing of video how-to's
 
 As we mentioned before, the licensing information will be placed by Disroot's Admins in the video description.
 
