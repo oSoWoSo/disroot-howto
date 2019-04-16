@@ -8,36 +8,55 @@ page-toc:
     active: false
 ---
 
-|[**User**<br>![](icons/user.png)](/user/)|[Account](/user/account_password/) & [Personal Data](/user/gdpr/) management.|
-|:--:|--|
-<br>
+# [![](icons/user.png) User](/user)
+- [Account & Password Management](/user/account_password/)
+- [Personal Data](/user/gdpr/) management.
+---
 
-|[**Cloud**<br>![](icons/cloud.png)](/cloud/)|**WEB**:<br>01.[General overview](/cloud/introduction/)<br>02.[Files management](/cloud/files_management)<br>03.[Applications](/cloud/apps/)|**DESKTOP**:<br>[Clients](/cloud/clients/desktop)|**MOBILE**:<br>[Clients](/cloud/clients/mobile)|
-|:--:|--|:--:|:--:|
-<br>
+# [![](icons/cloud.png) Cloud](/cloud/)
+- [General overview](/cloud/introduction/)
+- [Files management](/cloud/files_management)
+- [Applications](/cloud/apps/)
+- [Desktop Clients](/cloud/clients/desktop)
+- [Mobile Clients](/cloud/clients/mobile)
+---
 
-|**COMMUNICATION TOOLS**|
-|:--:|
+# COMMUNICATION TOOLS
 
-|[**Mail**<br>![](icons/email.png)](/communication/email/)|[Email](/communication/email/clients), [Aliases](/communication/email/alias) and [Filters](/communication/email/filters) settings|**WEB**:<br>[Webmail](/communication/email/webmail)<br>|**DESKTOP**:<br>[Clients](/communication/email/clients/desktop)|**MOBILE**:<br>[Clients](/communication/email/clients/mobile)|
-|:--:|--|:--:|:--:|:--:|
-|[**Chat**<br>![](icons/chat.png)](/communication/chat/)||**WEB**:<br>[Webchat](/communication/chat/webchat)|**DESKTOP**:<br>[Clients](/communication/chat/desktop)|**MOBILE**:<br>[Clients](/communication/chat/mobile)|
-|[**Forum**<br>![](icons/forum.png)](/communication/forum/)|<center>[Discourse](/communication/forum/)</center>|
-<br>
+# [![](icons/email.png) Mail](/communication/email/)
+- [Email settings](/communication/email/clients)
+- [Aliases settings](/communication/email/alias)
+- [Filters settings](/communication/email/filters)
+- [Webmail](/communication/email/webmail)
+- [Desktop Clients](/communication/email/clients/desktop)
+- [Mobile Clients](/communication/email/clients/mobile)
 
-|[**SOCIAL**<br>![](icons/social.png)](/social/)|**WEB:**<br>[**DisHub**:<br>Disroot's Hubzilla instance](/social/dishub)|**MOBILE**:<br>[**Nomad**:<br>Disroot's Hubzilla mobile app](/social/nomad)|
-|:--:|:--:|:--:|
-<br>
+# [![](icons/chat.png) Chat](/communication/chat/)
+- [Webchat](/communication/chat/webchat)
+- [Desktop Clients](/communication/chat/desktop)
+- [Mobile Clients](/communication/chat/mobile)
 
-|PROJECTS AND COLLABORATIVE TOOLS|
-|:--:|
+# [![](icons/forum.png) Forum](/communication/forum/)
+---
 
-|[**Project Board**<br>![](icons/project.png)](/projects_office/taiga/)|[Project Management](/projects_office/taiga/)|
-|:--:|--|
+# [![](icons/social.png) SOCIAL](/social/)
+- [**DisHub**](/social/dishub): Disroot's Hubzilla instance
+- [**Nomad**](/social/nomad): Disroot's Hubzilla mobile app
+---
 
-|[**Collaboratory**<br>![](icons/collaborative.png)](/projects_office/)|**WEB**:<br>01.[Pads](/projects_office/pads/)<br>02.[Pastebin](/projects_office/bin)<br>03.[Polls](/projects_office/polls/)<br>04.[File Sharing](/projects_office/lufi/)|**MOBILE**:<br>01.[DisApp](/projects_office/disapp)<br>02.[Padland](/projects_office/padland)|
-|:--:|--|:--:|
-<br>
+# PROJECTS AND COLLABORATIVE TOOLS
+
+# [![](icons/project.png) Project Board](/projects_office/taiga/)
+
+# [![](icons/collaborative.png) Collaboratory](/projects_office/)
+- [Pads](/projects_office/pads/)
+- [Pastebin](/projects_office/bin)
+- [Polls](/projects_office/polls/)
+- [File Sharing](/projects_office/lufi/)
+- Mobile apps
+    - [DisApp](/projects_office/disapp)
+    - [Padland](/projects_office/padland)
+---
 
 |[How-to Glossary](/glossary)|[How-to contribute](/contribute)|[How-to License](/licensing)|
 |:--:|:--:|:--:|
