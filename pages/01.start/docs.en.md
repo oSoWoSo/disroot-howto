@@ -19,7 +19,7 @@ page-toc:
 |**COMMUNICATION TOOLS**|
 |:--:|
 
-|[**Mail**<br>![](icons/email.png)](/communication/email/)|01. [Email settings](/communication/email/clients)<br>02. [Setting aliases](/communication/email/alias)<br>03. [Setting filters](/communication/email/filters)|**WEB**:<br>[Webmail](/communication/email/webmail)<br>|**DESKTOP**:<br>[Clients](/communication/email/clients/desktop)|**MOBILE**:<br>[Clients](/communication/email/clients/mobile)|
+|[**Mail**<br>![](icons/email.png)](/communication/email/)|[Email](/communication/email/clients), [Aliases](/communication/email/alias) and [Filters](/communication/email/filters) settings|**WEB**:<br>[Webmail](/communication/email/webmail)<br>|**DESKTOP**:<br>[Clients](/communication/email/clients/desktop)|**MOBILE**:<br>[Clients](/communication/email/clients/mobile)|
 |:--:|--|:--:|:--:|:--:|
 |[**Chat**<br>![](icons/chat.png)](/communication/chat/)||**WEB**:<br>[Webchat](/communication/chat/webchat)|**DESKTOP**:<br>[Clients](/communication/chat/desktop)|**MOBILE**:<br>[Clients](/communication/chat/mobile)|
 |[**Forum**<br>![](icons/forum.png)](/communication/forum/)|<center>[Discourse](/communication/forum/)</center>|
