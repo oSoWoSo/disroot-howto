@@ -19,6 +19,6 @@ page-toc:
 # Idea behind pads...
 ... is very simple. It's a text/spreadsheet editor that lives in the web. Everything you type in gets written to your pad automatically. You can work on a document with multiple people at the same time without a need to save and pass copies of the documents to each other. Once your work is done, you can export the pad to a format of your choice.
 
-|[**Ownpad**](pad_disroot)|[**Etherpad**](etherpad)|[**EtherCalc**](ethercalc)|
-|:--:|:--:|:--:|
-|Pad plugin for Disroot cloud|Collaborative web text documents editor|Collaborative spreadsheet|
+|[**Etherpad**](etherpad)|[**EtherCalc**](ethercalc)|
+|:--:|:--:|
+|Collaborative web text documents editor|Collaborative spreadsheet|
