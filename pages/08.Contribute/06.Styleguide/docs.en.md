@@ -13,6 +13,27 @@ page-toc:
 
 # **Disroot How-to** guidelines
 
+## Table of contents
+- [How-to's text content structure](#Howto_text_content_structure)
+    - Meta Information
+    - The how-to content
+- [Some formating tips](#Some_formating_tips)
+    - Titles
+    - Bullet Points
+    - Bold
+    - Italic
+    - Links
+    - Embedding videos / gifs / screenshots in the howto
+    - Code
+    - Terminologies
+- [Licensing of text how-to's](#Licensing_of_text_how-tos)
+- [Video how-to's](#Video_howtos)
+    - Description of Content
+    - Content
+    - Licensing of video how-to's
+
+----
+
 This section intends to provide some basic guidelines about how to write a tutorial or a how-to for the **Disroot**'s [How-to Website](https://howto.disroot.org).
 The purpose of it is to help keep a similar structure to all the how-tos, and to make sure that they contain some features that the **Disroot** community (after some debates) think are important to be in the tutorials.
 
@@ -20,6 +41,7 @@ As we mentioned in our contribute page [here](/contribute/git/how-to-use-git), w
 
 But if you're not feel comfortable with these tools you can just write a pad, email, etc. We'll take it all :smiley:
 
+<a name="Howto_text_content_structure"></a>
 # How-to's text content structure
 
 Basically, a how-to should have the following structure:
@@ -68,7 +90,7 @@ The content of a how-to then should meet the following criteria:
 
 5. **Use bullet points instead of a big paragraphs when describing several steps or features**
 
-
+<a name="Some_formating_tips"></a>
 # Some formating tips
 
 **Disroot**'s [How-to Website](https://howto.disroot.org/) is built with [Grav](https://getgrav.org/), and uses **Markdown** as Markup / Formating text composing language because it's an easy one to do so.
@@ -248,7 +270,7 @@ To make the tutorials more coherent and easier to be adapted by other groups, we
 This way, if the expressions are regular, it's easier to just do a "*Search and replace*" :wink:
 
 ---
-
+<a name="Licensing_of_text_how-tos"></a>
 # Licensing of text how-to's
 
 As we'd stated at the [licensing page](howto.disroot.org/en/licensing), all how-tos in this website are under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA), so we ask anyone who wants to contribute with a howto to license their work under this same licensing. If you have any doubts, please, visit our licensing page.
@@ -271,7 +293,7 @@ You can do it by pasting the following code at the end of the related howto:
 
 
 ---
-
+<a name="Video_howtos"><a/>
 # Video how-to's
 
 For video how-tos we also think that the content should be **kept at the minimum** and **short** enough for the user to be able to complete a task and for the clarity sake of it.
