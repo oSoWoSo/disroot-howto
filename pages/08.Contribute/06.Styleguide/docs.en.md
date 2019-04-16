@@ -6,7 +6,7 @@ taxonomy:
     category:
         - docs
 page-toc:
-    active: true
+    active: false
 ---
 |![](en/thing2.jpg)|
 |:--:|
