@@ -123,7 +123,8 @@ Once you think your work is finished and ready to be published on the website, i
 - Add a title
 - Add a descripton
 - Make sure the **source branch** is the one you want to merge from (the one you've been working on)
-- Make sure the **target branch** is the one you want to merge to (usually Master branch)
+- Make sure the **target branch** is the one you want to merge to (usually Master branch
+- Checkin the box **Delete source branch when merge request is accepted.** is also a good thing to do if you're completely done working on your branch.
 
 ![](en/git-merge_request.gif)
 
