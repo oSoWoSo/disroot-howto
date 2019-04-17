@@ -15,8 +15,8 @@ page-toc:
 ---
 
 ## GNU/Linux desktop integration
-- [Gnome: email desktop integration](gnome-desktop-integration)
-- [Kde: email desktop integration](kde-desktop-integration)
+- [GNOME: Email desktop integration](gnome-desktop-integration)
+- [KDE: Email desktop integration](kde-desktop-integration)
 
 ---
 ![](en/email_icon.png)

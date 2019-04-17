@@ -1,5 +1,5 @@
 ---
-title: 'Webchat: XMPP chat client'
+title: 'Chat: Web client'
 published: true
 visible: false
 taxonomy:
@@ -16,7 +16,7 @@ page-toc:
 **NOTE:**```If the howto reffers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
 
 ---
-|![](en/converse.svg)|
+|![](en/converse.png)|
 |:--:|
 |Converse is a free and open-source XMPP chat client that runs in a web browser and<br>**[webchat.disroot.org](https:webchat.disroot.org)** provides a way to connect to your XMPP account through it.|
 
