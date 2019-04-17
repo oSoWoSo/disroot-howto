@@ -1,5 +1,5 @@
 ---
-title: How-to setup email alias
+title: How-to setup an email alias
 visible: false
 taxonomy:
     category:

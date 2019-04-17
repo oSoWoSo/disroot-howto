@@ -1,5 +1,5 @@
 ---
-title: Email Settings
+title: Email Clients
 visible: false
 taxonomy:
     category:
@@ -8,26 +8,6 @@ page-toc:
      active: false
 ---
 
-This is the information you need if you want to configure an email client.
-
-|IMAP|SSL Port|Authentication|
-|:--:|:--:|:--:|
-|disroot.org|993|Normal Password|
-
-<br>
-
-|SMTP|STARTTLS Port|Authentication|
-|:--:|:--:|:--:|
-|disroot.org|587|Normal Password|
-
-<br>
-
-|SMTPS|TLS Port|Authentication|
-|:--:|:--:|:--:|
-|disroot.org|465|Normal Password|
-
-<br>
-
-|POP|SSL Port|Authentication|
-|:--:|:--:|:--:|
-|disroot.org|995|Normal Password|
+|[Desktop](desktop)|[Mobile](mobile)|
+|:--:|:--:|
+|[Multiplatform](thunderbird)<br><br>**Desktop integration:**<br>[GNOME Desktop](gnome-desktop-integration)<br>[KDE Desktop](kde-desktop-integration)|**Android:**<br>[K9](k9)<br><br>**SailfishOS:**<br>[Mail App](sailfishos)<br><br>**iOS:**<br>[Mail App](ios)|
