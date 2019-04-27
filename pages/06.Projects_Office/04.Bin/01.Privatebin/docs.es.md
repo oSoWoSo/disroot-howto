@@ -3,7 +3,7 @@ title: PrivateBin
 page-toc:
   active: true
 published: true
-visible: false
+visible: true
 taxonomy:
     category:
         - docs
