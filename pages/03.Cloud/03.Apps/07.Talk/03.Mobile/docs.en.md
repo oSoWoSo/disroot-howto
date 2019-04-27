@@ -1,5 +1,5 @@
 ---
-title: Calls: Mobile
+title: Talk: Mobile
 published: true
 visible: false
 taxonomy:
@@ -9,4 +9,4 @@ page-toc:
     active: false
 ---
 
-## Calls
+## Talk
