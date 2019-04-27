@@ -9,12 +9,12 @@ page-toc:
     active: false
 ---
 ### Settings
-- [Email](email/settings/)
-- [Alias](email/alias)
-- [Filters](email/filters)
+- [Email](settings/)
+- [Alias](alias)
+- [Filters](filters)
 
-### [Webmail](email/webmail)
+### [Webmail](webmail)
 
-### [Email Clients](email/clients)
-- [**Desktop clients**](email/clients/desktop)
-- [**Mobile clients**](email/clients/mobile)
+### [Email Clients](clients)
+- [**Desktop clients**](clients/desktop)
+- [**Mobile clients**](clients/mobile)
