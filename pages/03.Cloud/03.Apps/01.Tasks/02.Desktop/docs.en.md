@@ -11,7 +11,6 @@ page-toc:
 You can read the tutorials below in order to get your **Tasks** syncronized throught a multiplatform desktop client.
 
 - [Thunderbird: Calendar / Contacts / Tasks sync](/cloud/clients/desktop/multiplatform/thunderbird-calendar-contacts)
-- [calcurse: Calendar sync](/cloud/clients/desktop/multiplatform/calcurse-caldav)
 
 Alternatively, you can use and set up the desktop integration.
 
