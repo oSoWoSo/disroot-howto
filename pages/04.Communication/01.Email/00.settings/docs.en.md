@@ -33,6 +33,6 @@ This is the information you need if you want to configure an email client.
 ---
 
 #### Related how-tos:
-- [**Webmail**](webmail)
-- [**Desktop Clients**](clients/desktop)
-- [**Mobile Clients**](clients/mobile)
+- [**Webmail**](communication/email/webmail)
+- [**Desktop Clients**](communication/email/clients/desktop)
+- [**Mobile Clients**](communication/email/clients/mobile)
