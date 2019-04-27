@@ -1,7 +1,7 @@
 ---
 title: PrivateBin
 page-toc:
-  active: true
+    active: false
 published: true
 visible: false
 taxonomy:
