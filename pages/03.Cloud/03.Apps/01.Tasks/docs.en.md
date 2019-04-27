@@ -11,5 +11,11 @@ page-toc:
 
 ## Tasks
 
-|[**WEB**](web)|[**DESKTOP**](desktop)|[**MOBILE**](mobile)|
-|:--:|:--:|:--:|
+### [Web interface](web)
+- Creating and configuring tasks
+
+### [Desktop clients](desktop)
+- Desktop clients and applications for organizing and synchronizing tasks
+
+### [Mobile clients](mobile)
+- Mobile clients and settings for organizing and synchronizing tasks

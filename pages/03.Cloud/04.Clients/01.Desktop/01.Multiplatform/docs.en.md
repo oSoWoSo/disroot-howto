@@ -7,7 +7,6 @@ taxonomy:
         - docs
 ---
 
-Here are howtos and tutorials for multiplatform applications (apps that work on different operating systems).
-
-- [Thunderbird: Calendar and Contact sync](thunderbird-calendar-contacts)
-- [Calcurse calendar sync](calcurse-caldav)
+|[Nextcloud client](desktop-sync-client)|[Thunderbird](thunderbird-calendar-contacts)|[calcurse](calcurse-caldav)|
+|:--:|:--:|:--:|
+|Desktop sync client|Calendar, Contacts & Tasks sync|Calendar sync for the command line|

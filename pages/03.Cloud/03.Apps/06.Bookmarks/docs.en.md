@@ -11,5 +11,11 @@ page-toc:
 
 ## Bookmarks
 
-|[**WEB**](web)|[**DESKTOP**](desktop)|[**MOBILE**](mobile)|
-|:--:|:--:|:--:|
+### [Web interface](web)
+- Creating, editing and exporting Bookmarks
+
+### [Desktop clients](desktop)
+- Desktop clients to manage your Bookmarks
+
+### [Mobile clients](mobile)
+- Bookmarks Apps, device settings

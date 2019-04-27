@@ -8,31 +8,13 @@ taxonomy:
 page-toc:
     active: false
 ---
+### Settings
+- [Email](email/settings/)
+- [Alias](email/alias)
+- [Filters](email/filters)
 
-# Settings
-This is the information you need if you want to configure an email client.
+### [Webmail](email/webmail)
 
-|IMAP|SSL Port|Authentication|
-|:--:|:--:|:--:|
-|disroot.org|993|Normal Password|
----
-
-|SMTP|STARTTLS Port|Authentication|
-|:--:|:--:|:--:|
-|disroot.org|587|Normal Password|
----
-
-|SMTPS|TLS Port|Authentication|
-|:--:|:--:|:--:|
-|disroot.org|465|Normal Password|
----
-
-|POP|SSL Port|Authentication|
-|:--:|:--:|:--:|
-|disroot.org|995|Normal Password|
----
-
-## Environment / Device
-
-|[**Webmail**](webmail)|[**Desktop Clients**](clients/desktop)|[**Mobile Clients**](clients/mobile)|
-|:--:|:--:|:--:|
+### [Email Clients](email/clients)
+- [**Desktop clients**](email/clients/desktop)
+- [**Mobile clients**](email/clients/mobile)

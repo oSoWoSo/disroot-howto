@@ -9,8 +9,7 @@ page-toc:
     active: false
 ---
 
-## Environment / Device
+### [Desktop clients and Integration](desktop)
 
-|[Desktop](desktop)|[Mobile](mobile)|
-|:--:|:--:|
-|Desktop Clients & Integration|Syncing your devices|
+### [Mobile clients](mobile)
+- Nextcloud Apps, clients, DAVx⁵, device settings

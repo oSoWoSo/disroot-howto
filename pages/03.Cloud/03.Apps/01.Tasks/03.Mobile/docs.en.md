@@ -9,4 +9,6 @@ page-toc:
     active: false
 ---
 
-## Tasks
+To set up and sync your **Tasks** throught a mobile client see the tutorial below:
+
+- [Android: Nextcloud app](/cloud/clients/mobile/android/calendars-contacts-and-tasks)

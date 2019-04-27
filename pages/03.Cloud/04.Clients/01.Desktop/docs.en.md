@@ -8,9 +8,11 @@ visible: true
 page-toc:
     active: false
 ---
+### [Multiplatform Desktop Clients](multiplatform)
+- **Nextcloud** multiplatform clients
 
-## Environment
+### [GNU/Linux](gnu-linux)
+- Desktop Integration
 
-|[Desktop](multiplatform)|[GNU/Linux](gnu-linux)|
-|:--:|:--:|
-|Multiplatform Clients<br>|Desktop Clients & Integration|
+### [MacOS](mac-os)
+- MacOS device integration
