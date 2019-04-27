@@ -26,7 +26,13 @@ page-toc:
 Nextcloud is a free and open source software that allows you to upload and storage files on a server (it could be a server of your own), syncing them with different devices to which you can safely access from anywhere via internet. In addition, Nextcloud provides some interesting and useful features like calendars, contacts and bookmarks synchronization, call/video conference and news feeder.<br>
 
 ----------
+# Content
+## [Introduction to Nextcloud](introduction)
+- User interface, settings
+#### [Files management](files_management)
+#### [Applications](apps)
 
-|[Web](introduction)|[Desktop](/cloud/clients/desktop)|[Mobile](/cloud/clients/mobile)|
-|:--:|:--:|:--:|
-|01.General Overview<br>02.Settings<br>03.Files management<br>04.Apps|01.Desktop Clients & Integration<br>02.Apps|01.Syncing your devices<br>02.Apps|
+## [Desktop clients](/cloud/clients/desktop)
+- Clients and desktop integration
+
+## [Mobile clients](/cloud/clients/mobile)

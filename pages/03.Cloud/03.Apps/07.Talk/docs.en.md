@@ -9,7 +9,13 @@ page-toc:
     active: false
 ---
 
-## Calls
+## Talk
 
-|[**WEB**](web)|[**DESKTOP**](desktop)|[**MOBILE**](mobile)|
-|:--:|:--:|:--:|
+### [Web interface](web)
+- Audio/video calls, settings
+
+### [Desktop clients](desktop)
+- Talk App desktop clients
+
+### [Mobile clients](mobile)
+- Talk App, device settings

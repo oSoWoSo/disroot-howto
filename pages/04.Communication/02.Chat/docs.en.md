@@ -23,8 +23,13 @@ XMPP provides an open and decentralized alternative to closed instant messaging 
 * It's **Extensible** (anyone can build custom functionality on top of the core protocols (common extensions are published in the XEP series)
 
 ... among other features.
-<br>
 
-|**WEB**|**Desktop Clients**|**Mobile Clients**|
-|:--:|:--:|:--:|
-|[Webchat](webchat)|01.[Pidgin](desktop/pidgin)<br>02.[Gajim](desktop/gajim)<br>03.[Dino](desktop/dino)|01.[Android clients](mobile/android)<br>02.[Sailfish OS](mobile/sailfishos)<br>03.[iOS](mobile/ios)|
+----
+## Content
+### [Webchat](webchat)
+
+### [Desktop clients](desktop)
+- Multiplatform and GNU/Linux clients
+
+### [Mobile clients](mobile)
+- Android, SeilfishOS and iOS clients

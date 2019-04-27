@@ -11,5 +11,11 @@ page-toc:
 
 ## Contacts
 
-|[**WEB**](web)|[**DESKTOP**](desktop)|[**MOBILE**](mobile)|
-|:--:|:--:|:--:|
+### [Web interface](web)
+- Creating, editing and syncing contacts
+
+### [Desktop clients](desktop)
+- Desktop clients and integration settings for organizing and synchronizing your contacts
+
+### [Mobile clients](mobile)
+- Mobile clients and settings for organizing and synchronizing your contacts

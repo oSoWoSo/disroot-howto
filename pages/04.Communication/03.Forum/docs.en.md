@@ -13,5 +13,8 @@ page-toc:
 |:--:|
 |Discourse is an Open Source internet forum and mailing list management software.|
 <br>
-|**[Forum Basics](basics)**|**[Mailing list](mailinglist)**|
-|:--:|:--:|
+
+# Content
+
+## [Forum Basics](basics)
+## [Mailing list](mailinglist)

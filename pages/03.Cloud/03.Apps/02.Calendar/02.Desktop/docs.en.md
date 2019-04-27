@@ -8,15 +8,12 @@ taxonomy:
 page-toc:
     active: false
 ---
+You can read the tutorials below in order to get your **Calendars** syncronized throught a multiplatform desktop client.
 
- ## Table of content
+- [Thunderbird: Calendar / Contacts / Tasks sync](/cloud/clients/desktop/multiplatform/thunderbird-calendar-contacts)
+- [calcurse: Calendar sync](/cloud/clients/desktop/multiplatform/calcurse-caldav)
 
-Nextcloud integrates with GNU/Linux greatly. Below you can find useful links that will help you get everything up and running.
+Alternatively, you can use and set up the desktop integration.
 
- - [GNOME: Desktop Integration](gnome-desktop-integration)
- - [KDE: Desktop Integration](kde-desktop-integration)
-
-In alternative you can use some multiplatform applications (apps that work on different operating systems).
-
-- [Thunderbird: Calendar and Contact sync](thunderbird-calendar-contacts)
-- [Calcurse calendar sync](calcurse-caldav)
+ - [GNOME: Desktop Integration](/cloud/clients/desktop/gnu-linux/gnome-desktop-integration)
+ - [KDE: Desktop Integration](/cloud/clients/desktop/gnu-linux/kde-desktop-integration)

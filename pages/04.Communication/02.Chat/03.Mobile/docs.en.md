@@ -9,5 +9,11 @@ page-toc:
      active: false
 ---
 
-|[**Android**](android)|[**SailfishOS**](sailfishos)|[**iOS**](ios)|
-|:--:|:--:|:--:|
+### Android
+#### [Conversations](android/conversations)
+
+### SailfishOS
+#### [Chat app](sailfishos)
+
+### iOS
+#### [Chat Secure](ios)

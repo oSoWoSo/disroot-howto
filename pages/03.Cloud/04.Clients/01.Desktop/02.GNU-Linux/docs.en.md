@@ -1,5 +1,5 @@
 ---
-title: Desktop clients: GNU/Linux
+title: Desktop integration: GNU/Linux
 taxonomy:
     category:
         - docs
@@ -9,10 +9,8 @@ page-toc:
 ---
 |![](gnu_linux.png)|
 |:--:|
-|Nextcloud integrates with GNU/Linux greatly. Below you can find useful links that will help you get everything up and running.|
+|**Nextcloud** integrates exceedingly well with **GNU/Linux**. The how-tos below contains the information to set up the desktop integration.|
 
- ## Table of content
- - [Syncing files with desktop client](desktop-sync-client)
- - [GNOME: Desktop Integration](gnome-desktop-integration)
- - [KDE: Desktop Integration](kde-desktop-integration)
- - [News app: Syncing with your desktop](news-app-syncing)
+ |[GNOME](gnome-desktop-integration)|[KDE](kde-desktop-integration)|
+ |:--:|:--:|
+ |Desktop Integration|Desktop Integration|

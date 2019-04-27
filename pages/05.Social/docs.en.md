@@ -8,8 +8,7 @@ page-toc:
     active: false
 ---
 
-# DisHub
+# DisHub: Disroot's Hubzilla Instance
 
-|**WEB**|**MOBILE**|
-|:--:|:--:|
-|[Disroot's Hubzilla Instance](dishub)|[Nomad](nomad)|
+### [DisHub How-to](dishub)
+### [Nomad](nomad) (Mobile app for DisHub)

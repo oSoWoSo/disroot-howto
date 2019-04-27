@@ -11,5 +11,11 @@ page-toc:
 
 ## News
 
-|[**WEB**](web)|[**DESKTOP**](desktop)|[**MOBILE**](mobile)|
-|:--:|:--:|:--:|
+### [Web interface](web)
+- Managing and configuring news feeds
+
+### [Desktop clients](desktop)
+- News feeds desktop clients
+
+### [Mobile clients](mobile)
+- News Apps, device settings

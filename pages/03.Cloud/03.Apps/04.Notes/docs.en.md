@@ -10,5 +10,11 @@ page-toc:
 ---
 ## Notes
 
-|[**WEB**](web)|[**DESKTOP**](desktop)|[**MOBILE**](mobile)|
-|:--:|:--:|:--:|
+### [Web interface](web)
+- Creating and editing notes
+
+### [Desktop clients](desktop)
+- Notes app desktop clients
+
+### [Mobile clients](mobile)
+- Notes App, DAVx⁵, device settings

@@ -11,5 +11,11 @@ page-toc:
 
 ## Calendar
 
-|[**WEB**](web)|[**DESKTOP**](desktop)|[**MOBILE**](mobile)|
-|:--:|:--:|:--:|
+### [Web interface](web)
+- Creating and configuring calendars
+
+### [Desktop clients](desktop)
+- Desktop clients and integration settings for organizing and synchronizing calendars
+
+### [Mobile clients](mobile)
+- Mobile clients and settings for organizing and synchronizing calendars
