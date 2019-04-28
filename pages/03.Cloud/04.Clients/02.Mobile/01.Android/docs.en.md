@@ -15,6 +15,6 @@ In the following How-to, we'll try to help you integrate Nextcloud with your And
 - [Syncing Calendars, Contacts and Tasks](calendars-contacts-and-tasks)
 - [Migrating contacts from Google into Nextcloud](https://howto.disroot.org/en/nextcloud/sync-with-your-cloud/android/migrating-contacts-from-google)
 - [Syncing News](using-news)
-- [Syncing Notes](Using-notes)
+- [Syncing Notes](using-notes)
 
 ![](android.jpg)
