@@ -1,5 +1,5 @@
 ---
-title: Notes: Mobile
+title: Notes: Nextcloud Mobile app
 published: true
 visible: false
 taxonomy:
@@ -9,5 +9,4 @@ page-toc:
     active: false
 ---
 
-# Android
-## [Nextcloud Notes App](android/nc_notes)
+# Nextcloud Notes App

@@ -9,7 +9,7 @@ page-toc:
     active: false
 ---
 
-You can download your files as easy as in case of any Nextcloud app.
+You can download your files as easy as in case of any **Nextcloud** app.
 
 1. Login to [cloud](https://cloud.disroot.org)
 

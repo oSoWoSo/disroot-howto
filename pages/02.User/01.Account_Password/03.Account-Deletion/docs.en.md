@@ -8,8 +8,10 @@ taxonomy:
 
 ---
 
-To delete your Disroot navigate to https://user.disroot.org and log in with your Disroot credentials.
+To delete your **Disroot** account, navigate to [https://user.disroot.org](https://user.disroot.org) and log in with your **Disroot** credentials.
 
 Select the 'Delete my Account' box and continue as instructed.
 
-Please notice: This process is irreversible! Once confirmed you will not be able to log in to your account or ask to restore it later. All your remaining data will be deleted within 48 hours, and your current user name will not be available when creating a new account.
+|![](en/note.png) NOTE|
+|:--:|
+|**This process is irreversible.**<br>Once confirmed, **you won't be able to log in** to your account or ask **to restore it** later. **All your remaining data will be deleted** within 48 hours, and **your current user name will not be available** when creating a new account.

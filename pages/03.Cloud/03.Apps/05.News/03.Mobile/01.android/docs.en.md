@@ -1,5 +1,5 @@
 ---
-title: Notes: Mobile
+title: News: Android News apps
 published: true
 visible: false
 taxonomy:
@@ -10,4 +10,4 @@ page-toc:
 ---
 
 # Android
-## [Nextcloud Notes App](android/nc_notes)
+## [Nextcloud News app](nc_news)

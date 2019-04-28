@@ -10,11 +10,11 @@ taxonomy:
 ---
 |![](en/calcurse.png)|
 |:--:|
-|calcurse is "a calendar and scheduling application for the command line", quoting [its website](http://calcurse.org/).|
+|calcurse is "a calendar and scheduling application for the command line", as mentioned at [its website](http://calcurse.org/).|
 
-This tutorial shows you how to set up synchronization between your Nextcloud calendar and calcurse.
+This tutorial shows you how to set up synchronization between your **Nextcloud** calendar and **calcurse**.
 
-Note: the following has been tested on GNU/Linux with the Nextcloud instance hosted on Disroot, although it should work on other Unix-like OS's with other Nextcloud instances, too.
+![](en/note.png) **Note:** the following has been tested on **GNU/Linux** with the **Nextcloud** instance hosted on **Disroot**, although it should work on other Unix-like OS's with other **Nextcloud** instances, too.
 
 ## Before we start
 

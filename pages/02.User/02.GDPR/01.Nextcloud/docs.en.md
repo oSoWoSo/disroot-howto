@@ -8,5 +8,10 @@ visible: true
 page-toc:
     active: false
 ---
+## How-to export your...
 
-<br>
+  - [**Files and Notes**](files)
+  - [**Contacts**](contacts)
+  - [**Calendars**](calendar)
+  - [**News**](news)
+  - [**Bookmarks**](bookmarks)

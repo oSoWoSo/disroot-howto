@@ -10,7 +10,7 @@ page-toc:
 ---
 
 # Contacts
-You can access the contacts app by by pressing the contacts icon ![](en/contacts_top_icon.png?resize=20,20) on the top bar, in nexcloud.
+You can access the contacts app by pressing the contacts icon ![](en/contacts_top_icon.png?resize=20,20) on the top bar, in **Nextcloud**.
 
 ----------------------
 ## Create a contact
@@ -30,8 +30,8 @@ Just type the information you want/have in the fields. If you need, you can just
 -----------------------
 ## Delete a contact
 
-* select the contact
-* in the contact form header, select the delete icon
+* Select the contact
+* In the contact form header, select the delete icon
 
 ![](en/contacts_delete.png)
 
@@ -54,13 +54,13 @@ Go to "settings" on the lower left corner of the screen in the contacts app.
 
 ![](en/contacts_share1.png)
 
-In settings you can share your address book with other Disroot users by:
-selecting share address book
-writing the username of the disroot user you want to share the address book with.
+In settings you can share your address book with other **Disroot** users by:<br>
+ - Selecting share address book
+ - Writing the username of the **Disroot** user you want to share the address book with.
 
 ![](en/contacts_share2.png)
 
-You can also use a link to share your address book via webDAV, to other contact books (thunderbird, mobile, etc,).
+You can also use a link to share your address book via **webDAV**, to other contact books (**Thunderbird**, mobile, etc,).
 
 ![](en/contacts_share3.png)
 
@@ -69,7 +69,7 @@ You can also use a link to share your address book via webDAV, to other contact 
 
 You can import address books or individual contacts, if you have a vcf file of the contact or the address book.
 
-* selecting "import".
+* Selecting "Import".
 
 ![](en/contacts_import1.png)
 
@@ -86,7 +86,7 @@ Inside settings in the field "Address book name" write the name of the new addre
 # Syncing cloud contacts with webmail
 Syncing cloud contacts with Webmail is very easy. It will permit contacts from your webmail and cloud to be in sync.
 
-First go to your Nexcloud contacts app. Click on the settings icon in the lower left corner.
+First go to your **Nexcloud** contacts app. Click on the settings icon in the lower left corner.
 Select "Show URL" option of the addressbook you would like to sync with webmail, and copy the given link.
 
 ![](en/webmail_import_contacts1.png)
