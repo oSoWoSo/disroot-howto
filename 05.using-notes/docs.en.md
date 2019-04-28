@@ -9,7 +9,7 @@ taxonomy:
         - docs
 ---
 
-In this tutorial we'll show you how to setup and use your disroot notes in your Android device.
+In this tutorial we'll see how to setup and use your disroot notes in your Android device.
 
 ----------
 
