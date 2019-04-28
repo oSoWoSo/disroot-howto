@@ -9,8 +9,7 @@ page-toc:
   active: true
 ---
 
-News app is pretty handy tool to keep track of the new articles and posts of all the websites you like to follow in one place. Disroot cloud provides great and simple to use app that does the job for you and syncs it to all your devices. In this tutorial we'll try to cover the basic usage, if you are interested in integrating it with your devices choose your prefered operating system in [this](https://howto.disroot.org/nextcloud/sync-with-your-cloud) section.
-
+**News** app is a pretty handy tool to keep track of the articles and posts of all the websites you like following in one place. **Disroot** cloud provides an app that does the job for you and syncs it to all your devices. In this tutorial we'll try to cover the basic usage.
 
 ----------
 # News App on Disroot

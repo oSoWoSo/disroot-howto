@@ -96,4 +96,4 @@ You will see a folder titled "Notes". Inside you can find your notes in .txt fil
 
 ![](en/nextcloud_notes11.png)
 
-Toutes les modifications que vous apportez à vos notes dans l'application Notes de Disroot des notes, ou dans le fichier. txt apparaîtront dans votre appareil Android dans l'application nextCloud Notes et vice versa.
+Any changes you make to your notes in the **Disroot** Notes application, or in the. txt file, will appear in your **Android** device in the **Nextcloud** Notes app and vice versa.

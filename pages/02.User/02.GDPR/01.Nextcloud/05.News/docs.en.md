@@ -7,7 +7,7 @@ taxonomy:
         - docs
 ---
 
-Exporting your news feeds and your subscriptions is as easy as in case of any Nextcloud app.
+Exporting your news feeds and your subscriptions is as easy as in case of any **Nextcloud** app.
 
 1. Login to [cloud](https://cloud.disroot.org)
 

@@ -51,8 +51,8 @@ The settings are divided into sections. On the *left-section* you'll find quick 
 The levels you can choose are:
 
 - **Private**: You are the only person that can see this information
-- **Local**: The information will be visible to other Disroot Cloud users (only if they know your username)
-- **Contacts**: Besides other Disroot Cloud users, the information will be shared with users on other Nextcloud instances when you share data or files with them.
+- **Local**: The information will be visible to other **Disroot** Cloud users (only if they know your username)
+- **Contacts**: Besides other **Disroot** Cloud users, the information will be shared with users on other Nextcloud instances when you share data or files with them.
 - **Public**: The information will be sent to a global address book (which means it can be viewed by anyone)
 
 |![](en/note.png) **NOTE**|
@@ -61,7 +61,7 @@ The levels you can choose are:
 
 ## Other information and settings
 Below the profile picture you can see:
-- **the groups** you belong to (if any). By default, Disroot accounts are not associated with any group.
+- **the groups** you belong to (if any). By default, **Disroot** accounts are not associated with any group.
 - **the quota** of storage space you're using.
 
 ![](en/settings_window_details.png)
