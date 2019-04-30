@@ -1,5 +1,5 @@
 ---
-title: Mobile clients: Calendars, Contacts and Tasks
+title: Mobile clients: DAVx⁵ / OpenTasks
 visible: true
 page-toc:
   active: true
@@ -9,10 +9,12 @@ taxonomy:
         - docs
 ---
 
-**Disroot** has calendar, contacts and tasks apps enabled.
+**Disroot** has Calendar, Contacts and Tasks apps enabled.
 
-In this tutorial we'll see how to setup and use **Disroot** Calendar, Contacts and Tasks on your **Android** device.
+In this tutorial we'll see how to setup and use them on your **Android** device.
+
 To do this you will need to install the **DAVx⁵** and **Open Tasks** apps.
+
 For **Open Tasks** to work it will need **DAVx⁵** to also be installed, but if you just want to sync your calendar or contacts you don't need to install **Open Tasks**.
 
 

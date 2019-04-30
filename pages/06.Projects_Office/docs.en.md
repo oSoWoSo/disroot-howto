@@ -24,4 +24,4 @@ Here's a bunch of collaborative web tools you may want to give them a try.
 ### File Sharing: [Upload](lufi)
 
 ### [**DisApp**](disapp)
-- The Disroot app that gather all this tools and other Disroot services
+- The **Disroot** app that gather all this tools and other **Disroot** services

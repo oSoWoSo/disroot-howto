@@ -12,17 +12,20 @@ taxonomy:
 |:--:|
 |calcurse is "a calendar and scheduling application for the command line", quoting [its website](http://calcurse.org/).|
 
-This tutorial shows you how to set up synchronization between your Nextcloud calendar and calcurse.
+In this tutorial we'll see how to set up synchronization between **Nextcloud** calendar and **calcurse**.
 
-Note: the following has been tested on GNU/Linux with the Nextcloud instance hosted on Disroot, although it should work on other Unix-like OS's with other Nextcloud instances, too.
+|![](en/note.png) **Note**|
+|:--:|
+|The following procedure has been tested on **GNU/Linux** with the **Nextcloud** instance hosted on **Disroot**, although it should work on other **Unix**-like OS's with other **Nextcloud** instances, too.|
+
 
 ## Before we start
 
-According to the website of the project, CalDAV support is currently experimental. For this reason, making backups, especially *before* the initial setup, is highly recommended.
+According to the project's website, **CalDAV** support is currently experimental. For this reason, making backups, especially *before* the initial setup, is highly recommended.
 
-For more information on how to back up (i.e. download a local copy of) your calendar, look at [this section](https://howto.disroot.org/en/nextcloud/apps/calendar#delete-edit-download-calendar) in the howto on the Nextcloud Calendar app.
+For more information on how to back up *(i.e. download a local copy of)* your calendar, look at [this section](/cloud/apps/calendar/web#delete-edit-download-calendar) of the **Nextcloud** Calendar app how-to.
 
-Also, if you've already used calcurse locally, you may want to back up the content of the configuration files and database(s) of calcurse as well, typically located at `~/.calcurse/caldav/` (where `~` is your home directory).
+Also, if you've already used **calcurse** locally, you may want to back up the content of the configuration files and database(s) of **calcurse** as well, typically located at `~/.calcurse/caldav/` (where `~` is your home directory).
 
 ## Create a configuration file
 
@@ -49,7 +52,7 @@ Hostname = some.hostname.com
 Path = /path/to/calendar/on/the/server/
 ```
 
-Replace the host name with `cloud.disroot.org` and the path with `remote.php/dav/calendars/username/calendar-id/`. You can find out what the exact path is by logging into your Nextcloud account, opening the calendar app, and, on the left sidebar, clicking on the three dots next to the calendar name and then "Link". Now, you should be able to see and copy a hyperlink that looks like `https://cloud.disroot.org/remote.php/dav/calendars/username/calendar-id/`.
+Replace the host name with `cloud.disroot.org` and the path with `remote.php/dav/calendars/username/calendar-id/`. You can find out what the exact path is by logging into your **Nextcloud** account, opening the calendar app, and, on the left sidebar, clicking on the three dots next to the calendar name and then "Link". Now, you should be able to see and copy a hyperlink that looks like `https://cloud.disroot.org/remote.php/dav/calendars/username/calendar-id/`.
 
 ![Screenshot of the popup menu that appears after clicking on the three dots](en/nextcloud-cal-link.png)
 
@@ -97,8 +100,8 @@ For syncing for the first time, you need to issue the command `calcurse-caldav` 
 --init=two-way     # Copy local objects to the CalDAV server and vice versa
 ```
 
-In other words, if, for instance, you want to import your calendar from Nextcloud to calcurse *without* making any changes on Nextcloud for the first time, use `calcurse-caldav --init=keep-remote`.
+In other words, if, for instance, you want to import your calendar from **Nextcloud** to calcurse *without* making any changes on **Nextcloud** for the first time, use `calcurse-caldav --init=keep-remote`.
 
 If there are no error messages, go back to your `config` file and change the value of `DryRun` to `No`, and run the above command again. For any subsequent sync requests, `calcurse-caldav` (optionally with the `CALCURSE_CALDAV_PASSWORD` variable, as mentioned earlier) will be enough.
 
-And that's it! If everything went well, you should have synchronization set up between your Nextcloud calendar and calcurse through CalDAV.
+And that's it! If everything went well, you should have synchronization set up between your **Nextcloud** calendar and **calcurse** through **CalDAV**.

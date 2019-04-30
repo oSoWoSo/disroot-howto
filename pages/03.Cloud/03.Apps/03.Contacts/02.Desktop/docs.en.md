@@ -8,7 +8,7 @@ taxonomy:
 page-toc:
     active: false
 ---
-You can read the tutorials below in order to get your **Contacts** syncronized throught a multiplatform desktop client.
+You can read the tutorials below in order to get your **Contacts** syncronized through a multiplatform desktop client.
 
 - [Thunderbird: Calendar / Contacts / Tasks sync](/cloud/clients/desktop/multiplatform/thunderbird-calendar-contacts)
 
