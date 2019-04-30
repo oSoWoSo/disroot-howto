@@ -11,9 +11,9 @@ page-toc:
 
 **Disroot** has the Calendar app enabled.
 
-To setup and use your **Disroot** calendar on your **Android** device you'll need to install the **DAVx⁵** and **Tasks** apps first.
+To setup and use your **Disroot** calendar on your **Android** device you'll need to install the **DAVx⁵** and **OpenTasks** apps first.
 
-**Tasks** needs **DAVx⁵** installed to work, but if you just want to sync your Calendar or Contacts then you don't need to have **Tasks** installed.
+**OpenTasks** needs **DAVx⁵** installed to work, but if you just want to sync your Calendar or Contacts then you don't need to have **Tasks** installed.
 
 
 ----------
