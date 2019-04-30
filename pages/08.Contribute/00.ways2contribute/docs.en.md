@@ -9,7 +9,7 @@ page-toc:
 ---
 Here are some ways you can chose:
 
-#### [GIT](/contribute/git/how-to-use-git)
+#### [GIT](/contribute/git)
 You can work offline, writing a how-to or improving an existing one, and then "push" the changes through Git.<br><br>**Technical level required**: Basic.
 
 #### [PAD](/contribute/pad)
