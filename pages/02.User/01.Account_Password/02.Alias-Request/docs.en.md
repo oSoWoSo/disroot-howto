@@ -10,7 +10,7 @@ taxonomy:
 
 Aliases are available for regular supporters. By regular supporters we mean those who "buy" us at least one cup of coffee a month.
 
-It's not that we are promoting coffee (which is, actually, a very handy symbol for [exploitation and inequality](http://www.foodispower.org/coffee/). We thought that is a good way to let people measure themselves how much they can give.
+It's not that we are promoting coffee (which is, actually, a very handy symbol for [exploitation and inequality](http://www.foodispower.org/coffee/)). We thought that is a good way to let people measure themselves how much they can give.
 
 Please take time to consider your contribution.
 

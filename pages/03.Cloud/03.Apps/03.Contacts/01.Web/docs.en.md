@@ -10,7 +10,7 @@ page-toc:
 ---
 
 # Contacts
-You can access the contacts app by pressing the contacts icon ![](en/contacts_top_icon.png?resize=20,20) on the top bar, in **Nextcloud**.
+You can access the app by pressing the contacts icon ![](en/contacts_top_icon.png?resize=20,20) on the top bar, in **Nextcloud**.
 
 ----------------------
 ## Create a contact

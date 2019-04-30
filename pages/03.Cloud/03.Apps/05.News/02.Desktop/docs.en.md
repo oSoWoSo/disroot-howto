@@ -9,4 +9,13 @@ page-toc:
     active: false
 ---
 
-## News
+## Desktop clients and applications
+
+#### Multiplatform News clients
+
+#### GNU/Linux News clients
+----
+
+### Related How-to's
+#### [GNOME: Desktop Integration](/cloud/clients/desktop/gnu-linux/gnome-desktop-integration)
+#### [KDE: Desktop Integration](/cloud/clients/desktop/gnu-linux/kde-desktop-integration)
