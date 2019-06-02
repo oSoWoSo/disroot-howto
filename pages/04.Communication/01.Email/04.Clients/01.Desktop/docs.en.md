@@ -10,7 +10,8 @@ page-toc:
 ---
 
 ## Multiplatform clients
-- [Thunderbird: multiplatform email client](thunderbird)
+- [Thunderbird](thunderbird)
+- [Claws Mail](claws-mail)
 
 ---
 
