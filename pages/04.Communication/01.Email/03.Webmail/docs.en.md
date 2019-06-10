@@ -19,9 +19,9 @@ page-toc:
 
 |![](en/rainloop.png)|
 |:--:|
-|**Rainloop Webmail** is the free and open source webmail client solution implemented by **Disroot** for our email service. It has modern user interface, can handle large number of email accounts, supports both SMTP and IMAP protocols and it's easy to use and configure.|
+|**Rainloop Webmail** is the free and open source webmail client solution implemented by **Disroot** for our email service. It has a modern user interface, can handle large number of email accounts, supports both SMTP and IMAP protocols and it's easy to use and configure.|
 ---
-# Disroot Webmail
+
 # Accesing the account
 
 Go to [https://mail.disroot.org](https://mail.disroot.org) and enter your **Disroot** username and password.
@@ -137,7 +137,7 @@ After that, every time you sign into **Disroot** Webmail, you'll need to generat
 
 |![](en/note.png) **NOTE**|
 |:--:|
-|Remeber to back up the codes in a safe place **other than your phone**. Really.<br>Because if, let's say, you lose or break it and you can't recover the codes, there's no way to regain access to the account.
+|Remember to back up the codes in a safe place **other than your phone**. Seriously.<br>Because if, let's say, you lose or break it and you can't recover the codes, there's no way to regain access to the account.
 
 ## Folders
 ![](en/10.folders_settings.png)
