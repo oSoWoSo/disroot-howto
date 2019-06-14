@@ -8,7 +8,7 @@ taxonomy:
     category:
         - docs
 ---
-Utilizar el cliente para escritorio de Nexcloud proporciona una manera de sincronizar tus archivos almacenados en tu nube de Disroot con una carpeta local en tu ordenador.
+Utilizar el cliente para escritorio de Nextcloud proporciona una manera de sincronizar tus archivos almacenados en tu nube de Disroot con una carpeta local en tu ordenador.
 Esto significa que puedes acceder/agregar/quitar/editar los archivos en tu cuenta de Disroot desde tu escritorio sin necesidad de ingresar a ella a través del navegador.
 
 

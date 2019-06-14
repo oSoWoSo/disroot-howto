@@ -8,7 +8,7 @@ taxonomy:
     category:
         - docs
 ---
-L'utilisation du client Nexcloud Desktop Client vous permet de synchroniser vos fichiers stockés dans votre cloud Disroot avec un dossier local sur votre bureau.
+L'utilisation du client Nextcloud Desktop Client vous permet de synchroniser vos fichiers stockés dans votre cloud Disroot avec un dossier local sur votre bureau.
 Ce qui signifie que vous pouvez accéder/ajouter/supprimer/éditer les fichiers de votre compte Disroot sur votre bureau sans avoir besoin de vous connecter à votre compte via un navigateur web.
 
 

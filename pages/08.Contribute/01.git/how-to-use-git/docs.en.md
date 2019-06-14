@@ -9,9 +9,9 @@ taxonomy:
 
 |```Meta information```|
 |:--:|
-|```This howto was last updated on``` **2019-04-17** ```and it reffers to:```<br>**Git and Atom v.1.33**<br>
+|```This howto was last updated on``` **2019-04-17** ```and it refers to:```<br>**Git and Atom v.1.33**<br>
 
-**NOTE:**```If the howto reffers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
+**NOTE:**```If the howto refers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
 
 ---
 # Git Basics

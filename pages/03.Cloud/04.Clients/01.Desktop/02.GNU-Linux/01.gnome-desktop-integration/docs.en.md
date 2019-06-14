@@ -12,7 +12,7 @@ taxonomy:
 ---
 
 # Meta information
-This howto was last updated on **08-04-2019** and it reffers to:<br> <!-- edit dd-mm-yyyy to the actual date  -->
+This howto was last updated on **08-04-2019** and it refers to:<br> <!-- edit dd-mm-yyyy to the actual date  -->
 
 **- Gnome: version - 3.30.2 For Manjaro Linux**<br> <!-- edit Software to the actual software  -->
 
