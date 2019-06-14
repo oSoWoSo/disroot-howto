@@ -9,7 +9,7 @@ taxonomy:
         - docs
 ---
 
-Les fonctionnalités de contact et de calendrier dans Disroot/Nexcloud sont assez cool mais si vous avez votre email Disroot connecté à un client de messagerie comme Thunderbird, il est agréable d'avoir les contacts et les calendriers de Disroot intégrés à Thunderbird également et d' y accéder d'un seul endroit sur votre bureau.
+Les fonctionnalités de contact et de calendrier dans Disroot/Nextcloud sont assez cool mais si vous avez votre email Disroot connecté à un client de messagerie comme Thunderbird, il est agréable d'avoir les contacts et les calendriers de Disroot intégrés à Thunderbird également et d' y accéder d'un seul endroit sur votre bureau.
 
 ---------
 

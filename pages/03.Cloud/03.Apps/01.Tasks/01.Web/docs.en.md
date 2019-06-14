@@ -30,9 +30,9 @@ Once you did it, a new section will show at the right.
 
 - **The start date and due date**
 
-||
+|![](en/add_tasks_date_01.png)|
 |:--:|
-|![](en/add_tasks_date_01.png) ![](en/add_tasks_date_02.png)|
+|![](en/add_tasks_date_02.png)|
 |By clicking on the Start/Due option you can set the day and the hour of it. You can also set the task as an all day activity|
 
 
@@ -48,4 +48,16 @@ Once you did it, a new section will show at the right.
 |:--:|
 |By moving the bar, you can set the task progress from 0% to 100%.|
 
-- **Tags**
+- **Add Tags**
+
+|![](en/tags.gif)|
+|:--:|
+|Tags are useful to keep track of your tasks. By clicking on the Select categories box, you can set descriptive tags.|
+
+![](en/tags_02.png)
+
+### Other settings
+#### Creating a new todo list
+If you want to create a new set of related task, just click on the **+ Add List...** at the left, give it a name, select a colour if you wish and then the check mark or press Enter.
+
+![](en/new_list.gif)
