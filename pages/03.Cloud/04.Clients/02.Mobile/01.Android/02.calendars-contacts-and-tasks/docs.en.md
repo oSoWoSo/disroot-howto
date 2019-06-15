@@ -68,7 +68,7 @@ Your Contacts should be straight away available and synced with **Disroot**.
 
 |![](en/note.png) **Note**|
 |:--:|
-|If you want to migrate your **Android** contacts to your **Disroot** contacts and stop syncing with **Google**, then follow [this](migrating-contacts-from-google) tutorial.|
+|If you want to migrate your **Android** contacts to your **Disroot** contacts and stop syncing with **Google**, then follow [this](/cloud/clients/mobile/android/migrating-contacts-from-google) tutorial.|
 
 ---------------------
 # Tasks
