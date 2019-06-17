@@ -1,0 +1,49 @@
+
+{% macro loop(page) %}
+    {% for p in page.children.visible %}
+        {% set current_page = (p.active or p.activeChild) ? 'active' : '' %}
+        <li class="dropdown {{ current_page }}">
+            <a href="{{ p.url }}">{{ p.menu }}</a>
+            {% if p.children.count > 0 %}
+            <ul class="dropdown-content">
+                {{ _self.loop(p) }}
+            </ul>
+            {% endif %}
+        </li>
+    {% endfor %}
+{% endmacro %}
+
+
+<nav id="nav-wrap">
+    <div><a id="nav-logo" href="{{ base_url == '' ? '/#home' : base_url }}"></a></div>
+
+    <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+    <a class="mobile-btn" href="#close" title="Hide navigation">Hide navigation</a>
+
+    {% set show_onpage_menu = header.onpage_menu == true or header.onpage_menu is null %}
+    {% macro pageLinkName(text) %}{{ text|lower|replace({' ':'_'}) }}{% endmacro %}
+
+    {% include 'partials/language-selector.html.twig' %}
+    <ul id="nav" class="nav">
+        {% for page in pages.children %}
+            {% if page.visible %}
+                {% set current_page = (page.active or page.activeChild) ? 'current' : '' %}
+                {% if 'home' in page.menu %}
+                    {{ _self.loop(pages) }}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+   {% for mitem in site.menu %}
+        <li>
+            <a href="{{ mitem.url }}">
+                {% if mitem.icon %}<i class="fa fa-{{ mitem.icon }}"></i>{% endif %}
+                {{ mitem.text }}
+            </a>
+        </li>
+    {% endfor %}
+    {% if config.plugins.login.enabled and grav.user.username %}
+        <li><i class="fa fa-lock"></i> {% include 'partials/login-status.html.twig' %}</li>
+    {% endif %}
+
+    </ul>
+</nav>

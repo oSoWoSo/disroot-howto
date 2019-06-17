@@ -1,0 +1,275 @@
+/*------------------------------------
+
+Disroot Howto Main style Sheet
+17-06-2019
+------------------------------------*/
+
+/* Fonts */
+
+@import url("fonts.css");
+@import url("fork-awesome/css/fork-awesome.min.css");
+
+/* Normalize - https://github.com/necolas/normalize.css/ */
+
+@import url("normalize.css");
+
+
+/* Defaults
+------------------------------------*/
+
+@import url("defaults.css");
+
+/* Core Stuff */
+:root {
+  --main-bg-color: White ;
+  --primary-color: #50162D;
+  --secondary-color: #1F5C60;
+  --alternative-color: #8EB726;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--secondary-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--secondary-color);
+}
+
+a {
+    color: var(--secondary-color);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--secondary-color);
+    filter: alpha(opacity=50);
+    -moz-opacity: 0.5;
+    opacity: 0.5;
+}
+
+pre {
+    background: #F0F0F0;
+    margin: 1rem 0;
+    border-radius: 2px;
+}
+
+blockquote {
+    border-left: 10px solid #eee;
+    margin: 0;
+    padding: 0 2rem;
+}
+
+/* Utility Classes */
+.wrapper {
+    margin: 0 3rem;
+}
+
+.padding {
+    padding: 3rem 1rem;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+/* Content Styling */
+.header .padding {
+    padding: 0.5rem 0;
+}
+
+.header {
+    background-color: var(--primary-color);
+    color: #eee;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+
+}
+
+.header a {
+    color: #fff;
+}
+
+.header .logo {
+    font-size: 1.7rem;
+    text-transform: uppercase;
+}
+
+
+.footer {
+    background-color: #eee;
+}
+
+/* Menu Settings */
+
+.main-nav ul {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    letter-spacing: -1em;
+    margin: 0;
+    padding: 0;
+}
+
+.main-nav ul li {
+    display: inline-block;
+    letter-spacing: normal;
+}
+
+.main-nav ul li a {
+    position: relative;
+    display: block;
+    line-height: 30px;
+    color: #fff;
+    padding: 0 30px;
+    white-space: nowrap;
+}
+
+.main-nav > ul > li > a {
+    border-radius: 2px;
+}
+
+/*Active dropdown nav item */
+.main-nav ul li:hover > a {
+    filter: alpha(opacity=50);
+    -moz-opacity: 0.5;
+    opacity: 0.5;
+}
+
+/* Selected Dropdown nav item */
+.main-nav ul li.selected > a {
+    background-color: #fff;
+    color: var(--secondary-color);
+}
+
+/* Dropdown CSS */
+.main-nav ul li {position: relative;}
+
+.main-nav ul li ul {
+    position: absolute;
+    background-color: var(--primary-color);
+    min-width: 100%;
+    text-align: left;
+    z-index: 999;
+
+    display: none;
+}
+.main-nav ul li ul li {
+    display: block;
+}
+
+/* Dropdown CSS */
+.main-nav ul li ul ul {
+    left: 100%;
+    top: 0;
+}
+
+/* Active on Hover */
+.main-nav li:hover > ul {
+    display: block;
+}
+
+/* Child Indicator */
+.main-nav .has-children > a {
+    padding-right: 30px;
+}
+.main-nav .has-children > a:after {
+    font-family: FontAwesome;
+    content: '\f107';
+    position: absolute;
+    display: inline-block;
+    right: 8px;
+    top: 0;
+}
+
+.main-nav .has-children .has-children > a:after {
+    content: '\f105';
+}
+
+/* Volor bar */
+.body-top {
+  width: 100%;
+  height: 80px;
+  background: var(--primary-color);
+  transform: skew(0deg, 1deg) translateY(-10px);
+}
+
+.title h1 {
+  color: var(--alternative-color);
+}
+
+.search {
+    background: #fff;
+    padding: 0.5em;
+}
+
+.search-wrapper input {
+    color: #eee;
+    background: #333;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.topic-list {
+  margin-top: 30px;
+}
+
+.topic-item {
+  margin: 8px;
+  padding: 15px;
+  min-height: 100px;
+  /*border-radius: 10px;
+  border: 2px solid var(--alternative-color);*/
+  border: none;
+  border-radius: 10px;
+  box-shadow: 10px 10px 38px 0px rgba(0, 0, 0, 0.25);
+  margin: 2%;
+  line-height: 1.2;
+}
+
+.topic-item a{
+  color: #555;
+}
+
+.topic-item h4{
+  margin: 0;
+}
+
+.topic-list img {
+  width: 70%;
+  margin-left: 15%;
+  filter: grayscale(100%);
+}
+
+.topic-list img:hover {
+  filter: grayscale(30%);
+}

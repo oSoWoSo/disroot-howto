@@ -1,0 +1,67 @@
+@media (min-width:1201px) {
+
+}
+
+@media (max-width: 1200px) and (min-width:901px) {
+
+  .hive {
+      width: 90%;
+  }
+  #hexGrid{
+    -o-transform: scale(1.26,1.26);
+    -ms-transform: scale(1.26,1.26);
+    -sand-transform: rotate(1.26,1.26);
+    -webkit-transform: scale(1.26,1.26);
+    transform: scale(0.8,0.8);
+    padding-bottom: 5.5%;
+    font-size: 13px;
+  }
+/*  .hex:nth-child(3){ /* 3nd hexagon */
+/*      top: 130px;
+      left: 110px;
+  }*/
+/*  .hex:nth-child(6){ /* 6th hexagon */
+/*        top: -115px;
+        left: 330px;
+  }*/
+}
+
+@media (max-width: 1040px) {
+  body {
+    font-size: 85%;
+  }
+}
+
+@media (max-width: 900px) and (min-width:601px) {
+  #hexGrid{
+    padding-bottom: 7.4%;
+    font-size: 14px;
+  }
+  .hex:nth-child(3){
+      top: 130px;
+      left:0px;
+  }
+  .hex:nth-child(6){
+        top: -115px;
+        left: 330px;
+  }
+
+}
+
+@media (max-width: 600px) {
+  #hexGrid{
+    padding-bottom: 11.2%;
+    font-size: 12px;
+  }
+  .hex {
+    width: 50%;
+  }
+  .hex:nth-child(3n+3){
+    margin-left:25%;
+  }
+}
+
+@media (max-width: 400px) {
+    #hexGrid {
+        font-size: 8px;
+    }
