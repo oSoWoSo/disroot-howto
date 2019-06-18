@@ -7,13 +7,42 @@
 			{{ page.title|e }}
 		</h1>
 		</section>
-	<section class="content narrow">
+	{% if page.header.updated %}
+		<section class="metadata narrow">
+			<pre>
+				<strong>Meta information</strong>
+				This following section was last updated on {{ page.header.updated.last_modified }} and it refers to <strong> {{ page.header.updated.app }}: version {{ page.header.updated.app_version }} </strong>
+
+				NOTE:If the howto reffers to an older software version than the provided by Disroot,or the one you're using in your device, there could be missing features or small parts of the information that may have changed.
+	Disroot's how-to documentation is a community driven procces. We try to keep it as updated as we can.
+		</pre>
+		</section>
+	{% endif %}
+	<section class="index content narrow">
     	{{ page.content }}
         <p></p>
         {% for image in page.media.images %}
            {{ image.cropResize(700, 400).html("title", "alt", "itemscreenshot") }}
         {% endfor %}
-
+				<div class="row">
+           <div class="row">
+					 		{% for p in page.children.visible %}
+                   <div class="three columns">
+                     <a href="{{ p.link }}">
+                        <br>
+                      	{{ p.media['thumb.png'].html }}
+                        <br>
+                        <h6>{{ p.title }}</h6>
+                     </a>
+										 {% for c in p.children.visible %}
+			                      <a href="{{ c.link }}">
+			                         <h6>{{ c.title }}</h6>
+			                      </a>
+			                {% endfor %}
+                   </div>
+               {% endfor %}
+            </div>
+        </div>
     </section>
     <section class="foot wrapper">
     	{% if page.taxonomy.tag|length > 0 %}

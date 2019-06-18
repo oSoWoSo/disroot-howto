@@ -9,7 +9,7 @@ taxonomy:
 page-toc:
   active: true
 ---
-----
+
 # The User Interface (UI)
 
 |![](en/interface.png)|
