@@ -1,5 +1,5 @@
 ---
-title: How-to Contribute: Pads
+title: Pads
 published: true
 visible: true
 taxonomy:

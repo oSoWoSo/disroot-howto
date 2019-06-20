@@ -1,5 +1,5 @@
 ---
-title: Setup Mail Alias on webmail
+title: Email alias: Webmail
 published: true
 visible: false
 taxonomy:

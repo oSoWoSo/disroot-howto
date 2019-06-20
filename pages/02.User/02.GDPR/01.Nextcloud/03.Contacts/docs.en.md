@@ -1,5 +1,5 @@
 ---
-title: Nextcloud: Exporting Contacts
+title: GPDR: Exporting Contacts
 published: true
 visible: false
 taxonomy:

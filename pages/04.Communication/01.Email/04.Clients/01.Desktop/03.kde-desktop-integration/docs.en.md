@@ -1,5 +1,5 @@
 ---
-title: GNU/Linux: KDE Desktop Integration
+title: KDE Desktop Integration (GNU/Linux)
 published: true
 visible: false
 taxonomy:

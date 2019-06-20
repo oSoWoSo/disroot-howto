@@ -1,5 +1,5 @@
 ---
-title: Chat clients: Dino
+title: Desktop clients (GNU/Linux): Dino
 published: true
 visible: false
 taxonomy:

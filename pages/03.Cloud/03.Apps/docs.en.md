@@ -1,5 +1,5 @@
 ---
-title: Cloud: Apps
+title: Apps
 published: true
 visible: true
 taxonomy:
@@ -8,6 +8,8 @@ taxonomy:
 page-toc:
     active: false
 ---
+
+Besides files syncing and management, **Nextcloud** provides a set of applications to organize and collaborate online. 
 
 |![](en/task_app.png)<br>[Tasks](tasks)|![](en/calendar_app.png)<br>[Calendar](calendar)|![](en/contacts_app.png)<br>[Contacts](contacts)|![](en/notes_app.png)<br>[Notes](notes)|
 |:--:|:--:|:--:|:--:|

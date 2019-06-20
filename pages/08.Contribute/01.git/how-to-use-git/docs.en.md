@@ -1,5 +1,5 @@
 ---
-title: How-to Contribute: Git Basics
+title: Git Basics
 published: true
 visible: true
 taxonomy:

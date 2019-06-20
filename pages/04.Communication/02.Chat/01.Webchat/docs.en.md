@@ -1,5 +1,5 @@
 ---
-title: 'Chat: Web client'
+title: Webchat
 published: true
 visible: false
 taxonomy:

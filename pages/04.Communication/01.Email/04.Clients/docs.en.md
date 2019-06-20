@@ -1,5 +1,5 @@
 ---
-title: Email Clients
+title: Email clients
 visible: false
 taxonomy:
     category:

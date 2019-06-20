@@ -1,5 +1,5 @@
 ---
-title: Chat: Mobile clients
+title: Mobile clients
 published: true
 visible: false
 taxonomy:

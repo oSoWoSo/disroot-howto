@@ -1,5 +1,5 @@
 ---
-title: Chat client: Pidgin
+title: Desktop clients (Multiplatform): Pidgin
 published: true
 visible: false
 taxonomy:

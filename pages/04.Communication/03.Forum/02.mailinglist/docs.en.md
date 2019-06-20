@@ -1,5 +1,5 @@
 ---
-title: Using Forum as a mailinglist
+title: Forum: Mailinglist
 page-toc:
   active: true
 published: true

@@ -1,5 +1,5 @@
 ---
-title: Forward emails from Disroot to your primary email
+title: Howto forward emails from Disroot to a primary email
 published: true
 visible: false
 taxonomy:

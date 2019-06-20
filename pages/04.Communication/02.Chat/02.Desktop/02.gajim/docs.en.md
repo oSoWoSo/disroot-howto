@@ -1,5 +1,5 @@
 ---
-title: Chat client: Gajim
+title: Desktop clients (Multiplatform): Gajim
 published: true
 visible: false
 taxonomy:

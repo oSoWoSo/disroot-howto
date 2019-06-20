@@ -1,5 +1,5 @@
 ---
-title: Nextcloud: Files
+title: GPDR: Files
 published: true
 visible: false
 taxonomy:

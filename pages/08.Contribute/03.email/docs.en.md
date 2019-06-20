@@ -1,5 +1,5 @@
 ---
-title: How-to Contribute: Email
+title: Email
 published: true
 visible: true
 taxonomy:

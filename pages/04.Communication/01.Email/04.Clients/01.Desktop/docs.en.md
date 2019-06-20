@@ -1,5 +1,5 @@
 ---
-title: 'Email: Desktop clients'
+title: Desktop email clients
 published: true
 visible: false
 taxonomy:

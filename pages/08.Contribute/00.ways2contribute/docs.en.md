@@ -1,5 +1,5 @@
 ---
-title: How-to Contribute: Choose the way
+title: Choose a way to contribute
 published: true
 taxonomy:
     category:
@@ -7,7 +7,7 @@ taxonomy:
 page-toc:
     active: false
 ---
-Here are some ways you can chose:
+Here are some options:
 
 #### [GIT](/contribute/git)
 You can work offline, writing a how-to or improving an existing one, and then "push" the changes through Git.<br><br>**Technical level required**: Basic.

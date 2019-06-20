@@ -1,5 +1,5 @@
 ---
-title: GNU/Linux: GNOME Desktop Integration
+title: GNOME Desktop Integration (GNU/Linux)
 published: true
 visible: false
 taxonomy:

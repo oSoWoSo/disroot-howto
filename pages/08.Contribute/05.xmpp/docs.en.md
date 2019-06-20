@@ -1,5 +1,5 @@
 ---
-title: How-to Contribute: XMPP
+title: Chat
 published: true
 visible: true
 taxonomy:

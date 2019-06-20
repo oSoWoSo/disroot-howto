@@ -1,5 +1,5 @@
 ---
-title: Email clients: Thunderbird
+title: Desktop (Multiplatform): Thunderbird
 page-toc:
   active: true
 visible: false
