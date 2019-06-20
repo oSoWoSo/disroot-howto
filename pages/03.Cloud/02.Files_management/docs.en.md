@@ -1,5 +1,5 @@
 ---
-title: Cloud: Files management
+title: Files management
 published: true
 taxonomy:
     category:

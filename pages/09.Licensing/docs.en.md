@@ -1,5 +1,5 @@
 ---
-title: How-to: License
+title: Disroot Howto's License
 published: true
 taxonomy:
     category:

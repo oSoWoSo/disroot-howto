@@ -1,5 +1,5 @@
 ---
-title: How-to Contribute: Style guide
+title: Disroot Howto's Style guide
 published: true
 visible: true
 taxonomy:

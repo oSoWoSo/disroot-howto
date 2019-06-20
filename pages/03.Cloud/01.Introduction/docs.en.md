@@ -1,5 +1,5 @@
 ---
-title: 'Cloud: Nextcloud Introduction'
+title: 'Nextcloud Introduction'
 published: true
 visible: true
 taxonomy:

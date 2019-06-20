@@ -1,5 +1,5 @@
 ---
-title: Setup Mail Alias on your Android phone (K9)
+title: Email alias: Android / K9
 published: true
 visible: false
 taxonomy:

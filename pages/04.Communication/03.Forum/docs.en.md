@@ -1,5 +1,5 @@
 ---
-title: 'Forum'
+title: Forum
 published: true
 taxonomy:
     category:

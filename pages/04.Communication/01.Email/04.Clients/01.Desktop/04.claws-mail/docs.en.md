@@ -1,5 +1,5 @@
 ---
-title: Email clients: Claws Mail
+title: Desktop (Multiplatform): Claws Mail
 page-toc:
   active: true
 visible: false

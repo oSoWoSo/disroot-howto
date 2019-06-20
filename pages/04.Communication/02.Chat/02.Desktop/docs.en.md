@@ -1,5 +1,5 @@
 ---
-title: Chat: Desktop Clients
+title: Desktop chat clients
 published: true
 visible: false
 taxonomy:

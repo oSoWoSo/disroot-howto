@@ -1,5 +1,5 @@
 ---
-title: Nextcloud: Exporting Calendars
+title: GPDR: Exporting Calendars
 published: true
 visible: false
 taxonomy:

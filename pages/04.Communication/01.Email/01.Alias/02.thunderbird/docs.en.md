@@ -1,5 +1,5 @@
 ---
-title: Setup mail alias on Thunderbird
+title: Email alias: Multiplatform clients: Thunderbird
 published: true
 visible: false
 taxonomy:

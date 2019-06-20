@@ -1,5 +1,5 @@
 ---
-title: Discourse: Basics
+title: Forum: Basics
 page-toc:
   active: true
 published: true

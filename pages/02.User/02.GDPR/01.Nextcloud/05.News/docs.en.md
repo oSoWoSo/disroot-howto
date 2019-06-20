@@ -1,5 +1,5 @@
 ---
-title: Nextcloud: Exporting News data
+title: GPDR: Exporting News data
 published: true
 visible: false
 taxonomy:

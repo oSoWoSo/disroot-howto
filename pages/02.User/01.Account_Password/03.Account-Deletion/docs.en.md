@@ -1,5 +1,5 @@
 ---
-title: 'How-to delete your Disroot account'
+title: Delete the Disroot account
 published: true
 visible: true
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: How-to Contribute: Forum
+title: Forum
 published: true
 visible: true
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: Nextcloud: Exporting Bookmarks
+title: GPDR: Exporting Bookmarks
 published: true
 visible: false
 taxonomy:
