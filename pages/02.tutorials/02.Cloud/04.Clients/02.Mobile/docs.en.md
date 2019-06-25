@@ -3,6 +3,7 @@ title: 'Cloud: Mobile Clients'
 taxonomy:
     category:
         - docs
+indexed: true
 visible: true
 page-toc:
      active: false

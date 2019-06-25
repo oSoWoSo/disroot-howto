@@ -1,5 +1,5 @@
 ---
-title: Collaboratory
+title: Office
 subtitle: "Pads, Pastebin, Polls & File Sharing"
 icon: fa-file-text
 published: true

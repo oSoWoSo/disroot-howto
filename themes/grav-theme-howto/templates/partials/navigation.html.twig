@@ -7,7 +7,7 @@
                     {% if p.header.icon %}<i class="fa fa-{{ p.header.icon }}"></i>{% endif %}
                     {{ p.menu }}
                 </a>
-                <ul>
+                <ul id="nav">
                     {{ _self.loop(p) }}
                 </ul>
             </li>
@@ -21,8 +21,10 @@
         {% endif %}
     {% endfor %}
 {% endmacro %}
-
-<ul>
+<a class="mobile-btn" href="#main-nav" title="Show navigation">Show navigation</a>
+<a class="mobile-btn" href="#close" title="Hide navigation">Hide navigation</a>
+{% include 'partials/language-selector.html.twig' %}
+<ul id="nav">
     {% if theme_config.dropdown.enabled %}
         {{ _self.loop(pages) }}
     {% else %}

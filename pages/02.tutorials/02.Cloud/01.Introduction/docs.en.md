@@ -2,6 +2,7 @@
 title: 'Cloud: Nextcloud Introduction'
 published: true
 visible: true
+indexed: true
 taxonomy:
     category:
         - docs
@@ -10,11 +11,13 @@ page-toc:
   active: true
 ---
 
-# The User Interface (UI)
+## The User Interface (UI)
 
-|![](en/interface.png)|
-|:--:|
-|This is the main screen and, as you have noted, is pretty straightforward. Let’s take a closer look at it.|
+<br>
+
+![](en/interface.png)
+
+This is the main screen and, as you have noted, is pretty straightforward. Let’s take a closer look at it.
 
 After logged in, you'll find three main sections or blocks and some functions buttons:
 1. **The apps navigation bar**: here you have the cloud applications available on Disroot, such as Files and Tasks managers, Calendar, Contacts, Notes, Bookmarks and the Activity log. To learn about the apps, check [this section](/cloud/apps).
@@ -40,12 +43,10 @@ The settings are divided into sections. On the *left-section* you'll find quick 
 
 ![](en/settings_window.png)
 
-|Personal Info|
-|:--:|
+**Personal Info**
+**This is the place where you can add information about yourself, which then you can choose to share with others.**
 
-|This is the place where you can add information about yourself, which then you can choose to share with others.|
-|--|
-|By clicking on the "lock" icon right next to information title, you can set the privacy level you want to assign to it. By default, your profile picture, full name and email are set to be visible only to the local users and the servers you trust.|
+By clicking on the "lock" icon right next to information title, you can set the privacy level you want to assign to it. By default, your profile picture, full name and email are set to be visible only to the local users and the servers you trust.|
 
 ![](en/privacy_setting.gif)
 
@@ -56,9 +57,9 @@ The levels you can choose are:
 - **Contacts**: Besides other **Disroot** Cloud users, the information will be shared with users on other Nextcloud instances when you share data or files with them.
 - **Public**: The information will be sent to a global address book (which means it can be viewed by anyone)
 
-|![](en/note.png) **NOTE**|
-|:--:|
-|You should pay extra attention when filling up this information *(which is optional)* and decide how much information about yourself you want to share and reveal to others.|
+
+!! ![](en/note.png)
+!! **NOTE!** **You should pay extra attention when filling up this information *(which is optional)* and decide how much information about yourself you want to share and reveal to others.**
 
 ## Other information and settings
 Below the profile picture you can see:
@@ -73,16 +74,15 @@ Additionally, you can also change your preferred language.
 
 -----
 # Security
-|Security is the place where you can review, set (additional) and revoke security settings.|
-|:--:|
-|![](en/security_device.png)|
+Security is the place where you can review, set (additional) and revoke security settings.
+
+![](en/security_device.png)
 
 ## Devices & sessions
 Here you can see how many devices are currently connected to your account. If you don't recognize one connected device, it might mean your account has been compromised and you should proceed to change your password.
 
-|![](en/note.png) **NOTE**|
-|:--:|
-|Keep in mind that every browser, mobile, computer, etc., will be shown as separate devices each time you change your network, for example. So don't freak out at first. Just seriously double check everything, before you go full on paranoid mode|
+!! ![](en/note.png)
+!! **NOTE!** Keep in mind that every browser, mobile, computer, etc., will be shown as separate devices each time you change your network, for example. So don't freak out at first. Just seriously double check everything, before you go full on paranoid mode.
 
 ### App password
 When Two-Factor Authentication is enable, third party applications (like your email, notes or news clients) won't be able to login your account with your user credentials only. For these devices you can create a specific password for the app.
@@ -91,8 +91,7 @@ When Two-Factor Authentication is enable, third party applications (like your em
 
 ## Two-factor authentication
 
-|What is Two-factor authentication (2FA)?|Is a security process that has a two steps verification, usually, the combination of two factors:<br>1) something you know (like a password),<br>2) something you have (could be a security token, a card, a QR code, etc.) or<br>3) something you are (like your fingerprint).<br>An example of how it works: when you go to an ATM to extract money you need to use your bank card (something you have) and a PIN (something you know). If the combination fails, you can't extract the money.|
-|:--:|--|
+What is Two-factor authentication (2FA)?|Is a security process that has a two steps verification, usually, the combination of two factors:<br>1) something you know (like a password),<br>2) something you have (could be a security token, a card, a QR code, etc.) or<br>3) something you are (like your fingerprint).<br>An example of how it works: when you go to an ATM to extract money you need to use your bank card (something you have) and a PIN (something you know). If the combination fails, you can't extract the money.
 
 Two-factor authentication can be used if you want have a more secure login (you can read more about it [here](https://en.wikipedia.org/wiki/Multi-factor_authentication)). When enabled, you will be asked not only for your login name and password, but also for an extra authentication like a one-time-password (OTP) or verification via a hardware device.<br>
 
@@ -119,9 +118,8 @@ You can add as many devices as you like. It is recommended to give each device a
 ### Basic encryption module
 Here you can decide whether or not an administrator will be able to recover your files in case you loose your password. This option is disabled by default as it enables admins of Disroot to decrypt and view your files.
 
-|![](en/note.png) **NOTE**|
-|:--:|
-|**Enabling this option after your password was lost will not recover your files!** You need to make this decision beforehand. **We strongly encourage you to never loose your password in the first place and keep it stored safe.**<br>This is the best way to keep your files and your account safe. We really don't want to have access to it.|
+!! ![](en/note.png)
+!! **NOTE!** **Enabling this option after your password was lost will not recover your files!** You need to make this decision beforehand. **We strongly encourage you to never loose your password in the first place and keep it stored safe.**<br>This is the best way to keep your files and your account safe. We really don't want to have access to it.
 
 ![](en/basic_encryption.png)
 
@@ -177,4 +175,3 @@ What is federated cloud? Just like emails that can be send between users on diff
 ## App order
 
 ![](en/app_order.gif)
-----------

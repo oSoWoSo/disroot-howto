@@ -10,9 +10,9 @@ Disroot Howto Main style Sheet
 @import url("fork-awesome/css/fork-awesome.min.css");
 
 /* Normalize - https://github.com/necolas/normalize.css/ */
-
+/*
 @import url("normalize.css");
-
+*/
 
 /* Defaults
 ------------------------------------*/
@@ -33,10 +33,16 @@ Disroot Howto Main style Sheet
     box-sizing: border-box;
 }
 
+#top {
+    margin: 0 auto;
+}
+
 body {
     font-size: 1rem;
     line-height: 1.7;
     color: var(--secondary-color);
+    overflow-x: hidden;
+
 }
 
 h1,
@@ -87,6 +93,11 @@ a:hover {
 
 .text-left {
     text-align: left;
+}
+
+.content img {
+  display: block;
+  margin: 2% auto;
 }
 
 /* Content Styling */
@@ -191,7 +202,7 @@ a:hover {
     padding-right: 30px;
 }
 .main-nav .has-children > a:after {
-    font-family: FontAwesome;
+    font-family: ForkAwesome;
     content: '\f107';
     position: absolute;
     display: inline-block;
@@ -203,6 +214,16 @@ a:hover {
     content: '\f105';
 }
 
+/* hide toggle button */
+.main-nav > a.mobile-btn { display: none; }
+
+/* Language selector */
+
+.language-selector .btn {
+    position: relative;
+    top: 20px;
+}
+
 /* Volor bar */
 .body-top {
   width: 100%;
@@ -211,7 +232,7 @@ a:hover {
   transform: skew(0deg, 1deg) translateY(-10px);
 }
 
-.title h1 {
+.title h5 {
   color: var(--alternative-color);
 }
 
@@ -261,3 +282,65 @@ a:hover {
 .topic-list img:hover {
   filter: grayscale(30%);
 }
+
+/* sidebar */
+
+#sidebar {
+    max-width: 250px;
+    top: 150px;
+}
+
+.page-toc {
+    max-width: 250px;
+    padding: 4px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 1rem;
+    margin-top: 10px;
+    font-size: 0.7rem;
+    overflow: hidden;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 10px 38px 0px rgba(0, 0, 0, 0.25);
+}
+    .toc-toggle {
+        font-size: 1.2rem;
+        display: block;
+        float: right;
+        margin-right: -10px;
+        padding: 5px 10px;
+        line-height: 1;
+        color: lighten($body-font-color, 20%);
+        cursor: pointer;
+    }
+
+    .toc-closed {
+        height: 40px;
+        margin-bottom: 0.5rem;
+    }
+    .toc-closed .toc-toggle .fa:before {
+            content: '\f107';
+    }
+
+    .page-toc h5 {
+        margin: 0 0 1rem;
+    }
+
+    .page-toc ul {
+        margin-left: 0rem;
+        margin-bottom: 0;
+        padding-left: 20px;
+    }
+
+    .page-toc ul li {
+        margin-top: 0;
+        list-style: decimal;
+        color: lighten($body-font-color, 30%);
+    }
+    .page-toc ul li li {
+        list-style: square;
+    }
+
+    .page-toc ul li{
+      padding-left: 0;
+    }

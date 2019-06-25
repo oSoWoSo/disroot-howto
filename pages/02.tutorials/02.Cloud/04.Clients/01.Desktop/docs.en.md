@@ -1,6 +1,7 @@
 ---
 title: Cloud: Desktop Clients
 published: true
+indexed: true
 taxonomy:
     category:
         - docs

@@ -1,0 +1,37 @@
+{% block body %}
+<div id="body-inner">
+  <article>
+  <section class="title wrapper">
+    <h5>
+      {{ page.title|e }}
+    </h5>
+  </section>
+
+  {% include 'partials/docmeta.html.twig' %}
+
+  <section class="content narrow column centered">
+    {{ page.content|raw }}
+       <p></p>
+  </section>
+
+  <section class="foot wrapper row">
+    {% if page.taxonomy.tag|length > 0 %}
+      {% set taglist = [] %}
+      {% for tag in page.taxonomy.tag %}
+        {% set taglist = taglist|merge(['<a href="'~base_url~'/taxonomy?name=tag&amp;val='~(tag|url_encode)~'">'~tag~'</a>']) %}
+      {% endfor %}
+      <div class="tags">
+        <i class="fa fa-tags rightpad"></i>{{ taglist|join(', ') }}
+      </div>
+    {% endif %}
+    {% if config.plugins.relatedpages.enabled and related_pages|length > 0 %}
+      <div class="related topiclist">
+        <h2>{{ 'RELATED_ARTICLES'|t }}</h2>
+        {% include 'partials/relatedpages.html.twig' %}
+      </div>
+    {% endif %}
+  </section>
+
+  </article>
+</div>
+{% endblock %}

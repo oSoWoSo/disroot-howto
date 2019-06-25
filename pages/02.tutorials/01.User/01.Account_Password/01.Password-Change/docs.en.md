@@ -1,6 +1,7 @@
 ---
 title: 'How-to change your Disroot user password'
 published: true
+indexed: true
 taxonomy:
     category:
         - docs

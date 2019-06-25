@@ -4,6 +4,7 @@ published: true
 taxonomy:
     category:
         - docs
+indexed: true
 page-toc:
     active: true
 ---

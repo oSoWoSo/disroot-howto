@@ -31,13 +31,13 @@ body {
 }
 
 .row {
-   width: 96%;
+   max-width: 96%;
    max-width: 1150px;
    margin: 0 auto;
 }
 
 .narrow{
-   width: 70%;
+   max-width: 60%;
    margin: 0 auto
 }
 /* fixed width for IE8 */
@@ -264,7 +264,6 @@ blockquote {
 blockquote:before {
    content: "\201C";
    opacity: 0.45;
-   font-size: 80px;
    line-height: 0px;
    margin: 0;
    font-family: arial, sans-serif;
@@ -298,6 +297,12 @@ pre {
   padding: 2em 4em;
 }
 
+pre b {
+  font-family: inherit;
+  font-size: 1.2em;
+  font-weight: 900;
+  line-height: inherit;
+}
 .pull-quote {
    position: relative;
 	padding: 18px 30px 18px 0px;
@@ -357,7 +362,6 @@ hr { border: solid #E3E3E3; border-width: 1px 0 0; clear: both; margin: 11px 0 3
 a, a:visited {
    text-decoration: none;
    outline: 0;
-   color: #50162d;
 
    -webkit-transition: color .3s ease-in-out;
    -moz-transition: color .3s ease-in-out;
@@ -372,12 +376,12 @@ p a, p a:visited { line-height: inherit; }
 ul, ol { margin-bottom: 24px; margin-top: 12px; }
 ul { list-style: none outside; }
 ol { list-style: decimal; }
-ol, ul.square, ul.circle, ul.disc { margin-left: 30px; }
+ol, ul.square, ul.circle, ul.disc { margin-left: 0px; }
 ul.square { list-style: square outside; }
 ul.circle { list-style: circle outside; }
 ul.disc { list-style: disc outside; }
 ul ul, ul ol,
-ol ol, ol ul { margin: 6px 0 6px 30px; }
+ol ol, ol ul { margin: 6px 0 6px 20px; }
 ul ul li, ul ol li,
 ol ol li, ol ul li { margin-bottom: 6px; }
 li { line-height: 18px; margin-bottom: 12px; }

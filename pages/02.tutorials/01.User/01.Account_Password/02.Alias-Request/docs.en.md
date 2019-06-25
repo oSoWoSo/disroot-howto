@@ -1,6 +1,7 @@
 ---
 title: How-to request an email alias
 published: true
+indexed: true
 visible: true
 taxonomy:
     category:

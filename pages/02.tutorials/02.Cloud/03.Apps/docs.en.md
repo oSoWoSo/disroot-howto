@@ -2,6 +2,7 @@
 title: Cloud: Apps
 published: true
 visible: true
+indexed: true
 taxonomy:
     category:
         - docs

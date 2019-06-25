@@ -32,6 +32,99 @@
   }
 }
 
+@media only screen and (max-width: 767px) {
+
+  .narrow{
+   max-width: 100%;
+   margin: 0 auto
+}
+
+  /* mobile navigation
+  ------------------------------------*/
+  #main-nav {
+    font: 12px 'opensans-bold', sans-serif;
+    background: transparent !important;
+    letter-spacing: 1.5px;
+    width: auto;
+    position: fixed;
+    top: 0;
+    right: 0;
+  }
+
+  .main-nav .has-children > a:after {
+    /*content: '\f107';*/
+    content: '';
+  }
+
+  .main-nav .has-children .has-children > a:after {
+    content: '';
+  }
+
+  #main-nav > a {
+    width: 48px;
+    height: 48px;
+    text-align: left;
+    background: #50162D;
+    position: relative;
+    border: none;
+    float: right;
+    text-shadow: none;
+    color: transparent;
+    position: relative;
+    top: 0px;
+    right: 30px;
+  }
+
+  #main-nav > a:before,
+  #main-nav > a:after {
+    position: absolute;
+    border: 2px solid #fff;
+    top: 35%;
+    left: 25%;
+    right: 25%;
+    content: '';
+  }
+  #main-nav > a:after { top: 60%; }
+
+  /* toggle buttons */
+	#main-nav:not( :target ) > a:first-of-type,
+	#main-nav:target > a:last-of-type  {
+	   display: block;
+	}
+
+   /* hide menu panel */
+   #main-nav ul {
+      height: auto;
+      display: none;
+      clear: both;
+      width: auto;
+      float: right;
+      position: relative;
+      top: 12px;
+      right: 0;
+   }
+   .main-nav ul li {
+     display: block;
+     letter-spacing: normal;
+  }
+
+
+   /* display menu panels */
+	#main-nav:target > ul#nav	{
+      display: block;
+      padding: 30px 20px 48px 20px;
+      background: #50162D;
+      margin: 0 30px;
+      clear: both;
+   }
+
+   /* sidebar */
+
+   #sidebar {
+     display: none;
+  }
+}
+
 @media (max-width: 900px) and (min-width:601px) {
   #hexGrid{
     padding-bottom: 7.4%;

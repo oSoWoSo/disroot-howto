@@ -16,12 +16,12 @@
     {% block stylesheets %}
         {% do assets.addCss('theme://css/style.css') %}
         {% do assets.addCss('theme://css/media-queries.css') %}
-        {% do assets.addCss('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css', 99) %}
     {% endblock %}
     {{ assets.css() }}
 
-    {% block javascripts %}
+        {% block javascripts %}
         {% do assets.addJs('jquery', 100) %}
+        {% do assets.addJs('theme://js/howto.js', { group:'bottom' }) %}
     {% endblock %}
     {{ assets.js() }}
 
@@ -37,7 +37,7 @@
                 <!--{{ config.site.title }}-->
             </a>
             {% block header_navigation %}
-            <nav class="main-nav">
+            <nav id="main-nav" class="main-nav">
                 {% include 'partials/navigation.html.twig' %}
             </nav>
             {% endblock %}
@@ -45,6 +45,7 @@
 
     </div>
 {% endblock %}
+
 
 {% block body %}
     <section id="body">
