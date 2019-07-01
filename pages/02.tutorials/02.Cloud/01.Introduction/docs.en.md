@@ -11,7 +11,7 @@ page-toc:
   active: true
 ---
 
-## The User Interface (UI)
+# The User Interface (UI)
 
 <br>
 
@@ -59,7 +59,7 @@ The levels you can choose are:
 
 
 !! ![](en/note.png)
-!! **NOTE!** **You should pay extra attention when filling up this information *(which is optional)* and decide how much information about yourself you want to share and reveal to others.**
+!! **NOTE!** You should pay extra attention when filling up this information *(which is optional)* and decide how much information about yourself you want to share and reveal to others.
 
 ## Other information and settings
 Below the profile picture you can see:
@@ -119,7 +119,7 @@ You can add as many devices as you like. It is recommended to give each device a
 Here you can decide whether or not an administrator will be able to recover your files in case you loose your password. This option is disabled by default as it enables admins of Disroot to decrypt and view your files.
 
 !! ![](en/note.png)
-!! **NOTE!** **Enabling this option after your password was lost will not recover your files!** You need to make this decision beforehand. **We strongly encourage you to never loose your password in the first place and keep it stored safe.**<br>This is the best way to keep your files and your account safe. We really don't want to have access to it.
+!! **NOTE!** Enabling this option after your password was lost will not recover your files! <br>You must make this decision beforehand. We strongly encourage you keep your password stored in a safe place.<br>This is the best way to keep your files and your account safe. We really don't want to have access to it.
 
 ![](en/basic_encryption.png)
 

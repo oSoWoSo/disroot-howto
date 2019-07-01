@@ -7,18 +7,6 @@
    {% set progress = page.collection({'items':{'@taxonomy':{'category': 'docs'}},'order':       {'by': 'default', 'dir': 'asc'}}) %}
 {% endif %}
 
-{% block navigation %}
-   <div id="navigation">
-   {% if not progress.isFirst(page.path) %}
-       <a class="nav nav-prev" href="{{ progress.nextSibling(page.path).url }}"> <i class="fa   fa-chevron-left"></i></a>
-   {% endif %}
-
-   {% if not progress.isLast(page.path) %}
-       <a class="nav nav-next" href="{{ progress.prevSibling(page.path).url }}"><i class="fa    fa-chevron-right"></i></a>
-   {% endif %}
-   </div>
-{% endblock %}
-
 
 		{% set showsidebar = false %}
 		{% if (grav.theme.config.params.sidebar.show.categories) or (grav.theme.config.params.sidebar.show.popular) or (grav.theme.config.params.sidebar.show.latest) %}
@@ -26,12 +14,15 @@
 		{% endif %}
 
 {% block content %}
+  <div class="wrapper">
     {% block sidebar %}
-	 	  	<section id="sidebar" class="column pull-right">
+	 	  	<section id="sidebar" class="pull-right">
 	 	    {% include 'partials/sidebar.html.twig' %}
 	 	  	</section>
 	 		{% endblock %}
 
     {% include 'partials/page.html.twig' %}
+  </div>
+
 
 {% endblock %}

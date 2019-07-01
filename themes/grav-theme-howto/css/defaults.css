@@ -36,10 +36,16 @@ body {
    margin: 0 auto;
 }
 
-.narrow{
-   max-width: 60%;
-   margin: 0 auto
+.narrow {
+   max-width: 70%;
+   margin: 0 auto;
 }
+
+.centered  {
+    float: none;
+    margin: 0 auto;
+}
+
 /* fixed width for IE8 */
 .ie .row { width: 1000px ; }
 

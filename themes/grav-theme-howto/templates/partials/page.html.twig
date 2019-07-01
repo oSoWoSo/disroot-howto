@@ -1,15 +1,15 @@
 {% block body %}
 <div id="body-inner">
   <article>
-  <section class="title wrapper">
-    <h5>
-      {{ page.title|e }}
-    </h5>
+  <section class="topbar wrapper">
+      {% block topbar %}
+        {% include 'partials/topbar.html.twig' %}
+      {% endblock %}
   </section>
 
   {% include 'partials/docmeta.html.twig' %}
 
-  <section class="content narrow column centered">
+  <section class="content narrow centered">
     {{ page.content|raw }}
        <p></p>
   </section>

@@ -98,6 +98,17 @@ a:hover {
 .content img {
   display: block;
   margin: 2% auto;
+  max-width: 80%;
+}
+
+.notices.red {
+  background-color: #efeeee;
+  color: var(--primary-color);
+  border-color: var(--alternative-color);
+}
+
+.notices {
+  font-size: 90%;
 }
 
 /* Content Styling */
@@ -232,8 +243,9 @@ a:hover {
   transform: skew(0deg, 1deg) translateY(-10px);
 }
 
-.title h5 {
+.topbar {
   color: var(--alternative-color);
+  margin: 10px 0;
 }
 
 .search {
@@ -283,24 +295,33 @@ a:hover {
   filter: grayscale(30%);
 }
 
+/* topbar */
+
+
+
 /* sidebar */
 
 #sidebar {
     max-width: 250px;
-    top: 150px;
+    padding-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
 }
 
 .page-toc {
     max-width: 250px;
-    padding: 4px;
+    padding: 10px;
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 1rem;
-    margin-top: 10px;
+    margin-top: 5rem;
     font-size: 0.7rem;
     overflow: hidden;
     border: none;
-    border-radius: 10px;
+    border-radius: 0px;
+    background: #efeeee;
+}
+.page-toc:hover {
     box-shadow: 10px 10px 38px 0px rgba(0, 0, 0, 0.25);
 }
     .toc-toggle {
