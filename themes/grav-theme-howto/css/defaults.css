@@ -25,6 +25,10 @@ body {
 	 -webkit-text-size-adjust: 100%;
 }
 
+#body-inner {
+  min-height: 75vh;
+}
+
 .full {
   margin: 0;
   padding: 0;
@@ -37,7 +41,7 @@ body {
 }
 
 .narrow {
-   max-width: 70%;
+   max-width: 75%;
    margin: 0 auto;
 }
 
@@ -257,8 +261,8 @@ p.lead {
 
 /* for 'em' and 'strong' tags, font-size and line-height should be same with
 the body tag due to rendering problems in some browsers */
-em { font: 15px/30px 'opensans-italic', sans-serif; }
-strong, b { font: 15px/30px 'opensans-bold', sans-serif; }
+em { font: 15px/30px 'opensans-italic', sans-serif; font-style: italic;}
+strong, b { font: 15px/30px 'opensans-bold', sans-serif; font-weight: 900;}
 small { font-size: 11px; line-height: inherit; }
 
 blockquote {
@@ -380,7 +384,7 @@ p a, p a:visited { line-height: inherit; }
 /* Lists */
 
 ul, ol { margin-bottom: 24px; margin-top: 12px; }
-ul { list-style: none outside; }
+ul { list-style: square outside; }
 ol { list-style: decimal; }
 ol, ul.square, ul.circle, ul.disc { margin-left: 0px; }
 ul.square { list-style: square outside; }

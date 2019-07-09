@@ -11,6 +11,8 @@ taxonomy:
     category:
         - docs
         - topic
+    tags:
+        - cloud
 page-toc:
     active: false
 ---

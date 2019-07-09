@@ -1,16 +1,19 @@
 ---
 title: DisApp
 published: true
-visible: false
+visible: true
+indexed: true
 taxonomy:
     category:
         - docs
+    tags:
+        - user
 page-toc:
     active: false
 ---
 
 # The Disroot's Community application
-|![](/start/icons/disapp.png)|
+|![](/home/icons/disapp.png)|
 |:--:|
 |***One App to rule them all***|
 <br>

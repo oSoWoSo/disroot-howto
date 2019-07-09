@@ -1,10 +1,16 @@
 ---
 title: Nextcloud: Exporting Bookmarks
 published: true
-visible: false
+indexed: true
 taxonomy:
     category:
         - docs
+    tags:
+        - user
+        - cloud
+visible: true
+page-toc:
+    active: false
 ---
 
 Exporting your bookmark data stored on the cloud is very easy with **Disroot**.

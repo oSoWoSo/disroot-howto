@@ -3,9 +3,14 @@ title: 'Cloud: Nextcloud Introduction'
 published: true
 visible: true
 indexed: true
+updated:
+        last_modified: "April 2019"
+        app: Nextcloud
+        app_version: 15
 taxonomy:
     category:
         - docs
+    tags:
         - cloud
 page-toc:
   active: true

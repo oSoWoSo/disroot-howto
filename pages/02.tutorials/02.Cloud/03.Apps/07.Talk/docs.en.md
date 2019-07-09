@@ -1,10 +1,14 @@
 ---
-title: Talk: Mobile
+title: Cloud apps: Talk
 published: true
 visible: false
+indexed: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+visible: true
 page-toc:
     active: false
 ---

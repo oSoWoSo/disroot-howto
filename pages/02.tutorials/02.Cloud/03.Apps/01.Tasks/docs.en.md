@@ -2,14 +2,18 @@
 title: Cloud Apps: Tasks
 published: true
 visible: false
+indexed: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+visible: true
 page-toc:
     active: false
 ---
 
-## Tasks
+# Tasks
 
 ### [Web interface](web)
 - Creating and configuring tasks

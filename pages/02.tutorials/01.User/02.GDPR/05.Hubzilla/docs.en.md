@@ -2,9 +2,14 @@
 title: Hubzilla: Exporting your channel content
 published: true
 visible: true
+indexed: true
 taxonomy:
     category:
         - docs
+    tags:
+        - user
+        - hubzilla
+visible: true
 page-toc:
     active: false
 ---

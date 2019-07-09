@@ -1,11 +1,16 @@
 ---
 title: Discourse: Exporting your Forum posts
 published: true
-visible: true
+indexed: true
 taxonomy:
     category:
         - docs
-
+    tags:
+        - user
+        - forum
+visible: true
+page-toc:
+    active: false
 ---
 
 

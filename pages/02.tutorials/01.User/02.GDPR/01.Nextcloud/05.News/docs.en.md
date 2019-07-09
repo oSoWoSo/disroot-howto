@@ -1,10 +1,16 @@
 ---
 title: Nextcloud: Exporting News data
 published: true
-visible: false
+indexed: true
 taxonomy:
     category:
         - docs
+    tags:
+        - user
+        - cloud
+visible: true
+page-toc:
+    active: false
 ---
 
 Exporting your news feeds and your subscriptions is as easy as in case of any **Nextcloud** app.

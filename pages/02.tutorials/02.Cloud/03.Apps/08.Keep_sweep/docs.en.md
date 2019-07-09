@@ -2,9 +2,13 @@
 title: Cloud Apps: Keep or Sweep
 published: true
 visible: false
+indexed: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+visible: true
 page-toc:
     active: false
 ---

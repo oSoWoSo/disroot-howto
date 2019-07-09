@@ -1,10 +1,16 @@
 ---
 title: Nextcloud: Exporting Contacts
 published: true
-visible: false
+indexed: true
 taxonomy:
     category:
         - docs
+    tags:
+        - user
+        - cloud
+visible: true
+page-toc:
+    active: false
 ---
 
 Contacts can be exported in any time in very simple way.

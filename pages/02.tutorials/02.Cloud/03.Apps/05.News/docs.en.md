@@ -2,9 +2,13 @@
 title: Cloud Apps: News
 published: true
 visible: false
+indexed: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+visible: true
 page-toc:
     active: false
 ---

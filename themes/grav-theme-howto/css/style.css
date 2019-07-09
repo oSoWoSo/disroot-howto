@@ -39,10 +39,9 @@ Disroot Howto Main style Sheet
 
 body {
     font-size: 1rem;
-    line-height: 1.7;
+    line-height: 2;
     color: var(--secondary-color);
     overflow-x: hidden;
-
 }
 
 h1,
@@ -51,7 +50,10 @@ h3,
 h4,
 h5,
 h6 {
+   font-family: 'ofl_sorts_mill_goudy', sans-serif;
+   font-weight: bold;
     color: var(--secondary-color);
+    line-height: 2;
 }
 
 a {
@@ -295,6 +297,23 @@ a:hover {
   filter: grayscale(30%);
 }
 
+/* parent pages */
+
+.three {
+  display: block;
+  min-height: 250px;
+}
+
+.three > h6:first-child {
+  position: absolute;
+  top: 130px;
+}
+
+.three img {
+  background-color: #fff;
+}
+
+
 /* topbar */
 
 
@@ -314,7 +333,7 @@ a:hover {
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 1rem;
-    margin-top: 5rem;
+    margin-top: 17rem;
     font-size: 0.7rem;
     overflow: hidden;
     border: none;

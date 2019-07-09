@@ -1,10 +1,16 @@
 ---
 title: Diaspora*: Requesting your data
 published: true
-visible: true
+indexed: true
 taxonomy:
     category:
         - docs
+    tags:
+        - user
+        - diaspora
+visible: true
+page-toc:
+    active: false
 ---
 
 Obtaining data you provided to Diaspora is fully automated and can be done at any time. All you need to do is:

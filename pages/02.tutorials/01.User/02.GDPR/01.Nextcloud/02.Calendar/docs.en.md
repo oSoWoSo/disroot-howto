@@ -1,10 +1,16 @@
 ---
 title: Nextcloud: Exporting Calendars
 published: true
-visible: false
+indexed: true
 taxonomy:
     category:
         - docs
+    tags:
+        - user
+        - cloud
+visible: true
+page-toc:
+    active: false
 ---
 
 Exporting calendars is possible out of the box. Simply:

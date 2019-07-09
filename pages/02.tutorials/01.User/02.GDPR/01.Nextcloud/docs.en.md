@@ -1,10 +1,13 @@
 ---
 title: Nextcloud
 published: true
+indexed: false
 taxonomy:
     category:
         - docs
+    tags:
         - user
+        - cloud
 visible: true
 page-toc:
     active: false

@@ -1,11 +1,16 @@
 {% block body %}
-<div id="body-inner">
+
+<section class="topbar wrapper">
+    {% block topbar %}
+      {% include 'partials/topbar.html.twig' %}
+    {% endblock %}
+</section>
+
   <article>
-  <section class="topbar wrapper">
-      {% block topbar %}
-        {% include 'partials/topbar.html.twig' %}
-      {% endblock %}
-  </section>
+
+  <div class=row>
+  <div class="full">
+  <div id="body-inner">
 
   {% include 'partials/docmeta.html.twig' %}
 
@@ -33,5 +38,7 @@
   </section>
 
   </article>
+</div>
+</div>
 </div>
 {% endblock %}

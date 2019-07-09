@@ -1,10 +1,14 @@
 ---
-title: Nextcloud: Files
+title: Nextcloud: Files & Notes
 published: true
-visible: false
+indexed: true
 taxonomy:
     category:
         - docs
+    tags:
+        - user
+        - cloud
+visible: true
 page-toc:
     active: false
 ---

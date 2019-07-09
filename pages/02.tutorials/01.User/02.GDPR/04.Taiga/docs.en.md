@@ -2,9 +2,14 @@
 title: Taiga: Project export
 published: true
 visible: true
+indexed: true
 taxonomy:
     category:
         - docs
+    tags:
+        - user
+        - taiga
+visible: true
 page-toc:
     active: false
 ---
