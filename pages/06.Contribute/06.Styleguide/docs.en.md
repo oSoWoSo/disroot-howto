@@ -9,8 +9,6 @@ page-toc:
     active: true
 ---
 
-![](en/thing2.jpg)
-
 # Style Guide
 
 This section intends to provide some basic guidelines about how to write a tutorial or a how-to for the **Disroot**'s [How-to Website](https://howto.disroot.org).
