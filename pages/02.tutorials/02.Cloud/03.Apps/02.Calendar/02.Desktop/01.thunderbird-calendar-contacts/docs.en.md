@@ -1,12 +1,22 @@
 ---
 title: 'Thunderbird: Syncing Calendars'
+published: false
+indexed: true
 visible: false
-page-toc:
-  active: false
-published: true
+updated:
+    last_modified: "July 2019"		
+    app: Thunderbird
+    app_version:
 taxonomy:
     category:
         - docs
+    tags:
+        - sync
+        - calendar
+        - cloud
+visible: false
+page-toc:
+    active: false
 ---
 
 The main goal of having your contacts and calendars from **Disroot** integrated with **Thunderbird** through your email account is the chance to access them from one place on your desktop.

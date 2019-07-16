@@ -1,13 +1,24 @@
 ---
 title: 'calcurse: Calendar sync'
+published: false
+indexed: true
 visible: false
-page-toc:
-  active: false
-published: true
+updated:
+    last_modified: "July 2019"		
+    app: Calcurse
+    app_version:
 taxonomy:
     category:
         - docs
+    tags:
+        - sync
+        - calendar
+        - cloud
+visible: false
+page-toc:
+    active: false
 ---
+
 |![](en/calcurse.png)|
 |:--:|
 |calcurse is "a calendar and scheduling application for the command line", quoting [its website](http://calcurse.org/).|

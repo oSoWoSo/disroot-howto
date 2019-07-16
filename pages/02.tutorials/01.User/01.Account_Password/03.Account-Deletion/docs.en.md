@@ -3,12 +3,16 @@ title: 'How-to delete your Disroot account'
 published: true
 indexed: true
 visible: true
+updated:
+    last_modified: "July 2019"
 taxonomy:
     category:
         - docs
     tags:
         - user
         - account
+page-toc:
+    active: false
 ---
 
 # Delete an Account

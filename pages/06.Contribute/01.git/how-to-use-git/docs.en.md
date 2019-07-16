@@ -1,10 +1,19 @@
 ---
 title: How-to Contribute: Git Basics
 published: true
-visible: true
+visible: false
+updated:
+        last_modified: "July 2019"
+        app: Atom
+        app_version: 1.33
 taxonomy:
     category:
         - docs
+    tags:
+        - contribute
+        - git
+page-toc:
+    active: true
 ---
 
 |```Meta information```|

@@ -1,12 +1,19 @@
 ---
 title: Mobile clients: DAVx⁵ / OpenTasks
 visible: true
+updated:
+        last_modified: "July 2019"
+        app: DAVx⁵
+        app_version:
 page-toc:
   active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - DAVx⁵
+        - android
 ---
 
 **Disroot** has Calendar, Contacts and Tasks apps enabled.

@@ -1,9 +1,14 @@
 ---
 title: Mobile clients: Android
-visible: false
+published: true
+updated:
+        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - android
 visible: true
 page-toc:
      active: false

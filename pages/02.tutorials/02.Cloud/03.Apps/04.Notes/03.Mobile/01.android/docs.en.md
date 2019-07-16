@@ -2,9 +2,16 @@
 title: Notes: Mobile
 published: true
 visible: false
+updated:
+        last_modified: "July 2019"
+        app: Nextcloud-Notes
+        app_version: 0.24.
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - notes
 page-toc:
     active: false
 ---

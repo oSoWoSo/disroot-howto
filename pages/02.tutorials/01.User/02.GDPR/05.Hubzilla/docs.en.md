@@ -3,6 +3,10 @@ title: Hubzilla: Exporting your channel content
 published: true
 visible: true
 indexed: true
+updated:
+    last_modified: "July 2019"		
+    app: Hubzilla
+    app_version: 4.2
 taxonomy:
     category:
         - docs

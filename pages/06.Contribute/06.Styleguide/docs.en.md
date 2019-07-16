@@ -2,9 +2,14 @@
 title: How-to Contribute: Style guide
 published: true
 visible: true
+updated:
+        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
+    tags:
+        - contribute
+        - style
 page-toc:
     active: true
 ---

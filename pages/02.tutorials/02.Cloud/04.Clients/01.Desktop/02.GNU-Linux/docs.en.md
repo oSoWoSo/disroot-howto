@@ -1,8 +1,15 @@
 ---
 title: Desktop integration: GNU/Linux
+published: true
+updated:
+        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
+        tags:
+            - cloud
+            - integration
+            - sync
 visible: false
 page-toc:
      active: false

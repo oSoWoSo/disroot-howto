@@ -1,12 +1,20 @@
 ---
 title: 'Thunderbird: Syncing Contacts, Calendars and Tasks'
 visible: false
+updated:
+        last_modified: "July 2019"
+        app: Thunderbird
+        app_version: 60
 page-toc:
   active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - thunderbird
+        - sync
 ---
 
 ---

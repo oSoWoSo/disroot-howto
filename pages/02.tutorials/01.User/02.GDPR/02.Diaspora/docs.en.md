@@ -2,6 +2,10 @@
 title: Diaspora*: Requesting your data
 published: true
 indexed: true
+updated:
+    last_modified: "July 2019"		
+    app: Diaspora
+    app_version: 0.7
 taxonomy:
     category:
         - docs

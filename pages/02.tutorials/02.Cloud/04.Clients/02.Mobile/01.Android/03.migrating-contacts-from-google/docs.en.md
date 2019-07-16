@@ -1,6 +1,17 @@
 ---
 title: Mobile clients: Migrating Contacts
 visible: false
+published: true
+updated:
+        last_modified: "July 2019"
+taxonomy:
+    category:
+        - docs
+    tags:
+        - contacts
+        - android
+page-toc:
+  active: true
 ---
 
 ### Moving Contacts from Google account To Disroot account

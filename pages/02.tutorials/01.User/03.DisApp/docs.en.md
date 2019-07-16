@@ -3,11 +3,16 @@ title: DisApp
 published: true
 visible: true
 indexed: true
+updated:
+    last_modified: "July 2019"		
+    app: DisApp
+    app_version: 1.2
 taxonomy:
     category:
         - docs
     tags:
         - user
+        - disapp
 page-toc:
     active: false
 ---

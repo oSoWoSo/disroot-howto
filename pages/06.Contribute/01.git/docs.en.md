@@ -1,9 +1,15 @@
 ---
 title: How-to Contribute: Git
 published: true
+visible: true
+updated:
+        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
+    tags:
+        - contribute
+        - git
 page-toc:
     active: false
 ---

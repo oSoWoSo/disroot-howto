@@ -1,12 +1,20 @@
 ---
 title: 'macOS and OS X - Syncing Contacts'
 visible: false
+updated:
+        last_modified: "July 2019"
+        app:
+        app_version:
 page-toc:
   active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - integration
+        - macos
 ---
 
 _This tutorial was last updated on 28 dec. 2018_

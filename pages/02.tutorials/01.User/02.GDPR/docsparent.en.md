@@ -3,6 +3,8 @@ title: 'Export Personal Data / GDPR Compliance'
 visible: true
 published: true
 indexed: true
+updated:
+    last_modified: "July 2019"
 taxonomy:
     category:
         - docs
