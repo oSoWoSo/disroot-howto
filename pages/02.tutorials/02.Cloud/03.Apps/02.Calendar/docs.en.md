@@ -3,12 +3,14 @@ title: Cloud Apps: Calendar
 published: true
 visible: false
 indexed: true
+updated:
+    last_modified: "July 2019"		
 taxonomy:
     category:
         - docs
     tags:
         - cloud
-visible: true
+        - calendar
 page-toc:
     active: false
 ---

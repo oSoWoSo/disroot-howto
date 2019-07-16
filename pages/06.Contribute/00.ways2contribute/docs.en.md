@@ -1,9 +1,14 @@
 ---
 title: How-to Contribute: Choose the way
 published: true
+visible: true
+updated:
+        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
+    tags:
+        - contribute
 page-toc:
     active: false
 ---

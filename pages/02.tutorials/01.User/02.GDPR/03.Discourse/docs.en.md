@@ -2,6 +2,10 @@
 title: Discourse: Exporting your Forum posts
 published: true
 indexed: true
+updated:
+    last_modified: "July 2019"		
+    app: Discourse
+    app_version: 2.3
 taxonomy:
     category:
         - docs

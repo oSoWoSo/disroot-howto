@@ -1,5 +1,9 @@
 ---
 title: 'iOS - Syncing Calendars & Reminders'
+updated:
+        last_modified: "July 2019"
+        app:
+        app_version:
 visible: false
 page-toc:
   active: true
@@ -7,6 +11,10 @@ published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - sync
+        - iOS
 ---
 
 _This tutorial was last updated on 19 August 2018_

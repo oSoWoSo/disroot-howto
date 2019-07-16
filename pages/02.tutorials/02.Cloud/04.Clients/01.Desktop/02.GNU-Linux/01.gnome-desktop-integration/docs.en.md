@@ -1,12 +1,20 @@
 ---
 title: GNU/Linux: GNOME Desktop Integration
 visible: false
+updated:
+        last_modified: "July 2019"
+        app: Gnome
+        app_version: 3.30
 page-toc:
-  active: false
+  active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - gnome
+        - integration
 ---
 
 ---

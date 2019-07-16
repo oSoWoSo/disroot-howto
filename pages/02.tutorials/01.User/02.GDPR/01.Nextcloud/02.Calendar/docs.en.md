@@ -2,6 +2,10 @@
 title: Nextcloud: Exporting Calendars
 published: true
 indexed: true
+updated:
+    last_modified: "July 2019"		
+    app: Nextcloud
+    app_version: 15
 taxonomy:
     category:
         - docs

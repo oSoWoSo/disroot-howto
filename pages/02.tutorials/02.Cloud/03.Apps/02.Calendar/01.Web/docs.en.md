@@ -1,12 +1,20 @@
 ---
 title: Calendar: Web
 published: true
+indexed: true
 visible: false
+updated:
+        last_modified: "July 2019"
+        app: Nextcloud
+        app_version: 15
 taxonomy:
     category:
         - docs
+    tags:
+        - calendar
+        - cloud
 page-toc:
-  active: true
+    active: true
 ---
 
 ------------

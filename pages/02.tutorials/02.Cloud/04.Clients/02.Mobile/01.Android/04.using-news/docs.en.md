@@ -1,12 +1,20 @@
 ---
 title: Mobile clients: News App
 visible: false
+updated:
+        last_modified: "July 2019"
+        app: Nextcloud News
+        app_version:
 page-toc:
   active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - android
+        - news
 ---
 
 

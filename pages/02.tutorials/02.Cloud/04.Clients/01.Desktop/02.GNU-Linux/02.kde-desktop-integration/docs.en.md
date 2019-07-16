@@ -1,12 +1,20 @@
 ---
 title: GNU/Linux: KDE Desktop Integration
 visible: false
+updated:
+        last_modified: "July 2019"
+        app: KDE
+        app_version:
 page-toc:
-  active: false
+  active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - kde
+        - integration
 ---
 ---
 

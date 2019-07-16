@@ -1,12 +1,19 @@
 ---
 title: Mobile clients: Nextcloud App
 visible: false
+updated:
+        last_modified: "July 2019"
+        app: Nextcloud
+        app_version:
 page-toc:
   active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - nextcloud
+        - android
 ---
 
 

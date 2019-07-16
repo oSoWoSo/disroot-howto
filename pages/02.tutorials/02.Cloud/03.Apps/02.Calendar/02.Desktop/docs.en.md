@@ -2,6 +2,8 @@
 title: Calendar: Desktop
 published: true
 visible: false
+updated:
+        last_modified: "July 2019"
 taxonomy:
     category:
         - docs

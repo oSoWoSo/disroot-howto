@@ -3,11 +3,16 @@ title: Cloud Apps: Keep or Sweep
 published: true
 visible: false
 indexed: true
+updated:
+        last_modified: "July 2019"
+        app: Nextcloud
+        app_version: 15
 taxonomy:
     category:
         - docs
     tags:
         - cloud
+        - delete
 visible: true
 page-toc:
     active: false

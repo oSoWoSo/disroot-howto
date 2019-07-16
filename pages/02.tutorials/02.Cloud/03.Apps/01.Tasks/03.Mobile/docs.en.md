@@ -2,9 +2,14 @@
 title: Tasks: Mobile
 published: true
 visible: false
+updated:
+        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
+    tags:
+        - task
+        - cloud
 page-toc:
     active: false
 ---

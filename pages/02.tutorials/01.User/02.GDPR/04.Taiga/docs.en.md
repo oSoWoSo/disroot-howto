@@ -3,6 +3,10 @@ title: Taiga: Project export
 published: true
 visible: true
 indexed: true
+updated:
+    last_modified: "July 2019"		
+    app: Taiga
+    app_version: 4.2
 taxonomy:
     category:
         - docs

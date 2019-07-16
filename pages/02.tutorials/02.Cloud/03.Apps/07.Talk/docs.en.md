@@ -3,11 +3,16 @@ title: Cloud apps: Talk
 published: true
 visible: false
 indexed: true
+updated:
+        last_modified: "July 2019"
+
 taxonomy:
     category:
         - docs
     tags:
         - cloud
+        - talk
+        - call
 visible: true
 page-toc:
     active: false

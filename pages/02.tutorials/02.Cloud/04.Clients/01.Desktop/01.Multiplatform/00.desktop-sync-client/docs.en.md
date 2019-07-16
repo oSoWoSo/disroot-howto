@@ -1,12 +1,19 @@
 ---
 title: Nextcloud Desktop client
 visible: false
+updated:
+        last_modified: "July 2019"
+        app: Nextcloud Desktop
+        app_version: 2.5
 page-toc:
   active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - nextcloud
 ---
 
 |```Meta information```|

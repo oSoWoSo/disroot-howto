@@ -1,8 +1,14 @@
 ---
 title: 'Cloud: Mobile Clients'
+published: true
+updated:
+        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - nextcloud
 indexed: true
 visible: true
 page-toc:
