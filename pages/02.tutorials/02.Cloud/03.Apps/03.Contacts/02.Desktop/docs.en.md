@@ -3,7 +3,6 @@ title: Contacts: Desktop
 published: true
 visible: false
 updated:
-        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
@@ -13,6 +12,9 @@ taxonomy:
 page-toc:
     active: false
 ---
+
+# Contact integration on desktop
+
 You can read the tutorials below in order to get your **Contacts** syncronized through a multiplatform desktop client.
 
 - [Thunderbird: Calendar / Contacts / Tasks sync](/cloud/clients/desktop/multiplatform/thunderbird-calendar-contacts)

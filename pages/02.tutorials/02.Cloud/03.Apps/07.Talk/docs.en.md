@@ -4,8 +4,6 @@ published: true
 visible: false
 indexed: true
 updated:
-        last_modified: "July 2019"
-
 taxonomy:
     category:
         - docs
@@ -23,8 +21,8 @@ page-toc:
 ### [Web interface](web)
 - Audio/video calls, settings
 
-### [Desktop clients](desktop)
+### Desktop clients (coming soon)
 - Talk App desktop clients
 
-### [Mobile clients](mobile)
+### Mobile clients (coming soon)
 - Talk App, device settings

@@ -4,7 +4,6 @@ published: true
 visible: false
 indexed: true
 updated:
-        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
@@ -16,13 +15,13 @@ page-toc:
     active: false
 ---
 
-## Bookmarks
+## Bookmarks (coming soon)
 
-### [Web interface](web)
+### Web interface
 - Creating, editing and exporting Bookmarks
 
-### [Desktop clients](desktop)
+### Desktop clients
 - Desktop clients to manage your Bookmarks
 
-### [Mobile clients](mobile)
+### Mobile clients
 - Bookmarks Apps, device settings

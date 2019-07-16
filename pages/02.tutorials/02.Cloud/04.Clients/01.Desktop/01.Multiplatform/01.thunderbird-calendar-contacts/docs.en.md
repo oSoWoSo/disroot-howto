@@ -2,9 +2,9 @@
 title: 'Thunderbird: Syncing Contacts, Calendars and Tasks'
 visible: false
 updated:
-        last_modified: "July 2019"
+        last_modified: "08 April 2019"
         app: Thunderbird
-        app_version: 60
+        app_version: 60.5.3.1 for Arch Linux / Lightning Add-on, version 6.2.5.3 / CardBook Add-on, version 35.5
 page-toc:
   active: true
 published: true
@@ -17,14 +17,7 @@ taxonomy:
         - sync
 ---
 
----
-|```Meta information```|
-|:--:|
-|```This howto was last updated on``` **08-04-2019**```and it reffers to:```<br>**Thunderbird: version - 60.5.3.1 for Arch Linux**<br>**Lightning Add-on: version 6.2.5.3**<br>**CardBook Add-on: version 35.5**|
-
-**NOTE:**```If the howto reffers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
-
----
+# Syncing Contacts, Calendars and Tasks with Thunderbird
 
 The contact, calendar and tasks features in **Disroot Cloud** can be connected to an email client like Thunderbird allowing emails, contacts, tasks, calendar to be managed from one place in your desktop.
 
@@ -180,9 +173,3 @@ If you want to move contacts from your Thunderbird Personal Address Book or Coll
 - Select and drag the contact to your remote address book.
 
 However it is advised that you create backups of your contacts.
-
----
-
- <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
-
----

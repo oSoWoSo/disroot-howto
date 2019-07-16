@@ -14,6 +14,8 @@ page-toc:
     active: false
 ---
 
+## Tasks integration on mobile devices
+
 To set up and sync your **Tasks** throught a mobile client see the tutorial below:
 
 ### Android

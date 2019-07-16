@@ -4,7 +4,6 @@ published: true
 visible: false
 indexed: true
 updated:
-    last_modified: "July 2019"	
 taxonomy:
     category:
         - docs
@@ -24,5 +23,5 @@ page-toc:
 ### [Desktop clients](desktop)
 - Desktop clients and integration settings for organizing and synchronizing your contacts
 
-### [Mobile clients](mobile)
+### [Mobile clients](/tutorials/cloud/clients/mobile)
 - Mobile clients and settings for organizing and synchronizing your contacts

@@ -15,8 +15,10 @@ taxonomy:
 page-toc:
     active: true
 ---
+
 # Notes
-You can access the **Notes** app by pressing the notes icon ![](en/notes_app.png) on the **Nextcloud** navigation bar.
+
+You can access the **Notes** app by pressing the notes icon ![](en/notes_app.png) {.inline} on the **Nextcloud** navigation bar.
 
 ## Settings
 
@@ -54,9 +56,3 @@ Go to the files app of **Nextcloud** and create a new folder with the category n
 Now when you move back in the Notes app you will find your notes ordered in categories.
 
 ![](en/notes_categories2.png)
-
----
-
- <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
-
----

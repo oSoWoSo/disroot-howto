@@ -3,7 +3,6 @@ title: Cloud Apps: Notes
 published: true
 visible: false
 updated:
-        last_modified: "July 2019"
 indexed: true
 taxonomy:
     category:

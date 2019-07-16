@@ -3,7 +3,6 @@ title: Cloud Apps: News
 published: true
 visible: false
 updated:
-        last_modified: "July 2019"
 indexed: true
 taxonomy:
     category:
@@ -21,8 +20,8 @@ page-toc:
 ### [Web interface](web)
 - Managing and configuring news feeds
 
-### [Desktop clients](desktop)
+### Desktop clients (coming soon)
 - News feeds desktop clients
 
-### [Mobile clients](mobile)
+### Mobile clients (coming soon)
 - News Apps, device settings

@@ -14,7 +14,10 @@ taxonomy:
 page-toc:
     active: false
 ---
-You can read the tutorials below in order to get your **Tasks** syncronized throught a multiplatform desktop client.
+
+## Tasks desktop Integration
+
+You can read the tutorials below in order to get your **Tasks** synchronized via a multi-platform desktop client.
 
 - [Thunderbird: Calendar / Contacts / Tasks sync](/cloud/clients/desktop/multiplatform/thunderbird-calendar-contacts)
 

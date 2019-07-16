@@ -5,8 +5,8 @@ updated:
         last_modified: "July 2019"
 taxonomy:
     category:
-        - docs
-        tags:
+            - docs
+    tags:
             - cloud
             - integration
             - sync

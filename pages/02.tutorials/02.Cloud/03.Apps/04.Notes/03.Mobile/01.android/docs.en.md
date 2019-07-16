@@ -3,9 +3,9 @@ title: Notes: Mobile
 published: true
 visible: false
 updated:
-        last_modified: "July 2019"
+        last_modified: "April 2019"
         app: Nextcloud-Notes
-        app_version: 0.24.
+        app_version: 0.24.3
 taxonomy:
     category:
         - docs
@@ -15,23 +15,17 @@ taxonomy:
 page-toc:
     active: false
 ---
-|```Meta information```|
-|:--:|
-|```This howto was last updated on``` April, 2019 ```and it reffers to:```<br>**- Nextcloud-Notes: version 0.24.3**|
 
-**NOTE:**```If the howto refers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven process. We try to keep it as updated as we can.```
-
----
+# Notes on Mobile
 
 In this tutorial we'll show you how to setup and use your disroot notes in your Android device.
 
-----------
 
 # Install notes app
 
 First of grab **"Nextcloud Notes"** from [F-Droid](https://f-droid.org/packages/it.niedermann.owncloud.notes/) or other commercial app store.    
 
----
+
 
 # Add your disroot account
 
@@ -47,7 +41,6 @@ Your existing notes from your disroot cloud account should be now synced to your
 
 ![](en/nextcloud_notes1.png)
 
----
 
 # Create and delete notes
 
@@ -79,7 +72,6 @@ All the notes you create can be seen in the main menu of the Nextcloud Notes app
 
 ![](en/nextcloud_notes3.png)
 
----
 
 # Browse your notes categories
 
@@ -93,12 +85,5 @@ Select the category and all the notes of that category will be listed.
 
 ![](en/nextcloud_notes5.png)
 
----
 
-**Note!** Any changes you make to your notes in the Notes application, notes in the Notes web interface, notes in the desktop client or in the. txt file, will appear in all clients and web interface.
-
----
-
- <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
-
----
+!! **Note!** Any changes you make to your notes in the Notes application, notes in the Notes web interface, notes in the desktop client or in the. txt file, will appear in all clients and web interface.

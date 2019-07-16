@@ -16,9 +16,11 @@ page-toc:
   active: true
 ---
 
+# Nextcloud News
+
 **News** app is a tool to keep track of the articles and posts of all the websites you like following in one place. **Disroot** cloud provides an app that does the job for you and syncs it to all your devices. In this tutorial we'll try to cover the basic usage.
 
-----------
+
 # News App on Disroot
 
 To get into the app from web browser, just click news app icon ![](en/news_top_icon.png?resize=20,20) in the top bar. General idea behind the app is very simple: you add the RSS-feed of your favorite sites, get notifications on new articles and read them without the need to go to all those websites, by opening lots of tabs and get distracted half way.

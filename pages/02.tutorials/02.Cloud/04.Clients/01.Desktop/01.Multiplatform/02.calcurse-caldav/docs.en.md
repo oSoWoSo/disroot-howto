@@ -17,9 +17,9 @@ taxonomy:
         - sync
 ---
 
-|![](en/calcurse.png)|
-|:--:|
-|calcurse is "a calendar and scheduling application for the command line", as mentioned at [its website](http://calcurse.org/).|
+![](en/calcurse.png)
+
+calcurse is "a calendar and scheduling application for the command line", as mentioned at [its website](http://calcurse.org/).
 
 This tutorial shows you how to set up synchronization between your **Nextcloud** calendar and **calcurse**.
 

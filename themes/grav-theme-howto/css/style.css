@@ -97,10 +97,19 @@ a:hover {
     text-align: left;
 }
 
-.content img {
+.inline {
+    display: inline-block;
+    margin: 0 1%;
+}
+
+.content img:not(.inline) {
   display: block;
   margin: 2% auto;
   max-width: 80%;
+}
+
+.content a {
+    color: var(--primary-color);
 }
 
 .notices.red {
