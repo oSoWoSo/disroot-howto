@@ -11,6 +11,7 @@ taxonomy:
     tags:
         - chat
         - sailfishos
+        - xmpp
 page-toc:
     active: false
 ---

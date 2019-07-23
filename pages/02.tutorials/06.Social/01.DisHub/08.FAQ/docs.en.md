@@ -3,6 +3,7 @@ title: FAQ
 updated:
 visible: true
 published: true
+indexed: true
 taxonomy:
     category:
         - docs

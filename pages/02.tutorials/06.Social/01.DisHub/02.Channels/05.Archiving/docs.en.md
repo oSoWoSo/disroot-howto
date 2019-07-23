@@ -2,6 +2,7 @@
 title: Hubzilla Channels: Archiving a channel
 updated:
 published: true
+indexed: true
 taxonomy:
     category:
         - docs

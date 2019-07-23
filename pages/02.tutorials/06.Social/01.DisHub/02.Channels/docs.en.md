@@ -5,6 +5,7 @@ page-toc:
   active: false
 published: true
 visible: true
+indexed: true
 taxonomy:
     category:
         - docs

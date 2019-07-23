@@ -6,9 +6,9 @@ taxonomy:
     category:
         - docs
     tags:
-        - Chat
-        - XMPP
-        - Android
+        - chat
+        - xmpp
+        - android
 page-toc:
     active: false
 ---

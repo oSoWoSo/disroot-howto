@@ -1,17 +1,19 @@
 ---
 title: Office
-visible: true
+subtitle: "Pads, Pastebin, Polls & File Sharing"
+icon: fa-file-text
 published: true
 taxonomy:
     category:
         - docs
+        - topic
     tags:
         - office
         - poll
         - pastebin
-        - File
-        - Sharing
-        - Disapp
+        - file
+        - sharing
+        - disapp
 page-toc:
     active: false
 ---

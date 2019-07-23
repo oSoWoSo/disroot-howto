@@ -2,6 +2,7 @@
 title: Hubzilla: Posting and publishing
 updated:
 published: true
+indexed: true
 visible: true
 taxonomy:
     category:

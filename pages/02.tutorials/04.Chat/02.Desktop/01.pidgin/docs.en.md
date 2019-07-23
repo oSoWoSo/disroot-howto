@@ -12,6 +12,7 @@ taxonomy:
     tags:
         - chat
         - pidgin
+        - xmpp
 page-toc:
     active: true
 ---

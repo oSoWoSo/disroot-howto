@@ -2,6 +2,7 @@
 title: Hubzilla: Permissions
 updated:
 published: true
+indexed: true
 taxonomy:
     category:
         - docs

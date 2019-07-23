@@ -1,24 +1,29 @@
 ---
 title: Using Forum as a mailinglist
-updated:
-page-toc:
-  active: true
 published: true
-visible: false
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
     tags:
-        - Forum
-        - Discourse
+        - forum
+        - discourse
+page-toc:
+    active: true
 ---
+
+# Discourse Mailinglist
+
 In this tutorial we will show how Discourse can be used as a mailinglist for Collectives/Associations/Projects.
 
 Disroot, mainly hosts private forum groups. If you are interested in one, drop us a line.
 
-**NOTE:** To be able to be a member of a Group (Public or Private) you don't need to have a Disroot account. You can create forum only accounts.
+!! [](/home/icons/note.png)
+!! NOTE: To be able to be a member of a Group (Public or Private) you don't need to have a Disroot account. You can create forum only accounts.
 
-----------
+
 # How mailinglist works in Discourse
 
 Discourse, the software used by Disroot, is a Forum software with mailinglist functionalities. It has what we for this tutorial call **Groups**. And those Groups can have or not **Categories** in them (think of them as subjects or main topics).
@@ -44,17 +49,15 @@ This creates a system that can be used both by mailinglist fans and Forum fans.
 
 You can have a Group with only one category and one email alias assigned to it. Or if it's a large collective, with workgroups, you can have a Group with several categories each one with a different email alias and working as a mailinglist of it's own, something like this:
 
-> * **Group** (Collective/Project/Association)
->  * **Main/General/Assembly**
->email alias: **assembly_group@disroot.org**
-
->  * **Category1**
->email alias: **category1_group@disroot.org**
->  * **Category2**
->email alias: **category2_group@disroot.org**
-
->  * **Category3**
->email alias: **category3_group@disroot.org**
+ * **Group** (Collective/Project/Association)
+   * **Main/General/Assembly**
+email alias: **assembly_group@disroot.org**
+  * **Category1**
+email alias: **category1_group@disroot.org**
+  * **Category2**
+email alias: **category2_group@disroot.org**
+  * **Category3**
+email alias: **category3_group@disroot.org**
 
 <br>
 The system described above has two main advantages:
@@ -68,12 +71,12 @@ You can read more about watching and muting categories [here](https://howto.disr
 
 The name of the Group and of the Categories, and corresponding email aliases, can be whatever you like (unless their already taken).
 
-----------
+
 # Private Groups/Mailinglist
 
 Private Groups/Mailinglists work as described above, but like the name says they are private and can only be seen and accessed by the group's members. You can only send an email to this group if you are a member.
 
-Private Groups can be seen and accessed only by group members in the Forum's web-interface, and have a padlock symbol ![](en/forum_ml6.png?resize=20,21). When you log in to the in the Forum, the categories of the private groups that you are a member of show up at the top.
+Private Groups can be seen and accessed only by group members in the Forum's web-interface, and have a padlock symbol ![](en/forum_ml6.png?resize=20,21) {.inline}. When you log in to the in the Forum, the categories of the private groups that you are a member of show up at the top.
 
 People that are not members of the Group cannot even see that the private Group exists.
 Now you see me:
@@ -92,19 +95,16 @@ There are two ways to add members to a Private Group:
 
 2. The Disroot admins can send bulk invitations to all the members in one single moment and preconfigure their accounts so that they don't receive emails from other Disroot public Groups (e.g: Tutorials, Support, etc.)
 
-----------
+
 # Public Groups/Mailinglist
 
 Public Groups work as described in above so far. The main difference from private Groups is that:
 
 They are public, and any of the Forum users can see it's discussions, and make a post there via the Forum Web-interface (or by email if an email address is assigned). They can also be seen by people on the internet, that are not users of the Forum and can show up in results from search engines like google.
 
-----------
+
 # The case of Disroot's public Groups
 
 The Disroot Forum public Categories (i.e, FAQ, Features, Changelog, Main, Howto / Toturials, Open Talks, etc.) don't have email aliases assigned to them so you cannot create a topic in those Categories via email.
 
 You can only reply to them via email when you receive a post in your mailbox.
-
-
-----------

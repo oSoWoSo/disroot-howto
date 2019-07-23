@@ -1,28 +1,29 @@
 ---
 title: Discourse: Basics
-updated:
-page-toc:
-  active: true
 published: true
-visible: false
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
     tags:
-        - Forum
-        - Discourse
+        - forum
+        - discourse
+page-toc:
+    active: true
 ---
+
+# Discourse Forum
 
 The Discourse forum provides a simple and intuitive user interface. Even if you are using Discourse primarily as a mailing list, it is recommended to check the web-interface for a superior user experience. Here are some tips to get you started:
 
 
-----------
-
-
 # Log in first
 You can log in to the forum with your Discourse account or your All-in-one Disroot account, if you have one.
-Go to https://forum.disroot.org/ and click ![](en/forum_basics1.png?resize=64,25) on the top right corner.
-**If you have a Disroot account make sure to select Login with disroot account before entering your credentials.**
+Go to https://forum.disroot.org/ and click ![](en/forum_basics1.png?resize=64,25) {.inline} on the top right corner.
+
+!! If you have a Disroot account make sure to select Login with disroot account before entering your credentials.
 
 If you don't have an account yet, you can register a Disroot account via https://user.disroot.org, which will give you additionaly access to cloud storage, email, xmpp and project board. You can also decide to create a forum only account - you will find the Sign up button at the top right of the forum page.
 
@@ -33,16 +34,16 @@ The icon buttons on the top right include the search and your personal settings:
 
 Click on your user icon (the first letter of your name until you change your avatar) to see your messages and notifications and to enter your personal setting and see your user page.
 
-The little numbers on top of your avatar mark how many notifications (on the right) and messages (left) you have. When you click on your avatar you will see all unread notification and messages listed below. You can also access all you messages via the ![](en/forum_basics3.png?resize=30,25) icon.
+The little numbers on top of your avatar mark how many notifications (on the right) and messages (left) you have. When you click on your avatar you will see all unread notification and messages listed below. You can also access all you messages via the ![](en/forum_basics3.png?resize=30,25) {.inline} icon.
 
-Click on your avatar and then on the ![](en/forum_basics4.png?resize=23,24) to enter your personal settings. There you can change you avatar, adjust the level of notifications, your viewed categories and much more.
+Click on your avatar and then on the ![](en/forum_basics4.png?resize=23,24) {.inline} to enter your personal settings. There you can change you avatar, adjust the level of notifications, your viewed categories and much more.
 
 # Navigation
-When you first log in to the forum (or click ![](en/forum_basics5.png?resize=100,20) icon to get back to home page at any time), you will find a list of the categories you are following. Categories are like sub-forums. If you are a member of a private forum group, the categories of that group will be listed first and all public categories will be listed below. More on how to follow and hide certain categories will be posted soon in another tutorial.
+When you first log in to the forum (or click ![](en/forum_basics5.png?resize=100,20) {.inline} icon to get back to home page at any time), you will find a list of the categories you are following. Categories are like sub-forums. If you are a member of a private forum group, the categories of that group will be listed first and all public categories will be listed below. More on how to follow and hide certain categories will be posted soon in another tutorial.
 
-~[](en/forum_basics6.png)
+![](en/forum_basics6.png)
 
-The bar on top allows you to quickly navigate between latest, new, unread and most active posts. You can also filter which categories you wish to view under the ![](en/forum_basics7.png?resize=133,30) button.
+The bar on top allows you to quickly navigate between latest, new, unread and most active posts. You can also filter which categories you wish to view under the ![](en/forum_basics7.png?resize=133,30) {.inline} button.
 On the far right you find a tab button for starting a new discussion thread (topic).
 
 The latest topics are also listed in your home page, right of the categories. Any topic title you select to view will take you to the next unread post.
@@ -55,9 +56,9 @@ As new posts come in, they will appear automatically.
 
 # Replying to posts
 
-To reply to the overall topic, use the ![](en/forum_basics8.png?resize=80,29) button at the very bottom of the page.
+To reply to the overall topic, use the ![](en/forum_basics8.png?resize=80,29) {.inline} button at the very bottom of the page.
 
-To reply to a specific post within the thread, use the ![](en/forum_basics9.png?resize=82,30) button on that post.
+To reply to a specific post within the thread, use the ![](en/forum_basics9.png?resize=82,30) {.inline} button on that post.
 
 To insert a quote, select the text you wish to quote, then press any Reply button. Repeat for multiple quotes!
 
@@ -69,7 +70,7 @@ You can also like, share, flag or bookmark a post.
 
 
 # Creating a new topic
-You can create a new topic in a category (Howtos, support, changelog, etc) by either navigating to the category and then pressing the new topic button ![](en/forum_basics10.png?resize=121,26), or by just pressing the button and in the compose topic/message panel select the category it goes to. Topics need to have a minimum of 8 letters in the subject and 10 letters in the topic, otherwise the message won't be sent.
+You can create a new topic in a category (Howtos, support, changelog, etc) by either navigating to the category and then pressing the new topic button ![](en/forum_basics10.png?resize=121,26) {.inline}, or by just pressing the button and in the compose topic/message panel select the category it goes to. Topics need to have a minimum of 8 letters in the subject and 10 letters in the topic, otherwise the message won't be sent.
 
 ![](en/forum_basics2.gif)
 
@@ -101,15 +102,19 @@ You can upload files by pressing the upload button and then browsing until you r
 ## Moving files, pictures and videos from one place to another in the message
 File, pictures, and videos will be presented on the left side of the screen (where all the code is) like this:
 
+
 **Files**
-> < a class="attachment" href="/uploads/default/original/1X/ffd8f38b235dbf199a919f0187ae63a183d22ada.odt">hello world.odt</a> (8.0 KB)
-
+```
+<a class="attachment" href="/uploads/default/original/1X/ffd8f38b235dbf199a919f0187ae63a183d22ada.odt">hello world.odt</a> (8.0 KB)
+```
 **Pictures**
-> < img src="/uploads/default/original/1X/019a9706a4676128e452b81f450851353f36175c.png" width="690" height="347">
-
+```
+<img src="/uploads/default/original/1X/019a9706a4676128e452b81f450851353f36175c.png" width="690" height="347">
+```
 **Videos**
->https ://forum.disroot.org/uploads/default/original/1X/59b17ec97a8daabcb96a787b4900f3d3221083da.mp4
-
+```
+https://forum.disroot.org/uploads/default/original/1X/59b17ec97a8daabcb96a787b4900f3d3221083da.mp4
+```
 To move them just cut the line and paste it where you want it. Also in the case of pictures you can adjust their size by changing the values for "height" and "width" in the line.
 
 ## Adding tags to your topic
@@ -149,7 +154,5 @@ The other method is to navigate to each category or sub-category one by one and 
 ![](en/forum_basics9.gif)
 
 ----------
-
-
 
  You can find more tips at [Discourse's welcome message](https://forum.disroot.org/t/welcome-to-discourse)

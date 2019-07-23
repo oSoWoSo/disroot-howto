@@ -3,6 +3,7 @@ title: Hubzilla: Wiki
 updated:
 published: true
 visible: true
+indexed: true
 taxonomy:
     category:
         - docs

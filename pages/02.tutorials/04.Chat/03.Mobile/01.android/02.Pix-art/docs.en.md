@@ -13,6 +13,8 @@ taxonomy:
     tags:
         - chat
         - pix-art
+        - xmpp
+        - android
 page-toc:
     active: true
 ---

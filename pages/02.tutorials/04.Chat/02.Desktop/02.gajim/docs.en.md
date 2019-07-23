@@ -17,6 +17,7 @@ taxonomy:
     tags:
         - chat
         - gajim
+        - xmpp
 page-toc:
     active: true
 ---

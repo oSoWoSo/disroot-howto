@@ -12,6 +12,8 @@ taxonomy:
     tags:
         - chat
         - chatsecure
+        - xmpp
+        - logo
 page-toc:
     active: false
 ---

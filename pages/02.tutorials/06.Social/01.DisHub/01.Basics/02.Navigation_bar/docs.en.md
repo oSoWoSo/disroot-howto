@@ -3,6 +3,7 @@ title: Hubzilla Basics: Navigation Bar
 updated:
 published: true
 visible: true
+indexed: true
 taxonomy:
     category:
         - docs

@@ -1,14 +1,12 @@
 ---
 title: Chat
-updated:
-visible: true
+subtitle: Settings, clients.
+icon:  fa-comments
 published: true
 taxonomy:
     category:
         - docs
-    tags:
-        - Chat
-        - XMPP
+        - topic
 page-toc:
     active: false
 ---

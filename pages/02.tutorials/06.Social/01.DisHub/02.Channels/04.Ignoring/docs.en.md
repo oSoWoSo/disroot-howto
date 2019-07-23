@@ -2,6 +2,7 @@
 title: Hubzilla Channels: Ignoring a channel
 updated:
 published: true
+indexed: true
 taxonomy:
     category:
         - docs

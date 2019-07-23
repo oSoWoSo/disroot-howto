@@ -12,6 +12,7 @@ taxonomy:
         - docs
     tags:
         - chat
+        - xmpp
 page-toc:
     active: true
 ---

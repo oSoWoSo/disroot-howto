@@ -2,6 +2,7 @@
 title: Hubzilla Channels: Profiles
 updated:
 published: true
+indexed: true
 taxonomy:
     category:
         - docs

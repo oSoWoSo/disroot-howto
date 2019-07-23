@@ -1,8 +1,8 @@
 ---
 title: Hubzilla: DisHub Guide
 updated:
-published: true
-visible: true
+published: false
+visible: false
 taxonomy:
     category:
         - docs
@@ -12,9 +12,8 @@ taxonomy:
 page-toc:
      active: false
 ---
-|![](/social/dishub/en/round_logo.png)|
-|:--:|
-|**DisHub: Disroot's Hubzilla instance** how2|
+![](/social/dishub/en/round_logo.png)
+# DisHub: Disroot's Hubzilla instance
 
 # Contents
 

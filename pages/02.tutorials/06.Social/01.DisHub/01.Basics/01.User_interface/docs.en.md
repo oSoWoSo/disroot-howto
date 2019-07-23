@@ -3,6 +3,7 @@ title: Hubzilla Basics: DisHub User Interface
 updated:
 published: true
 visible: true
+indexed: true
 taxonomy:
     category:
         - docs

@@ -10,6 +10,8 @@ taxonomy:
     tags:
         - chat
         - conversations
+        - xmpp
+        - android
 page-toc:
     active: false
 ---
