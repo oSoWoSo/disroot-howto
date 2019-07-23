@@ -2,9 +2,9 @@
 title: Nextcloud Desktop client
 visible: false
 updated:
-        last_modified: "July 2019"
+        last_modified: "6 April 2019"
         app: Nextcloud Desktop
-        app_version: 2.5
+        app_version: 2.5.2 / Nautilus-Nextcloud integration plugin, version 2.5.0-1 AUR
 page-toc:
   active: true
 published: true
@@ -16,13 +16,7 @@ taxonomy:
         - nextcloud
 ---
 
-|```Meta information```|
-|:--:|
-|```This howto was last updated on``` 06-04-2019 ```and it reffers to:```<br>**Nextcloud Desktop sync client: version - 2.5.2git**<br>**Nautilus-Nextcloud integration plugin - 2.5.0-1 AUR**|
-
-**NOTE:**```If the howto reffers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
-
----
+# Nextcloud Desktop Client
 
 Using the **Nexcloud** desktop client provides a way to sync your files stored in your **Disroot Cloud** with a local folder on your desktop.
 This means you can access/add/remove/edit the files in your **Disroot** account from your desktop without needing to log to your account via web-browser. It also allows you to access them when offline.
@@ -266,11 +260,3 @@ This allows you to quickly see which files and folders where:
 ||
 |:--:|:--:|
 |![](en/desktop_client11.png)|![](en/desktop_client12.png)|![](en/desktop_client13.png)|
-
-
-
----
-
- <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
-
----

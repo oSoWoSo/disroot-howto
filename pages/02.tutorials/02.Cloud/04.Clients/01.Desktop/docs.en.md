@@ -3,7 +3,6 @@ title: Cloud: Desktop Clients
 published: true
 indexed: true
 updated:
-        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
@@ -14,6 +13,9 @@ visible: true
 page-toc:
     active: false
 ---
+
+<br>
+
 ### [Multiplatform Desktop Clients](multiplatform)
 - **Nextcloud** multiplatform clients
 

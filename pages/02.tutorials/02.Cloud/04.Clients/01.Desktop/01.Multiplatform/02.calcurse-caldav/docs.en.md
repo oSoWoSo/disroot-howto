@@ -17,13 +17,16 @@ taxonomy:
         - sync
 ---
 
+# Calcurse: Calendar sync
+
 ![](en/calcurse.png)
 
 calcurse is "a calendar and scheduling application for the command line", as mentioned at [its website](http://calcurse.org/).
 
 This tutorial shows you how to set up synchronization between your **Nextcloud** calendar and **calcurse**.
 
-![](en/note.png) **Note:** the following has been tested on **GNU/Linux** with the **Nextcloud** instance hosted on **Disroot**, although it should work on other Unix-like OS's with other **Nextcloud** instances, too.
+!! ![](/home/icons/note.png)
+!! NOTE: the following has been tested on **GNU/Linux** with the **Nextcloud** instance hosted on **Disroot**, although it should work on other Unix-like OS's with other **Nextcloud** instances, too.
 
 ## Before we start
 

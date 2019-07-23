@@ -2,9 +2,6 @@
 title: Mobile clients: News App
 visible: false
 updated:
-        last_modified: "July 2019"
-        app: Nextcloud News
-        app_version:
 page-toc:
   active: true
 published: true
@@ -48,6 +45,3 @@ To synchronize your feeds, press **"Synchronize"** button on the left-side panel
 Happy reading! :grinning:
 
 ![](en/nextcloud_news5.png)
-
-
-----------

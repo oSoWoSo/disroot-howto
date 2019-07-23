@@ -2,9 +2,6 @@
 title: Mobile clients: Nextcloud App
 visible: false
 updated:
-        last_modified: "July 2019"
-        app: Nextcloud
-        app_version:
 page-toc:
   active: true
 published: true
@@ -16,7 +13,7 @@ taxonomy:
         - android
 ---
 
-
+# Nextcloud Mobile App
 
 The ability to easily synchronize, upload and download files from your Disroot cloud to your mobile can be very useful in several cases.
 
@@ -24,7 +21,6 @@ In this tutorial we'll show you how to install and work with the Nextcloud mobil
 
 This app does not download the files to a local folder in your mobile, it simply shows the existing files in your cloud. The files are only downloaded if you select them to be downloaded. This way it wont take too much space in your mobile. For uploaded files, if you want to you can keep a local copy in your mobile or not, it's your choice.
 
-----------
 
 # Install Nextcloud Mobile
 
@@ -32,8 +28,6 @@ To install the app on android, we recommend you install the [F-droid](https://f-
 
 IOS users will probably have to pay around 0,99€ for it in the IOS app store.
 
-
-----------
 
 # Setup account
 Once the app is installed, start it and login with you Disroot account credentials:
@@ -44,7 +38,7 @@ Once the app is installed, start it and login with you Disroot account credentia
 
 ![](en/nextcloud_app_login.jpeg)
 
-----------
+
 # General interface
 
 The general interface is pretty straightforward and easy to use. In the center it shows your files
@@ -67,7 +61,7 @@ In **Grid view**, you can change how the files are displayed, from a "list files
 
 ![](en/nextcloud_app_main2.jpeg)    
 
-----------
+
 ## General settings
 
 In the general settings you can:
@@ -89,23 +83,14 @@ You can access these settings by pressing the hamburger button on the upper left
 Uploading your pictures and videos automatically to the could is basically a matter of checking a box in the options.  
 
 when you press instant picture upload or instant video upload, you are presented with all the options.
-There you can set whether pictures or videos, are uploaded immediately, or only when you are connected to wifi, if it goes to the "instant upload" folder that is created for this or to another.
-<br>
-<img src="/uploads/default/original/1X/c76c0334cb843cd0f5257fa62b9a4201866c6448.jpeg" width="372" height="500">
-<br>
-<img src="/uploads/default/original/1X/8185f713f667768876c8fbb295faa8263b6eda87.jpeg" width="392" height="500">
-<br>
-At the end of these options you can set what to do with the original files of the picture/video that where uploaded:
-  <img src="/uploads/default/original/1X/ceef6287761bdf53e0c1f322d82222b26ef35f33.jpeg" width="477" height="91">
-<br>
-<img src="/uploads/default/original/1X/839c713e2605aedb4509462fcf1b35eb6c06196a.jpeg" width="462" height="333">
-<br>
-The app folder is a local folder on your mobile where the Nextcloud app can store uploaded files. Original folder is, well ... the picture or videos folder.
+There you can set whether pictures or videos, are uploaded immediately, or only when you are connected to WiFi, if it goes to the "instant upload" folder that is created for this or to another.
+
+At the end of these options you can set what to do with the original files of the picture/video that where uploaded. The app folder is a local folder on your mobile where the Nextcloud app can store uploaded files. Original folder is, well ... the picture or videos folder.
 
 ## Set password
 To protect access to your Nextcloud mobile app, you cen checkbox "Passcode Lock". This will prevent anyone with access to your phone to open the app and browse your cloud storage.
 
-**NOTE: If you enable password protection you will be asked for this every time you start the app, and every time you upload a file using your mobile share options (share pictures from gallery, etc).**
+!! NOTE: If you enable password protection you will be asked for this every time you start the app, and every time you upload a file using your mobile share options (share pictures from gallery, etc).**
 
 ## Display hidden files
 Nextcloud on Disroot cloud permits uploading *"hiding files"*. By checking *"Show hidden files"* option you'll be allowed to see those files on your mobile app.
@@ -113,7 +98,6 @@ Nextcloud on Disroot cloud permits uploading *"hiding files"*. By checking *"Sho
 ![](en/nextcloud_app_settings3.jpeg)
 
 
-----------
 # Upload and Download Files
 
 ## Upload files from NextcloudApp
@@ -138,14 +122,11 @@ Select the files you want to download by *"long pressing"* them. The selected fi
 ![](en/nextcloud_app_download2.jpeg)
 
 
-----------
-
-##Share files and folders<a name="share"></a>
+# Share files and folders
 You can share files or folders to anyone via a public link URL link or with other people that use a cloud based in Nextcloud/Owncloud software even if they are not Disroot users (unlike dropboxes and such).
 
 To share via URL, *"long press"* the file or folder you want to share, then press the three vertical dots button on the upper right corner and select the **"share"** option.
-<br>
-<img src="/uploads/default/original/1X/af984ee1086973b80bf91dbfc55fb774f1fa9e18.jpeg" width="452" height="500">
+
 Additionally you can decide whether you allow others to edit shared files, set expiration date, or protect the share with additional password.
 
 ![](en/nextcloud_app_share1.jpeg)
@@ -154,8 +135,8 @@ To share a file or folder with other Disroot or Nextcloud/Owncloud users via Fed
 
 * **USERNAME@SERVER_ADRESS**
 
-----------
-#Manage and add multiple accounts
+
+# Manage and add multiple accounts
 If you have multiple cloud accounts spread throughout several services that use Nextcloud or Owncloud you can add them all into your mobile app.
 Press the *"hamburger button"* on the upper left corner of the main interface, or swipe to the right.
 
@@ -165,7 +146,5 @@ Select the triangle and then "Add account"
 
 You will have to repeat the setup account process for the new account.
 
-Now in order to see files on additional accounts, you have to switch between them by swipping to the right and selecting an account from the menu.
+Now in order to see files on additional accounts, you have to switch between them by swiping to the right and selecting an account from the menu.
 If you are uploading files using the share options of your mobile device, you will be asked to which account  you want the file to be uploaded to.
-
-----------

@@ -1,10 +1,7 @@
 ---
 title: Mobile clients: Notes App
 visible: false
-updated:
-        last_modified: "July 2019"
-        app: Nextcloud Note
-        app_version:
+updated: 
 page-toc:
   active: true
 published: true
@@ -17,9 +14,9 @@ taxonomy:
         - notes
 ---
 
-In this tutorial we'll see how to setup and use your disroot notes in your Android device.
+# Notes on Android
 
-----------
+In this tutorial we'll see how to setup and use your Disroot notes in your Android device.
 
 # Install notes app
 

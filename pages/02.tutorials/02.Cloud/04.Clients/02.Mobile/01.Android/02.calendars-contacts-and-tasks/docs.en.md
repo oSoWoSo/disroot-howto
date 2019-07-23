@@ -2,9 +2,6 @@
 title: Mobile clients: DAVx⁵ / OpenTasks
 visible: true
 updated:
-        last_modified: "July 2019"
-        app: DAVx⁵
-        app_version:
 page-toc:
   active: true
 published: true
@@ -16,6 +13,8 @@ taxonomy:
         - android
 ---
 
+# DAVx⁵ / OpenTasks
+
 **Disroot** has Calendar, Contacts and Tasks apps enabled.
 
 In this tutorial we'll see how to setup and use them on your **Android** device.
@@ -25,7 +24,6 @@ To do this you will need to install the **DAVx⁵** and **Open Tasks** apps.
 For **Open Tasks** to work it will need **DAVx⁵** to also be installed, but if you just want to sync your calendar or contacts you don't need to install **Open Tasks**.
 
 
-----------
 # Install DAVx⁵
 ## From appstore
 **DAVx⁵** is available on most app stores. We encourage you to use [F-Droid](https://f-droid.org/).
@@ -35,9 +33,7 @@ If you have **Nextcloud** mobile app installed and linked to your **Disroot** cl
  - Open Nextcloud Android App
  - Got to settings > **"Sync calendar and contacts"**
 
-***Nextcloud** App will now fetch, install and configure your account automagically.
-
- ---------------
+**Nextcloud** App will now fetch, install and configure your account automagically.
 
 ## Add your Disroot account to DAVx⁵
 
@@ -49,10 +45,11 @@ To get started open-up **DAVx⁵** app and press the *"plus"* (**+**) button.
 
 Select "Login with url and username", and fill in with server address and credentials
 
-> Server address: https://cloud.disroot.org<br>
-> Username: your Disroot username<br>
-> Password: your Disroot password
-
+```
+ Server address: https://cloud.disroot.org
+ Username: your Disroot username
+ Password: your Disroot password
+```
 
 ![](en/nextcloud_davdroid2.jpeg)
 
@@ -73,9 +70,8 @@ After that, the calendars in your **Disroot** account that you selected will be 
 # Contacts
 Your Contacts should be straight away available and synced with **Disroot**.
 
-|![](en/note.png) **Note**|
-|:--:|
-|If you want to migrate your **Android** contacts to your **Disroot** contacts and stop syncing with **Google**, then follow [this](https://howto.disroot.org/en/nextcloud/sync-with-your-cloud/android/migrating-contacts-from-google) tutorial.|
+!! ![](en/note.png)
+!! NOTE: If you want to migrate your **Android** contacts to your **Disroot** contacts and stop syncing with **Google**, then follow [this](https://howto.disroot.org/en/nextcloud/sync-with-your-cloud/android/migrating-contacts-from-google) tutorial.
 
 ---------------------
 # Tasks

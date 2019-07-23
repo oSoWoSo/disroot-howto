@@ -1,9 +1,9 @@
 ---
 title: 'iOS - Syncing Calendars & Reminders'
 updated:
-        last_modified: "July 2019"
-        app:
-        app_version:
+        last_modified: "19 August 2018"
+        app: iOS
+        app_version: unknown
 visible: false
 page-toc:
   active: true
@@ -16,8 +16,6 @@ taxonomy:
         - sync
         - iOS
 ---
-
-_This tutorial was last updated on 19 August 2018_
 
 # Goal:
 **Sync the iOS Calendar and Reminders apps with the Disroot cloud.**
@@ -54,8 +52,8 @@ This will allow you to check, update, and remove your events and reminders from 
 
 ![](en/ios_calendar3.png)
 
->For additional security, you may choose to use an app password instead of your main Disroot password. To do so, visit cloud.disroot.org.
->Once logged in, click your profile picture in the top right, click Settings, then click Security.
+!! For additional security, you may choose to use an app password instead of your main Disroot password. To do so, visit cloud.disroot.org.
+!! Once logged in, click your profile picture in the top right, click Settings, then click Security.
 
 7. On the following screen make sure Calendars and Reminders are selected then press '**Save**' You're done!
 

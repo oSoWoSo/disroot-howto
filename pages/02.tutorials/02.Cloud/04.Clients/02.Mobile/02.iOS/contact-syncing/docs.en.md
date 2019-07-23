@@ -1,9 +1,9 @@
 ---
 title: 'iOS - Syncing Contacts'
 updated:
-        last_modified: "July 2019"
-        app:
-        app_version:
+        last_modified: "21 august 2018"
+        app: iOS
+        app_version: unknown
 visible: false
 page-toc:
   active: true
@@ -16,8 +16,6 @@ taxonomy:
         - sync
         - iOS
 ---
-
-_This tutorial was last updated on 21 August 2018_
 
 
 # Goal:

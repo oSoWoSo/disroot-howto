@@ -2,7 +2,6 @@
 title: Cloud: Clients
 published: true
 updated:
-        last_modified: "April 2019"
 taxonomy:
     category:
         - docs
@@ -13,6 +12,8 @@ visible: true
 page-toc:
     active: false
 ---
+
+<br>
 
 ### [Desktop clients and Integration](desktop)
 

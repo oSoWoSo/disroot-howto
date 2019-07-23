@@ -2,9 +2,9 @@
 title: 'MacOS - Syncing Calendars'
 visible: false
 updated:
-        last_modified: "July 2019"
-        app:
-        app_version:
+        last_modified: "3 February 2017"
+        app: MacOS
+        app_version: 10.8 - 10.11.6
 page-toc:
   active: true
 published: true
@@ -16,8 +16,6 @@ taxonomy:
         - integration
         - macos
 ---
-
-_This tutorial was last updated on 3 feb. 2017_
 
 # Goal:
 **Sync the macOSX Calendar App with the Disroot cloud.**

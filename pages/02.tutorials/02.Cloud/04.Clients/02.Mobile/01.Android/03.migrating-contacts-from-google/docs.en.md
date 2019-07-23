@@ -3,7 +3,6 @@ title: Mobile clients: Migrating Contacts
 visible: false
 published: true
 updated:
-        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
@@ -11,10 +10,10 @@ taxonomy:
         - contacts
         - android
 page-toc:
-  active: true
+  active: false
 ---
 
-### Moving Contacts from Google account To Disroot account
+## Moving Contacts from Google account To Disroot account
 *(This tutorial is based on cyanogenmod 12.1 minor changes will be applicable for other roms.)*
 
 - Open contacts app

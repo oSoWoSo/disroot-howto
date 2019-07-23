@@ -2,9 +2,9 @@
 title: GNU/Linux: GNOME Desktop Integration
 visible: false
 updated:
-        last_modified: "July 2019"
+        last_modified: "8 April 2019"
         app: Gnome
-        app_version: 3.30
+        app_version: 3.30.2 For Manjaro Linux
 page-toc:
   active: true
 published: true
@@ -17,17 +17,7 @@ taxonomy:
         - integration
 ---
 
----
-
-# Meta information
-This howto was last updated on **08-04-2019** and it reffers to:<br> <!-- edit dd-mm-yyyy to the actual date  -->
-
-**- Gnome: version - 3.30.2 For Manjaro Linux**<br> <!-- edit Software to the actual software  -->
-
-**NOTE:** If the howto refers to an older software version than the provided by **Disroot**, or the one you're using in your device, there could be missing features or small parts of the information that may have changed.<br><br>
-**Disroot**'s how-to documentation is a community driven process. We try to keep it as updated as we can.
-
----
+# Gnome Integration
 
 Gnome is a very popular, slick, modern and easy to use graphical desktop environment for Linux. It's my desktop of choice and it is mainly due to it's awesome integration with Disroot's cloud services.
 
@@ -36,8 +26,6 @@ Integration with desktop environment means, you no longer need to login to Disro
 In this tutorial I would like to show you how easy and handy it is to integrate your cloud calendar on your computer. Setup procedure should take no longer then few minutes of your time.
 
 
-
--------
 # Set Online accounts
 
 In order to get up and running, all you need to do is:
@@ -54,7 +42,7 @@ If you did that correctly now you can choose which aspects of the cloud you want
 
 ![](en/gnome_online_accounts1.gif)
 
---------------
+
 # Calendar
 
 One of the useful features is calendar. You will notice that your calendars are already integrated if you press on the  **current time** in your top bar on the desktop. A popup window with a calendar will automatically display all the events from your disroot's cloud account. You will of course receive all notifications on upcoming events as well.
@@ -71,9 +59,3 @@ Once you get it installed, you'll notice your calendars are already integrated t
 ![](en/gnome_calendar2.gif)
 
 ![](en/gnome_calendar3.gif)
-
----
-
- <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
-
----
