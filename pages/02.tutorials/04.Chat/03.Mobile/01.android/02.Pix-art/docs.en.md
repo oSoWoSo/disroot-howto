@@ -2,23 +2,24 @@
 title: 'Pix-Art - Android'
 published: true
 visible: false
+indexed: true
+updated:
+        last_modified: "28 April 2019"
+        app: Pix-Art Messenger
+        app_version: 2.2
 taxonomy:
     category:
         - docs
+    tags:
+        - chat
+        - pix-art
+page-toc:
+    active: true
 ---
 
-|```Meta information```|
-|:--:|
-|```This howto was last updated on``` **2019-04-28** ```and it reffers to:```<br>**Pix-Art Messenger: version v2.2**<br>
+![](en/pixart.png)
+Pix-Art Messenger is a powerful XMPP client for Android that supports encryption and group chats. It is a fork of Conversations and it's available on F-Droid and other commercial app stores.
 
-**NOTE:**```If the howto reffers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
-
----
-|![](en/pixart.png)|
-|:--:|
-|Pix-Art Messenger is a powerful XMPP client for Android that supports encryption and group chats. It is a fork of Conversations and it's available on F-Droid and other commercial app stores.|
-
----
 
 # Get Pix-Art messenger
 Download it from [**F-Droid**](https://f-droid.org/) and install it on your device.
@@ -281,10 +282,3 @@ Long press your account and choose **Delete account**.
 We have just presented what we think to be the most important features to start using your XMPP account on **Pix-Art**.
 
 If you have any question regarding the use of **Pix-Art**, join the Pix-Art XMPP room: support@room.pix-art.de or check the [github repo](https://github.com/kriztan/Pix-Art-Messenger)
-
-
-
-
- <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
-
----

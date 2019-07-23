@@ -1,6 +1,6 @@
 ---
 title: 'Chat Clients: Android'
-published: true
+published: false
 visible: false
 taxonomy:
     category:

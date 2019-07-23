@@ -2,20 +2,23 @@
 title: Chat client: Gajim
 published: true
 visible: false
+indexed: true
+updated:
+        last_modified: "17 April 2019"
+        app: Gajim
+        app_version: 1.1
 taxonomy:
     category:
         - docs
+    tags:
+        - chat
+        - gajim
+page-toc:
+    active: true
 ---
-|```Meta information```|
-|:--:|
-|```This howto was last updated on``` **2019-04-17** ```and it reffers to:```<br>**Gajim: version v1.1**<br>
 
-**NOTE:**```If the howto reffers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
-
----
-|![](/start/icons/gajim.png)|
-|:--:|
-|Gajim is multi-platform (runs on most operating systems) messaging application.|
+![](/start/icons/gajim.png)
+Gajim is multi-platform (runs on most operating systems) messaging application.
 
 To setup **Disroot** chat on **Gajim**, follow these easy steps:
 
@@ -224,9 +227,3 @@ Click on **OK** when you're done.
 We have just presented what we think to be the most important features to start using your XMPP account on **Gajim**. But **Gajim** is full of features, so explore them!
 
 If you have any question regarding the use of **Gajim**, join the gajim XMPP room: gajim@conference.gajim.org or check the [gitlab repo](https://dev.gajim.org/gajim/gajim)
-
----
-
- <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
-
----

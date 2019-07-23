@@ -2,10 +2,20 @@
 title: Conversations - Android
 published: true
 visible: false
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - chat
+        - conversations
+page-toc:
+    active: false
 ---
+
+# Conversations - XMPP client for android
+
 Conversations is powerful xmpp client for android that supports OTR and GPG encryption and conferences (multi-user chats). It is available on F-Droid and other commercial app stores.
 
 Here is what you need to do to get things rolling.

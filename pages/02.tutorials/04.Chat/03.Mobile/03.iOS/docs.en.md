@@ -2,10 +2,20 @@
 title: ChatSecure - iOS
 published: true
 visible: false
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - chat
+        - chatsecure
+page-toc:
+    active: false
 ---
+
+# XMPP on iOS with ChatSecure
+
 From the ChatSecure website:
 
 > ChatSecure is a free and open source messaging app that features OMEMO encryption and OTR encryption over XMPP. You can connect to your existing Google accounts or create new accounts on public XMPP servers (including via Tor), or even connect to your own server for extra security.
@@ -37,4 +47,4 @@ Here is what you need to do to get things rolling.
 
 7. You can now add contacts and join rooms!
 
-> Consider joining disroot@chat.disroot.org to interact with the Disroot community and howto@chat.disroot.org to discuss this documentation and start contributing.
+!! Consider joining disroot@chat.disroot.org to interact with the Disroot community and howto@chat.disroot.org to discuss this documentation and start contributing.

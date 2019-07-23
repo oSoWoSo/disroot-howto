@@ -2,13 +2,20 @@
 title: Chat clients: Dino
 published: true
 visible: false
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - chat
+        - gajim
+page-toc:
+    active: false
 ---
-|![](en/dino.png)|
-|:--:|
-|Dino is an open source chat client for the desktop. It has support for [OMEMO](https://en.wikipedia.org/wiki/OMEMO) and [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy#OpenPGP), which means that once you enable encryption, only you and the other person can read your messages and no one else.|
+
+![](en/dino.png)
+Dino is an open source chat client for the desktop. It has support for [OMEMO](https://en.wikipedia.org/wiki/OMEMO) and [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy#OpenPGP), which means that once you enable encryption, only you and the other person can read your messages and no one else.
 <br>
 
 1. **Installing Dino**<br>

@@ -2,14 +2,20 @@
 title: Chat client: Pidgin
 published: true
 visible: false
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - chat
+        - pidgin
+page-toc:
+    active: true
 ---
 
-|![](/start/icons/pidgin.png)|
-|:--:|
-|Pidgin is multi-platform (runs on most operating systems) and multi-protocol messaging application. It supports a lot of different messaging protocols such as: XMPP, Skype, AIM, TOX, Whatsapp, Facebook, etc, so you can have all your messaging done with just one app.|
+![](/home/icons/pidgin.png)
+Pidgin is multi-platform (runs on most operating systems) and multi-protocol messaging application. It supports a lot of different messaging protocols such as: XMPP, Skype, AIM, TOX, Whatsapp, Facebook, etc, so you can have all your messaging done with just one app.
 
 
 # Installing Pidgin
@@ -34,9 +40,9 @@ Next, fill in the information needed:
 
 ![](en/pidgin4.png)
 
-|![](en/note.png) Note!|
-|:--:|
-|If you want to use an avatar (optional) you can select it by checking the "Use this buddy icon for this account" option and browsing your local filesystem (computer) for the picture you want to use.|
+
+!! ![](/home/icons/note.png)
+!! NOTE: If you want to use an avatar (optional) you can select it by checking the "Use this buddy icon for this account" option and browsing your local filesystem (computer) for the picture you want to use.
 
 Click the "**Add**" button and you're done!
 

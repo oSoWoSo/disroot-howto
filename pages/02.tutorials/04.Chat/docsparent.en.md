@@ -13,9 +13,9 @@ page-toc:
 
 ## What is XMPP?
 
-|![](en/xmpp_logo.png)|
-|:--:|
-|XMPP (Extensible Messaging and Presence Protocol) is: "*a set of open technologies for instant messaging, presence, multi-party chat, voice and video calls, collaboration, lightweight middleware, content syndication, and generalized routing of XML data.*"|
+![](en/xmpp_logo.png)
+
+XMPP (Extensible Messaging and Presence Protocol) is: "*a set of open technologies for instant messaging, presence, multi-party chat, voice and video calls, collaboration, lightweight middleware, content syndication, and generalized routing of XML data.*"
 
 XMPP provides an open and decentralized alternative to closed instant messaging services. XMPP protocol offers a lot of advantages:
 
@@ -26,13 +26,3 @@ XMPP provides an open and decentralized alternative to closed instant messaging 
 * It's **Extensible** (anyone can build custom functionality on top of the core protocols (common extensions are published in the XEP series)
 
 ... among other features.
-
-----
-## Content
-### [Webchat](webchat)
-
-### [Desktop clients](desktop)
-- Multiplatform and GNU/Linux clients
-
-### [Mobile clients](mobile)
-- Android, SeilfishOS and iOS clients

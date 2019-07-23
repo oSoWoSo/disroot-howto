@@ -2,10 +2,19 @@
 title: SailfishOS
 published: true
 visible: false
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - chat
+        - sailfishos
+page-toc:
+    active: false
 ---
+
+# XMPP on SailfishOS
 
 1. **Open Settings** app and scroll all the way down to "**Accounts**"
 

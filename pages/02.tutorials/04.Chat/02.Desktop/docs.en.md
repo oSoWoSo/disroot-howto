@@ -1,17 +1,23 @@
 ---
 title: Chat: Desktop Clients
 published: true
-visible: false
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - chat
 page-toc:
-     active: false
+    active: false
 ---
 
+# Chat Clients for Desktop
+
 ### Multiplatform clients
-#### [Pidgin](pidgin)
-#### [Gajim](gajim)
+- [Pidgin](pidgin)
+- [Gajim](gajim)
 
 ### GNU/Linux clients
-#### [Dino](dino)
+- [Dino](dino)

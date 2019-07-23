@@ -1,20 +1,26 @@
 ---
 title: Chat: Mobile clients
 published: true
-visible: false
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - chat
 page-toc:
-     active: false
+    active: false
 ---
 
+# Chat Clients for Mobile
+
 ### Android
-#### [Conversations](android/conversations)
-#### [Pix-Art Messenger](android/pix-art)
+- [Conversations](android/conversations)
+- [Pix-Art Messenger](android/pix-art)
 
 ### SailfishOS
-#### [Chat app](sailfishos)
+- [Chat app](sailfishos)
 
 ### iOS
-#### [Chat Secure](ios)
+- [Chat Secure](ios)
