@@ -1,13 +1,15 @@
 ---
 title: Forward emails from Disroot to your primary email
 published: true
-visible: false
+visible: true
 taxonomy:
     category:
         - docs
 page-toc:
     active: false
 ---
+
+# Foreard Disroot mail to another E-mail account
 
 We understand that not everyone wants to use **Disroot** mail as their daily driver. People have their mail accounts for years and it is hard, not practical or in some cases even impossible for them to switch to another provider such as Disroot.
 

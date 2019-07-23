@@ -1,17 +1,26 @@
 ---
 title: 'Email: Mobile Clients'
-visible: false
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
 page-toc:
-     active: false
+    active: false
 ---
+
+# Email clients for Mobile
 
 How-to setup your email with your mobile device:
 
-## Clients
+## Android
+- [K9](k9)
 
-|**Android**|**SailfishOS**|**iOS**|
-|:--:|:--:|:--:|
-|**[K9](k9)**|**[Mail App](sailfishos)**|**[Mail App](ios)**|
+## SailfishOS
+- [Mail App](sailfishos)
+
+## iOS
+- [Mail App](ios)

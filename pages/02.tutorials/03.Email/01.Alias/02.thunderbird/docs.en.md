@@ -2,14 +2,19 @@
 title: Setup mail alias on Thunderbird
 published: true
 visible: false
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
 page-toc:
-    active: false
+    active: true
 ---
 
-# Setup
+# Setup Alias on Thunderbird
+
 First of, start **Thunderbird** and go to account settings by right-clicking on your account.
 
 ![](en/identity_settings.gif)

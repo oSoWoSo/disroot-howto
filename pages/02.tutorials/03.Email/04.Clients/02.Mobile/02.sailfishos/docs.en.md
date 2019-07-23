@@ -2,12 +2,19 @@
 title: Mobile clients: SailfishOS mail client
 published: true
 visible: false
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+page-toc:
+    active: false
 ---
 
-Setting up disroot mail on SailfishOS is very easy. Just follow those simple steps. (it took longer to make those fancy screenshots :P )
+# Email on SailfishOS
+
+Setting up your Disroot mail on SailfishOS is very easy. Just follow those simple steps. (it took longer to make those fancy screenshots :P )
 
 
 1. Open up **Settings** app

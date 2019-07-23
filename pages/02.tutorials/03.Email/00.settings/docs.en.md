@@ -1,35 +1,33 @@
 ---
-title: Email settings
+title: Email client settings
 published: true
 visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
 page-toc:
     active: false
 ---
 
-## Settings
-This is the information you need if you want to configure an email client.
+# Server Settings
+Most E-mail client will be able to discover the correct server setting automagically, but in some cases you may need to manually enter the following information to configure your email client.
 
-|IMAP|SSL Port|Authentication|
-|:--:|:--:|:--:|
-|disroot.org|993|Normal Password|
----
+**IMAP Server**: disroot.org <br>
+**SSL Port**: 993 <br>
+**Authentication**: Normal Password
 
-|SMTP|STARTTLS Port|Authentication|
-|:--:|:--:|:--:|
-|disroot.org|587|Normal Password|
----
+**SMTP Server**: disroot.org <br>
+**STARTTLS Port**: 587 <br>
+**Authentication**: Normal Password
 
-|SMTPS|TLS Port|Authentication|
-|:--:|:--:|:--:|
-|disroot.org|465|Normal Password|
----
+**POP Server**: disroot.org <br>
+**SSL Port**: 995 <br>
+**Authentication**: Normal Password
 
-|POP|SSL Port|Authentication|
-|:--:|:--:|:--:|
-|disroot.org|995|Normal Password|
 ---
 
 #### Related how-tos:

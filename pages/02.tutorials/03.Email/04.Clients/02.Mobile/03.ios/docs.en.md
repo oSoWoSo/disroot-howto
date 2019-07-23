@@ -2,10 +2,17 @@
 title: Mobile client: iOS mail client
 published: true
 visible: false
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+page-toc:
+    active: false
 ---
+
+# Email on iOS
 
 1. Open up the setting of your iOS device and go to 'Mail, Contacts, Calendars'. Then select 'Add Account'.
 

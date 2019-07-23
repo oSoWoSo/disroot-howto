@@ -2,12 +2,19 @@
 title: Setup Mail Alias on your Android phone (K9)
 published: true
 visible: false
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+page-toc:
+    active: true
 ---
 
-# Setup
+# Setup Alias on K9
+
 First of, open **K9** and go to your account settings
 
 ![](en/identity_settings.png)

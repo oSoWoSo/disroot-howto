@@ -2,12 +2,18 @@
 title: Setup Mail Alias on webmail
 published: true
 visible: false
+indexed: false
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+page-toc:
+    active: true
 ---
 
-# Setup
+# Setup Alias on Webmail
 First of, login to your webmail and go to your mail settings (bottom left icon)
 
 ![](en/settings1.png)

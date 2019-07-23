@@ -2,14 +2,19 @@
 title: Mobile clients: K9
 published: true
 visible: false
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
 page-toc:
-    active: false
+    active: true
 ---
 
-[K9](https://en.wikipedia.org/wiki/K-9_Mail) is independent, feature-rich Free/Open Source mail client for android. It beats anything out there, including desktop applications (personal opinion). We very much advise giving it a try. Some features:
+# K9 for Android
+
+**[K9](https://en.wikipedia.org/wiki/K-9_Mail)** is independent, feature-rich Free/Open Source mail client for android. It beats anything out there, including desktop applications (personal opinion). We very much advise giving it a try. Some features:
  - Works with IMAP, POP3 and Exchange 2003/2007 (with WebDAV) accounts
  - Folder Sync
  - Encryption with APG/OpenKeychain support
