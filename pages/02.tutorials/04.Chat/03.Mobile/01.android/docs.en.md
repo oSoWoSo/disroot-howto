@@ -5,6 +5,10 @@ visible: false
 taxonomy:
     category:
         - docs
+    tags:
+        - Chat
+        - XMPP
+        - Android
 page-toc:
     active: false
 ---

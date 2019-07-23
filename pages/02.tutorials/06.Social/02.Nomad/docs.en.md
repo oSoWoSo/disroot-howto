@@ -1,9 +1,14 @@
 ---
 title: Nomad
+updated:
 published: true
+visible: false
 taxonomy:
     category:
         - docs
+    tags:
+        - Nomad
+        - Hubzilla
 page-toc:
     active: false
 ---

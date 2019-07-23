@@ -1,5 +1,9 @@
 ---
 title: Chat client: Gajim
+updated:
+        last_modified: "April 2019"
+        app: Gajim
+        app_version: 1.1
 published: true
 visible: false
 indexed: true

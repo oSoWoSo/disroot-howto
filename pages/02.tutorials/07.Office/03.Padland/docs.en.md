@@ -1,16 +1,20 @@
 ---
 title: Pads: Padland
+updated:
+        last_modified: "April 2019"
+        app: Padland
+        app_version: 1.4
+visible: false
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - Pad
+        - Padland
 page-toc:
-    active: false
+    active: true
 ---
-
-|```Meta information```|
-|:--:|
-|```This howto was last updated on``` **2019-04-17** ```and it reffers to:```<br>**Padland: version v1.4**<br>
 
 **NOTE:**```If the howto reffers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
 

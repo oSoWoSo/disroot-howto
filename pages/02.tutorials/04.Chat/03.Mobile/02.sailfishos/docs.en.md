@@ -1,5 +1,6 @@
 ---
 title: SailfishOS
+updated:
 published: true
 visible: false
 indexed: true

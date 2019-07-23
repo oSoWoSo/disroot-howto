@@ -1,5 +1,6 @@
 ---
 title: Hubzilla: Connections
+updated:
 page-toc:
   active: true
 published: true
@@ -7,6 +8,9 @@ visible: true
 taxonomy:
     category:
         - docs
+    tags:
+        - Hubzilla
+        - DisHub
 ---
 
 ## What is a connection?

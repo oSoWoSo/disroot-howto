@@ -1,5 +1,6 @@
 ---
 title: Hubzilla: Channels
+updated:
 page-toc:
   active: false
 published: true
@@ -7,6 +8,9 @@ visible: true
 taxonomy:
     category:
         - docs
+    tags:
+        - Hubzilla
+        - DisHub
 ---
 
 ## What is a channel?

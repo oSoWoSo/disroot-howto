@@ -1,17 +1,20 @@
 ---
 title: 'Pads: Etherpad'
+updated:
+        last_modified: "April 2019"
+        app: Etherpad
+        app_version: 1.7.5
 published: true
 visible: false
 taxonomy:
     category:
         - docs
+    tags:
+        - Pad
+        - Etherpad
 page-toc:
   active: true
 ---
-
-|```Meta information```|
-|:--:|
-|```This howto was last updated on``` **2019-04-12** ```and it reffers to:```<br>**Etherpad: version v1.7.5**<br>
 
 **NOTE:**```If the howto reffers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
 

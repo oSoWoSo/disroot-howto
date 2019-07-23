@@ -1,12 +1,15 @@
 ---
 title: Project board
-subtitle: Taiga usage tips
-icon: fa-th
+visible: true
 published: true
+updated:
 taxonomy:
     category:
         - docs
-        - topic
+    tags:
+        - taiga
+        - planning
+        - project
 page-toc:
     active: false
 ---

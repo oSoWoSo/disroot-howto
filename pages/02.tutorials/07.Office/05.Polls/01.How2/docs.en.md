@@ -1,5 +1,6 @@
 ---
 title: Polls How-to
+updated:
 page-toc:
     active: true
 published: true
@@ -7,6 +8,9 @@ visible: false
 taxonomy:
     category:
         - docs
+    tags:
+        - polls
+        - planning
 ---
 
 # How to create a poll

@@ -1,11 +1,16 @@
 ---
 title: Hubzilla
+updated:
 published: true
+visible: false
 taxonomy:
     category:
         - docs
+    tags:
+        - Hubzilla
+        - DisHub
 page-toc:
-     active: false
+    active: false
 ---
 |![](en/round_logo.png)|
 |:--:|

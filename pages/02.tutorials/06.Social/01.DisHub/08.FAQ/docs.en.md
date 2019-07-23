@@ -1,11 +1,16 @@
 ---
 title: FAQ
+updated:
+visible: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - Hubzilla
+        - DisHub
 page-toc:
-     active: false
+     active: true
 ---
 
 <br>

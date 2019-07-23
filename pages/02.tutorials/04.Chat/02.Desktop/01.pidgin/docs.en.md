@@ -1,5 +1,7 @@
 ---
 title: Chat client: Pidgin
+updated:
+    app: Pidgin
 published: true
 visible: false
 indexed: true

@@ -1,9 +1,13 @@
 ---
 title: Hubzilla: Default Channel Permission Limits
+updated:
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - Hubzilla
+        - DisHub
 visible: true
 page-toc:
     active: true

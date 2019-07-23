@@ -1,5 +1,6 @@
 ---
 title: Discourse: Basics
+updated:
 page-toc:
   active: true
 published: true
@@ -7,6 +8,9 @@ visible: false
 taxonomy:
     category:
         - docs
+    tags:
+        - Forum
+        - Discourse
 ---
 
 The Discourse forum provides a simple and intuitive user interface. Even if you are using Discourse primarily as a mailing list, it is recommended to check the web-interface for a superior user experience. Here are some tips to get you started:
