@@ -1,9 +1,13 @@
 ---
 title: Hubzilla Channels: Hiding a channel
+updated:
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - Hubzilla
+        - DisHub
 visible: true
 page-toc:
     active: true

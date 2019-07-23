@@ -1,12 +1,16 @@
 ---
 title: 'Upload: Lufi'
+updated:
 page-toc:
-    active: true
+    active: false
 published: true
 visible: true
 taxonomy:
     category:
         - docs
+    tags:
+        - upload
+        - lufi
 ---
 |![](/start/icons/lufi.png)|
 |:--:|

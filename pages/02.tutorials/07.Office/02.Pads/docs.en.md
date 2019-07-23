@@ -1,10 +1,15 @@
 ---
 title: 'Pads'
+updated:
 published: true
 visible: true
 taxonomy:
     category:
         - docs
+    tags:
+        - Pad
+        - Etherpad
+        - EtherCalc
 page-toc:
   active: false
 ---

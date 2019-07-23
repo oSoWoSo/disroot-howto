@@ -1,12 +1,15 @@
 ---
 title: Pastebin
+updated:
 page-toc:
-  active: true
+  active: false
 published: true
 visible: true
 taxonomy:
     category:
         - docs
+    tags:
+        - pastebin
 ---
 |What is a pastebin?|
 |:--:|

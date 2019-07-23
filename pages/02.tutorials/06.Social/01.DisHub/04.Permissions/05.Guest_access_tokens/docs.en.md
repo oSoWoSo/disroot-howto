@@ -1,9 +1,13 @@
 ---
 title: Hubzilla: Guest Access Tokens
+updated:
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - Hubzilla
+        - DisHub
 visible: true
 page-toc:
     active: true

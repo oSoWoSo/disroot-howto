@@ -1,5 +1,5 @@
 ---
-title: 'Pix-Art - Android'
+title: 'Pix-Art messenger - Android'
 published: true
 visible: false
 indexed: true

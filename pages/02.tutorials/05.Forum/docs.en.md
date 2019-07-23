@@ -1,12 +1,14 @@
 ---
 title: 'Forum'
-subtitle: "Discourse basics"
-icon: fa-stack-exchange
+updated:
+visible: true
 published: true
 taxonomy:
     category:
         - docs
-        - topic
+    tags:
+        - Forum
+        - Discourse
 page-toc:
     active: false
 ---

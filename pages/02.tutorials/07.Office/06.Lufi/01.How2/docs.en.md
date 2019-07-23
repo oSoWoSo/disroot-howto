@@ -1,5 +1,6 @@
 ---
-title: 'Upload: Lufi How2'
+title: 'Upload: Lufi'
+updated:
 page-toc:
     active: true
 published: true
@@ -7,6 +8,9 @@ visible: false
 taxonomy:
     category:
         - docs
+    tags:
+        - upload
+        - lufi
 ---
 
 # How safe is Lufi and how it works

@@ -1,9 +1,14 @@
 ---
 title: Hubzilla: Tags and mentions
+updated:
 published: true
+visible: false
 taxonomy:
     category:
         - docs
+    tags:
+        - Hubzilla
+        - DisHub
 page-toc:
      active: false
 ---

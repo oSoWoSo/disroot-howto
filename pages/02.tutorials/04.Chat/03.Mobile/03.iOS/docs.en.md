@@ -1,5 +1,7 @@
 ---
 title: ChatSecure - iOS
+updated:
+    app: ChatSecure
 published: true
 visible: false
 indexed: true

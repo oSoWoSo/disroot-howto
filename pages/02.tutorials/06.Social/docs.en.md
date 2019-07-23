@@ -1,12 +1,15 @@
 ---
 title: Social Network
-subtitle: "DisHub - Settings, basics, permission"
-icon: fa-asterisk
+updated:
 published: true
+visible: true
 taxonomy:
     category:
         - docs
-        - topic
+    tags:
+        - DisHub
+        - Nomad
+        - Hubzilla
 page-toc:
     active: false
 ---

@@ -1,12 +1,16 @@
 ---
 title: Hubzilla Channels: Archiving a channel
+updated:
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - Hubzilla
+        - DisHub
 visible: true
 page-toc:
-    active: true
+    active: false
 ---
 
 ## What does archive a channel do?

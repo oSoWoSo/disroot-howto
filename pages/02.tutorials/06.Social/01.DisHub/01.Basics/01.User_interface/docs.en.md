@@ -1,10 +1,14 @@
 ---
 title: Hubzilla Basics: DisHub User Interface
+updated:
 published: true
 visible: true
 taxonomy:
     category:
         - docs
+    tags:
+        - Hubzilla
+        - DisHub
 page-toc:
      active: false
 ---

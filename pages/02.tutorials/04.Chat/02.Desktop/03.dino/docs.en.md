@@ -1,5 +1,7 @@
 ---
 title: Chat clients: Dino
+updated:
+    app: Dino
 published: true
 visible: false
 indexed: true

@@ -1,5 +1,6 @@
 ---
 title: PrivateBin
+updated:
 page-toc:
     active: true
 published: true
@@ -7,6 +8,8 @@ visible: true
 taxonomy:
     category:
         - docs
+    tags:
+        - pastebin
 ---
 
 |![](/start/icons/privatebin.png)|

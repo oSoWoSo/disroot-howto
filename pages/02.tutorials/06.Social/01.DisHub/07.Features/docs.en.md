@@ -1,9 +1,14 @@
 ---
 title: Hubzilla: Features
+updated:
 published: true
+visible: true
 taxonomy:
     category:
         - docs
+    tags:
+        - Hubzilla
+        - DisHub
 page-toc:
      active: false
 ---

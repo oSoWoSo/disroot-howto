@@ -1,11 +1,16 @@
 ---
 title: Photo album
+updated:
+visible: false
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - Hubzilla
+        - DisHub
 page-toc:
-     active: false
+     active: true
 ---
 
 # What is it used for?
