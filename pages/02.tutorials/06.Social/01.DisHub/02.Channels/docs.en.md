@@ -5,7 +5,6 @@ page-toc:
   active: false
 published: true
 visible: true
-indexed: true
 taxonomy:
     category:
         - docs
@@ -14,7 +13,7 @@ taxonomy:
         - DisHub
 ---
 
-## What is a channel?
+# What is a channel?
 You can see a channel like being a Facebook wall, a timeline of posts like Tweeter or Mastodon, etc. It can be simply a collection of content stored in one place. Basically, info that you want to share (or not) with others, and that others may share (or not) with you. The great thing and difference with those services: with your disroot account you can create as many channels as you want! So if you want to have one channel about cooking and another one about animals, you can!
 
 For most people, their first channel with be "Me".

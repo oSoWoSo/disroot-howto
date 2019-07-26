@@ -13,14 +13,16 @@ page-toc:
     active: true
 ---
 
-### What is it?
+# Default Channel Permission Limits
+
+## What is it?
 There are a set of default permission limits that apply to all items shared by a channel. This determines the first "limit" on who can access an item of your channel: a post, a wiki, a photo, etc.
 
-### What kind of permissions can be set?
+## What kind of permissions can be set?
 
 - **Can view my channel stream and posts.**
 
-This permision determines who can view your channel "stream": your non-private posts that appear on the *channel page* ![channel_icon](en/channel_icon.png) when you're logged in.
+This permision determines who can view your channel "stream": your non-private posts that appear on the *channel page* ![channel_icon](en/channel_icon.png) {.inline} when you're logged in.
 
 - **Can send me their channel stream and posts.**
 
@@ -32,7 +34,7 @@ This permission determines who can view your default channel's profile (you can 
 
 - **Can view my connections.**
 
-This permission determines who can view the list of your contacts. These are the connections displayed in the *"connections"* section ![connection_icon](en/connection_icon.png).
+This permission determines who can view the list of your contacts. These are the connections displayed in the *"connections"* section ![connection_icon](en/connection_icon.png) {.inline}.
 
 - **Can view my file storage and photos.**
 
@@ -90,13 +92,12 @@ This determines who can share your post onto other channels.
 
 This determines who can have full control of your channel. This should normally be set to *"nobody except myself"*.
 
-
-**Note:**
-Plugins/addons may provide special permission settings, so you may be offered additional permission settings beyond what is described here.
+!! ![](/home/icons/note.png)
+!! NOTE: Plugins/addons may provide special permission settings, so you may be offered additional permission settings beyond what is described here.
 
 If you have set any of these permissions to *"only those I specifically allow"*, you may specify individual permissions on the connnection edit screen.
 
-### What are the scopes of permissions that can be set with those limits?
+## What are the scopes of permissions that can be set with those limits?
 
 - **Nobody Except Yourself**
 
@@ -130,11 +131,10 @@ This is similar to *"anybody in this network"* except that it can include anybod
 
 Completely public. This permission will be approved for anybody at all.
 
-**Note**: Some scopes may not be available for some permissions.
+!! ![](/home/icons/note.png)
+!! NOTE: Some scopes may not be available for some permissions.
 
 The limit applies to any published thing you create which you didn't set specific permission to (see Access Control List below). For example if you publish a photo and didn't select a specific audience with permission to view it, we apply the limit you set. If all your photos are visible to everybody on the internet and you reduce the limit only to friends, all of your photos will now be visible only to friends.
 
-### Where can those permissions be set?
+## Where can those permissions be set?
 There are two places: in the **Channel settings** or in the **Connections settings**. See further for more information.
-
----

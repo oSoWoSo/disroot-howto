@@ -2,7 +2,6 @@
 title: Hubzilla Channels: Profiles
 updated:
 published: true
-indexed: true
 taxonomy:
     category:
         - docs
@@ -14,7 +13,7 @@ page-toc:
     active: true
 ---
 
-## What is a profile?
+# What is a profile?
 You have surely registered with some other internet services, such as forums or online communities. For all of them you provided some information about yourself, such as date of birth, country, age and the likes. Think of your profile as **the basic information about yourself you tell other people**.
 
 Here is an example of a profile with not much on it
@@ -77,24 +76,25 @@ A better way (because you have more options) is to click on your **avatar** in t
 ![Edit_profile](en/avatar_menu.png)
 
 
-## Have more "Things" on profile
-### What is it?
-You can add more stuff that was is available on your profile. It is called things. You can for example add what you like, what you want, etc. It allows viewers of your profile to "like" the added items.
+# Have more "Things" on profile
+## What is it?
+You can add more stuff that is available on your profile. It is called Things. You can for example add what you like, what you want, etc. It allows viewers of your profile to "like" the added items.
 
 ![profile_things](en/Profile_things.png)
 
-### How to add "things" on my profile?
+## How to add "Things" on my profile?
 Go on the **Edit Profile Details"** : click on your **avatar** in the nav bar and select **Edit Profiles**. Choose the profile you want to edit.
 
 Click on the **Profile tool** and choose **Add profile thing** and complete it the way you want!
 
 ![profile_add_things](en/Profile_add_things.gif)
 
-**Note**: the option **Post an activity** is activate per default. That means that it will create a post in your channel explaining what you like, want, etc.
+!! [](/home/icons/note.png)
+!! NOTE: the option **Post an activity** is activate per default. That means that it will create a post in your channel explaining what you like, want, etc.
 ![Profile_post_things](en/Profile_post_things.png)
 As stated and as you can also see in this post, only the viewers of this profile can see the post (see the lock on the post, next to the avatar)
 
-### How to modify or delete "things" on my profile?
+## How to modify or delete "Things" on my profile?
 Go on your **profile** and click on the "thing" you want to remove.
 
 ![profile_things](en/Profile_things.png)
@@ -104,8 +104,8 @@ Click on the pencil to edit, on the trash can to remove it!
 ![rofile_remove_things](en/Profile_remove_things.png)
 
 
-## Clone /  Export / Import  / Delete a profile
-###  What is it?
+# Clone /  Export / Import  / Delete a profile
+##  What is it?
 Hubzilla gives you the possibility to:
 - Create a **clone of an existing profile** if you only wish to change a few items but don't wish to enter all the information again.
 - Backup a profile by choosing **Export profile to file**. It will create a .json file that you can save on your computer and import later if needed.
@@ -113,30 +113,31 @@ Hubzilla gives you the possibility to:
 - **Delete*** a profile you don't use/want anymore.
 
 
-### How to Clone / Export / Import / Delete a profile?
+## How to Clone / Export / Import / Delete a profile?
 
 The **Profile tools** box that you can find on the **Edit Profile Details** offers to you those additional options. SO you just need to click on what you want to do!
 
 ![profile_tools](en/Profile_tools.png)
 
 
-## How to add a profile?
+# How to add a profile?
 Go on the **Edit Profile Details"** page: click on your **avatar** in the nav bar and select **Edit Profiles**. Just click on **Create New**.
 
 ![Profile page](en/ProfilePage.png)
 
-**Note**: Multiple profiles are enabled and locked in the enabled state by default for DisHub. On other hub, Multiple profiles is a member preference that need to be enabled by going to Settings > Additional Features.
+!! [](/home/icons/note.png)
+!! NOTE: Multiple profiles are enabled and locked in the enabled state by default for DisHub. On other hub, Multiple profiles is a member preference that need to be enabled by going to Settings > Additional Features.
 
 
-## The visibility of a profile
-### What is it?
+# The visibility of a profile
+## What is it?
 Your default profile is public by default and you can't change it. That means that anyone can see the information you added on it when they come on your channel.
 
 However, as explained before, you may create additional profiles to give more or less information about you to your connections.
 
 The "visibility" of a profile is the setting that organized who is going to see this profile.
 
-### How to change the visibility of my profile?
+## How to change the visibility of my profile?
 Click on the **Profile tools** from the **Edit Profile Details** and choose **Edit visibility**.
 
 **Important: this only available for the profiles that are not your default profile.**
@@ -151,7 +152,7 @@ Once a profile has been selected, when the person views your profile, they will 
 
 If you do not wish to be found be people unless you give them your channel address, you may leave your profile unpublished.
 
-## How to assign one of my profiles to new connections?
+# Assign one of my profiles to new connections
 If you want to change which profile is assigned by default to new connections, go to **Channel Settings**, then **Miscellaneous Settings**. The **Profile to assign new connections** drop-down menu lets you choose between your profiles.
 
 ![profile_assign](en/Profile_assign.png)

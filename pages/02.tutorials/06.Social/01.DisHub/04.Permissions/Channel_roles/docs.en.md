@@ -4,9 +4,12 @@ published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - Hubzilla
+        - DisHub
 visible: true
 page-toc:
-    active: true
+    active: false
 ---
 
 <style>

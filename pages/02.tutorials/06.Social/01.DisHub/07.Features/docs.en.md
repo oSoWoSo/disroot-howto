@@ -14,11 +14,11 @@ page-toc:
      active: false
 ---
 
-# Contents
+# Hubzilla's additional Featurs:
 
-1. [Connections Filtering](connection_filtering)
-2. [Personal Cloud Storage](personal_cloud_storage)
-3. [Bookmarks](bookmarks)
-4. [Chat](chat)
-5. [Calendar](calendar)
-6. [Photo album](photo_album)
+### [Connections Filtering](connection_filtering)
+### [Personal Cloud Storage](personal_cloud_storage)
+### [Bookmarks](bookmarks)
+### [Chat](chat)
+### [Calendar](calendar)
+### [Photo album](photo_album)

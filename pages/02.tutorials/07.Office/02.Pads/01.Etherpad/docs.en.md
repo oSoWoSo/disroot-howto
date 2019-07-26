@@ -5,7 +5,7 @@ updated:
         app: Etherpad
         app_version: 1.7.5
 published: true
-visible: false
+visible: true
 taxonomy:
     category:
         - docs
@@ -16,15 +16,8 @@ page-toc:
   active: true
 ---
 
-**NOTE:**```If the howto reffers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
-
----
-
-|![](../../../01.start/icons/etherpad.png)|
-|:--:|
-|Etherpad is a collaborative application for multi-user real-time text edition. You can reach it directly from your browser at: https://pad.disroot.org.<br>No user account is needed to make use of it. However our cloud comes with very handy plugin that helps you keep track of all your pads, just as if they are one of your files.|
-
-----
+![](/home/icons/etherpad.png)
+Etherpad is a collaborative application for multi-user real-time text edition. You can reach it directly from your browser at: https://pad.disroot.org.<br>No user account is needed to make use of it. However our cloud comes with very handy plugin that helps you keep track of all your pads, just as if they are one of your files.
 
 # Creating a new pad
 
@@ -114,7 +107,7 @@ In order to share with someone, you simply need to share the actual link to the 
 
 You can also do it this way:
 ![](en/08_share.png)
-1. Click on this button ![](en/07_share_button.png)
+1. Click on this button ![](en/07_share_button.png) {.inline}
 2. **Link**: Here you have the link to your pad. Copy and send it to anyone you want!
 3. **Read only**: You can also get a *Read only* link so that people could see the content of your pad but couldn't change its content. Just check this box to get the link to your read-only pad.
 
@@ -147,9 +140,3 @@ It is impossible to delete a pad. Once created they stay online. In fact anyone 
 
 # Etherpad
 To know more about the software used, check [Etherpad](https://etherpad.org/) website
-
----
-
- <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
-
----

@@ -5,7 +5,6 @@ page-toc:
   active: true
 published: true
 visible: true
-indexed: true
 taxonomy:
     category:
         - docs
@@ -14,12 +13,12 @@ taxonomy:
         - DisHub
 ---
 
-## What is a connection?
+# What is a Connection?
 Making connections between channels to share things is what social communications are all about.
 
 Connections in Hubzilla can take on a great many different meanings. **A connection is more accurately defined as a set of permissions that you have granted to somebody else**. In traditional social network applications, all connections are granted the same permissions; or at most there two levels (friends and 'followers'). In Hubzilla, a range of separate permissions may be set/adjusted depending on the situation and relationship you have with the other channel. You can allow somebody to view your posts but not your photos. You can also deny them permission to comment on your posts or send private mail to you.
 
-[For more information about permissions....](../permissions/)
+#### [For more information about permissions....](../permissions/)
 
 ## How to connect to a channel?
 There are several way to connect to a channel:
@@ -34,7 +33,8 @@ Go to your **Connections page** by clicking on the connection icon on the nav ba
 From there, write down the channel address you want to connect to in the **search bar**, and then click on the **+** to connect
 ![connect](en/Connect1.gif)
 
-!!! Because the pinned apps are hidden on mobile you have to access your connections page from the hamburger menu. And beacouse the left bar is hidden to you have to show it by clicking on the arrow icon. ![MobileConnections](en/MobileConnections.gif)
+!! Note for mobile: <br>
+!! Because the pinned apps are hidden on mobile you have to access your connections page from the hamburger menu. And beacouse the left bar is hidden to you have to show it by clicking on the arrow icon. ![MobileConnections](en/MobileConnections.gif)
 
 Depending on the settings of the channel you are connecting to, you may need to wait for them to approve your connection, but no further action is needed on your part. Once you've initiated the connection, you will be taken to the connection editor. This allows you to assign specific permissions for this channel if you wish to make any changes.
 
@@ -44,11 +44,11 @@ The directory is available on every Hubzilla website which means searching from 
 Go to the directory search page by clicking on the **Directory icon** on the top navbar.
 ![Network](en/Network.png)
 
-!!! On mobile you go to the directory from the hamburger menu and from there directory. ![MobileDirectory](en/MobileDirectory.png)
+!! On mobile you go to the directory from the hamburger menu and from there directory. ![MobileDirectory](en/MobileDirectory.png)
 
 Use the **search bar** for names or interests and click on **+ Connect** with the desired channel. ![connect2](en/Connect2.gif)
 
-!!! On mobile the search bar is hidden, if you want to search connections on mobile you do it like this ![MobileConnect](en/MobileConnect.gif)
+!! On mobile the search bar is hidden, if you want to search connections on mobile you do it like this ![MobileConnect](en/MobileConnect.gif)
 
 ### You see a channel that you want to connect to
 You can also connect to a channel when you see it, for example in a post or comment.

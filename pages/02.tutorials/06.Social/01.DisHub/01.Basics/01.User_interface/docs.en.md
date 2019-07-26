@@ -3,7 +3,6 @@ title: Hubzilla Basics: DisHub User Interface
 updated:
 published: true
 visible: true
-indexed: true
 taxonomy:
     category:
         - docs
@@ -14,7 +13,8 @@ page-toc:
      active: false
 ---
 
-## User Interface Overview
+# User Interface Overview
+
 After logging in, filled out your profile and created a channel, this is, almost for sure, how your channel will look like:
 
 ![basics_interface](en/Basics_interface.png)
@@ -23,7 +23,7 @@ Yes, it doesn’t look much pretty, huh? But, don’t get into a daze, by the en
 
 ![basics_interface_improved](en/Basics_interface_improved.png)
 
-… (or even better) and know where are the most important tools and features, what are they for and what the possibilities of each one of them. And that would be just the beginning.
+…(or even better) and know where are the most important tools and features, what are they for and what the possibilities of each one of them. And that would be just the beginning.
 
 Let’s start by knowing the spaces our new home first. Later you could decorated whatever you want.
 
@@ -45,8 +45,8 @@ For the purpose of this tutorial we will name the parts, or blocks, of the User 
 
 07. **Right side widgets**: This space can be used not only as a widget section, but almost anything you want to have accessible (information, apps, notes, sites, shortcuts, etc, as we’ll see later) can be setted to appear in this place.
 
-
-**NOTE: On the mobile version, the sidebars are hidden.** If you want to show the left sidebar you have to click on the arrow icon.</br>
+!! ![](/home/icons/note.png)
+!! NOTE: On the mobile version, the sidebars are hidden. If you want to show the left sidebar you have to click on the arrow icon.</br>
 
 ![MobileLeftBar](en/MobileLeftBar.gif)</br>
 

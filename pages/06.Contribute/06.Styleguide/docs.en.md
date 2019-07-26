@@ -137,6 +137,14 @@ Example:
 !! ![](/home/icons/note.png)
 !! **NOTE!** If you lose your password, you won't be able to retrieve your files on the cloud as they're encrypted, so even the server administrators can't see their content.
 
+
+#### Inline images
+
+Images are centered by default in the bext line. To use an image inline, so on the same line of a sentence use  {.inline} right after. Like in this example:
+
+```
+![](en/07_share_button.png) {.inline}
+```
 ----------------------------------------------------------------------
 
 

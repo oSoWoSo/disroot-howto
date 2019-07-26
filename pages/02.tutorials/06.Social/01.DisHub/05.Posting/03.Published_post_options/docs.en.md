@@ -1,7 +1,7 @@
 ---
 title: Hubzilla: Published Post options
 updated:
-published: true
+published: false
 visible: false
 taxonomy:
     category:

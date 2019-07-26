@@ -12,8 +12,9 @@ taxonomy:
 page-toc:
      active: true
 ---
+# Calendar
 
-# What is it?
+## What is it?
 Well, it's pretty obvious what a Calendar is!
 
 # How to see a calendar?

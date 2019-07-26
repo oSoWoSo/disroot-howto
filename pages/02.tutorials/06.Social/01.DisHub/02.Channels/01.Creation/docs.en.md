@@ -2,7 +2,6 @@
 title: Hubzilla Channels: Creating a channel
 updated:
 published: true
-indexed: true
 taxonomy:
     category:
         - docs
@@ -14,7 +13,7 @@ page-toc:
     active: true
 ---
 
-## How2 create my first channel?
+# How to create my first channel?
 
 When you log in for the first time after registering, you must create a channel.
 
@@ -23,7 +22,7 @@ So you will be presented with the "Add a channel" screen.
 
 First, you have to **choose a channel role and privacy** (you can change it later though). For example, you can choose **Social, Mostly Public**. According to what you choose, the default permission will change. For example, *Can comment on or like my posts* is public by default for **Social, Federation** and for your connections only in **Social, Mostly public**.
 
-[See the permission page to understand channel roles better](../../permissions)
+#### [See the permission page to understand channel roles better](../../permissions)...
 
 Then, you have to choose a **Name or caption**. Normally, your first channel will be one that represents you - so using your own name (or pseudonym) as the channel name is a good idea. The channel name should be thought of as a title, or brief description of your channel. This is how people with know and find your channel.
 
@@ -35,7 +34,7 @@ If you don't like the nickname chosen for you and want to change it, the **Creat
 
 After setting your Role, name (real or not) and your nickname, you will be redirected on the profile page of your new channel (or something else if your site admin decided otherwise).
 
-## How to create another channel?
+# How to create another channel?
 You can also create an other channel, as you can have as many channels as you want.
 
 To do so, click on your avatar on the nav bar, and choose **Channel manager**. You then can click on **+ Create New**.
@@ -49,8 +48,8 @@ Click on your avatar in the nav bar and select your channel.
 Click on your avatar on the nav bar, and choose **Channel manager**. You then can click on **Make default**.
 ![channel_default](en/channel_default.png)
 
-## How to make your channel a "Premium Channel"
-Some channels are designated **Premium Channels** and may require some action before a connection can be established with it. The Connect button for these channels will open a page which lists in detail what terms the channel owner has set. If the terms are accepted, the connection will then proceed normally. In some cases, such as with celebrities and world-reknowned publishers, this may involve payment. If the channel does not agree to the terms, the connection will not proceed, or it may proceed but with reduced permissions allowed on interactions with that channel.
+# How to make your channel a "Premium Channel"
+Some channels are designated **Premium Channels** and may require some action before a connection can be established with it. The Connect button for these channels will open a page which lists in detail what terms the channel owner has set. If the terms are accepted, thSe connection will then proceed normally. In some cases, such as with celebrities and world-reknowned publishers, this may involve payment. If the channel does not agree to the terms, the connection will not proceed, or it may proceed but with reduced permissions allowed on interactions with that channel.
 
 Here is an example of such a message:
 ![connections_premium_message](en/Connection_premium_message.png)

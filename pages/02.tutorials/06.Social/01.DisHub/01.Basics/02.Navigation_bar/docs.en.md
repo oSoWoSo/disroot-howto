@@ -3,7 +3,6 @@ title: Hubzilla Basics: Navigation Bar
 updated:
 published: true
 visible: true
-indexed: true
 taxonomy:
     category:
         - docs
@@ -20,14 +19,15 @@ Here is the navigation bar:
 ![Basics_navigation_ bar](en/Basics_navigation_bar.png)
 
 Here are some of the important icons you need to understand:
-1. Profile: ![Profile](en/Basics_profile_icon.png)
-2. Home Channel: ![home](en/Icon_home.png)
-3. Network stream: ![home](en/Icon_network_stream.png)
-4. Public stream: ![home](en/Icon_public_stream.png)
-5. Connections: ![home](en/Icon_connections.png)
-6. Directory: ![home](en/Icon_directory.png)
+1. Profile: ![Profile](en/Basics_profile_icon.png) {.inline}
+2. Home Channel: ![home](en/Icon_home.png) {.inline}
+3. Network stream: ![home](en/Icon_network_stream.png) {.inline}
+4. Public stream: ![home](en/Icon_public_stream.png) {.inline}
+5. Connections: ![home](en/Icon_connections.png) {.inline}
+6. Directory: ![home](en/Icon_directory.png) {.inline}
 
-**Note:** On mobile pinned apps are hidden and only accessible through the hamburger menu on the right ![MobileNavigationBar](en/MobileNavigationBar.png)
+!! ![](/home/icons/note.png)
+!!Note: On mobile pinned apps are hidden and only accessible through the hamburger menu on the right: ![MobileNavigationBar](en/MobileNavigationBar.png)
 
 ![Profile](en/Basics_profile_icon.png) **Profile**: By clicking on it, you access to view and edit your profile, your channel manager, the general settings and to log out.
 
@@ -45,7 +45,7 @@ Clicking on “View profile” you’ll see your public profile with the informa
 ### Edit Profiles
 Here you can see your default and created profiles if there any or create new ones.
 (See Profiles Settings for more information about creating and managing profiles)
-[To know more about profiles and the available options...]((../../02.Channels/02.Profiles))
+#### [To know more about profiles and the available options...]((../../02.Channels/02.Profiles))
 
 ### Channel Manager
 From here you can manage your channels and create new ones.<br>
@@ -59,14 +59,14 @@ Click on the **Channel Manager** to access its options.
 
 From here you can create and switch between channels. The process to create a channel it’s the same as when you create your first one.
 
-[To know more about channels and the available options...](../../02.Channels)
+#### [To know more about channels and the available options...](../../02.Channels)
 
 ### Settings
 By clicking on it, you will access to the Account, Channel, Features settings and other configurations.
 
 ![basics_settings](en/Basics_settings.png)
 
-!!! The settings options are on the left sidebar. So if you want to show the options on mobile you have to clikc on the arrow icon in the nav bar. ![ArrowIcon](en/ArrowIcon.png)
+!! The settings options are on the left sidebar. So if you want to show the options on mobile you have to clikc on the arrow icon in the nav bar. ![ArrowIcon](en/ArrowIcon.png)
 
 ##### Account settings
 In the **Account settings** you can change your email address, your password and set Your **technical skill level**. Every level sets different user features according to what you expect or want to do. By default, DisHub skill level is **4. Expert**, in orden to provide most of the features available.
@@ -83,11 +83,11 @@ There are five levels. From level 1 on, each one of them progressively enables A
 This is one of the most important settings. These howtos will refer to it a lot.
 ![basics_channel_settings](en/Basics_channel_settings.png)
 
-## 2. Home Channel: ![home](en/Icon_home.png)
+## 2. ![home](en/Icon_home.png) {.inline}  Home Channel:
 It works like the “wall” of most social networks, it’s the place where you see your posts, the comments on them (if they’re enable), the posts you’ve re-shared, and those from the people you’ve give permissions to write on it.
 Everything is already pretty well explained [here](../01.Basics)
 
-## 3. Network stream: ![home](en/Icon_network_stream.png)
+## 3. ![home](en/Icon_network_stream.png) {.inline} Network stream:
 It looks a lot like the **Home Channel**. Except that here, you see not only your posts and comments, but also the posts and comments of your connections, if you allowed them to.
 
 ![Network_stream](en/Network_stream.png)
@@ -97,7 +97,7 @@ You can filter those posts in different ways.
 2. You can click on the different tabs.
 ![Filter_tabs](en/Filter_tabs.png)
 
-## 4. Public stream: ![home](en/Icon_public_stream.png)
+## 4. ![home](en/Icon_public_stream.png) {.inline} Public stream:
 Here, you can see ANYONE posts and comments published in the fediverse, so any Hubzilla, Mastodon, Diaspora, etc., servers.
 
 ![Public_stream](en/Public_stream.png)
@@ -106,10 +106,10 @@ You can filter those posts by clicking on the cloudwords in **Trending**.
 
 You can also use the **search box** to look for a tag, an user, etc. ![Search_box](en/Search_box.png)
 
-## 5. Connections: ![home](en/Icon_connections.png)
+## 5. ![home](en/Icon_connections.png) {.inline} Connections:
 It allows to see your connections and to edit them [Informations here](../../03.Connections)
 
-## 6. Directory: ![home](en/Icon_directory.png)
+## 6. ![home](en/Icon_directory.png) {.inline} Directory: 
 It allows to see and search any channel on hubzilla (not just Dishub). To search a specific channel use the search engine on the upper left side of the directory page
 
 ![Directory](en/Directory.png)

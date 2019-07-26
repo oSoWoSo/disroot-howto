@@ -4,7 +4,7 @@ updated:
         last_modified: "April 2019"
         app: Padland
         app_version: 1.4
-visible: false
+visible: true
 published: true
 taxonomy:
     category:
@@ -16,15 +16,8 @@ page-toc:
     active: true
 ---
 
-**NOTE:**```If the howto reffers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
-
----
-
-|![](/start/icons/padland.png)|
-|:--:|
-|Padland is a tool to create, manage, share, remember and read collaborative documents based on the Etherpad technology in Android.|
-
-----
+![](/home/icons/padland.png)
+Padland is a tool to create, manage, share, remember and read collaborative documents based on the Etherpad technology in Android.
 
 # Get padland
 Download it from [**f-droid**](https://f-droid.org/) and install it on your device.
@@ -89,9 +82,3 @@ You'll see a page like this:
 You should be able to edit it:<br>
 ![](en/edit2.png)<br>
 There, you can change the pad name (**Pad Alias**), it's address (**Pad Name**) and also **Select group** to move your pad into a folder.
-
----
-
- <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
-
----

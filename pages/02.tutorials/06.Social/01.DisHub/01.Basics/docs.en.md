@@ -3,7 +3,6 @@ title: Hubzilla: DisHub Basics
 updated:
 published: true
 visible: true
-indexed: true
 taxonomy:
     category:
         - docs
@@ -26,13 +25,13 @@ Now, you can **create post**:
 <br>
 ![Share_box](en/Share_box.png)
 
-[To know how](../posting)
+#### [To know how...](../posting)
 
-Or you can **add friends** (called *connections* in hubzilla) that you can follow:
+Or you can **add friends** (called *connections* in Hubzilla) that you can follow:
 <br>
 ![Connections](en/Connections.png)
 
-[To know how](../connections)
+#### [To know how...](../connections)
 
 
-!!! There is a nice quick howto start [here](https://hub.disroot.org/help/en/tutorials/personal_channel#Create_a_new_channel)
+#### You can also find a great tutorial to start with [right here on hubzilla...](https://hub.disroot.org/help/en/tutorials/personal_channel#Create_a_new_channel)

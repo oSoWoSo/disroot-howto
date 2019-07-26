@@ -13,7 +13,9 @@ page-toc:
      active: true
 ---
 
-# What is it used for?
+# Photo Album
+
+## What is it used for?
 Photo album is a tool that allows to create albums of pictures that you want to share with others.
 
 # How to see a photo album?

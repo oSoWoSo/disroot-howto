@@ -1,7 +1,7 @@
 ---
 title: 'Pads: EtherCalc'
 updated:
-published: true
+published: false
 visible: false
 taxonomy:
     category:
@@ -12,6 +12,5 @@ taxonomy:
 page-toc:
   active: false
 ---
-|![](/start/icons/ethercalc.png)|
-|:--:|
-|Ethercalc|
+![](/home/icons/ethercalc.png)
+Ethercalc

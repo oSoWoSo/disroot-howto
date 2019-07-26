@@ -2,7 +2,6 @@
 title: Hubzilla Channels: Blocking a channel
 updated:
 published: true
-indexed: true
 taxonomy:
     category:
         - docs
@@ -14,7 +13,7 @@ page-toc:
     active: true
 ---
 
-## What does block a channel do?
+# What does 'Block a Channel' do?
 Well, lets say you don't want any contact with somebody, for example because this somebody spams you or because their comments just disturb you, or because you don't want hi/her to read your post. You can simply block that contact.
 
 There are two way of blocking:
@@ -46,4 +45,4 @@ If you want to undo the completely block, you are not able anymore to see it any
 
 ![CompletelyUnBlockChannel](en/CompletelyUnBlockChannel.gif)
 
-!!! on moblie the settings panel is hidden. To show the settings panel you gave to click on the arrow icon on the nav bar. ![MobileSuperblock](en/MobileSuperblock.gif)
+!! On mobile the Settings Panel is hidden. To show the settings panel you gave to click on the arrow icon on the nav bar. ![MobileSuperblock](en/MobileSuperblock.gif)

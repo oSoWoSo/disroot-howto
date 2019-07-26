@@ -16,9 +16,9 @@ page-toc:
 
 <br>
 
-## Frequently Asked Questions
+# Frequently Asked Questions
 
-### How to change your page's background image?
+## How to change your page's background image?
 ![Background](en/Background.png)
 
 You can change the background in theme settings, depending on the theme you use. There you can pretty much change any color and number of other settings.
@@ -27,7 +27,7 @@ So go to **Settings > display settings > custom theme settings > background imag
 
 ![Background_setting](en/Background_setting.png)
 
-### Is it possible to schedule posts?
+## Is it possible to schedule posts?
 Activate delayed posting in ** Settings -> Additional Features -> Post Composition Features -> Delayed Posting**
 
 Then you will get a new option **Set publish date** when composing a post (click the clock icon under the post editor).

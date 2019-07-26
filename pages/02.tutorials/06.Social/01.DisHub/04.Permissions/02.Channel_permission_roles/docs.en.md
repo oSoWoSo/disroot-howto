@@ -13,13 +13,15 @@ page-toc:
     active: true
 ---
 
-### What is it?
+# Channel permission roles
+
+## What is it?
 These permission limits (see previous section) can come in pre-configured sets to help you set them quickly. It is called **Channel permission roles**.
 When you create a new channel, you will be asked to select a permission *role* based on how you envision using this channel. These create an entire family of permissions and privacy settings that are appropriate for that role. **Typical roles are "Social - mostly public", "Social - mostly private", "Forum - public"** and many others. These bring a level of simplicity to managing permissions. Just choose a role and appropriate permissions are automatically applied. For example, if you choose the "Social - Public" role, then your default permission limits set your posts to be public. So channel permission roles are primarily a way to reduce the complexity of setting all the default permission limits.
 
 Advanced configurations (**'Custom/Expert mode'**) are available to let you adjust each of these parameters to your needs, but we've found that most people prefer to "set it and forget it".
 
-### How to select a channel role?
+## How to select a channel role?
 Go to your **settings** page, click on the **Channel settings** tab then on **Security and Privacy Settings**. From there, you can see a drop-down menu under **Channel role and privacy**. You can choose between:
 - Social:
  - Federation
@@ -40,11 +42,11 @@ Go to your **settings** page, click on the **Channel settings** tab then on **Se
 
 ![channel_roles](en/channel_roles.gif)
 
-### What are the differences between these roles?
+## What are the differences between these roles?
 
 We highly recommend that you use the **"Social - Mostly Public"** settings when you create your first channel, as it allows others to communicate with you and help you out if you have difficulty. You will find that these settings allow you as much privacy as you desire - when you desire it; but also allow you to communicate in public if you choose to. You are free to use much more private settings once you have learned your way around.
 
-[See this channel roles permissions table](../channel_roles)
+#### [See this channel roles permissions table](../channel_roles)...
 
 #### Social
 ##### Federation
@@ -90,7 +92,7 @@ What does it do?
 - Your online presence (for chat) and your connections (friends) is hidden.   
 - Only your connections can see your other connections.
 
-#### Forum
+## Forum
 You can compare Hubzilla Forums as groups in Facebook. You can choose different privacy settings for that.
 
 ##### Mostly Public
@@ -121,7 +123,7 @@ What does it?
 - Your online presence is hidden. Members must be manually added by the forum owner.
 - Posting by !mention is disabled. Posts can only be made via wall-to-wall posts, and sent to members of the 'Friends' privacy group. They are not publicly visible.   
 
-#### Feed
+## Feed
 ##### Public
 Similiar to Social - Mostly Public, but tailored for RSS feed sources. Items may be freely republished and sourced. Online presence is meaningless, therefore hidden. New connections are automatically approved.  
 
@@ -137,5 +139,3 @@ A public forum which allows members to post files/photos/webpages.
 
 #### Custom/Expert Mode
 Set all the privacy and permissions manually to suit your specific needs.
-
----
