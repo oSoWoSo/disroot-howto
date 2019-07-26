@@ -1,9 +1,7 @@
 ---
 title: Glossary
-published: true
-visible: true
-updated:
-        last_modified: "July 2019"
+published: false
+visible:
 taxonomy:
     category:
         - docs
@@ -12,6 +10,8 @@ taxonomy:
 page-toc:
     active: false
 ---
+
+# Glossary (Coming Soon)
 
 - Git
 - Pull request

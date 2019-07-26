@@ -3,7 +3,6 @@ title: How-to: License
 published: true
 visible: true
 updated:
-        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
@@ -14,9 +13,9 @@ page-toc:
 ---
 
 # Licensing of the tutorials
-|![](en/copyleft.png)|
-|:--:|
-|All How-to site documentation is under a<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a><br><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>|
+![](en/copyleft.png)
+
+All How-to site documentation is under a<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a><br><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>
 <br>
 
 We think that knowledge should be shared and, because of that, we've decided to make all the documents at Disroot How-to available to be used by others and improved or adapted to their needs.<br>
@@ -34,5 +33,3 @@ The **Creative Commons BY-SA**, allows anyone to modify and share a tutorial fre
 You can read more about **Copyleft** concept [here](https://en.wikipedia.org/wiki/Copyleft).
 
 And more about the **Creative Commons licenses** [here](https://creativecommons.org/).
-
------

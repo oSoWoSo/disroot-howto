@@ -3,7 +3,6 @@ title: How-to Contribute: Git
 published: true
 visible: true
 updated:
-        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
@@ -14,9 +13,10 @@ page-toc:
     active: false
 ---
 
-|What is git?|
-|:--:|
-|![](en/git.png)|
+
+![](en/git.png)
+
+# What is git?
 
 **Git** is a distributed version control system, a tool for tracking files, code and content. It allows many people to work on the codes and follow all the changes at the same time with a copy of the project in all the developer's computers. It's very popular among developers and system administrators but it's features can be easily applicable everywhere history of changes and ability to submit content and collaborate in a group is required.
 

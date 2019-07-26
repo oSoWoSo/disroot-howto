@@ -1,9 +1,8 @@
 ---
 title: How-to Contribute: Email
 published: true
-visible: true
+visible: false
 updated:
-        last_modified: "July 2019"
 taxonomy:
     category:
         - docs

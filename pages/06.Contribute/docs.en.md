@@ -3,7 +3,6 @@ title: How-to: Contribute
 published: true
 visible: true
 updated:
-        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
@@ -12,6 +11,8 @@ taxonomy:
 page-toc:
     active: false
 ---
+
+# Contribute
 
 We think that knowledge is a collective construction. In other words, knowledge is the result of working together and cooperatively, as a community.
 

@@ -3,7 +3,6 @@ title: How-to Contribute: Choose the way
 published: true
 visible: true
 updated:
-        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
@@ -12,6 +11,9 @@ taxonomy:
 page-toc:
     active: false
 ---
+
+# How to contribute to the Howto's?
+
 Here are some ways you can chose:
 
 #### [GIT](/contribute/git)

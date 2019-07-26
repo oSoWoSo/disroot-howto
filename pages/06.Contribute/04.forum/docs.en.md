@@ -1,6 +1,6 @@
 ---
 title: How-to Contribute: Forum
-published: true
+published: false
 visible: true
 updated:
         last_modified: "July 2019"

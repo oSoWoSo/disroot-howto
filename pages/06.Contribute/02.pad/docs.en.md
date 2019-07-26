@@ -1,9 +1,8 @@
 ---
 title: How-to Contribute: Pads
-published: true
+published: false
 visible: true
 updated:
-        last_modified: "July 2019"
 taxonomy:
     category:
         - docs

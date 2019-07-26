@@ -3,8 +3,8 @@ title: How-to Contribute: Git Basics
 published: true
 visible: false
 updated:
-        last_modified: "July 2019"
-        app: Atom
+        last_modified: "17 April 2019"
+        app: Git and Atom
         app_version: 1.33
 taxonomy:
     category:
@@ -16,13 +16,6 @@ page-toc:
     active: true
 ---
 
-|```Meta information```|
-|:--:|
-|```This howto was last updated on``` **2019-04-17** ```and it reffers to:```<br>**Git and Atom v.1.33**<br>
-
-**NOTE:**```If the howto reffers to an older software version than the provided by``` **Disroot**,```or the one you're using in your device, there could be missing features or small parts of the information that may have changed.```<br> **Disroot's** ```how-to documentation is a community driven procces. We try to keep it as updated as we can.```
-
----
 # Git Basics
 
 We'll not cover all the aspects of using git in this tutorial. There are lots of in-depth tutorials and books written about this tool and what we're aiming at is providing a short and easy way to contribute to tutorials and translations.
@@ -61,9 +54,8 @@ In order to be able to commit changes to **Disroot**'s git repository, you need 
 
 Once admins grant you the access, you can "*push*" your changes to the server.
 
-|![](en/note.png) **NOTE**|
-|:--:|
-|You can start working without access granted as all the changes happen on your local computer.|
+!! ![](/home.icons/note.png)
+!! NOTE: You can start working without access granted as all the changes happen on your local computer.
 
 # Starting to work
 Now you can start **Atom**.
@@ -155,9 +147,3 @@ Pulling should be done on regular basis (specially before you start working on n
 
 ## Template to use for how-to's
 You can copy the content [here](en/template.txt) and create your how-to file.
-
----
-
- <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
-
----
