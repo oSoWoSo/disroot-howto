@@ -6,7 +6,7 @@ taxonomy:
     category:
         - docs
 page-toc:
-     active: false
+     active: active
 ---
 
 # User Self Service Center
@@ -76,7 +76,9 @@ Whether it's to receive notifications or reset your password, you can add a seco
 Here you can find a summary of the **account and password information**, **the password policy** (the rules that a password must comply with) and the **history** of the password management.
 
 ![](en/account_02.png)
+
 ![](en/account_03.png)
+
 ![](en/account_04.png)
 
 ### Account Deletion
