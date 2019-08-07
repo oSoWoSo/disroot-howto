@@ -9,7 +9,7 @@ page-toc:
      active: active
 ---
 
-## User Self Service Center
+# User Self Service Center
 
 The **User Self Service Center** is the place where you can manage your **Disroot** account settings.
 
@@ -18,12 +18,12 @@ Log in with your **Disroot** username and password.
 ![](en/login.png)
 
 ## Change your password
-![](en/change_pass.png)
+![](en/change_pass.png)<br>
 Click on this option to change your current password.
 
 Follow the password creation rules and enter the new one twice.
 
-![](en/change_pass_02.png)
+![](en/change_pass_02.png)<br>
 Once you've changed your password you will need to make sure to change your encryption key in the **Cloud**, since all your files in **Nextcloud** are encrypted with a key that is generated from your password.
 
 1. Go to **[https://cloud.disroot.org](https://cloud.disroot.org)** and log in with your new password.
@@ -46,7 +46,7 @@ You will see a yellow message on top of the page:<br>
 
 
 ## Setup Security Questions
-![](en/security_qs.png)
+![](en/security_qs.png)<br>
 In case you forget/lose your password, you can reset it without Admins intervention by seting up the security questions first.
 
 The proccess is pretty simple: click on ***Setup Security Questions***.
@@ -60,13 +60,13 @@ Once the answers meet the requirements, just click ***Save Answers***.
 ![](en/security_qs_04.png)
 
 ## Updating the Profile
-![](en/profile.png)
+![](en/profile.png)<br>
 Whether it's to receive notifications or reset your password, you can add a secondary address to your profile. You can also modify your screen name (the name that will appear on the services screen)
 
 ![](en/profile_02.png)
 
 ## Account information
-![](en/account.png)
+![](en/account.png)<br>
 Here you can find a summary of the **account and password information**, **the password policy** (the rules that a password must comply with) and the **history** of the password management.
 
 ![](en/account_02.png)
@@ -76,7 +76,7 @@ Here you can find a summary of the **account and password information**, **the p
 ![](en/account_04.png)
 
 ## Account Deletion
-![](en/deletion.png)
+![](en/deletion.png)<br>
 If for any reason you want to delete your account, just click this option. Once you're sure about deleting the account, check the **I Agree** box and finally **Delete**.
 
 ![](en/deletion_02.png)
