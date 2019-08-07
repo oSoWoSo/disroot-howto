@@ -11,8 +11,6 @@ page-toc:
 
 ### How-to:
 
-#### [Change your password](password-change/)
+#### [Manage your Disroot Account](ussc/)
 
 #### [Request email Alias](alias-request)
-
-#### [Delete your Account](account-deletion)

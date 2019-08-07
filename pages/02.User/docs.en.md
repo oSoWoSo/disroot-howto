@@ -10,11 +10,11 @@ page-toc:
 ---
 
 ## How-to:
-#### [Change your password](/user/account_password/password-change/)
+#### [Manage you account](/user/account/ussc/)
+Change and update password, setup security questions, add a secondary email for password reset and notifications.
 
-#### [Request email Alias](/user/account_password/alias-request)
+#### [Request email Alias](/user/account/alias-request)
 
-#### [Delete your Account](/user/account_password/account-deletion)
 
 ## How-to:
 #### [Export your personal data](gdpr): (GDPR Compliance)
