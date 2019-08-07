@@ -51,10 +51,10 @@ In case you forget/lose your password, you can reset it without Admins intervent
 
 The proccess is pretty simple: click on ***Setup Security Questions***.
 
-![](en/security_qs_02.png)
+![](en/security_qs_02.png)<br>
 Write the first question and its answer, then select the next two questions from the drop-down list and write the answers as well.<br>
 
-![](en/security_qs_03.png)
+![](en/security_qs_03.png)<br>
 Once the answers meet the requirements, just click ***Save Answers***.
 
 ![](en/security_qs_04.png)
