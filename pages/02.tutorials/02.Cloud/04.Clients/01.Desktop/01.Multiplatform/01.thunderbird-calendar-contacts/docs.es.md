@@ -9,7 +9,7 @@ taxonomy:
         - docs
 ---
 
-Las herramientas Contactos y Calendario en Disroot/Nexcloud son bastante geniales, pero si además tienes tu cuenta de correo de Disroot conectada a un cliente como Thunderbird entonces es aún mejor porque puedes tenerlas integradas y acceder a ellas desde un solo lugar en tu escritorio.
+Las herramientas Contactos y Calendario en Disroot/Nextcloud son bastante geniales, pero si además tienes tu cuenta de correo de Disroot conectada a un cliente como Thunderbird entonces es aún mejor porque puedes tenerlas integradas y acceder a ellas desde un solo lugar en tu escritorio.
 
 ---------
 
