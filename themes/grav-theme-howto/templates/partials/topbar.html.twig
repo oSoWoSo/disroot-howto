@@ -1,0 +1,12 @@
+<div id="top-bar">
+  {% if  github_link_position == 'top' %}
+    <div id="top-github-link">
+      {% include 'partials/github_link.html.twig' %}
+    </div>
+  {% endif %}
+
+  {% if config.plugins.breadcrumbs.enabled %}
+    {% include 'partials/breadcrumbs.html.twig' %}
+  {% endif %}
+
+</div>

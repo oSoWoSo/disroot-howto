@@ -1,0 +1,86 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block navigation %}
+   <div id="navigation">
+   {% if not progress.isFirst(page.path) %}
+       <a class="nav nav-prev" href="{{ progress.nextSibling(page.path).url }}"> <i class="fa   fa-chevron-left"></i></a>
+   {% endif %}
+
+   {% if not progress.isLast(page.path) %}
+       <a class="nav nav-next" href="{{ progress.prevSibling(page.path).url }}"><i class="fa    fa-chevron-right"></i></a>
+   {% endif %}
+   </div>
+{% endblock %}
+
+{% block content %}
+
+<section class="topbar wrapper">
+    {% block topbar %}
+      {% include 'partials/topbar.html.twig' %}
+    {% endblock %}
+</section>
+
+<div class=row>
+<div class="full">
+ <div id="body-inner">
+     <article>
+      <section class="title wrapper">
+        <!--h5>
+          {{ page.title|e }}
+        </h5-->
+      </section>
+
+      {% include 'partials/docmeta.html.twig' %}
+
+      <section class="index content narrow">
+            {{ page.content }}
+             <p></p>
+             <div class="row">
+               <div class="row">
+                 {% for p in page.children %}
+                     <div class="three columns">
+                     {%if p.header.indexed %}
+                         <a href="{{ p.link }}">
+                         {%if p.media %}
+                            {{ p.media.images|first.html }}
+                         {% endif %}
+                         <h6>{{ p.title }}</h6>
+                         </a>
+                      {% endif %}
+                      {% for c in p.children.visible %}
+                         {%if c.header.indexed %}
+                             <a href="{{ c.link }}">
+                             {%if c.media %}
+                               {{ c.media.images|first.crop(0, 0, 400, 300).html }}
+                             {% endif %}
+                             <h6>{{ c.title }}</h6>
+                             </a>
+                         {% endif %}
+                     {% endfor %}
+                     </div>
+                 {% endfor %}
+               </div>
+             </div>
+         </section>
+         <section class="foot wrapper">
+          {% if page.taxonomy.tag|length > 0 %}
+          {% set taglist = [] %}
+        {% for tag in page.taxonomy.tag %}
+          {% set taglist = taglist|merge(['<a href="'~base_url~'/taxonomy?name=tag&amp;val='~(tag|url_encode)~'">'~tag~'</a>']) %}
+        {% endfor %}
+          <div class="tags">
+            <i class="fa fa-tags rightpad"></i>{{ taglist|join(', ') }}
+          </div>
+          {% endif %}
+        {% if config.plugins.relatedpages.enabled and related_pages|length > 0 %}
+          <div class="related topiclist">
+            <h2>{{ 'RELATED_ARTICLES'|t }}</h2>
+            {% include 'partials/relatedpages.html.twig' %}
+          </div>
+        {% endif %}
+         </section>
+     </article>
+</div>
+</div>
+</div>
+{% endblock %}

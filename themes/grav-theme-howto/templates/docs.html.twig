@@ -1,0 +1,29 @@
+{% extends 'partials/base.html.twig' %}
+
+
+{% set tags = page.taxonomy.tag %}
+{% if tags %}
+   {% set progress = page.collection({'items':{'@taxonomy':{'category': 'docs', 'tag': tags}},  'order': {'by': 'default', 'dir': 'asc'}}) %}
+{% else %}
+   {% set progress = page.collection({'items':{'@taxonomy':{'category': 'docs'}},'order':       {'by': 'default', 'dir': 'asc'}}) %}
+{% endif %}
+
+
+		{% set showsidebar = false %}
+		{% if (grav.theme.config.params.sidebar.show.categories) or (grav.theme.config.params.sidebar.show.popular) or (grav.theme.config.params.sidebar.show.latest) %}
+		    {% set showsidebar = true %}
+		{% endif %}
+
+{% block content %}
+  <div class="wrapper">
+    {% block sidebar %}
+	 	  	<section id="sidebar" class="pull-right">
+	 	    {% include 'partials/sidebar.html.twig' %}
+	 	  	</section>
+	 		{% endblock %}
+
+    {% include 'partials/page.html.twig' %}
+  </div>
+
+
+{% endblock %}

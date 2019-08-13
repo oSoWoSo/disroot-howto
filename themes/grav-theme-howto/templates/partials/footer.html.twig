@@ -1,0 +1,24 @@
+<div class="footer text-center">
+    <div class="wrapper padding">
+        <div id="navigation">
+          {% if theme_var('github.link') %}
+            {% include 'partials/github-link.html.twig' %}
+          {% endif %}
+          {% if not progress.isFirst(page.path) %}
+            <a class="nav-prev tooltip tooltip-bottom left" data-tooltip="Previous Page [&larr;]" href="{{ progress.nextSibling(page.path).url }}">{{ progress.nextSibling(page.path).title }} <i class="fa fa-angle-left"></i></a>
+          {% else %}
+            <span class="disabled"><i class="fa fa-angle-left"></i></span>
+          {% endif %}
+          {% if not progress.isLast(page.path) %}
+            <a class="nav-next tooltip tooltip-bottom right" data-tooltip="Next Page [&rarr;]" href="{{ progress.prevSibling(page.path).url }}"><i class="fa fa-angle-right"></i> {{ progress.prevSibling(page.path).title }}</a>
+          {% else %}
+            <span class="disabled"><i class="fa fa-angle-right"></i></span>
+          {% endif %}
+        </div>
+      <div class="progress"></div>
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">
+          <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+          <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+      <!--p><a href="http://getgrav.org">Grav</a> was <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by <a href="http://www.rockettheme.com">RocketTheme</a>.</p-->
+    </div>
+</div>

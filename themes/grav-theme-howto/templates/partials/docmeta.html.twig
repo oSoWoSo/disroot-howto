@@ -1,0 +1,10 @@
+{% if page.header.updated %}
+  <section class="metadata narrow">
+    <pre>
+      This following section was last updated on <b>{{ page.header.updated.last_modified }}</b> and it refers to <b> {{ page.header.updated.app }}, version {{ page.header.updated.app_version }} </b>
+
+      NOTE:If the howto reffers to an older software version than the provided by Disroot,or the one you're using in your device, there could be missing features or small parts of the information that may have changed.
+      Disroot's how-to documentation is a community driven procces. We try to keep it as updated as we can.
+    </pre>
+  </section>
+{% endif %}

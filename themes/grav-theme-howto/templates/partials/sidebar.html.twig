@@ -1,0 +1,17 @@
+
+{% if not progress.isLast(page.path) %}
+    <a class="nav-next tooltip tooltip-bottom push-right" data-tooltip="Next Page [&rarr;]" href="{{ progress.prevSibling(page.path).url }}"><i class="fa fa-angle-right"></i> {{ progress.prevSibling(page.path).title }}</a>
+{% else %}
+    <span class="disabled"><i class="fa fa-angle-right"></i></span>
+{% endif %}
+
+{% if config.get('plugins.page-toc.active') or attribute(page.header, 'page-toc').active %}
+  <div class="page-toc">
+    {% set table_of_contents = toc(page.content) %}
+    {% if table_of_contents is not empty %}
+      <span class="toc-toggle"><i class="fa fa-angle-up"></i></span>
+      <h5>Table of Content</h5>
+      {{ table_of_contents|raw }}
+    {% endif %}
+  </div>
+{% endif %}
