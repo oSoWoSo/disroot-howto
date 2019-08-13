@@ -1,0 +1,58 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+
+<div class="row">
+
+<div class="search">
+    <div class="wrapper padding align-center">
+      {% include 'partials/simplesearch_searchbox.html.twig' %}
+    </div>
+</div>
+
+{% set catlist = taxonomy.taxonomy["category"]|keys %}
+{% if grav.theme.config.params.articles.blacklist is defined %}
+	{% set blist = grav.theme.config.params.articles.blacklist %}
+	{% set tmplst = [] %}
+	{% for cat in catlist %}
+		{% if cat not in blist %}
+			{% set tmplst = tmplst|merge([cat]) %}
+		{% endif %}
+	{% endfor %}
+	{% set catlist = tmplst %}
+{% endif %}
+
+{% set rows=[] %}
+{% set node=[] %}
+{% set maxrows = 3 %}
+{% if grav.theme.config.params.front.maxrows is defined %}
+	{% set maxrows = grav.theme.config.params.front.maxrows %}
+{% endif %}
+{% for cat in catlist|sort|slice(0,maxrows*2) %}
+	{% set node = node|merge([cat]) %}
+	{% if (node|length == 2) or (loop.last) %}
+		{% set rows = rows|merge([node]) %}
+		{% set node = [] %}
+	{% endif %}
+{% endfor %}
+
+{% if grav.theme.config.params.front.maxentries is defined %}
+	{% set maxcount = grav.theme.config.params.front.maxentries %}
+{% endif %}
+<section id="{{ page.header.section_id }}" class="row columns">
+	<div class="topic-list">
+			<h1>{{ ''|t }}</h1>
+{% for row in rows %}
+	{% for cat in row %}
+		<div class="three columns topic-list">
+			{% include 'partials/frontlist.html.twig' with {'category': cat, 'maxcount': maxcount} %}
+		</div>
+	{% endfor %}
+
+{% endfor %}
+	</div>
+</section>
+
+</div>
+
+{% endblock %}

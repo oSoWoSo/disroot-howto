@@ -1,0 +1,13 @@
+{% if maxcount is not defined %}
+    {% set maxcount = (articles|length) + 1 %}
+{% endif %}
+<ul>
+{% for p in articles|slice(0,maxcount) %}
+  {# If the page isn't visible, don't show it... #}
+  {% if not p.header.visible is defined or p.header.visible %}
+    <li>
+    <a href="{{p.url}}">{{ p.title|e }}</a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
