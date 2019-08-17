@@ -51,9 +51,9 @@ The translations procedure consist of **four** main steps.
     For example, if you were working on a french translation of a file named as "docs.md", you have to save it as "docs.fr.md"
 
 3. **Sending the translation**<br>
-    Once your work is done, you'll have to "commit" your changes. A commit is a set of files created of modified. To commit your changes need to:<br>
+    Once your work is done, you'll have to "commit" your changes. A commit is a set of files created or modified. To commit your changes you need to:<br>
     a. Make sure all files are saved<br>
-    b. Stage all the files you've modified and want to commit to the server<br>
+    b. Stage all the files you've translated and want to submit to the server<br>
     c. Write a commit message (a short and very specific summary of what has been changed)<br>
     d. Hit **Commit** button<br>
 
