@@ -1,5 +1,5 @@
 ---
-title: How-to Contribute: Choose the way
+title: "How-to Contribute: Choose the way"
 published: true
 visible: true
 updated:
@@ -32,6 +32,8 @@ Through the forum you can upload, write or share a how-to and also make suggesti
 You can communicate with us at our **Disroot** How-To's XMPP Room.<br><br>**Technical level required**: very basic.
 
 ----
+### [Disroot Translations](/contribute/translations_procedure)
+If you want to collaborate by translating **Disroot HowTo** to your language, please, check this guide. 
 
 ### [Disroot's How-To style guide](/contribute/styleguide)
 Some basic guidelines about the content and style criteria for the how-to's.
