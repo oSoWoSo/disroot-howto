@@ -1,6 +1,6 @@
 ---
 title: User
-subtitle: Account & Personal data Management"
+subtitle: Account & Personal data Management
 icon: fa-user
 published: true
 visible: true
@@ -14,6 +14,6 @@ page-toc:
 
 # User
 
-In this section you can find a bunch of Useful tips for Disrooters.
+In this section you can find  useful information about managing your account.
 
 <br>
