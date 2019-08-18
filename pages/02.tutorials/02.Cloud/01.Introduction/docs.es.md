@@ -1,19 +1,28 @@
 ---
-title: 'Nube: Manual de Nextcloud'
+title: 'Nube: Introducción a Nextcloud'
 published: true
 visible: true
+indexed: true
+updated:
+        last_modified: "Abril 2019"
+        app: Nextcloud
+        app_version: 15
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
 page-toc:
   active: true
 ---
 
 # La Interfaz de Usuario
 
-|![](es/interface.png)|
-|:--:|
-|Esta es la pantalla principal y, como habrás notado, es bastante directa. Vamos a verla más de cerca .|
+<br>
+
+![](es/interface.png)
+
+Esta es la pantalla principal y, como habrás notado, es bastante directa. Vamos a verla más de cerca.
 
 Luego de iniciar sesión, encontrarás tres secciones principales, o bloques, y algunos botones de funciones:
 1. **La barra de aplicaciones**: aquí tienes las aplicaciones disponibles en la nube de Disroot, tales como gestores de Archivos y Tareas, Calendario, Contactos, Notas, Marcadores y el registro de Actividad. Para saber más sobre las aplicaciones, mira en [esta sección](/cloud/apps).
@@ -37,13 +46,12 @@ Comencemos mirando lo que puedes configurar y personalizar en tu cuenta en la nu
 
 Las configuraciones están divididas en secciones. Puedes usar los links rápidos en la *sección lateral izquierda* para acceder a ellos fácilmente.
 
+![](en/settings_window.png)
 
-|Personal Info|
-|:--:|
+### Personal Info
+**Este es el lugar donde puedes agregar información sobre ti mismo, que luego puedes elegir compartir con otros.**<br>
 
-|Este es el lugar donde puedes agregar información sobre ti mismo, que luego puedes elegir compartir con otros.|
-|--|
-|Haciendo click en el ícono de "candado" justo al lado del título de la información, puedes ajustar el nivel de privacidad que quieras asignarle. Por defecto, tu imagen de perfil, nombre completo y correo electrónico están configurados para ser visibles solo a los usuarios y los servidores en los que confíes.|
+Haciendo click en el ícono de "candado" justo al lado del título de la información, puedes ajustar el nivel de privacidad que quieras asignarle. Por defecto, tu imagen de perfil, nombre completo y correo electrónico están configurados para ser visibles solo a los usuarios y los servidores en los que confíes.
 
 ![](es/privacidad.gif)
 
@@ -55,13 +63,12 @@ Los niveles que puedes elegir son:
   - **Pública**: La información será enviada a una libreta de direcciones global (que puede ser vista por cualquiera)
 
 
-|![](en/note.png) **AVISO**|
-|:--:|
-|Deberías prestar especial atención cuando completas esta información *(lo cual es opcional)* y decidir cuánta información sobre ti mismo quieres compartir y revelar al mundo.|
+!! ![](en/note.png) **AVISO**<br>
+!! Deberías prestar especial atención cuando completas esta información *(lo cual es opcional)* y decidir cuánta información sobre ti mismo quieres compartir y revelar al mundo.
 
-## Otras informaciones y configuraciones
+#### Otras informaciones y configuraciones
 Debajo de tu imagen de perfil puedes ver:
-- **los grupos** a los que perteneces (si los hubiera). Por defecto, las cuentas de Disroot no están asociadas con ningún grupo.
+- **los grupos** a los que perteneces (si los hubiera). Por defecto, las cuentas de **Disroot** no están asociadas con ningún grupo.
 - **la cuota** de almacenamiento que estás utilizando
 
 ![](es/detalles_cuenta.png)
@@ -72,16 +79,15 @@ Además, puedes cambiar también tu idioma preferido.
 
 ----
 # Seguridad
-|Seguridad es el lugar donde puedes revisar, hacer ajustes (adicionales) y revocar configuraciones de seguridad.|
-|:--:|
-|![](es/seguridad.png)|
+Seguridad es el lugar donde puedes revisar, hacer ajustes (adicionales) y revocar configuraciones de seguridad.|
+
+![](es/seguridad.png)
 
 ## Dispositivos y sesiones
 Aquí puedes ver cuántos dispositivos están actualmente conectados a tu cuenta. Si no reconoces alguno de los dispositivos conectados, esto podría significar que tu cuenta está comprometida y deberías proceder a cambiar tu contraseña.
 
-|![](en/note.png) **AVISO**|
-|:--:|
-|Ten presente que cada navegador, móvil, ordenador, etc., serán mostrados como dispositivos separados cada vez que, por ejemplo, cambies tu red. Así que no te asustes de entrada. Simplemente, verifica seriamente todo dos veces antes de entrar de lleno en modo paranoide|
+!! ![](en/note.png) **AVISO**
+!! Ten presente que cada navegador, móvil, ordenador, etc., serán mostrados como dispositivos separados cada vez que, por ejemplo, cambies tu red. Así que no te asustes de entrada. Simplemente, verifica seriamente todo dos veces antes de entrar de lleno en modo paranoide
 
 
 ### Contraseña de App
@@ -92,8 +98,13 @@ Cuando la Verificación en dos pasos está habilitada, aplicaciones de terceros 
 
 ## Verificación en dos pasos
 
-|¿Qué es la Verificación en dos pasos? (A2F)?|Es un proceso de seguridad que tiene una verificación en dos pasos que, usualmente, es la combinación de dos factores:<br>1) algo que sabes (como una contraseña),<br>2) algo que tienes (podría ser una llave o token de seguridad, una tarjeta, un código QR, etc.) o<br>3) algo que eres (como tu huella digital).<br>Un ejemplo de cómo funciona: cuando vas a un cajero automático a retirar dinero necesitas utilizar tu tarjeta bancaria (algo que tienes) y un PIN (algo que sabes). Si la combinación falla, no puedes extraer el dinero.|
-|:--:|--|
+**¿Qué es la Verificación en dos pasos (A2F)?**<br>
+Es un proceso de seguridad que tiene una verificación en dos pasos que, usualmente, es la combinación de dos factores:<br>
+1) algo que sabes (como una contraseña),<br>
+2) algo que tienes (podría ser una llave o token de seguridad, una tarjeta, un código QR, etc.) o<br>
+3) algo que eres (como tu huella digital).<br>
+
+Un ejemplo de cómo funciona: cuando vas a un cajero automático a retirar dinero necesitas utilizar tu tarjeta bancaria (algo que tienes) y un PIN (algo que sabes). Si la combinación falla, no puedes extraer el dinero.
 
 La verificación en dos pasos puede ser utilizada si quieres tener un inicio de sesión más seguro (puedes leer más al respecto [aquí](https://es.wikipedia.org/wiki/Autenticaci%C3%B3n_de_m%C3%BAltiples_factores)). Cuando está habilitada, se te requerirán no solo tu usuario y contraseña, sino también una verificación adicional como una contraseña temporaria o a través de un dispositivo electrónico.<br>
 
@@ -103,7 +114,7 @@ Es altamente recomendable que descargues tus códigos de respaldo cuando hayas h
 ![](es/2f_cdr.png)
 
 ### TOTP y U2F
-Disroot ofrece dos tipos de verificación de dos pasos:
+**Disroot** ofrece dos tipos de verificación de dos pasos:
 
 - **TOTP (** *siglas en inglés de* **Contraseña de Uso Único Basadas en Tiempo)**: [TOTP](https://es.wikipedia.org/wiki/Autenticaci%C3%B3n_con_contrase%C3%B1a_de_un_solo_uso) es como [Google Authenticator](https://es.wikipedia.org/wiki/Google_Authenticator). Es una aplicación que ejecutas en tu teléfono y genera una contraseña para un solo uso. Algunos verificadores de código abierto son [andOTP](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) y [FreeOTP](https://f-droid.org/en/packages/org.liberty.android.freeotpplus/).
 
@@ -118,12 +129,12 @@ Disroot ofrece dos tipos de verificación de dos pasos:
 Puedes agregar tantos dispositivos como quieras. Se recomienda darle a cada uno un nombre distintivo. Chrome es el único navegador que soporta dispositivos 2UF por defecto. Para usar 2UF en Firefox, necesitarás instalar el complemento "U2F Support Add-on".
 
 ### Módulo de encriptado básico
-Aquí puedes decidir si un administrador estará habilitado o no para recuperar tus archivos en caso que pierdas tu contraseña. Esta opción está deshabilitada por defecto ya que posibilita a los administradores de Disroot a desencriptar y ver tus archivos.
+Aquí puedes decidir si un administrador estará habilitado o no para recuperar tus archivos en caso que pierdas tu contraseña. Esta opción está deshabilitada por defecto ya que posibilita a los administradores de **Disroot** descifrar y ver tus archivos.
 
 
-|![](en/note.png) **AVISO**|
-|:--:|
-|**¡Habilitar esta opción después de perder la contraseña no recuperará tus archivos!** Necesitas tomar esta decisión de antemano. **Te recomendamos enfáticamente no perder nunca tu contraseña, en primer lugar, y mantenerla guardada en forma segura.**<br>Esta es la mejor manera de mantener tus archivos y tu cuenta a salvo. De verdad, no queremos tener acceso a ellos.|
+!! ![](en/note.png) **AVISO**
+!! **¡Habilitar esta opción después de perder la contraseña no recuperará tus archivos!** Necesitas tomar esta decisión de antemano. **Te recomendamos enfáticamente no perder nunca tu contraseña, en primer lugar, y mantenerla guardada en forma segura.**<br>
+Esta es la mejor manera de mantener tus archivos y tu cuenta a salvo. De verdad, no queremos tener acceso a ellos.
 
 ![](es/mbc.png)
 
@@ -142,12 +153,12 @@ La aplicación Almacenamiento Externo te permite montar servicios de almacenaje 
 
 ## Configurando un almacenamiento externo
 
-### Autentificación
+### Autenticación
 ![](es/almacenamiento_auth.gif)
 
 - **Nombre de usuario y contraseña**: requiere que el usuario y la contraseña sean definidas manualmente. Estas pasan directamente al servidor y son especificadas durante la configuración del punto de montaje.
 
-- **Credenciales de login, guardar en la sesión**: utiliza tus credenciales de inicio de sesión de Nextcloud para conectarse al almacenamiento. Estas no son almacenadas en ningún lugar del servidor, sino en la sesión de usuario, aumentando la seguridad. Las desventajas son que compartir está deshabilitado cuando el mecanismo está en uso, porque Nextcloud no tiene acceso a las credenciales de almacenamiento, y el escaneo de archivos en segundo plano no funciona.
+- **Credenciales de login, guardar en la sesión**: utiliza tus credenciales de inicio de sesión de **Nextcloud** para conectarse al almacenamiento. Estas no son almacenadas en ningún lugar del servidor, sino en la sesión de usuario, aumentando la seguridad. Las desventajas son que compartir está deshabilitado cuando el mecanismo está en uso, porque **Nextcloud** no tiene acceso a las credenciales de almacenamiento, y el escaneo de archivos en segundo plano no funciona.
 
 - **Credenciales de inicio de sesión, salvar en la base de datos**: como en el método previo, utiliza tus credenciales de inicio de sesión para conectarse con el almacenamiento, pero estas son guardadas en la base de datos cifrada y lo compartido es secreto. Esto permite compartir archivos desde dentro de este punto de montaje.
 
@@ -155,7 +166,7 @@ La aplicación Almacenamiento Externo te permite montar servicios de almacenaje 
 
 ----
 # Móvil & Escritorio (Mobile & desktop)
-Aquí encontrarás atajos a las aplicaciones de Nextcloud para el móvil y el escritorio.
+Aquí encontrarás atajos a las aplicaciones de **Nextcloud** para el móvil y el escritorio.
 
 ![](es/movil_escritorio.png)
 
@@ -169,7 +180,7 @@ En esta sección puedes cambiar el tema de alto contraste que viene por defecto 
 # Compartir
 
 ## Nube federada
-¿Qué es una nube federada? Igual que los correos, que pueden ser enviados entre usuarios de diferentes servidores (gmail, riseup, disroot, etc) también Nextcloud te da la posibilidad de compartir archivos, contactos, calendarios, etc, con personas fuera de Disroot que utilicen también soluciones en nube (Owncloud y/o Nextcloud). Esto da a los usuarios la libertad de usar la plataforma de su elección, a la vez que posibilita la colaboración de unos con otros. En esta sección puedes ver tu ID de federación. Puedes compartirla con otros enviando un link o vía plataformas predefinidas (para lo cual puedes agregar tus preferidas que no estén incluidas, por supuesto).
+¿Qué es una nube federada? Igual que los correos, que pueden ser enviados entre usuarios de diferentes servidores (GMail, Riseup, Disroot, etc) también **Nextcloud** te da la posibilidad de compartir archivos, contactos, calendarios, etc, con personas fuera de **Disroot** que utilicen también soluciones en la nube (**Owncloud** y/o **Nextcloud**). Esto da a los usuarios la posibilidad de usar la plataforma de su elección y a la vez colaborar unos con otros. En esta sección puedes ver tu ID de federación. Puedes compartirla con otros enviando un link o vía plataformas predefinidas (para lo cual puedes agregar tus preferidas que no estén incluidas, por supuesto).
 
 ![](es/nube_federada.png)
 

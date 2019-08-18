@@ -1,9 +1,16 @@
 ---
-title: Nube: Gestión de archivos
+title: "Nube: Gestión de archivos"
 published: true
+indexed: true
+updated:
+        last_modified: "Julio 2019"
+        app: Nextcloud
+        app_version: 15
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
 page-toc:
     active: true
 ---
@@ -12,41 +19,45 @@ page-toc:
 
 La principal tarea de la nube es administrar archivos. Puedes fácilmente subir, descargar, compartir y comentar.
 
-|![](es/principal.png)|
-|:--:|
-|La *barra lateral izquierda* te permite filtrar archivos basados en ciertos criterios (recientes, favoritos, compartidos, por etiquetas).<br>La *Ventana principal* es tu navegador de archivos (deberías estar familiarizado con él si alguna vez utilizaste una computadora antes... ![](en/p.png)).|
+![](es/principal.png)
+
+La *barra lateral izquierda* te permite filtrar archivos basándose en ciertos criterios (recientes, favoritos, compartidos, por etiquetas).<br>La *Ventana principal* es tu navegador de archivos (deberías estar familiarizado con él si alguna vez utilizaste una computadora antes... ![](en/p.png))
 
 
 ## Crear nuevos archivos o directorios
 Para crear un archivo nuevo, sólo haz click sobre el botón **"+"** y elige el tipo de archivo de la lista. Puedes crear tanto directorios como archivos de textos y blocks de notas.
 
-![](es/main_files_add.gif)
+![](es/crear_archivo.gif)
 
 ## Subir archivos
 Hay dos maneras de subir archivos.
 Puedes hacerlo arrastrando archivos desde tu equipo (navegador de archivos) hacia la ventana de navegación de la nube. La otra manera es utilizando el ícono **"+"** y seleccionar la opción **"Subir un archivo"**.
 
-![](es/main_files_upload.jpeg)
+![](es/subir_archivo.gif)
+
+![](es/subir_archivo_2.gif)
 
 ## Compartir archivos
-Compartir archivos y directorios es una parte esencial de cualquier servicio de almacenamiento en la nube. Puedes elegir compartir archivos con otros usuarios de Disroot o tu grupo entero, pero también con otros usuarios que utilicen Owncloud/Nextcloud en diferentes plataformas. También puedes compartir con cualquiera a través de la opción Enlace público.
+Compartir archivos y directorios es una parte esencial de cualquier servicio de almacenamiento en la nube. Puedes elegir compartir archivos con otros usuarios de **Disroot** o tu grupo entero, pero también con otros usuarios que utilicen **Owncloud/Nextcloud** en diferentes plataformas. También puedes compartir con cualquiera a través de la opción Enlace público.
 
 Para compartir un archivo o un directorio, simplemente haz click en el "*ícono compartir*" justo al lado del nombre del objeto que deseas compartir. Una barra derecha emergente aparecerá con todas las opciones para que elijas una manera de hacerlo.
 
-![](es/main_files_sharing_menu.jpeg)
+![](es/compartir_opciones.png)
+
+![](es/compartir_edit_opciones.png)
 
 Puedes decidir compartir con otros usuarios, grupos o usuarios en diferentes servidores de nube, utilizando la dirección federada o tipeando el nombre de usuario completo (**no proveemos autocompletado por razones de seguridad**). Cuando compartes con otros usuarios o grupos puedes decidir si los usuarios tienen o no privilegios para editar/modificar el contenido de lo compartido (borrar archivos, subir, editar), y si pueden volver a compartirlo con respecto a otros usuarios.
 
-![](es/main_files_sharing_menu2.jpeg)
+![](es/compartir_edit_opciones_2.png)
 
 Además de compartir con otros usuarios, puedes compartir tus datos con cualquiera utilizando "Compartir Enlace", que puedes copiar/pegar a quien quieras. Cualquiera que conozca la dirección (url) podrá acceder a los archivos. La persona no necesita tener una cuenta válida. Compartir un enlace te da la opción extra de proteger lo que compartes con contraseña y fecha de caducidad.
 
-![](es/main_files_sharing_menu_publink.jpeg)
+![](es/compartir_enlace.png)
 
 ## Comentarios, Actividades, Versión
 Como habrás notado cuando configurabas Compartir, hay más opciones en la barra derecha.
 
-![](es/main_files_comments1.jpeg)
+![](es/menu_archivo.png)
 
  - **Actividades:** te da un resumen de todas las actividades con el archivo. El momento en que fue creado, cuándo fue compartido, editado, comentado, etc.
  - **Comentarios:** son muy útiles cuando trabajas sobre el archivo con otros usuarios. Todos aquellos con los que has compartido el archivo pueden leer y agregar comentarios.
@@ -55,7 +66,7 @@ Como habrás notado cuando configurabas Compartir, hay más opciones en la barra
 ## Otras operaciones de archivo
 Haciendo click en el ícono de **"tres puntos**" próximo al nombre del archivo o directorio, te da opciones extra. Esas opciones se explican solas. Puedes "Renombrar", "Mover", "Descargar" o borrar el archivo o directorio.
 
-![](es/main_files_other_menu.jpeg)
+![](es/menu_archivo.png)
 
 
 ----------
