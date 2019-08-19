@@ -1,5 +1,5 @@
 ---
-title: Howto: Services
+title: "Guías: Servicios"
 content:
     items:
       - '@taxonomy': {category: [topic]}
