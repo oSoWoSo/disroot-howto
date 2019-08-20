@@ -1,16 +1,13 @@
 ---
-title: "Cloud: Apps"
+title: Correo
+subtitle: "Configuraciones, clientes."
+icon: fa-envelope
 published: true
 visible: true
-indexed: true
 taxonomy:
     category:
         - docs
+        - topic
 page-toc:
     active: false
 ---
-
-<br>
-<br>
-<br>
-<br>

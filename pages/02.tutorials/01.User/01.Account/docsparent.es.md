@@ -14,3 +14,7 @@ page-toc:
 ---
 
 # Administración de la Cuenta
+
+#### [Administrar tu cuenta de Disroot](ussc/)
+
+#### [Solicitar Alias de correo](alias-request/)

@@ -17,6 +17,6 @@ page-toc:
 
 # DisHub: Disroot's Hubzilla Instance
 
-Introduction to Dishub/Hubzilla and Nomad - Mobile app for DisHub
+Introduction to **Dishub/Hubzilla** and **Nomad** - Mobile app for DisHub
 <br>
 <br>

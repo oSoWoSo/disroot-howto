@@ -1,5 +1,5 @@
 ---
-title: "Cloud: Apps"
+title: "Nube: Apps"
 published: true
 visible: true
 indexed: true

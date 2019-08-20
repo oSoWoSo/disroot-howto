@@ -11,7 +11,7 @@ taxonomy:
     category:
         - docs
     tags:
-        - cloud
+        - nube
 page-toc:
   active: true
 ---

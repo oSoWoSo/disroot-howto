@@ -1,6 +1,6 @@
 ---
-title: 'Forum'
-subtitle: "Discourse basics"
+title: 'Foro'
+subtitle: "Guía básica de Discourse"
 icon: fa-stack-exchange
 published: true
 taxonomy:
@@ -8,7 +8,7 @@ taxonomy:
         - docs
         - topic
     tags:
-        - Forum
+        - Foro
         - Discourse
 page-toc:
     active: false
@@ -17,6 +17,6 @@ page-toc:
 #<br>
 ![](/home/icons/discourse.png) {.inline}
 <br>
-**Discourse** is an Open Source internet forum and mailing list management software.
+**Discourse** es un software de gestión de foros en línea y listas de correos de Código Abierto.
 <br>
 <br>

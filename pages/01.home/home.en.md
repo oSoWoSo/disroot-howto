@@ -18,7 +18,7 @@ To cover all the services, with all it's **Disroot**'s provided features, for al
 
 In order to do so, any help from disrooters is always needed and welcome. So, if you think there's a missing tutorial, the information is not accurate or could be improve, please contact us or (even better) start writing a how-to yourself.<br>
 
-We use **[Git](https://en.wikipedia.org/wiki/Git)**, so you could just submit a "pull request" to our repository. If you're not familiar with this tool, you can submit changes or suggestions via etherpad or email. [**Here**](/contribute) there's a very simple git how-to.<br>
+We use **[Git](https://en.wikipedia.org/wiki/Git)**, so you could just submit a "pull request" to our repository. If you're not familiar with this tool, you can submit changes or suggestions via etherpad or email. [**Here**](/contribute/git) there's a very simple git how-to.<br>
 
 In addition, we're building a glossary to help everyone not familiar with some terms and concepts. You can find it [here](/glossary).
 

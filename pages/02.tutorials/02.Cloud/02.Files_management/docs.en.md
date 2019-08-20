@@ -11,6 +11,7 @@ taxonomy:
         - docs
     tags:
         - cloud
+        - files
 page-toc:
     active: true
 ---

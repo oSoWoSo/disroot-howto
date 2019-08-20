@@ -10,12 +10,13 @@ taxonomy:
     category:
         - docs
     tags:
-        - cloud
+        - nube
+        - archivos
 page-toc:
     active: true
 ---
 
-# ARCHIVOS
+# Archivos
 
 La principal tarea de la nube es administrar archivos. Puedes fácilmente subir, descargar, compartir y comentar.
 

@@ -1,5 +1,5 @@
 ---
-title: Cloud Apps: Tasks
+title: "Cloud Apps: Tasks"
 published: true
 visible: false
 indexed: true
@@ -11,7 +11,7 @@ taxonomy:
         - cloud
         - task
         - sync
-visible: true
+    visible: true
 page-toc:
     active: false
 ---

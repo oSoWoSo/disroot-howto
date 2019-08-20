@@ -12,7 +12,7 @@ taxonomy:
         - docs
         - topic
     tags:
-        - cloud
+        - Nube
 page-toc:
     active: false
 ---

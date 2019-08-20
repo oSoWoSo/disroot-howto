@@ -1,37 +1,46 @@
 ---
-title: GNU/Linux: Cliente de escritorio
+title: Nextcloud Desktop client
 visible: false
+updated:
+        last_modified: "6 April 2019"
+        app: Nextcloud Desktop
+        app_version: 2.5.2 / Nautilus-Nextcloud integration plugin, version 2.5.0-1 AUR
 page-toc:
   active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - nextcloud
 ---
-Utilizar el cliente para escritorio de Nextcloud proporciona una manera de sincronizar tus archivos almacenados en tu nube de Disroot con una carpeta local en tu ordenador.
-Esto significa que puedes acceder/agregar/quitar/editar los archivos en tu cuenta de Disroot desde tu escritorio sin necesidad de ingresar a ella a través del navegador.
+
+# Cliente para el escritorio de Nextcloud
+
+Utilizar el cliente para escritorio de **Nextcloud** proporciona una manera de sincronizar tus archivos almacenados en tu nube de **Disroot** con una carpeta local en tu ordenador.
+Esto significa que puedes acceder/agregar/quitar/editar los archivos en tu cuenta de **Disroot** desde tu escritorio sin necesidad de ingresar a ella a través del navegador. También te permite acceder a ellos sin conexión.
 
 
+# Instalar la aplicación Nextcloud (cliente)
 
-# Instalar la aplicación Nexcloud (cliente)
-
-Si no tienes el cliente-Nextcloud instalado en tu ordenador, puedes ver cómo hacerlo [aquí](https://nextcloud.com/install/#install-clients).
-Para usuarios de Ubuntu o derivados puedes encontrar instrucciones más detalladas [aquí](https://www.c-rieger.de/how-to-install-nextcloud-desktop-client-for-ubuntu/).
+Si no tienes el cliente de **Nextcloud** instalado en tu ordenador, puedes ver cómo hacerlo [aquí](https://nextcloud.com/install/#install-clients).
+Las usuarias y usuarios de **Ubuntu** y derivados pueden encontrar instrucciones más detalladas [aquí](https://www.c-rieger.de/how-to-install-nextcloud-desktop-client-for-ubuntu/).
 
 # Agregar una nueva cuenta
 
-La primera vez que ejecutas el cliente-Nextcloud serás directamente recibido por la configuración de la cuenta.
-Agrega la dirección de Disroot en el campo Dirección del servidor **https://cloud.disroot.org**, luego presiona "Siguiente".
+La primera vez que ejecutas el cliente de **Nextcloud** serás directamente recibido por la configuración de la cuenta.
+Agrega la dirección de **Disroot** en el campo Dirección del servidor **https://cloud.disroot.org**, luego presiona "**Siguiente**".
 
-![](en/desktop_client1.png)
+![](en/desktop-client-01.gif)
 
 
-A continuación, ingresa los detalles de tu cuenta de Disroot:
+A continuación, ingresa los detalles de tu cuenta de **Disroot**:
 Nombre de usuario: *tu usuario de Disroot*
 Contraseña: *la contraseña de tu cuenta de Disroot*
 Luego presiona **"Siguiente"**
 
-![](en/desktop_client2.png)
+![](en/desktop-client-03.gif)
 
 
 Ahora es el momento de elegir qué quieres sincronizar y dónde debería sincronizarse en tu disco duro. Por defecto, el cliente quiere crear una carpeta llamada "Nextcloud" en tu directorio local (/home). Esta carpeta será utilizada para sincronizar todos los archivos que almacenes en tu nube.

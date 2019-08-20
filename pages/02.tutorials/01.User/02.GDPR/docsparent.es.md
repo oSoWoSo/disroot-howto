@@ -10,6 +10,8 @@ taxonomy:
         - docs
     tags:
         - user
+        - datos personales
+        - rgdp
     visible: true
 page-toc:
     active: false

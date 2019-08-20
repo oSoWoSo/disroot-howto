@@ -10,6 +10,7 @@ taxonomy:
     tags:
         - task
         - cloud
+        - mobile
 page-toc:
     active: false
 ---
@@ -19,5 +20,5 @@ page-toc:
 To set up and sync your **Tasks** throught a mobile client see the tutorial below:
 
 ### Android
-- [DAVx⁵ / OpenTasks](/cloud/clients/mobile/android/calendars-contacts-and-tasks)
-- [Nextcloud mobile app](/cloud/clients/mobile/android/nextcloud-app)
+- [DAVx⁵ / OpenTasks](/tutorials/cloud/clients/mobile/android/calendars-contacts-and-tasks)
+- [Nextcloud mobile app](/tutorials/cloud/clients/mobile/android/nextcloud-app)

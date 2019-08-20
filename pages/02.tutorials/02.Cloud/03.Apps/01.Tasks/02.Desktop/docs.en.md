@@ -19,9 +19,9 @@ page-toc:
 
 You can read the tutorials below in order to get your **Tasks** synchronized via a multi-platform desktop client.
 
-- [Thunderbird: Calendar / Contacts / Tasks sync](/cloud/clients/desktop/multiplatform/thunderbird-calendar-contacts)
+- [Thunderbird: Calendar / Contacts / Tasks sync](/tutorials/cloud/clients/desktop/multiplatform/thunderbird-calendar-contacts)
 
 Alternatively, you can use and set up the desktop integration.
 
- - [GNOME: Desktop Integration](/cloud/clients/desktop/gnu-linux/gnome-desktop-integration)
- - [KDE: Desktop Integration](/cloud/clients/desktop/gnu-linux/kde-desktop-integration)
+ - [GNOME: Desktop Integration](/tutorials/cloud/clients/desktop/gnu-linux/gnome-desktop-integration)
+ - [KDE: Desktop Integration](/tutorials/cloud/clients/desktop/gnu-linux/kde-desktop-integration)
