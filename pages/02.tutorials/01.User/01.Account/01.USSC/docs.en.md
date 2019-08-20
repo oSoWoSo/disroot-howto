@@ -1,12 +1,18 @@
 ---
-title: Account management
+title: 'Account Management'
 published: true
+indexed: true
 visible: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - user
+        - account
+        - management
 page-toc:
-     active: active
+    active: false
 ---
 
 # User Self Service Center
