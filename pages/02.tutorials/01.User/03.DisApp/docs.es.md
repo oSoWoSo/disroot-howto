@@ -1,18 +1,28 @@
 ---
 title: DisApp
 published: true
-visible: false
+visible: true
+indexed: true
+updated:
+    last_modified: "Julio 2019"		
+    app: DisApp
+    app_version: 1.2
 taxonomy:
     category:
         - docs
+    tags:
+        - usuario
+        - disapp
 page-toc:
     active: false
 ---
 
 # La aplicación de la Comunidad de Disroot
-|![](/start/icons/disapp.png)|
+|![](/home/icons/disapp.png)|
 |:--:|
 |***Una App para controlarlas a todas***|
-<br>
-El disrooter Massimiliano vio el potencial de una app de Disroot y decidió aceptar el desafío con un abordaje inesperado. Desarrolló la "navaja suiza" de Disroot, una aplicación que ayuda y guía a los disrooters a aplicaciones recomendadas, consejos y tutoriales sobre cómo configurar todo. La app seleccionará el mejor programa (en nuestra opinión) para el correo, chat, etc, y para aquellos servicios que no tengan uno específico los abrirá en el navegar integrado. La aplicación también proporciona direcciones a todos los tutoriales de la comunidad, que hemos ido reuniendo a lo largo de los años, para ayudar a la gente a utilizar los servicios que proveemos.<br>
+
+
+El disrooter **Massimiliano** vio el potencial de una app de **Disroot** y decidió aceptar el desafío con un abordaje inesperado. Desarrolló la **"navaja suiza" de Disroot**, una aplicación que ayuda y guía a los disrooters recomendando aplicaciones, consejos y tutoriales sobre cómo configurar todo. La app seleccionará el mejor programa (en nuestra opinión) para el correo, chat, etc, y para aquellos servicios que no tengan uno específico los abrirá en el navegar integrado. La aplicación también proporciona direcciones a todos los tutoriales de la comunidad, que hemos ido reuniendo a lo largo de los años, para ayudar a la gente a utilizar los servicios que proveemos.
+
 La aplicación está disponible desde la única tienda de apps para Android verdaderamente Libre [aquí](https://f-droid.org/en/packages/org.disroot.disrootapp/).

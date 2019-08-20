@@ -22,7 +22,7 @@ Using the **Nexcloud** desktop client provides a way to sync your files stored i
 This means you can access/add/remove/edit the files in your **Disroot** account from your desktop without needing to log to your account via web-browser. It also allows you to access them when offline.
 
 
-# Installing Nexcloud client
+# Installing Nextcloud client
 
 You can download and see how to install the **Nextcloud** desktop app [**here**](https://nextcloud.com/install/#install-clients).
 

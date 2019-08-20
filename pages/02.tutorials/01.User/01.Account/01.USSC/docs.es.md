@@ -1,17 +1,19 @@
 ---
-title: 'Cómo cambiar tu contraseña de usuario de Disroot'
-visible: true
+title: Gestión de la cuenta
 published: true
+visible: true
 taxonomy:
     category:
         - docs
+page-toc:
+     active: active
 ---
 
 Primero, necesitas acceder al **Centro de Autoservicio** en https://user.disroot.org y seleccionar **Cambiar contraseña**.
 
-|![](en/user.png)|
-|:--:|
-|![](es/cambio.png)|
+![](en/login.png)
+
+![](es/cambio.png)
 
 Una vez que hayas cambiado la contraseña, necesitarás asegurarte de cambiar tu clave de encriptado en **Nextcloud**, ya que tus archivos allí están encriptados con una clave generada a partir de tu contraseña.
 1. Ve a **[https://cloud.disroot.org](https://cloud.disroot.org)** y accede con tu nueva contraseña.
@@ -21,6 +23,5 @@ Verás un mensaje amarillo en la parte superior de la página:
 3. Deslízate hacia abajo hasta **Módulo de encriptado básico de Nextcloud** y escribe tu antigua contraseña y tu nueva contraseña y haz click en **Actualizar Clave Privada de Contraseña**.
 4. Cierra la sesión de Nextcloud y vuelve a ingresar. Eso es todo. Ya estás listo y puedes ver tus archivos de nuevo.
 
-|![](en/note.png) **AVISO**|
-|:--:|
-|Si pierdes tu contraseña, no podrás recuperar tus archivos en la nube ya que están encriptados, y tampoco los administradores del servidor pueden ver su contenido. |
+!! ![](en/note.png) **AVISO**<br>
+!! Si pierdes tu contraseña, no podrás recuperar tus archivos en la nube ya que están encriptados, y tampoco los administradores del servidor pueden ver su contenido.

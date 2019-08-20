@@ -31,6 +31,6 @@ Most E-mail client will be able to discover the correct server setting automagic
 ---
 
 #### Related how-tos:
-- [**Webmail**](/communication/email/webmail)
-- [**Desktop Clients**](/communication/email/clients/desktop)
-- [**Mobile Clients**](/communication/email/clients/mobile)
+- [**Webmail**](webmail)
+- [**Desktop Clients**](clients/desktop)
+- [**Mobile Clients**](clients/mobile)

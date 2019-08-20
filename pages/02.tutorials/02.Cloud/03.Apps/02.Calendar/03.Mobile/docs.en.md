@@ -23,4 +23,4 @@ page-toc:
 
 To setup and use **Disroot** calendars on your device, check the following tutorial:
 
-### [Nexctcloud: Mobile Clients](/tutorials/cloud/clients/mobile)
+### [Nextcloud: Mobile Clients](/tutorials/cloud/clients/mobile)

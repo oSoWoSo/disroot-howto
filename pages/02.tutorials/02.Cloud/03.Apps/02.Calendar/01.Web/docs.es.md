@@ -1,15 +1,22 @@
 ---
-title: Calendario: Web
+title: "Calendario: Web"
 published: true
+indexed: true
 visible: false
+updated:
+        last_modified: "Julio 2019"
+        app: Nextcloud
+        app_version: 15
 taxonomy:
     category:
         - docs
+    tags:
+        - calendario
+        - nube
 page-toc:
-  active: true
+    active: true
 ---
 
-------------
 # Usando la aplicación Calendario
 
 Puedes acceder a tu aplicación calendario presionando el ícono ![](calendar_top_icon.png) en la barra superior.
@@ -17,7 +24,7 @@ Puedes acceder a tu aplicación calendario presionando el ícono ![](calendar_to
 
 ![](en/calendar_main.png)
 
---------------
+
 ## Crear un Calendario
 Para crear un nuevo calendario en este panel de opciones presiona "*crear calendario*".
 Aparecerá una pequeña entrada donde puedes tipear el nombre que quieras darle a este nuevo calendario y seleccionar su color. Luego presiona "*crear*".
@@ -28,7 +35,7 @@ Puedes crear múltiples calendarios para diferentes propósitos (trabajo, activi
 
 ![](en/calendar_list.png)
 
------------------------
+
 ## Borrar, editar, descargar el calendario.
 En el panel izquierdo, verás tus calendarios listados. A la derecha de cada calendario encontrarás un botón "más" donde puedes:
 
@@ -39,7 +46,7 @@ En el panel izquierdo, verás tus calendarios listados. A la derecha de cada cal
 
 ![](en/calendar_edit1.png)
 
--------------------------
+
 ## Crear un evento
 Puedes crear un nuevo evento en tu calendario simplemente haciendo click en el día del evento, en la *ventana principal* del calendario. Un panel aparecerá en el lateral derecho, donde puedes completar con información del evento.
 
@@ -80,7 +87,7 @@ También puedes establecer si es un evento que se repite o no. Sólo verifica la
 
 ![](en/calendar_edit_menu6.png)
 
--------------------------------
+
 ## Invita gente a los eventos
 
 También puedes invitar gente a tu evento vía correo electrónico de la siguiente manera:
@@ -95,13 +102,13 @@ La gente que invitas recibirá un correo electrónico generado automáticamente 
 
 Cuando hayas terminado con todo, sólo presiona crear al final del panel, y tu evento aparecerá en la pantalla.
 
-----------------------------
+
 ## Editar o borrar eventos
 Para editar o borrar cualquier evento que hayas creado, sólo haz click en el evento en tu pantalla, edítalo y luego presiona “actualizar”. Para borrarlo, encontrarás el gran botón rojo.
 
 ![](en/calendar_edit_menu8.png)
 
-----------------------------
+
 ## Compartir calendarios
 Puedes compartir también tus calendarios con otro usuario de Disroot, a través de un correo electrónico o un link público.
 
@@ -123,7 +130,7 @@ Para compartir calendarios vía correo electrónico o un link público:
 
 ![](en/calendar_share_menu2.png)
 
-------------------------------
+
 ## Importar calendarios
 Si tienes un archivo ICS con un calendario para importar, ve a la aplicación calendario de Disroot, luego a “Configuraciones e Importar" en la esquina inferior izquierda de la pantalla.<br>
 

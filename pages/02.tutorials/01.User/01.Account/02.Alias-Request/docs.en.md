@@ -1,12 +1,21 @@
 ---
-title: Request an email alias
+title: 'How-to request an email alias'
 published: true
+indexed: true
 visible: true
+updated:
 taxonomy:
     category:
         - docs
-
+    tags:
+        - user
+        - account
+        - alias
+page-toc:
+    active: false
 ---
+
+# Requesting Email aliases
 
 Aliases are available for regular supporters. By regular supporters we mean those who "buy" us at least one cup of coffee a month.
 
@@ -19,3 +28,5 @@ If you can 'buy' us one cup of **Rio De Janeiro** coffee a month that's OK, but 
 We found this [list](https://www.caffesociety.co.uk/blog/the-cheapest-cities-in-the-world-for-a-cup-of-coffee) of coffee cup prices around the world, it might not be very accurate, but it gives a good indication of the different fares.
 
 To request aliases you need to fill in this [form](https://disroot.org/forms/alias-request-form).
+
+If you're for howto setup an email alias, then take a look at [here](/tutorials/email/alias)

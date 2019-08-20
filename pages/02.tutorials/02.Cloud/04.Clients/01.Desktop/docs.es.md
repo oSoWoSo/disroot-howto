@@ -1,15 +1,26 @@
 ---
-title: Nube: Clientes para el escritorio
+title: "Nube: Clientes de Escritorio"
 published: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - nube
+        - integración
+visible: true
 page-toc:
     active: false
 ---
 
-## Entorno
+<br>
 
-|[Escritorio](multiplatform)|[GNU/Linux](gnu-linux)|
-|:--:|:--:|
-|Clientes multiplataforma<br>|Clientes para el escritorio e Integración|
+### [Clientes de Escritorio Multiplataforma](multiplatform)
+- Clientes multiplataforma para **Nextcloud**
+
+### [GNU/Linux](gnu-linux)
+- Integración con el escritorio
+
+### [MacOS](mac-os)
+- Integración de dispositivos **MacOS**

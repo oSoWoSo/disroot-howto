@@ -1,5 +1,5 @@
 ---
-title: Cloud Apps: Calendar
+title: "Cloud Apps: Calendar"
 published: true
 visible: false
 indexed: true

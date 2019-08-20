@@ -1,13 +1,26 @@
 ---
-title: Clientes para el escritorio: Multiplatforma
+title: "Clientes de Escritorio: Multiplataforma"
 published: true
 visible: false
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - sync
+page-toc:
+    active: false
 ---
 
-Aquí están agregados manuales y tutoriales para aplicaciones multiplatforma (aquellas que funcionan en diferentes sistemas operativos).
+# Multiplatform Clients
 
-- [Thunderbird: Sincronización de Calendario y Contactos](thunderbird-calendar-contacts)
-- [Calcurse: Sincronización de Calendario](calcurse-caldav)
+
+### [Cliente Nextcloud](desktop-sync-client)
+- Cliente de escritorio para sincronización
+
+### [Thunderbird](thunderbird-calendar-contacts)
+- Calendario, Contactos & sincronización de Tareas
+
+### [calcurse](calcurse-caldav)
+- Sincronización de Calendario para la línea de comando
