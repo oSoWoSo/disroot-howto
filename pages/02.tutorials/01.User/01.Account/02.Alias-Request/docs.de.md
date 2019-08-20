@@ -1,11 +1,18 @@
 ---
 title: Email-Alias beantragen
 published: true
+indexed: true
 visible: true
+updated:
 taxonomy:
     category:
         - docs
-
+    tags:
+        - user
+        - account
+        - alias
+page-toc:
+    active: false
 ---
 
 Aliase sind verfügbar für regelmäßige Unterstützer. Mit regelmäßigen Unterstützern meinen wir die Community-Mitglieder, die uns mindestens eine Tasse Kaffee im Monat "kaufen".
