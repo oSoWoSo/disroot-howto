@@ -1,5 +1,5 @@
 ---
-title: Cloud: Files management
+title: "Cloud: Files management"
 published: true
 indexed: true
 updated:
@@ -22,7 +22,7 @@ The main task of the cloud is managing files. You can easily upload, download, s
 
 ![](en/main.png)
 
-The *left-sidebar* let's you filter files based on certain criteria (recents, favorites, shared, by tags).<br>The *Main window* is your file-browser (you should be familiar with it if you ever used a computer before... ![](en/p.png))
+The *left-sidebar* let's you filter files based on certain criteria (recents, favorites, shared, by tags).<br>The *Main window* is your file-browser (you should be familiar with it if you ever used a computer before...![](en/p.png))
 
 ## Creating new files or directories
 To create a new file, just click on **"+"** button and choose the type of file from the list. The same procedure aplies to create directories and pads.
