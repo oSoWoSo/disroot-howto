@@ -1,37 +1,32 @@
 ---
-title: GNU/Linux: Terminal integration
+title: "GNU/Linux: Terminal Integration"
 visible: false
+updated:
+        last_modified: "July 2019"
+        app: Command line
+        app_version: vdirsyncer - version 0.16.7-2 / Khard - version 0.13.0-1 / Khal - version 1:0.9.10-1.1 on DEBIAN 10
 page-toc:
-  active: false
+  active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - terminal
+        - linux
+        - integration
 ---
----
-
-# Meta information
-This howto was last updated on 14-07-2019 and it refers to:
-
-- vdirsyncer: version - 0.16.7-2 For Debian 10
-- Khard: version - 0.13.0-1 For Debian 10
-- Khal: version - 1:0.9.10-1.1 For Debian 10
-
-NOTE: If the howto refers to an older software version than the provided by Disroot, or it is even possible that the one you're using in your device, there could be missing features or small parts of the information that may have changed.
-
-Disroot's how-to documentation is a community driven process. We try to keep it as updated as we can.
-
 
 # General information
 
 The goal of this tutorial is to explain how to synchronize calendar and contacts between the Nextcloud server and your client using the command line.
 For this operation the software that will be used are:
 
-- Vdirsyncer: is a command-line tool for synchronizing calendars and addressbooks between a variety of servers and the local filesystem. More info [here](https://vdirsyncer.pimutils.org/en/stable/)
+- **Vdirsyncer**: a command-line tool for synchronizing calendars and addressbooks between a variety of servers and the local filesystem. More info [here](https://vdirsyncer.pimutils.org/en/stable/)
 
-- Khard: is an address book for the Linux console. It creates, reads, modifies and removes carddav address book entries at your local machine. Khard is also compatible to the email clients like Mutt. More info [here](https://github.com/scheibler/khard) 
+- **Khard** an address book for the GNU/Linux console. It creates, reads, modifies and removes carddav address book entries at your local machine. Khard is also compatible to the email clients like Mutt. More info [here](https://github.com/scheibler/khard)
 
-- Khal: is a standards based CLI and terminal calendar program, able to synchronize with CalDAV servers through vdirsyncer. More info [here](https://github.com/pimutils/khal)
+- **Khal** is a standards based CLI and terminal calendar program, able to synchronize with CalDAV servers through vdirsyncer. More info [here](https://github.com/pimutils/khal)
 
 
 # Vdirsyncer
@@ -66,7 +61,7 @@ collections = ["from b"]
 
 # Synchronize the "display name" property into a local file (~/.contacts/displayname).
 metadata = ["YOUR-USERNAME"]
- 
+
 # To resolve a conflict the following values are possible:
 #   `null` - abort when collisions occur (default)
 #   `"a wins"` - assume a's items to be more up-to-date
@@ -131,19 +126,19 @@ To synchronize the contacts and calendars just give the following command:
 This command can be automated using [cron](https://en.wikipedia.org/wiki/Cron)
 
 
-Now you have synchronized your calendars and your contacts. 
-In your local machine contacts are stored in *"~/.contacts/"* with the *.vcf* format.  
-Calendars are stored in *"~/.calendars/"* with the *.ics* format.
+Now you have synchronized your calendars and your contacts.
+In your local machine contacts are stored in `~/.contacts/` with the *.vcf* format.<br>
+Calendars are stored in `~/.calendars/` with the *.ics* format.
 
 # Khard
 
 ![](en/khard.png)
 
-Install khal for your GNU/Linux distribution. 
+Install khal for your GNU/Linux distribution.
 If there is no suitable package for your distribution, you’ll need to install [Khard manually](https://github.com/scheibler/khard/)
 
 ## Configuration
-Path of the configuration file: *"~/.config/khard/khard.conf"*  
+Path of the configuration file: `~/.config/khard/khard.conf`.<br>
 Contents of the *khard.conf* file:
 
 ```
@@ -171,7 +166,7 @@ Install khal for your GNU/Linux distribution.
 If there is no suitable package for your distribution, you’ll need to install [Khal manually](https://lostpackets.de/khal/install.html)
 
 ## Configuration
-Path of the configuration file: *"~/.config/khal/config"* 
+Path of the configuration file: `~/.config/khal/config`
 Contents of the *config* file:
 
 ```

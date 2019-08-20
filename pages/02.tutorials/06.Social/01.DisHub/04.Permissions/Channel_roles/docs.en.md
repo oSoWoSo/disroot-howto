@@ -1,5 +1,5 @@
 ---
-title: Hubzilla: Channel roles permissions table
+title: "Hubzilla: Channel roles permissions table"
 published: true
 taxonomy:
     category:

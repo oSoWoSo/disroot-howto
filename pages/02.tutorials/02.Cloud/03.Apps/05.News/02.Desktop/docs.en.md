@@ -1,5 +1,5 @@
 ---
-title: News: Desktop
+title: News: Desktop clients
 published: true
 visible: false
 updated:
@@ -12,18 +12,19 @@ taxonomy:
     tags:
         - cloud
         - news
+        - desktop
 page-toc:
     active: false
 ---
 
 ## Desktop clients and applications
 
-#### Multiplatform News clients
+#### Multiplatform News clients (coming soon)
 
-#### GNU/Linux News clients
+#### GNU/Linux News clients (coming soon)
 
 ----
 
-#### Related How-to's
-#### [GNOME: Desktop Integration](/cloud/clients/desktop/gnu-linux/gnome-desktop-integration)
-#### [KDE: Desktop Integration](/cloud/clients/desktop/gnu-linux/kde-desktop-integration)
+#### Related How-tos
+#### [GNOME: Desktop Integration](/tutorials/cloud/clients/desktop/gnu-linux/gnome-desktop-integration)
+#### [KDE: Desktop Integration](/tutorials/cloud/clients/desktop/gnu-linux/kde-desktop-integration)

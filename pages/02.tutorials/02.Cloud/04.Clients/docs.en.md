@@ -16,6 +16,7 @@ page-toc:
 <br>
 
 ### [Desktop clients and Integration](desktop)
+- Nextcloud and others sync clients, settings
 
 ### [Mobile clients](mobile)
 - Nextcloud Apps, clients, DAVx⁵, device settings

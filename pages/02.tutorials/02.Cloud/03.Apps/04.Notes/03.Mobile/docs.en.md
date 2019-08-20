@@ -12,6 +12,8 @@ taxonomy:
     tags:
         - cloud
         - notes
+        - android
+        - mobile
 page-toc:
     active: false
 ---
@@ -20,5 +22,5 @@ page-toc:
 #### [Notes App](android)
 
 ----
-### Reated How-To's
-#### [Nexcloud mobile app](/cloud/clients/mobile/android/nextcloud-app)
+### Related How-Tos
+#### [Nexcloud mobile app](/tutorials/cloud/clients/mobile/android/nextcloud-app)

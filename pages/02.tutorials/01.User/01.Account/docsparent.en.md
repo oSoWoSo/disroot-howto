@@ -1,6 +1,7 @@
 ---
 title: Account Administration
 published: true
+indexed: true
 visible: true
 updated:
     last_modified: "July 2019"		
