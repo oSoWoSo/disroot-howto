@@ -10,6 +10,7 @@ taxonomy:
         - docs
     tags:
         - user
+        - administration
 page-toc:
     active: false
 ---

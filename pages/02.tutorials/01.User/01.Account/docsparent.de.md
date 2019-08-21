@@ -1,6 +1,7 @@
 ---
-title: Account Administration
+title: Account-Verwaltung
 published: true
+indexed: true
 visible: true
 updated:
     last_modified: "July 2019"		
@@ -13,8 +14,8 @@ page-toc:
     active: false
 ---
 
-# Account Administration
+# Account-Verwaltung
 
-#### [Manage your Disroot Account](ussc/)
+#### [Den eigenen Account verwalten](ussc/)
 
-#### [Request email Alias](alias-request)
+#### [Email-Alias beantragen](alias-request)
