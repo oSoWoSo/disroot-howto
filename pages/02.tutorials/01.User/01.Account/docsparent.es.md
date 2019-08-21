@@ -1,6 +1,7 @@
 ---
 title: Administración de la Cuenta
 published: true
+indexed: true
 visible: true
 updated:
     last_modified: "Julio 2019"		
@@ -8,7 +9,8 @@ taxonomy:
     category:
         - docs
     tags:
-        - user
+        - usuario
+        - administración
 page-toc:
     active: false
 ---

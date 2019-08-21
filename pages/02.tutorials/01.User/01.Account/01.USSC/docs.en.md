@@ -30,10 +30,11 @@ Click on this option to change your current password.
 Follow the password creation rules and enter the new one twice.
 
 ![](en/change_pass_02.png)<br>
+
 Once you've changed your password you will need to make sure to change your encryption key in the **Cloud**, since all your files in **Nextcloud** are encrypted with a key that is generated from your password.
 
 1. Go to **[https://cloud.disroot.org](https://cloud.disroot.org)** and log in with your new password.
-You will see a yellow message on top of the page:<br>
+You will see a message on top of the page:<br>
 
 ![](en/invalid_pk.png)<br>
     `Invalid private key for Encryption App. Please update your private key password in your personal settings to recover access to your encrypted files.`
@@ -46,9 +47,8 @@ You will see a yellow message on top of the page:<br>
 
 4. Log out of **Nextcloud** and log back in and that's it, you're all set and can view your file again.
 
-|![](en/note.png) **NOTE**|
-|:--:|
-|If you lose your password, you won't be able to retrieve your files on the cloud as they're encrypted, so even the server administrators can't see their content. |
+!! ![](en/note.png) **NOTE**<br>
+!! **If you lose your password, you won't be able to retrieve your files on the cloud as they're encrypted, so even the server administrators can't see their content.**
 
 
 ## Setup Security Questions
@@ -87,6 +87,6 @@ If for any reason you want to delete your account, just click this option. Once 
 
 ![](en/deletion_02.png)
 
-|![](en/note.png) **NOTE**|
-|:--:|
-|**This process is irreversible.**<br>Once confirmed, **you won't be able to log in** to your account or ask **to restore it** later. **All your remaining data will be deleted** within 48 hours, and **your current user name will not be available** when creating a new account.
+!! ![](en/note.png) **NOTE**<br>
+
+!! **This process is irreversible.**<br>Once confirmed, **you won't be able to log in** to your account or ask **to restore it** later. **All your remaining data will be deleted** within 48 hours, and **your current user name will not be available** when creating a new account.
