@@ -10,6 +10,8 @@ taxonomy:
         - docs
     tags:
         - user
+        - personal data
+        - gdpr
     visible: true
 page-toc:
     active: false
@@ -21,12 +23,11 @@ At **Disroot** pretty much all data collected is the one you provide when using 
 
 ## Contents
 - [Cloud (Nextcloud)](nextcloud)
-  - [Files](nextcloud/Files)
-  - [Contacts](nextcloud/Contacts)
-  - [Calendars](nextcloud/Calendar)
-  - [News](nextcloud/News)
-  - [Bookmarks](nextcloud/Bookmarks)
-  - [Notes](nextcloud/Files)
+  - [Files & Notes](nextcloud/files)
+  - [Contacts](nextcloud/contacts)
+  - [Calendars](nextcloud/calendar)
+  - [News](nextcloud/news)
+  - [Bookmarks](nextcloud/bookmarks)
 - [Diaspora*](diaspora)
 - [Forum (Discourse)](discourse)
 - [Board (Taiga)](taiga)

@@ -1,15 +1,25 @@
 ---
-title: Hubzilla: Exportar el contenido de tu canal
+title: "Hubzilla: Exportar el contenido de tu canal"
 published: true
 visible: true
+indexed: true
+updated:
+    last_modified: "Julio 2019"		
+    app: Hubzilla
+    app_version: 4.2
 taxonomy:
     category:
         - docs
+    tags:
+        - usuario
+        - hubzilla
+        - rgpd
+    visible: true
 page-toc:
     active: false
 ---
 
-Hay pocas maneras de exportar el contenido de tu canal de Hubzilla. Primero, claro, necesitas iniciar sesión con tu cuenta de Hubzilla en [https://hub.disroot.org](https://hub.disroot.org) (no olvides que debes utilizar tu cuenta de correo de Disroot para ello. Ej: *nombredeusuario@disroot.org*)
+Hay pocas maneras de exportar el contenido de tu canal de **Hubzilla**. Primero, claro, necesitas iniciar sesión con tu cuenta de **Hubzilla** en [https://hub.disroot.org](https://hub.disroot.org) (no olvides que debes utilizar tu cuenta de correo de **Disroot** para ello. Ej: *nombredeusuario@disroot.org*)
 
 
 # Exportar Canal

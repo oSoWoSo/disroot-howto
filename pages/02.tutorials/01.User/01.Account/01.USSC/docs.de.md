@@ -1,12 +1,18 @@
 ---
 title: Accountverwaltung
 published: true
+indexed: true
 visible: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - user
+        - account
+        - management
 page-toc:
-     active: active
+    active: true
 ---
 
 # Benutzer-Selbstverwaltung

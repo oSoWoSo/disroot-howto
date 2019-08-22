@@ -1,15 +1,26 @@
 ---
-title: Nextcloud: Archivos
+title: Nextcloud: Archivos & Notas
 published: true
-visible: false
+indexed: true
+updated:
+    last_modified: "Julio 2019"		
+    app: Nextcloud
+    app_version: 15
 taxonomy:
     category:
         - docs
+    tags:
+        - usuario
+        - nube
+        - archivos
+        - notas
+        - rgdp
+visible: true
 page-toc:
     active: false
 ---
 
-Puedes descargar tus archivos tan fácilmente como en cualquiera del resto de las aplicaciones de Nextcloud.
+Puedes descargar tus archivos tan fácilmente como en cualquiera del resto de las aplicaciones de **Nextcloud**.
 
 1. Inicia sesión en la [nube](https://cloud.disroot.org)
 

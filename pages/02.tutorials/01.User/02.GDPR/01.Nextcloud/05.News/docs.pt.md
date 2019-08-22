@@ -1,10 +1,22 @@
 ---
 title: Nextcloud: Exportar Feeds de Notícias
 published: true
-visible: false
+indexed: true
+updated:
+    last_modified: "Julio 2019"		
+    app: Nextcloud
+    app_version: 15
 taxonomy:
     category:
         - docs
+        tags:
+            - usuario
+            - nube
+            - noticias
+            - rgdp
+visible: true
+page-toc:
+    active: false
 ---
 
 Exportar os seus feeds de notícias e as suas subscrições é muito fácil.
