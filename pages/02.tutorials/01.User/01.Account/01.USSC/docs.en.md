@@ -12,7 +12,7 @@ taxonomy:
         - account
         - management
 page-toc:
-    active: false
+    active: true
 ---
 
 # User Self Service Center

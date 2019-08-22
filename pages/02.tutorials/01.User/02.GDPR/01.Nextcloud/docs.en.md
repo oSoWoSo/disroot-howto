@@ -1,5 +1,5 @@
 ---
-title: Nextcloud
+title: GDPR: Nextcloud
 published: true
 indexed: false
 taxonomy:
@@ -7,7 +7,7 @@ taxonomy:
         - docs
     tags:
         - user
-        - cloud
+        - gdpr
 visible: true
 page-toc:
     active: false

@@ -1,10 +1,21 @@
 ---
 title: Nextcloud: Ficheiros
 published: true
-visible: false
+indexed: true
+updated:
+    last_modified: "Julio 2019"		
+    app: Nextcloud
+    app_version: 15
 taxonomy:
     category:
         - docs
+    tags:
+        - usuario
+        - nube
+        - archivos
+        - notas
+        - rgdp
+visible: true
 page-toc:
     active: false
 ---

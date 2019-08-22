@@ -22,13 +22,12 @@ En **Disroot**, la mayoría de la información que guardamos es la que provees c
 
 ## Contenido
 - [Nube (Nextcloud)](nextcloud)
-  - [Archivos](nextcloud/Files)
+  - [Archivos & Notas](nextcloud/Files)
   - [Contactos](nextcloud/Contacts)
   - [Calendarios](nextcloud/Calendar)
   - [Noticias](nextcloud/News)
   - [Marcadores](nextcloud/Bookmarks)
-  - [Notas](nextcloud/Files)
-- [Diaspora*](diaspora)
+  - [Diaspora*](diaspora)
 - [Foro (Discourse)](discourse)
 - [Tablero (Taiga)](taiga)
 - [Hubzilla](hubzilla)

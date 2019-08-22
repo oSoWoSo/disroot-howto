@@ -12,6 +12,9 @@ taxonomy:
     tags:
         - user
         - cloud
+        - files
+        - notes
+        - gdpr
 visible: true
 page-toc:
     active: false

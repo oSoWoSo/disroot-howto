@@ -1,5 +1,5 @@
 ---
-title: Discourse: Exporting your Forum posts
+title: "Discourse: Exporting your Forum posts"
 published: true
 indexed: true
 updated:
@@ -12,23 +12,26 @@ taxonomy:
     tags:
         - user
         - forum
+        - discourse
+        - gdpr
 visible: true
 page-toc:
     active: false
 ---
 
-
-
-Discourse, the software used by Disroot for Forum, allows you to export the text content off all your posts to a .csv file, (which is supported by most calc/spreadsheet software's, Libreoffice, Openoffice, Gnumeric, Excel).
+**Discourse**, the software used by **Disroot** for **Forum**, allows you to export the text content off all your posts to a .csv file, (which is supported by most calc/spreadsheet software's, Libreoffice, Openoffice, Gnumeric, Excel).
 
 **To export your posts from Discourse:**
-- Press your Gravatar on the upper right corner of the screen ![](en/export_data_discourse_01.png)
-- Press the button with your username ![](en/export_data_discourse_02.png)
-- Press the button _"Download my posts"_ ![](en/export_data_discourse_03.png)
+- Press your Gravatar on the upper right corner of the screen
+![](en/export_data_discourse_01.png)<br>
+- Press the button with your username
+![](en/export_data_discourse_02.png)<br>
+- Press the button _"Download my posts"_
+![](en/export_data_discourse_03.png)<br>
 - Press _"yes"_ when the pop-up window asks if you want to download your posts and then press _"ok"_
 
 **NOTE:** The data can only be downloaded once every 24h
-<br>
+
 ![](en/export_data_discourse_01.gif)
 
 You will get a message from the system notifying you that the data is ready to be downloaded, and providing you a link to download the .csv file with a copy of your posts.

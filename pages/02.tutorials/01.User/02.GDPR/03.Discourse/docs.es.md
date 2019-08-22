@@ -1,23 +1,35 @@
 ---
-title: Discourse: Exportar tus publicaciones en el Foro
+title: "Discourse: Exportar tus publicaciones en el Foro"
 published: true
-visible: true
+indexed: true
+updated:
+    last_modified: "Julio 2019"		
+    app: Discourse
+    app_version: 2.3
 taxonomy:
     category:
         - docs
-
+    tags:
+        - usuario
+        - foro
+        - discourse
+        - rgpd
+visible: true
+page-toc:
+    active: false
 ---
 
-
-
-Discourse, el software utilizado por Disroot para el Foro, te permite exportar el contenido escrito de todas tus publicaciones en un archivo de formato .csv (que es soportado por la mayoría de los programas que manejan hojas de cálculo: Libreoffice, Openoffice, Gnumeric, Excel).
+**Discourse**, el software utilizado por **Disroot** para el **Foro**, te permite exportar el contenido escrito de todas tus publicaciones en un archivo de formato .csv (que es soportado por la mayoría de los programas que manejan hojas de cálculo: Libreoffice, Openoffice, Gnumeric, Excel).
 
 **Para exportar tus publicaciones desde Discourse:**
-- Presiona tu Gravatar en la esquina superior derecha de la pantalla ![](es/export_data_discourse_01.png)<br>
+- Presiona tu Gravatar en la esquina superior derecha de la pantalla
+![](es/export_data_discourse_01.png)<br>
 
-- Presiona el botón con tu nombre de usuario ![](es/export_data_discourse_02.png)<br>
+- Presiona el botón con tu nombre de usuario
+![](es/export_data_discourse_02.png)<br>
 
-- Presiona el botón *"Descargar mis posts"* ![](es/export_data_discourse_03.png)<br>
+- Presiona el botón *"Descargar mis posts"*
+![](es/export_data_discourse_03.png)<br>
 
 - Se abrirá un cuadro de diálogo pidiendo que confirmes si quieres descargar tus publicaciones, selecciona *"Sí"* y luego *"Ok"*<br>
 

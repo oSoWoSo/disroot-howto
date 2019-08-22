@@ -1,10 +1,20 @@
 ---
 title: Nextcloud: Exportar Calendários
 published: true
-visible: false
+indexed: true
+updated:
+    last_modified: "July 2019"		
+    app: Nextcloud
+    app_version: 15
 taxonomy:
     category:
         - docs
+    tags:
+        - user
+        - cloud
+visible: true
+page-toc:
+    active: false
 ---
 
 Exportar calendários é possível muito fácilmente. Basta:

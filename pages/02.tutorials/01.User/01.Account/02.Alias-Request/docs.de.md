@@ -15,6 +15,8 @@ page-toc:
     active: false
 ---
 
+# Email-Alias beantragen
+
 Aliase sind verfügbar für regelmäßige Unterstützer. Mit regelmäßigen Unterstützern meinen wir die Community-Mitglieder, die uns mindestens eine Tasse Kaffee im Monat "kaufen".
 
 Es ist jetzt nicht so, dass wir hier Kaffee anpreisen wollen (tatsächlich ist Kaffee jedoch eine sehr griffige Analogie für [Ausbeutung und Ungleichheit](http://www.foodispower.org/coffee/)). Wir denken, das ist eine gute Möglichkeit, jeden selbst bestimmen zu lassen, wie viel er geben kann.
