@@ -1,8 +1,7 @@
 ---
 title: Webmail
-visible: false
-published: false
-indexed: false
+visible: true
+indexed: true
 updated:
 taxonomy:
     category:

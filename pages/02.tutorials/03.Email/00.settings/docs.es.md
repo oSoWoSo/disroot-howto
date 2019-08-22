@@ -9,6 +9,7 @@ taxonomy:
         - docs
     tags:
         - email
+        - configuraciones
 page-toc:
     active: false
 ---
@@ -31,6 +32,6 @@ La mayoría de los clientes de correo electrónico detectarán la configuración
 ---
 
 #### Guías relacionadas:
-- [**Webmail**](webmail)
-- [**Clientes de Escritorio**](clients/desktop)
-- [**Clientes para Móvil**](clients/mobile)
+- [**Webmail**](/tutorials/email/webmail)
+- [**Clientes de Escritorio**](/tutorials/email/clients/desktop)
+- [**Clientes para Móvil**](/tutorials/email/clients/mobile)

@@ -1,5 +1,5 @@
 ---
-title: Email client settings
+title: Email: Clients Settings
 published: true
 visible: true
 indexed: true
@@ -9,6 +9,7 @@ taxonomy:
         - docs
     tags:
         - email
+        - settings
 page-toc:
     active: false
 ---
@@ -31,6 +32,6 @@ Most E-mail client will be able to discover the correct server setting automagic
 ---
 
 #### Related how-tos:
-- [**Webmail**](webmail)
-- [**Desktop Clients**](clients/desktop)
-- [**Mobile Clients**](clients/mobile)
+- [**Webmail**](/tutorials/email/webmail)
+- [**Desktop Clients**](/tutorials/email/clients/desktop)
+- [**Mobile Clients**](/tutorials/email/clients/mobile)
