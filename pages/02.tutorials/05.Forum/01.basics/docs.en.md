@@ -1,5 +1,5 @@
 ---
-title: Discourse: Basics
+title: Discourse Basics
 published: true
 visible: true
 indexed: true
@@ -26,6 +26,8 @@ Go to https://forum.disroot.org/ and click ![](en/forum_basics1.png?resize=64,25
 !! If you have a Disroot account make sure to select Login with disroot account before entering your credentials.
 
 If you don't have an account yet, you can register a Disroot account via https://user.disroot.org, which will give you additionaly access to cloud storage, email, xmpp and project board. You can also decide to create a forum only account - you will find the Sign up button at the top right of the forum page.
+
+By start, no disroot account is activated in Discourse. Therefore you have to activate it or, let's say, connect a Discourse account with Disroot, if you want to login for the first time. Click ***Log in with Disroot*** and enter your credentials. Make sure you type your **account name** instead of your **email address**. After your Disroot login was verified, you'll be headed back to the forum login page, but with your Disroot email filled in the field. Now just click ***Create New Account*** and you're in.  
 
 # The menu
 The icon buttons on the top right include the search and your personal settings:
@@ -107,10 +109,12 @@ File, pictures, and videos will be presented on the left side of the screen (whe
 ```
 <a class="attachment" href="/uploads/default/original/1X/ffd8f38b235dbf199a919f0187ae63a183d22ada.odt">hello world.odt</a> (8.0 KB)
 ```
+
 **Pictures**
 ```
 <img src="/uploads/default/original/1X/019a9706a4676128e452b81f450851353f36175c.png" width="690" height="347">
 ```
+
 **Videos**
 ```
 https://forum.disroot.org/uploads/default/original/1X/59b17ec97a8daabcb96a787b4900f3d3221083da.mp4
