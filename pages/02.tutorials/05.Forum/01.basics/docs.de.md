@@ -1,5 +1,5 @@
 ---
-title: Discourse: Basics
+title: Discourse Basics
 published: true
 visible: true
 indexed: true
@@ -26,6 +26,8 @@ Gehe zu [https://forum.disroot.org](https://forum.disroot.org/) und klicke auf !
 !! Wenn Du einen Disroot-Account hast, achte darauf ***Login with disroot account*** auszuwählen, bevor Du Deine Zugangsdaten eingibst.
 
 Wenn Du bis jetzt noch keinen Account hast, empfehlen wir Dir selbstverständlich, Dich auf [https://user.disroot.org](https://user.disroot.org) zu registrieren. Du wirst es nicht bereuen, denn Du erhältst dadurch zusätzlich Zugriff auf einen Cloud-Speicher, ein Email-Konto, XMPP und ein Projekt-Board. Und das alles frei, kostenlos und dezentral. Du kannst Dich natürlich auch dafür entscheiden, einfach einen Account nur für das Forum zu erstellen - den ***Sign up***-Button findest oben rechts auf der Forums-Seite.
+
+Grundsätzlich ist ein Disroot-Account zunächst nicht in Discourse aktiviert. Daher musst Du Deinen Account erstmal aktivieren oder, sagen wir, einen Discourse-Account mit Disroot verbinden, wenn Du Dich zum ersten Mal einloggst. Klicke auf ***Log in with Disroot*** und gib im folgenden Formular Deine Disroot-Anmeldedaten ein. Achte hierbei darauf, Deinen **Account-Namen** und nicht Deine **Email-Adresse** eingibst. Nachdem Dein Disroot-Account verifiziert wurde, wirst Du wieder auf die Login-Seite des Forums weitergeleitet. Dort findest Du allerdings nun Deine Disroot-Emailadresse in dem vorhandenen Feld. Klicke jetzt auf ***Create New Account*** und Du kannst loslegen.
 
 # Das Menü
 Oben rechts findest Du die Bedienelemente für die Suche und Deine persönlichen Einstellungen:
