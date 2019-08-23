@@ -47,7 +47,7 @@ You will see a message on top of the page:<br>
 
 4. Log out of **Nextcloud** and log back in and that's it, you're all set and can view your file again.
 
-!! ![](en/note.png) **NOTE**<br>
+!! ![](en/note.png)**NOTE:**<br>
 !! **If you lose your password, you won't be able to retrieve your files on the cloud as they're encrypted, so even the server administrators can't see their content.**
 
 
@@ -87,6 +87,5 @@ If for any reason you want to delete your account, just click this option. Once 
 
 ![](en/deletion_02.png)
 
-!! ![](en/note.png) **NOTE**<br>
-
+!! ![](en/note.png)**NOTE:**<br>
 !! **This process is irreversible.**<br>Once confirmed, **you won't be able to log in** to your account or ask **to restore it** later. **All your remaining data will be deleted** within 48 hours, and **your current user name will not be available** when creating a new account.

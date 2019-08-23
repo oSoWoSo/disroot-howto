@@ -12,6 +12,7 @@ taxonomy:
     tags:
         - cloud
         - bookmarks
+        - mobile
 page-toc:
     active: false
 ---

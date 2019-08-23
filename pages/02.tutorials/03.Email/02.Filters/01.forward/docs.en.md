@@ -1,24 +1,30 @@
 ---
-title: Forward emails from Disroot to your primary email
+title: "Email: Forwarding from Disroot to another email account"
 published: true
 visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+        - forward
+        - settings
 page-toc:
     active: false
 ---
 
-# Foreard Disroot mail to another E-mail account
+# Forwarding Disroot mail to another E-mail account
 
-We understand that not everyone wants to use **Disroot** mail as their daily driver. People have their mail accounts for years and it is hard, not practical or in some cases even impossible for them to switch to another provider such as Disroot.
+We understand that not everyone wants to use **Disroot** mail as their daily driver. People have their mail accounts for years and it's hard, not practical or, in some cases, even impossible for them to switch to another provider such as **Disroot**.
 
 However, there are important information you should not miss out on.
 
- - Get notifications for **Forum** and **Nextcloud**. Those services are tight to **Disroot** email and you cannot change it.
- - To be up to date with what's going on in **Disroot**. Every three / six weeks we are sending email to all users informing them about recent developments, new features and services. We are also sending information about scheduled downtime of services if they are longer then 20 min. We have no intention to spam you with too much information so don't worry about that.
+ - Get notifications for **Forum** and **Nextcloud**. Those services are tight to **Disroot** email and you can't change it.
+ - To be up to date with what's going on in **Disroot**. Every three / six weeks we're sending email to all users informing them about recent developments, new features and services. We're also sending information about scheduled downtime of services if they are longer than 20 min. We have no intention to spam you with too much, information so don't worry about that.
 
-In this short how-to we would like to show you how to forward your **Disroot** emails to your preferred email address (it should take you no more than three minutes to get this setup).
+This short how-to will show you how to forward your **Disroot** emails to your preferred email address (it should take you no more than three minutes to get this setup).
 
 ## Steps needed to forward your mail
 

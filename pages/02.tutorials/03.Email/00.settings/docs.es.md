@@ -9,6 +9,7 @@ taxonomy:
         - docs
     tags:
         - email
+        - correo
         - configuraciones
 page-toc:
     active: false

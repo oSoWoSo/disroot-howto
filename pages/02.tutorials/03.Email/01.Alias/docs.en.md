@@ -1,5 +1,5 @@
 ---
-title: Setup email alias
+title: Email: Setup alias
 visible: true
 indexed: true
 updated:
@@ -8,6 +8,8 @@ taxonomy:
         - docs
     tags:
         - email
+        - alias
+        - settings
 page-toc:
     active: false
 ---

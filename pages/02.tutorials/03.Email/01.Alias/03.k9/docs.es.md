@@ -1,14 +1,21 @@
 ---
-title: Configurar Alias de correo en tu teléfono con Android (K9)
+title: Alias de correo: Configurar en K9
 published: true
 visible: false
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+        - alias
+page-toc:
+    active: true
 ---
 
 ## Configuración
-Primero, inicia K9 y ve a tus configuraciones de cuenta
+Primero, inicia **K9** y ve a tus configuraciones de cuenta
 
 ![](es/identity_settings.png)
 

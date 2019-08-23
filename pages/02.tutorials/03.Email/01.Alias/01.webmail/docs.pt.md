@@ -2,9 +2,18 @@
 title: Como configurar um alias de email no webmail
 published: true
 visible: false
+indexed: false
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+        - alias
+        - settings
+        - webmail
+page-toc:
+    active: true
 ---
 
 # Configurar

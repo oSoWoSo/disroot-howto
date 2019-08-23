@@ -25,7 +25,7 @@ page-toc:
 Esta es la pantalla principal y, como habrás notado, es bastante directa. Vamos a verla más de cerca.
 
 Luego de iniciar sesión, encontrarás tres secciones principales, o bloques, y algunos botones de funciones:
-1. **La barra de aplicaciones**: aquí tienes las aplicaciones disponibles en la nube de Disroot, tales como gestores de Archivos y Tareas, Calendario, Contactos, Notas, Marcadores y el registro de Actividad. Para saber más sobre las aplicaciones, mira en [esta sección](/cloud/apps).
+1. **La barra de aplicaciones**: aquí tienes las aplicaciones disponibles en la nube de Disroot, tales como gestores de Archivos y Tareas, Calendario, Contactos, Notas, Marcadores y el registro de Actividad. Para saber más sobre las aplicaciones, mira en [esta sección](/tutorials/cloud/apps).
 2. **La sección de información de las aplicaciones**: cuando interactúes con las aplicaciones, aquí aparecerán información relacionada, opciones y filtros.
 3. **La vista principal de las aplicaciones**: esta sección muestra los contenidos de una aplicación seleccionada.
 4. **El menú de Configuraciones**: haciendo click en él, un menú desplegable aparece y puedes acceder a las configuraciones personales y de las características. Algunos de estos ajustes te permiten cambiar o modificar tu perfil, contraseña, idioma, gestionar notificaciones y dispositivos conectados, etc. Lo veremos más adelante.
@@ -63,7 +63,7 @@ Los niveles que puedes elegir son:
   - **Pública**: La información será enviada a una libreta de direcciones global (que puede ser vista por cualquiera)
 
 
-!! ![](en/note.png) **AVISO**<br>
+!! ![](en/note.png)**AVISO:**<br>
 !! Deberías prestar especial atención cuando completas esta información *(lo cual es opcional)* y decidir cuánta información sobre ti mismo quieres compartir y revelar al mundo.
 
 #### Otras informaciones y configuraciones
@@ -86,7 +86,7 @@ Seguridad es el lugar donde puedes revisar, hacer ajustes (adicionales) y revoca
 ## Dispositivos y sesiones
 Aquí puedes ver cuántos dispositivos están actualmente conectados a tu cuenta. Si no reconoces alguno de los dispositivos conectados, esto podría significar que tu cuenta está comprometida y deberías proceder a cambiar tu contraseña.
 
-!! ![](en/note.png) **AVISO**
+!! ![](en/note.png)**AVISO:**
 !! Ten presente que cada navegador, móvil, ordenador, etc., serán mostrados como dispositivos separados cada vez que, por ejemplo, cambies tu red. Así que no te asustes de entrada. Simplemente, verifica seriamente todo dos veces antes de entrar de lleno en modo paranoide
 
 
@@ -132,7 +132,7 @@ Puedes agregar tantos dispositivos como quieras. Se recomienda darle a cada uno 
 Aquí puedes decidir si un administrador estará habilitado o no para recuperar tus archivos en caso que pierdas tu contraseña. Esta opción está deshabilitada por defecto ya que posibilita a los administradores de **Disroot** descifrar y ver tus archivos.
 
 
-!! ![](en/note.png) **AVISO**
+!! ![](en/note.png)**AVISO:**
 !! **¡Habilitar esta opción después de perder la contraseña no recuperará tus archivos!** Necesitas tomar esta decisión de antemano. **Te recomendamos enfáticamente no perder nunca tu contraseña, en primer lugar, y mantenerla guardada en forma segura.**<br>
 Esta es la mejor manera de mantener tus archivos y tu cuenta a salvo. De verdad, no queremos tener acceso a ellos.
 

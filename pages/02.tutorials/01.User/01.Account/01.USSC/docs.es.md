@@ -50,8 +50,7 @@ Verás un mensaje en la parte superior de la página:<br>
 
 4. Cierra sesión en **Nextcloud**, vuelve a iniciarla y eso es todo, lo has configurado y puedes ver tus archivos de nuevo.
 
-!! ![](en/note.png)<br> **AVISO**<br>
-
+!! ![](en/note.png)**AVISO:**<br>
 !! **Si pierdes tu contraseña, no podrás recuperar tus archivos en la nube ya que están cifrados, de manera que ni siquiera los administradores del servidor pueden ver su contenido.**
 
 
@@ -99,6 +98,5 @@ Si por alguna razón quieres eliminar tu cuenta, solo haz click en esta opción.
 
 ![](es/eliminar_02.png)
 
-!! ![](en/note.png)<br> **AVISO**<br>
-
+!! ![](en/note.png)**AVISO:**<br>
 !! **Este proceso es irreversible.**<br>Una vez confirmado, **no podrás iniciar sesión** en tu cuenta o solicitar **restaurarla** después. **Toda la información restante será borrada** dentro de las 48 horas, y **tu actual nombre de usuario no estará disponible** cuando se cree una nueva cuenta.

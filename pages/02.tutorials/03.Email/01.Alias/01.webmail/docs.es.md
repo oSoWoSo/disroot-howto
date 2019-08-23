@@ -1,10 +1,19 @@
 ---
-title: Configurar un Alias de correo en el Webmail
+title: Alias de correo: Configurar en el Webmail
 published: true
 visible: false
+indexed: false
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - webmail
+        - correo
+        - alias
+        - configuraciones
+page-toc:
+    active: true
 ---
 
 ## Configuración
@@ -13,7 +22,7 @@ Primero, accede a tu webmail y ve a tus configuraciones de correo (icono abajo a
 ![](en/settings1.png)
 
 Cuando estés en Configuraciones, ve a la pestaña "**Identidades**", click en "**Agregar una Identidad**" y completa el formulario. Una vez hecho, presiona el botón "**Agregar**".
-*(Todo usuario de disroot tiene por defecto un alias usuario@disr.it que puede utilizar)*
+*(Todo usuario de disroot tiene por defecto un alias* usuario@disr.it *que puede utilizar)*
 
 ![](en/identity_add.gif)
 

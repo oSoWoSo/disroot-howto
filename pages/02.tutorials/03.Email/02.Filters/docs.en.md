@@ -1,5 +1,5 @@
 ---
-title: Setup Email Filters
+title: Email: Configuring Filters
 published: true
 visible: true
 indexed: true
@@ -9,13 +9,15 @@ taxonomy:
         - docs
     tags:
         - email
+        - filters
+        - settings
 page-toc:
     active: false
 ---
 
 # Email Filters
 
-Email Filters allows you to manage incoming mails in automated fashion such as moving incoming mail to a directory based on certain criteria, setting up out-of-office/holiday auotreply, automatically reject or forward emails.
+Email filters allows you to manage incoming mails in automated fashion such as moving them to a directory based on certain criteria, setting up out-of-office/holiday auotreply, automatically reject or forward emails.
 
 In this section we will cover the basics based on some scenarios.
 

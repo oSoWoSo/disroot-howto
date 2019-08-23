@@ -1,5 +1,5 @@
 ---
-title: Setup Mail Alias on webmail
+title: Email Alias: Setup on webmail
 published: true
 visible: false
 indexed: false
@@ -9,6 +9,9 @@ taxonomy:
         - docs
     tags:
         - email
+        - alias
+        - settings
+        - webmail
 page-toc:
     active: true
 ---
@@ -20,7 +23,7 @@ First of, login to your webmail and go to your mail settings (bottom left icon)
 
 When in Settings, go to **"Identities"** tab, click "**Add an Identity"** and fill in the form. Once done, hit **"Add"** button.
 
-*(Every* **Disroot** *user has an* username@disr.it* alias to use by default)*
+*(Every* **Disroot** *user has an* username@disr.it *alias to use by default)*
 
 ![](en/identity_add.gif)
 

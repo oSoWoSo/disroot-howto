@@ -46,8 +46,7 @@ Du wirst eine gelbe Nachricht am oberen Rand der Seite sehen:<br>
 
 4. Melde Dich von **Nextcloud** ab und wieder an und das war's. Du hast alles erledigt und kannst wieder auf Deine Dateien zugreifen.
 
-![](de/note.png)<br> **WICHTIG**
-|:--:|
+![](de/note.png)**WICHTIG**
 Wenn Du Dein Passwort verlierst oder vergisst, hast Du **keine** Möglichkeit mehr, an Deine Dateien zu kommen, da diese verschlüsselt sind. Nicht mal die Server-Administratoren können den Inhalt Deiner Dateien sehen.  
 
 
@@ -87,6 +86,5 @@ Wenn Du, aus welchen Gründen auch immer, Deinen Account löschen willst, klicke
 
 ![](de/deletion_02.png)
 
-![](de/note.png)<br> **WICHTIG!!!**
-|:--:|
+![](de/note.png)**WICHTIG!!!**
 **Dieser Vorgang ist unumkehrbar.**<br>Einmal bestätigt, **kannst Du Dich nicht mehr in Deinem Account anmelden** oder später um eine **Wiederherstellung** bitten. **Alle Deine Daten** werden innerhalb von 48 Stunden **gelöscht** und **Dein aktueller Benutzername wird nicht zur Verfügung stehen**, wenn Du einen neuen Account erstellst.

@@ -2,9 +2,16 @@
 title: Configuration de l'alias de messagerie sur votre téléphone Android (K9)
 published: true
 visible: false
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+        - alias
+page-toc:
+    active: true
 ---
 
 # Configuration

@@ -1,11 +1,17 @@
 ---
 title: Como configurar um cliente de email
-visible: false
+published: true
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+        - settings
 page-toc:
-     active: false
+    active: false
 ---
 
 Esta seção é dedicada a tentar convence-lo a deixar de usar um email a partir de um browser de Internet para uma experiência verdeiramente produtiva através de um cliente de email no seu dispositivo (desktop, portátil, telemóvel).

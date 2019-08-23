@@ -1,5 +1,5 @@
 ---
-title: Email Clients
+title: Email: Clients
 visible: true
 updated:
 taxonomy:

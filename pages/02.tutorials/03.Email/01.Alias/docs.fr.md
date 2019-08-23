@@ -1,11 +1,17 @@
 ---
 title: Comment configurer l'alias de messagerie
-visible: false
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+        - alias
+        - settings
 page-toc:
-     active: false
+    active: false
 ---
 
 Une fois que vous avez demandé des alias de messagerie en utilisant le [formulaire](https://disroot.org/forms/alias-request-form), vous devez les mettre en place. Ci-dessous vous trouverez comment le faire sur différents clients de messagerie.

@@ -15,7 +15,11 @@ page-toc:
 # Why a translation procedure?
 We think that the possibility of making information accessible to all in their own languages is fundamental in order to encourage and promote collective thoughts and actions. So coordinating the amount of information to be translated is an important task.
 
-The translations procedure consist of **four** main steps.
+For the purposes of this guide, we will assume that either you know what **git** is or you have read [**this howto**](https://howto.disroot.org/en/contribute/git/how-to-use-git).
+
+---
+
+**The translations procedure consist of four main steps.**
 
 ## First: One-time steps
 1. Register an account at https://git.fosscommunity.in/users/sign_in
@@ -78,5 +82,3 @@ Final step is to request the merge of your work into the master branch. This mea
 6. Check the box **Delete source branch when merge request is accepted** if you're completely sure your work is done, this way chances of confusing subsequent translations are avoided.
 
 If there's any issue, Admins could request you to correct something. Once all the corrections are made and the documentation meets the **Disroot** guidelines, your merge request will be pulled to the master.
-
-To have a better overview on working with git and Atom, please check [**this tutorial**](https://howto.disroot.org/en/contribute/git/how-to-use-git).

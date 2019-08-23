@@ -1,12 +1,18 @@
 ---
 title: 'Cliente de desktop'
 published: true
-visible: false
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+        - clients
+        - desktop
 page-toc:
-     active: false
+    active: false
 ---
 
 Como configurar o seu cliente de email no seu desktop:
