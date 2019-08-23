@@ -1,33 +1,23 @@
 ---
-title: Configuración de correo
-visible: false
+title: "Correo: Clientes"
+visible: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
 page-toc:
-     active: false
+    active: false
 ---
 
-Esta es la información que necesitas si quieres configurar un cliente de correo.
+## [Clientes de Escritorio](desktop)
+- [**Multiplatforma**](desktop/thunderbird)
+- [Integración con el escritorio **GNOME**](desktop/gnome-desktop-integration)
+- [Integración con el escritorio **KDE**](desktop/kde-desktop-integration)
 
-|IMAP|Puerto SSL|Autenticación|
-|:--:|:--:|:--:|
-|disroot.org|993|Contraseña Normal|
 
-<br>
-
-|SMTP|Puerto STARTTLS|Autenticación|
-|:--:|:--:|:--:|
-|disroot.org|587|Contraseña Normal|
-
-<br>
-
-|SMTPS|Puerto TLS|Autenticación|
-|:--:|:--:|:--:|
-|disroot.org|465|Contraseña Normal|
-
-<br>
-
-|POP|Puerto SSL|Autenticación|
-|:--:|:--:|:--:|
-|disroot.org|995|Contraseña Normal|
+## [Clientes para Móvil](mobile)
+- [**Android: K9**](mobile/k9)
+- [**SailfishOS: Mail App**](mobile/sailfishos)
+- [**iOS: Mail App**](mobile/ios)

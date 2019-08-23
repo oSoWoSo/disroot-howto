@@ -8,6 +8,8 @@ taxonomy:
         - docs
     tags:
         - email
+        - alias
+        - configuraciones
 page-toc:
     active: false
 ---

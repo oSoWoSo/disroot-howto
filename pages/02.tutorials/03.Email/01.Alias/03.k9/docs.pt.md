@@ -2,9 +2,16 @@
 title: Configure um alias de email no seu dispositivo android (K-9)
 published: true
 visible: false
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+        - alias
+page-toc:
+    active: true
 ---
 
 # Configuração

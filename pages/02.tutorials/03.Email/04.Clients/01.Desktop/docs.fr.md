@@ -1,12 +1,18 @@
 ---
 title: 'Clients de bureau'
 published: true
-visible: false
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+        - clients
+        - desktop
 page-toc:
-     active: false
+    active: false
 ---
 
 Comment configurer votre email sur votre bureau:

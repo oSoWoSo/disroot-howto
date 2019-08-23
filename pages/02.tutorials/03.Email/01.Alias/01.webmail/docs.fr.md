@@ -2,9 +2,18 @@
 title: Configuration de l'alias de messagerie sur le webmail
 published: true
 visible: false
+indexed: false
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+        - alias
+        - settings
+        - webmail
+page-toc:
+    active: true
 ---
 
 # Configuration

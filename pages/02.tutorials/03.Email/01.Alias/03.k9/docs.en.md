@@ -1,5 +1,5 @@
 ---
-title: Setup Mail Alias on your Android phone (K9)
+title: Email Alias: Setup on K9
 published: true
 visible: false
 indexed: true
@@ -9,6 +9,7 @@ taxonomy:
         - docs
     tags:
         - email
+        - alias
 page-toc:
     active: true
 ---

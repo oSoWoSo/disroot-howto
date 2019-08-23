@@ -1,5 +1,5 @@
 ---
-title: Setup mail alias on Thunderbird
+title: Email Alias: Setup on Thunderbird
 published: true
 visible: false
 indexed: true
@@ -9,6 +9,7 @@ taxonomy:
         - docs
     tags:
         - email
+        - alias
 page-toc:
     active: true
 ---

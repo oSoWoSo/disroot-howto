@@ -2,11 +2,16 @@
 title: Configurar um alias de email no Thunderbird
 published: true
 visible: false
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+        - alias
 page-toc:
-    active: false
+    active: true
 ---
 
 # Configurações

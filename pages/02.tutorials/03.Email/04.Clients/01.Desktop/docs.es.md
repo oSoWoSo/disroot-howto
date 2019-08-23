@@ -1,17 +1,26 @@
 ---
-title: Correo: Clientes para el escritorio
+title: 'Correo: Clientes de escritorio'
 published: true
-visible: false
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+        - clientes
+        - escritorio
 page-toc:
     active: false
 ---
 
-Cómo configurar tu correo en el escritorio:
+## Clientes Multiplataforma
+- [Thunderbird](thunderbird)
 
-## Clientes
-- [Thunderbird: Cliente de correo multiplataforma](thunderbird)
+## GNU/Linux: Integración del correo con el escritorio
+- [GNOME](gnome-desktop-integration)
+- [KDE](kde-desktop-integration)
+
 
 ![](en/email_icon.png)

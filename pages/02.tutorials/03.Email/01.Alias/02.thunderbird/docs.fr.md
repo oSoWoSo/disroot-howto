@@ -2,11 +2,16 @@
 title: Setup mail alias on Thunderbird
 published: true
 visible: false
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+        - alias
 page-toc:
-    active: false
+    active: true
 ---
 
 # Configuration

@@ -12,6 +12,7 @@ taxonomy:
         - docs
     tags:
         - cloud
+        - nextcloud
 page-toc:
   active: true
 ---
@@ -25,7 +26,7 @@ page-toc:
 This is the main screen and, as you have noted, is pretty straightforward. Let’s take a closer look at it.
 
 After logged in, you'll find three main sections or blocks and some functions buttons:
-1. **The apps navigation bar**: here you have the cloud applications available on Disroot, such as Files and Tasks managers, Calendar, Contacts, Notes, Bookmarks and the Activity log. To learn about the apps, check [this section](/cloud/apps).
+1. **The apps navigation bar**: here you have the cloud applications available on Disroot, such as Files and Tasks managers, Calendar, Contacts, Notes, Bookmarks and the Activity log. To learn about the apps, check [this section](/tutorials/cloud/apps).
 2. **The apps information section**: when interacting with the apps, related information, options and filters will appear here.
 3. **The main apps view**: this sections displays the contents of a selected app.
 4. **The settings menu**: by clicking on it, a dropdown menu appears and you can access to the personal and features settings. Some of this settings allows you to change or modify your profile, password, language, manage notifications and connected devices, etc. We’ll see it later on.
@@ -63,7 +64,7 @@ The levels you can choose are:
 - **Public**: The information will be sent to a global address book (which means it can be viewed by anyone)
 
 
-!! ![](en/note.png) **NOTE!**
+!! ![](en/note.png)**NOTE:**
 !! You should pay extra attention when filling up this information *(which is optional)* and decide how much information about yourself you want to share and reveal to others.
 
 #### Other information and settings
@@ -86,7 +87,7 @@ Security is the place where you can review, set (additional) and revoke security
 ## Devices & sessions
 Here you can see how many devices are currently connected to your account. If you don't recognize one connected device, it might mean your account has been compromised and you should proceed to change your password.
 
-!! ![](en/note.png) **NOTE!**
+!! ![](en/note.png)**NOTE:**
 !! Keep in mind that every browser, mobile, computer, etc., will be shown as separate devices each time you change your network, for example. So don't freak out at first. Just seriously double check everything, before you go full on paranoid mode.
 
 ### App password
@@ -129,7 +130,7 @@ You can add as many devices as you like. It is recommended to give each device a
 ### Basic encryption module
 Here you can decide whether or not an administrator will be able to recover your files in case you loose your password. This option is disabled by default as it enables admins of Disroot to decrypt and view your files.
 
-!! ![](en/note.png) **NOTE!**
+!! ![](en/note.png)**NOTE:**
 !! **Enabling this option after your password was lost will not recover your files!** You must make this decision beforehand. **We strongly encourage you keep your password stored in a safe place.**<br>
 This is the best way to keep your files and your account safe. We really don't want to have access to it.
 
