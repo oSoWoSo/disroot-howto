@@ -1,0 +1,26 @@
+---
+title: 'Vorlage' <!-- Titel ändern  -->
+visible: false <!-- ändere visibility in tree: true or false  -->
+page-toc:
+  active: true
+published: true
+taxonomy:
+    category:
+        - docs
+---
+
+---
+
+|```Meta information```|
+|:--:|
+|```Dieses How-to wurde zuletzt am ``` **date here** *(Datum kann im Format mm-dd-yy oder yyyy-mm-dd dargestellt werden, z.B.: 01-04-19 or 2019-01-04)* ``` und bezieht sich auf:```<br>**Software name: version 00.0.0-0 for GNU/Linux distro:**<br> <!-- ändere Software und Version auf die aktuelle Software  -->|
+
+**Wichtig:**```When sich das How-to auf eine ältere als die von ```**Disroot**``` derzeit bereitgestellte  oder von Dir lokal genutzte Softwareversion bezieht, könnten einige Funktionen nicht beschrieben sein oder sich kleinere Teile der bereitgestellten Informationen geändert haben. ```<br> **Disroot's** ``` How-to-Dokumentation ist ein Gemeinschaftsprojekt. Wir versuchen stets so gut es möglich ist, sie auf dem neuesten STand zu halten.```
+
+---
+# Hier kommt der tatsächliche Inhalt des How-to hin
+---
+
+ <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</center>
+
+---

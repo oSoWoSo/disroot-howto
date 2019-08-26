@@ -20,11 +20,11 @@ The purpose of it is to help keep a similar structure to all the how-to's, and t
 
 As we mentioned in our contribute page [here](/contribute/git/how-to-use-git), we work with Git, Atom text editor and Markdown Markup language as the tools to write them.
 
-But if you're not feel comfortable with these tools you can just write a pad, email, etc. We'll take it all :smiley:
+But if you're not feeling comfortable with these tools you can just write a pad, email, etc. We'll take it all :smiley:
 
 ## Pages
 
-there are now two different templates for the howto pages, docs.md and docsparent.md. docparent.md will index all children pages that are marked indexed:true in the header, creating a menu of the related pages. if an image is placed in the folder of the child page, a thumbnail will show in the index (size 400x300)
+There are currently two different templates for the howto pages, docs.md and docsparent.md. docparent.md will index all children pages that are marked indexed:true in the header, creating a menu of the related pages. If an image is placed in the folder of the child page, a thumbnail will show in the index (size 400x300)
 
 # Page headers
 
@@ -104,7 +104,7 @@ ________app_version: 15
 
 # Content guide lines
 
-We think that how-to's text content should be kept at the minimum for the clarity and portabilaty sake of it. In the ideal case, just the specific context necessary, the essential steps to do a task and, whenever it's possible, supported by visual aids (screenshots, gifs) showing how a task is being done.
+We think that how-to's text content should be kept at the minimum for the clarity and portability sake of it. In the ideal case, just the specific context necessary, the essential steps to do a task and, whenever it's possible, supported by visual aids (screenshots, gifs) showing how a task is being done.
 
 The content of a how-to then should meet the following criteria:
 
@@ -139,7 +139,7 @@ Example:
 
 #### Inline images
 
-Images are centered by default in the bext line. To use an image inline, so on the same line of a sentence use  {.inline} right after. Like in this example:
+Images are centered by default in the next line. To use an image inline, so on the same line of a sentence use  {.inline} right after. Like in this example:
 
 ```
 ![](en/07_share_button.png) {.inline}
@@ -168,13 +168,13 @@ Writing this...
 ##### Title 5
 ```
 ...will be displayed as:
-```
+
 # Title 1
 ## Title 2
 ### Title 3
 #### Title 4
 ##### Title 5
-```
+
 The more `#` you use the smaller the title will be.
 
 Titles are important for several reasons. One of the main is that Grav uses them to automatically generate the TOC (Table of Content) of the page. So they can be used to show the different chapters / sections of the howto at the top of the page index.
@@ -285,7 +285,7 @@ This is a command line command: `sudo apt update`
 
 To make the tutorials more coherent and easier to be adapted by other groups, we recommend the use of the following criteria:
 
-- When writing a how-to, **Disroot**'s name should be refered as: **Disroot**, starting with capital letter and bold type.
+- When writing a how-to, **Disroot**'s name should be referred as: **Disroot**, starting with capital letter and bold type.
 
 - And the different services refered as follows:
 
@@ -313,13 +313,13 @@ This way, if the expressions are regular, it's easier to just do a "*Search and 
 
 For video how-tos we also think that the content should be **kept at the minimum** and **short** enough for the user to be able to complete a task and for the clarity sake of it.
 
-Same as the text how-tos, the tutorials should have the folowing structure:
+Same as the text how-tos, the tutorials should have the following structure:
 
-1. **Meta Information**
+1. **Meta information**
 2. **Content**
-3. **Licensing**
+3. **Licensing information**
 
-**Meta information** and **licensing information** will be place by the **Disroot** admins in the video description of the Peertube instance where the videos will be hosted.
+**Meta information** and **licensing information** will be placed by the **Disroot** admins in the video description of the Peertube instance where the videos will be hosted.
 
 ## Description of Content
 
@@ -335,12 +335,12 @@ So that they can be placed by **Disroot** admins on the video description at the
 
 ## Licensing of video how-to's
 
-As we mentioned before, the licensing information will be placed by Disroot's Admins in the video description.
+As we mentioned before, the licensing information will be placed by **Disroot**'s Admins in the video description.
 
 However we recommend that you place the following image at the end of your video for about 10 seconds fade in and out:
 
 ![](en/licensing-pic.png)
 
-In this case if the video is downloaded and reuploaded somewhere else the license information is still there
+In this case if the video is downloaded and reuploaded somewhere else the license information is still there.
 
 ---

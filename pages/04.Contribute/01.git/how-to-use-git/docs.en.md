@@ -3,9 +3,9 @@ title: How-to Contribute: Git Basics
 published: true
 visible: false
 updated:
-        last_modified: "17 April 2019"
+        last_modified: "22 August 2019"
         app: Git and Atom
-        app_version: 1.33
+        app_version: 1.40
 taxonomy:
     category:
         - docs
@@ -95,10 +95,10 @@ Switching between branches can also be done from that menu. Current working bran
 
 Once the branch is created and published, and you have change the current work on this new branch, you can create new files, modify existing ones, etc.
 
-## Commiting changes
+## Committing changes
 Now you're working on your computer creating new tutorials or translating existing ones. Apart from saving changes to your laptop, you can/should also **commit** your changes.
 
-Commiting changes syncs the work you've done on your branch to the git server. So a commit is a set of files created of modified. If the branch doesn't exist on repository, it will be created and all your modifications and new files will be uploaded to the server. In that case you can work on your files on multiple machines, or other people can take over, help working on your branch.
+Committing changes syncs the work you've done on your branch to the git server. So a commit is a set of files created or modified. If the branch doesn't exist on repository, it will be created and all your modifications and new files will be uploaded to the server. In that case you can work on your files on multiple machines, or other people can take over, help working on your branch.
 
 To commit your changes need to:
  - Make sure all files are saved
@@ -108,7 +108,7 @@ To commit your changes need to:
 
  ![](en/atom-commit.gif)
 
- Once the files are commited, it's time to **push** (send) them to the server:
+ Once the files are committed, it's time to **push** (send) them to the server:
  - Open Push/Pull popup window
  - Press Push
 
@@ -118,7 +118,25 @@ To commit your changes need to:
 ## Merge request
 Once you think your work is finished and ready to be published on the website, it's time to merge it to the **master branch**.
 
-- First of all is to make sure all the changes are commited.
+![](en/note.png) <br>**NOTE!!!**
+
+While you are working on your branch, other users possibly commit and merge their own changes, esp. if you are working on existing files. If those changes from the other users have already been merged to the **master branch**, the version of the files you changed may no longer be the actual ones and therefore the changes from other users may not be included in your files. In that state, if you want to let your changes be merged to the **master branch**, this process may be very chaotic.
+
+![](en/git-merge_chaos.gif)
+
+Luckily git is able to compare versions and to insert your changes into the updated file versions. To trigger this, you need to update your branch **before** you **Create** a **Merge Request**. By doing this you will spare the admins and yourself a lot of needless work:
+
+ - First of all is to make sure all the changes are committed
+ - Open Terminal (Linux)
+ - Switch to **Master Branch**: ***git checkout master***
+ - Update **Master Branch**: ***git pull***
+ - Switch to working branch: ***git checkout <Branch_Name>***
+ - Update your working branch from **Master Branch**: ***git rebase master***
+ - Verify the changes and commit the changes to the Server
+
+Now you can start with the final steps of merging your files to the **Master Branch**:
+
+- First of all is to make sure all the changes are committed.
 - Login to https://git.fosscommunity.in
 - If you pushed any changes to the server on your branch, in the top right you'll see a **"Create Merge Request"** button that will open the merge request form.
 - Add a title
@@ -129,7 +147,7 @@ Once you think your work is finished and ready to be published on the website, i
 
 ![](en/git-merge_request.gif)
 
-Once you've created a merge request, it will be reviewed by **Disroot** admins and, if it's all right, they can aprove your commit then. This means your changes will be merged with the master branch and therefore visible on the website.
+Once you've created a merge request, it will be reviewed by **Disroot** admins and, if it's all right, they can approve your commit then. This means your changes will be merged with the master branch and therefore visible on the website.
 
 If there's any issue, admins could request you to correct something. Once all the corrections are made and the documentation meets the **Disroot** guidelines, your merge request will be pulled to the master.
 
