@@ -12,4 +12,8 @@ taxonomy:
 page-toc:
     active: false
 ---
-ToDo
+
+
+# Open Task
+
+This is a good example for the work still to do. Until now, no one was found to write this Tutorial. Maybe you want to make it your first project?

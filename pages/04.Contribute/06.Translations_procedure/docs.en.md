@@ -63,7 +63,7 @@ For the purposes of this guide, we will assume that either you know what **git**
 
     ![](en/commit.gif)<br>
 
-    Once the files are commited, you have to "push" (send) them to the server:<br>
+    Once the files are committed, you have to "push" (send) them to the server:<br>
     e. Open **Push/Pull** popup window<br>
 ![](en/pull_push.png)<br>
 
@@ -72,7 +72,26 @@ For the purposes of this guide, we will assume that either you know what **git**
     ![](en/push.gif)<br>
 
 ## Fourth: Requesting the merge of the Translations
-Final step is to request the merge of your work into the master branch. This means that once your finished and sent the translation, you need to request **Disroot Translation Team** to check if it's all right to finally add it to the site.<br>
+Final step is to request the merge of your work into the master branch. This means that once you finished and sent the translation, you need to request **Disroot Translation Team** to check if it's all right to finally add it to the site.<br>
+
+![](en/note.png) <br>**NOTE!!!**
+
+While you are working on your branch, other users possibly commit and merge their own changes, esp. if you are working on existing files. If those changes from the other users have already been merged to the **master branch**, the version of the files you changed may no longer be the actual ones and therefore the changes from other users may not be included in your files. In that state, if you want to let your changes be merged to the **master branch**, this process may be very chaotic.
+
+![](en/git-merge_chaos.gif)
+
+Luckily git is able to compare versions and to insert your changes into the updated file versions. To trigger this, you need to update your branch **before** you **Create** a **Merge Request**. By doing this you will spare the admins and yourself a lot of needless work:
+
+ - First of all is to make sure all the changes are committed
+ - Open Terminal (Linux)
+ - Switch to **Master Branch**: ***git checkout master***
+ - Update **Master Branch**: ***git pull***
+ - Switch to working branch: ***git checkout <Branch_Name>***
+ - Update your working branch from **Master Branch**: ***git rebase master***
+ - Verify the changes and commit the changes to the Server
+
+Now you can start with the final steps of merging your files to the **Master Branch**:
+
 1. Login to https://git.fosscommunity.in<br>
     At the top right you'll see a **Create Merge Request** button that will open the merge request form, click on it
 2. Add a title
