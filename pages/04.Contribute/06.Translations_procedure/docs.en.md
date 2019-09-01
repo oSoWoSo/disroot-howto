@@ -74,16 +74,16 @@ For the purposes of this guide, we will assume that either you know what **git**
 ## Fourth: Requesting the merge of the Translations
 Final step is to request the merge of your work into the master branch. This means that once you finished and sent the translation, you need to request **Disroot Translation Team** to check if it's all right to finally add it to the site.<br>
 
-![](en/note.png) <br>**NOTE!!!**
+!! ![](en/note.png)**NOTE!!!**<br>
 
-While you are working on your branch, other users possibly commit and merge their own changes, esp. if you are working on existing files. If those changes from the other users have already been merged to the **master branch**, the version of the files you changed may no longer be the actual ones and therefore the changes from other users may not be included in your files. In that state, if you want to let your changes be merged to the **master branch**, this process may be very chaotic.
+While you're working on your branch, other users possibly commit and merge their own changes, especially if when working on existing files. If those changes from the other users have already been merged to the **master branch**, the version of the files you changed may no longer be the actual ones and therefore the changes from other users may not be included in your files. In those cases, if you want to let your changes be merged to the **master branch**, this process may be very chaotic.
 
 ![](en/git-merge_chaos.gif)
 
-Luckily git is able to compare versions and to insert your changes into the updated file versions. To trigger this, you need to update your branch **before** you **Create** a **Merge Request**. By doing this you will spare the admins and yourself a lot of needless work:
+One of **Git**'s main features is the ability to compare versions and to insert your changes into the updated file versions. To trigger this, you need to update your branch **before** you **Create** a **Merge Request**. By doing this you will spare the admins and yourself a lot of needless work:
 
  - First of all is to make sure all the changes are committed
- - Open Terminal (Linux)
+ - Open a terminal (GNU/Linux)
  - Switch to **Master Branch**: ***git checkout master***
  - Update **Master Branch**: ***git pull***
  - Switch to working branch: ***git checkout <Branch_Name>***
