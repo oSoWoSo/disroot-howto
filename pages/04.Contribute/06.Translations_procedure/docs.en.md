@@ -32,9 +32,10 @@ For the purposes of this guide, we will assume that either you know what **git**
 
 
 ## Second: Selecting a section to be translated
-1. Login at [**Disroot Translations Board**](https://board.disroot.org/project/fede-disroot-translations/timeline)
-2. Select the **Epic** (*the set of User Stories*) corresponding to the language into which you are going to translate
-3. Select the **User Story** (*the section to be translated*) and **assign** it to yourself<br>
+1. Check the [Howto Translation State](state/Translations_Howto.pdf) or the [Website Translations State](state/Translations_Website.pdf) (*these files may not be up-to-date*)
+2. Login at [**Disroot Translations Board**](https://board.disroot.org/project/fede-disroot-translations/timeline)
+3. Select the **Epic** (*the set of User Stories*) corresponding to the language into which you are going to translate
+4. Select the **User Story** (*the section to be translated*) and **assign** it to yourself<br>
 
 ![](en/assign.gif)
 
