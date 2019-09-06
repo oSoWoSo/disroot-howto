@@ -17,6 +17,7 @@ page-toc:
 
 ## Clientes Multiplataforma
 - [Thunderbird](thunderbird)
+- [Claws Mail](claws-mail)
 
 ## GNU/Linux: Integración del correo con el escritorio
 - [GNOME](gnome-desktop-integration)

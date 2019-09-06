@@ -17,7 +17,7 @@ page-toc:
 
 ## Multiplatform Mail Clients
 - [Thunderbird](thunderbird)
-- [ClawsMail](clawsmail)
+- [Claws Mail](claws-mail)
 
 
 
