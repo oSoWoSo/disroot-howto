@@ -20,3 +20,4 @@ Assim que tenha pedido alias de email utilizando o [formulário](https://disroot
 - [Webmail](webmail/)
 - [Thunderbird](thunderbird/)
 - [K9](k9/)
+- [Mail iOS](mailios)
