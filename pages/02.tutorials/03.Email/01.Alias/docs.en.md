@@ -1,5 +1,5 @@
 ---
-title: Email: Setup alias
+title: 'Email: Setup alias'
 visible: true
 indexed: true
 updated:
@@ -18,6 +18,7 @@ page-toc:
 
 Once you requested email aliases using this [form](https://disroot.org/en/forms/alias-request-form), you'll need to set them up. Below you can find how to do it on various email clients.
 
-### [Webmail](webmail)
-### [Thunderbird](thunderbird)
-### [K9](k9)
+- [Webmail](webmail)
+- [Thunderbird](thunderbird)
+- [K9](k9)
+- [Mail iOS](mailios)
