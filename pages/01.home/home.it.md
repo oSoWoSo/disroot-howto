@@ -10,7 +10,7 @@ content:
     pagination: true
 ---
 
-### Benventui nel sito delle guide di Disroot
+### Benvenuti nel sito delle guide di Disroot
 
 L'obiettivo principale di questo sito è aiutarti a orientarti tra i vari servizi **Disroot**.
 
