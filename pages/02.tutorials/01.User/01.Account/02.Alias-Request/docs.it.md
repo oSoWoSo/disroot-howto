@@ -9,6 +9,7 @@ taxonomy:
 ---
 
 Gli alias sono disponibili ai contributori regolari. Con "collaboratori regolari", ci riferiamo a coloro che ci "donano" almeno una tazza di caffè al mese.
+
 Non stiamo promuovendo il caffè, che è in realtà un esempio a portata di mano su ciò che è [sfruttamento e disuguaglianza](http://thesourcefilm.com/) (http://www.foodispower.org/coffee/). E abbiamo pensato che è un buon modo per permettere alle persone di misurare se stessi quanto possono dare.
 Si prega di prendere tempo per esaminare il vostro contributo. Se è possibile 'acquistare' noi una tazza di Rio De Janeiro caffè un mese che è OK, ma se potete permettervi un doppio decaffeinato Frappuccino con  panna extra di soia al mese, quindi ci può davvero aiutare a mantenere la piattaforma Disroot in esecuzione e assicurarsi che sia disponibile gratuitamente per altre persone con meno mezzi.
 

@@ -7,7 +7,7 @@ taxonomy:
 visible: true
 ---
 
-In primo luogo, è necessario accedere alla **centro self-service** nella https://user.disroot.org e selezionare **cambiare password**.
+In primo luogo, è necessario accedere al **centro self-service** in https://user.disroot.org e selezionare **cambiare password**.
 
 Una volta che hai cambiato la password, sarà necessario assicurarsi di cambiare la chiave di crittografia in **Nextcloud**, poiché i file sono crittografati con una chiave generata dalla tua passphrase.
 1. Vai su https://cloud.disroot.org e accedi inserendo la nuova password.
