@@ -29,4 +29,4 @@ We found this [list](https://www.caffesociety.co.uk/blog/the-cheapest-cities-in-
 
 To request aliases you need to fill in this [form](https://disroot.org/forms/alias-request-form).
 
-If you're for howto setup an email alias, then take a look at [here](/tutorials/email/alias)
+If you're looking for how to setup an email alias, then take a look at [here](/tutorials/email/alias)
