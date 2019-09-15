@@ -24,6 +24,6 @@ page-toc:
 ----
 
 ## Cos'è Nextlcoud?
-**Nextcloud** è un software gratuito e open source che ti consente di caricare e archiviare file su un server (potrebbe essere anche un tuo server), sincronizzandoli con diversi dispositivi a cui puoi accedere in sicurezza da qualsiasi luogo attraverso la rete Internet. Inoltre, Nextcloud offre alcune funzioni interessanti e utili come calendari, sincronizzazione di contatti e segnalibri, chiamate e videoconferenze e lettore di notizie. <br>
+**Nextcloud** è un software gratuito ed open source che ti consente di caricare e archiviare file su un server (potrebbe essere anche un tuo server), sincronizzandoli con diversi dispositivi a cui puoi accedere in sicurezza da qualsiasi luogo attraverso la rete Internet. Inoltre, Nextcloud offre alcune funzioni interessanti e utili come calendari, sincronizzazione di contatti e segnalibri, chiamate e videoconferenze e lettore di notizie. <br>
 
 ----------
