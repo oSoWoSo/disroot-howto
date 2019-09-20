@@ -57,12 +57,12 @@ Facendo clic sull'icona "lucchetto" accanto al titolo delle informazioni, è pos
 
 ![](en/privacy_setting.gif)
 
-The levels you can choose are:
+I livelli che puoi scegliere sono:
 
-- **Private**: You are the only person that can see this information
-- **Local**: The information will be visible to other **Disroot** Cloud users (only if they know your username)
-- **Contacts**: Besides other **Disroot** Cloud users, the information will be shared with users on other Nextcloud instances when you share data or files with them.
-- **Public**: The information will be sent to a global address book (which means it can be viewed by anyone)
+- **Privato**: sei la sola persona che che può vedere queste informazioni
+- **Locale**: le informazioni saranno visibili agli altri utenti di **Disroot** (solo se quest'ultimi conoscono il tuo username)
+- **Contacts**: Oltre agli altri utenti **Disroot**, le informazioni saranno condivise con gli utenti su altre istanze Nextcloud quando condividi dati o file con loro.
+- **Public**: Le informazioni saranno inviate a una rubrica globale (il che significa che possono essere visualizzate da chiunque)
 
 
 !! ![](en/note.png)**NOTE:**
