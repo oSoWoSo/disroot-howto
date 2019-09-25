@@ -12,7 +12,7 @@ The main objective of the **Disroot's Howto Project** is the creation, maintenan
 ## Table of contents
 * [Prerequisites](#prerequisites)
   - Software required
-  - Gitlab account
+  - Gitea account
   - Request access to our repository
   - Setting your username and email
 * [Creating / Translating Howto's](#creating-translating-howtos)
@@ -35,10 +35,10 @@ A version control system for tracking the changes that are implemented to the ho
 Suggested software: **Atom Text Editor**, a source code editor with git version control integrated.<br>
 [**Download & installation instructions**](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 
-### 02. Gitlab account
-In order to send changes you make to the howtos, whether translating, editing, or writing them, you need to have an account in the Gitlab instance we use.
+### 02. Gitea account
+In order to send changes you make to the howtos, whether translating, editing, or writing them, you need to have an account in a **Gitea** instance.
 
-To register an account at **India's FOSS Community**, where our repository is, go [**here**](https://git.fosscommunity.in/users/sign_in)
+To register an account at the instance where our repository is, go [**here**](https://git.disroot.org/user/sign_up).
 
 ### 03. Request access to our repository
 In order to be able to commit changes to **Disroot**'s git repository, you'll need to request access. This is done via our git project page
@@ -64,7 +64,7 @@ A git repository is a project folder containing the files created or to be trans
 
 To clone the repository, open a terminal in the directory you would like to clone the repository to. Once there you'll use the `git clone` command, an instruction to clone a repository by typing its address. In our case it would be:
 
-`git clone https://git.fosscommunity.in/disroot/howto`
+`git clone https://git.disroot.org/Disroot/howto`
 
 Once the repository has been copied to your hard drive you'll see a `howto` directory containing all the files of the project. It can be later moved to any place on your computer.
 
