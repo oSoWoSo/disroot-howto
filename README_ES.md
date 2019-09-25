@@ -51,7 +51,7 @@ Esto es necesario para poder enviar tu trabajo desde tu máquina local al reposi
 
 - Tipea, y completa con tu información, los siguientes comandos:<br>
 `git config --global user.email usuario@email`<br>
-`git config --global user.name "Tú nombre de usuario"`
+`git config --global user.name "Tu nombre de usuario"`
 
 
 ## Crear / Traducir guías
