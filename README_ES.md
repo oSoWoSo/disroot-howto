@@ -35,45 +35,45 @@ Un sistema de control de versiones para el seguimiento de los cambios que son im
 Software sugerido: **Atom Text Editor**, un editor de código con control de versiones git integrado.<br>
 [**Descarga e instrucciones de instalación**](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 
-### 02. Cuenta en Gitea
-In order to send changes you make to the howtos, whether translating, editing, or writing them, you need to have an account in the Gitlab instance we use.
+### 02. Cuenta en una instancia de Gitea
+Para poder enviar los cambios que realizas a las guías, ya sea traduciendo, editando o escribiéndolas, necesitas tener una cuenta en una instancia de **Gitea**.
 
-To register an account at **India's FOSS Community**, where our repository is, go [**here**](https://git.fosscommunity.in/users/sign_in)
+Para registrar una cuenta en la instancia donde están nuestros repositorios, ve [**aquí**](https://git.disroot.org/user/sign_up).
 
-### 03. Request access to our repository
-In order to be able to commit changes to **Disroot**'s git repository, you'll need to request access. This is done via our git project page
+### 03. Solicitar acceso a nuestros repositorios
+Para poder registrar cambios en los repositorios git de **Disroot**, necesitarás solicitar acceso. Esto se realiza desde la página de git de nuestro proyecto.
 
-### 04. Setting your username and email
-This is necessary to be able to send your work from your machine to the remote repository. To setup the git username and email
+### 04. Configurar nombre de usuari@ y correo
+Esto es necesario para poder enviar tu trabajo desde tu máquina local al repositorio remoto. Para configurar el nombre de usuari@ de git y el correo
 
-- open a terminal and start git<br>
+- abre una terminal e inicia git<br>
 `git init`<br>
 
-- type and complete with your information the following commands:<br>
-`git config --global user.email user@email`<br>
-`git config --global user.name "User Name"`
+- Tipea, y completa con tu información, los siguientes comandos:<br>
+`git config --global user.email usuario@email`<br>
+`git config --global user.name "Tú nombre de usuario"`
 
 
-## Creating / Translating Howto's
-The process of creating or translating howtos is not difficult and requires only a bit of practice to learn.
+## Crear / Traducir guías
+El proceso de creación o traducción de guías no es difícil y requiere solo un poco de práctica para aprender.
 
-The first thing to do is cloning the repository, this means making a local copy of the remote files. All the work will be done on this copy.
+Lo primero que hay que hacer es clonar el repositorio, esto significa hacer una copia local de los archivos remotos. Todo el trabajo será realizado sobre esta copia.
 
-### Cloning the repository
-A git repository is a project folder containing the files created or to be translated and the detailed track history of those changes.
+### Clonar el repositorio
+Un repositorio git es una carpeta de proyecto que contiene los archivos creados o a ser traducidos y el registro histórico detallado de los cambios.
 
-To clone the repository, open a terminal in the directory you would like to clone the repository to. Once there you'll use the `git clone` command, an instruction to clone a repository by typing its address. In our case it would be:
+Para clonar el repositorio, abre una terminal en el directorio donde te gustaría clonarlo. Una vez allí utilizarás el comando `git clone`, una instrucción para clonar un repositorio escribiendo su dirección. En nuestro caso sería:
 
-`git clone https://git.fosscommunity.in/disroot/howto`
+`git clone https://git.disroot.org/Disroot/Howto`
 
-Once the repository has been copied to your hard drive you'll see a `howto` directory containing all the files of the project. It can be later moved to any place on your computer.
+Una vez que el repositorio ha sido copiado a nuestro disco duro, verás un directorio `howto` que contiene todos los archivos del proyecto. Luego se puede mover a cualquier lugar en tu computadora.
 
-### Creating / Translating instructions
-Once you have copied the repository to your machine, you can start creating, editing and/or translating by following the steps described in these guides:
+### Instrucciones para crear / traducir
+Una vez que tengas copiado el repositorio en tu máquina, puedes comenzar a crear, editar y/o traducir siguiendo los pasos descritos en estas guías:
 
-- [Howto use git for **Disroot**'s Howtos](https://howto.disroot.org/en/contribute/git/how-to-use-git)<br>
+- [Cómo utilizar git para las guías de **Disroot**](https://howto.disroot.org/es/contribute/git/how-to-use-git)<br>
 
-- [**Disroot**'s Translation procedure](https://howto.disroot.org/en/contribute/translations_procedure)
+- [Procedimiento de **Disroot** para traducciones](https://howto.disroot.org/es/contribute/translations_procedure)
 
-## License
-The **Disroot's Howto** documentation is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
+## Licencia
+La documentación de **Disroot's Howto** está bajo una licencia [Atribución-CompartirIgual 4.0 Internacional de Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
