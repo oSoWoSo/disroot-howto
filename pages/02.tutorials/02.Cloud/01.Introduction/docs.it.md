@@ -65,23 +65,23 @@ I livelli che puoi scegliere sono:
 - **Public**: Le informazioni saranno inviate a una rubrica globale (il che significa che possono essere visualizzate da chiunque)
 
 
-!! ![](en/note.png)**NOTE:**
-!! You should pay extra attention when filling up this information *(which is optional)* and decide how much information about yourself you want to share and reveal to others.
+!! ![](en/note.png)**NOTA:**
+!! Dovresti prestare particolare attenzione durante la compilazione di queste informazioni *(che sono facoltative)* e decidere quante informazioni su di te vuoi condividere e rivelare agli altri.
 
-#### Other information and settings
-Below the profile picture you can see:
-- **the groups** you belong to (if any). By default, **Disroot** accounts are not associated with any group.
-- **the quota** of storage space you're using.
+#### Altre informazioni e impostazioni
+Sotto l'immagine del profilo puoi vedere:
+- **I gruppi a cui appartieni (se presenti). Per impostazione predefinita, gli account ** Disroot ** non sono associati a nessun gruppo.
+- **La quota** di spazio che stai utilizzando.
 
 ![](en/settings_window_details.png)
 
-Additionally, you can also change your preferred language.
+Inoltre puoi anche cambiare la lingua.
 
 ![](en/settings_window_language.png)
 
 -----
-# Security
-Security is the place where you can review, set (additional) and revoke security settings.
+# Sicurezza
+Sicurezza è il posto dove puoi vedere, aggiungere o revocare impostazioni legate alla sicurezza.
 
 ![](en/security_device.png)
 
