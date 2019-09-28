@@ -85,20 +85,20 @@ Sicurezza è il posto dove puoi vedere, aggiungere o revocare impostazioni legat
 
 ![](en/security_device.png)
 
-## Devices & sessions
-Here you can see how many devices are currently connected to your account. If you don't recognize one connected device, it might mean your account has been compromised and you should proceed to change your password.
+## Dispositivi & sessioni
+Qui puoi vedere quanti dispositivi sono attualmente connessi al tuo account. Se non riconosci un dispositivo connesso, potrebbe significare che il tuo account è stato compromesso e dovresti procedere con la modifica della password.
 
-!! ![](en/note.png)**NOTE:**
-!! Keep in mind that every browser, mobile, computer, etc., will be shown as separate devices each time you change your network, for example. So don't freak out at first. Just seriously double check everything, before you go full on paranoid mode.
+!! ![](en/note.png)**NOTA:**
+!! Tieni presente che, ad esempio, ogni browser, dispositivo mobile, computer e così via verrà mostrato come dispositivo separato ogni volta che cambi rete. Quindi non impazzire all'inizio. Basta seriamente ricontrollare tutto, prima di passare alla modalità paranoica.
 
-### App password
-When Two-Factor Authentication is enable, third party applications (like your email, notes or news clients) won't be able to login your account with your user credentials only. For these devices you can create a specific password for the app.
+### Password per applicazioni
+Quando l'autenticazione a due fattori è abilitata, le applicazioni di terze parti (come e-mail, note o client di notizie) non saranno in grado di accedere al proprio account solo con le credenziali dell'utente. Per questi dispositivi è possibile creare una password specifica per l'app.
 
 ![](en/app_pass.png)
 
-## Two-factor authentication
+## Autentificazione a due fattori
 
-**What is Two-factor authentication (2FA)?**>br>
+**Cos'è l'autentificazione a due fattori (2FA)?**>br>
 Is a security process that has a two steps verification, usually, the combination of two factors:<br>
 1) something you know (like a password),<br>
 2) something you have (could be a security token, a card, a QR code, etc.) or<br>
