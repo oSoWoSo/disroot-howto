@@ -99,6 +99,7 @@ Quando l'autenticazione a due fattori è abilitata, le applicazioni di terze par
 ## Autentificazione a due fattori
 
 **Cos'è l'autentificazione a due fattori (2FA)?**>br>
+<<<<<<< HEAD
 È un processo di sicurezza che prevede una verifica in due passaggi:<br>
 1) qualcosa che conosci (come una password),<br>
 2) qualcosa che hai (come un security token, un codice QR, ecc.) o<br>
@@ -109,16 +110,36 @@ Un esempio di come funziona: quando vai a un bancomat per estrarre denaro devi u
 L'autentificazione a due fattori può essere usata se vuoi aumentare la sicurezza del tuo login (puoi approfondire [qui](https://en.wikipedia.org/wiki/Multi-factor_authentication)). Quando abilitato, sarai chiamato non solo ad inserire nome utente e password, ma pure ad un ulteriore fattore di autentificazione come OTP (one-time-password).<br>
 
 ### Autentificazione a due fattori - codici di backup
+=======
+Is a security process that has a two steps verification, usually, the combination of two factors:<br>
+1) something you know (like a password),<br>
+2) something you have (could be a security token, a card, a QR code, etc.) or<br>
+3) something you are (like your fingerprint).<br>
+
+An example of how it works: when you go to an ATM to extract money you need to use your bank card (something you have) and a PIN (something you know). If the combination fails, you can't extract the money.
+
+Two-factor authentication can be used if you want have a more secure login (you can read more about it [here](https://en.wikipedia.org/wiki/Multi-factor_authentication)). When enabled, you will be asked not only for your login name and password, but also for an extra authentication like a one-time-password (OTP) or verification via a hardware device.<br>
+
+### Two-factor backup codes
+>>>>>>> 314d2f6dba1db5c51ded075ca1db04a86a0438e1
 It's highly advisable to download backup codes when you have enabled two-factor. If, for some reason, your OTP app doesn't work (*you lost your phone!*), you still be able to login. You should keep these backup codes in a safe place (*not your phone!*) and each code allows you to login once. Once you are in you can reconfigure you OTP or disable two-factor.
 
 ![](en/2fa_bup.png)
 
 ### TOTP and U2F
+<<<<<<< HEAD
 **Disroot** offfre due possibilità di autentificazione a due fattori:
 
 - **TOTP (One-Time-Password)**: TOTP è simile a Google Authenticator. Questa è un'app che puoi eseguire sul tuo telefono e genera una password basata sul tempo. Alcuni autenticatori open source lo sono [andOTP](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) e [FreeOTP](https://f-droid.org/en/packages/org.liberty.android.freeotpplus/).
 
 - **U2F (Universal 2nd factor)**: U2F usa un device come [USB key di Yubico](https://en.wikipedia.org/wiki/YubiKey). Collega il dispositivo al laptop e premi il pulsante del dispositivo per autorizzare. Dopo averlo aggiunto, il browser comunicherà con il dispositivo U2F per autorizzare l'accesso.
+=======
+**Disroot** offers two types of two-factor authentication:
+
+- **TOTP (Time-based One-Time-Password)**: TOTP is like Google Authenticator. This is an app you can run on your phone and generates a time based password. Some open source authenticators are [andOTP](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) and [FreeOTP](https://f-droid.org/en/packages/org.liberty.android.freeotpplus/).
+
+- **U2F (Universal 2nd factor)**: U2F uses a hardware device like the [USB key by Yubico](https://en.wikipedia.org/wiki/YubiKey). You plug the device into your laptop and press the device button to authorize. After adding it, the browser will communicate with the U2F device to authorize you to log in.
+>>>>>>> 314d2f6dba1db5c51ded075ca1db04a86a0438e1
 
 ![](en/2fa.png)
 
@@ -126,6 +147,7 @@ It's highly advisable to download backup codes when you have enabled two-factor.
 |:--:|:--:|
 |![](en/totp_auth.png)|![](en/u2f.png)|
 
+<<<<<<< HEAD
 Puoi aggiungere tutti i dispositivi che desideri. Si consiglia di assegnare a ciascun dispositivo un nome univoco. Chrome è l'unico browser che supporta i dispositivi U2F per impostazione predefinita. Per utilizzare U2F è necessario installare il "Componente aggiuntivo di supporto U2F" su Firefox.
 
 ### Modulo di cifratura di base
@@ -134,11 +156,22 @@ Qui puoi decidere se un amministratore sarà in grado di recuperare i tuoi file 
 !! ![](en/note.png)**NOTA:**
 !!**L'abilitazione di questa opzione dopo la perdita della password non ripristinerà i tuoi file!** Devi prendere questa decisione in anticipo. **Ti consigliamo vivamente di conservare la password in un luogo sicuro.**<br>
 Questo è il modo migliore per proteggere i tuoi file e il tuo account. Noi non vogliamo avervi accesso.
+=======
+You can add as many devices as you like. It is recommended to give each device a distinct name. Chrome is the only browser that supports U2F devices by default. You need to install the "U2F Support Add-on" on Firefox to use U2F.
+
+### Basic encryption module
+Here you can decide whether or not an administrator will be able to recover your files in case you loose your password. This option is disabled by default as it enables admins of Disroot to decrypt and view your files.
+
+!! ![](en/note.png)**NOTE:**
+!! **Enabling this option after your password was lost will not recover your files!** You must make this decision beforehand. **We strongly encourage you keep your password stored in a safe place.**<br>
+This is the best way to keep your files and your account safe. We really don't want to have access to it.
+>>>>>>> 314d2f6dba1db5c51ded075ca1db04a86a0438e1
 
 ![](en/basic_encryption.png)
 
 ----
 
+<<<<<<< HEAD
 # Attività
 Nella sezione Attività puoi scegliere come vuoi essere informato su ciò che sta accadendo sul tuo cloud. Puoi ricevere notifiche e-mail, ricevere notifiche nel flusso di attività o addirittura non ricevere alcuna notifica. Se si sceglie di ricevere notifiche e-mail, è possibile impostare la frequenza da "**Non appena possibile** a **Oraria**, **Giornaliera** o **Settimanale**.
 ![](en/activity_window.png)
@@ -150,10 +183,25 @@ L'applicazione di archiviazione esterna consente di montare servizi e/o disposit
 ![](en/external_storage.png)
 
 ## Configuazione dell'archiviazione esterna
+=======
+# Activity
+In the Activity section you can choose how do you want to be informed about what's happening on your cloud. You can get email notifications, being notified in the Activity stream or even not being notified at all. If you choose to get email notifications, you can set the frecuency from "**As soon as posible** to **Hourly**, **Daily** or **Weekly**.
+
+![](en/activity_window.png)
+
+----
+# External storages
+The External Storage application allows you to mount external storage services and/or devices as secondary Nextcloud storage devices.
+
+![](en/external_storage.png)
+
+## Configuring an external storage
+>>>>>>> 314d2f6dba1db5c51ded075ca1db04a86a0438e1
 
 ### Authentication
 ![](en/external_storage_auth.gif)
 
+<<<<<<< HEAD
 - **Nome utente e password**: richiede un nome utente e una password definiti manualmente. Questi vengono passati direttamente al back-end e vengono specificati durante l'installazione del punto di montaggio.
 - **Credenziali di accesso, salva nella sessione**: utilizza le credenziali di accesso di Nextcloud per connettersi alla memoria. Questi non vengono archiviati in nessun punto del server, ma piuttosto nella sessione dell'utente, garantendo una maggiore sicurezza. Gli svantaggi sono che la condivisione è disabilitata quando questo meccanismo è in uso, poiché Nextcloud non ha accesso alle credenziali di archiviazione e la scansione dei file in background non funziona.
 - **Credenziali di accesso, salva nel database**: come il metodo precedente, utilizza le credenziali di accesso per connettersi all'archiviazione, ma queste sono archiviate nel database crittografato con il segreto condiviso. Ciò consente di condividere file da questo punto di montaggio.
@@ -180,5 +228,39 @@ Che cos'è il cloud federato? Proprio come le e-mail che possono essere inviate 
 # Impostazioni aggiuntive
 
 ## Ordine delle applicazioni
+=======
+- **Username and password**: it requires a manually-defined username and password. These get passed directly to the backend and are specified during the setup of the mount point.
+
+- **Log-in credentials, save in session**: it uses your Nextcloud login credentials to connect to the storage. These are not stored anywhere on the server, but rather in the user session, giving increased security. The drawbacks are that sharing is disabled when this mechanism is in use, as Nextcloud has no access to the storage credentials, and background file scanning does not work.
+
+- **Log-in credentials, save in database**: as the previous method, it uses your login credentials to connect to the storage, but these are stored in the database encrypted with the shared secret. This allows to share files from within this mount point.
+
+- **Global credentials**: it uses the general input field for “Global credentials” in the external storage settings section as source for the credentials instead of individual credentials for a mount point.
+
+----
+# Mobile & desktop
+Here you'll find shortcuts to the mobile and desktop Nextcloud applications.
+
+![](en/mobile_desktop.png)
+
+----
+# Accesibility
+In this section you can change the default high contrast theme to the dark theme and the default cloud font to the Dyslexia font.
+
+![](en/accesibility.png)
+
+----
+# Sharing
+
+## Federated cloud
+What is federated cloud? Just like emails that can be send between users on different servers (gmail, riseup, disroot etc) also nextcloud gives you opportunity to share files, contacts, calendars etc. with people outside of disroot that also use similar cloud solution (owncloud and / or nextcloud). This gives the freedom to the users to use platform of their choice while being able to collaborate with each other. In this section you can see your federation ID. You can share it with others by just sending a link or via predefined platforms (to which you can add your preferred ones that are not included of course).
+
+![](en/federated_cloud.png)
+
+------
+# Additional settings
+
+## App order
+>>>>>>> 314d2f6dba1db5c51ded075ca1db04a86a0438e1
 
 ![](en/app_order.gif)
