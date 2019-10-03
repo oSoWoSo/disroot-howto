@@ -17,7 +17,7 @@ page-toc:
     active: false
 ---
 
-Contacts can be exported in any time in very simple way.
+Contacts can be exported at any time in a very simple way.
 
 1. Login to your cloud account at [https://cloud.disroot.org](https://cloud.disroot.org)
 
@@ -25,10 +25,6 @@ Contacts can be exported in any time in very simple way.
 
 ![](en/select_app.gif)
 
-3. Select **Settings** option at the bottom of the left side-bar.
-
-4. Select "*three dot*" Menu next to the addressbook you want to export.
-
-5. Select to "*Download*" to get your contacts. Contacts are saved in .vcf format.
+3. Hit the download button next to the addressbook you want to export. Contacts are saved in .vcf format.
 
 ![](en/export_data.gif)
