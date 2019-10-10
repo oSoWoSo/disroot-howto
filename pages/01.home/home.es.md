@@ -14,12 +14,19 @@ content:
 
 El objetivo principal de este sitio es orientarte a través de los varios servicios de **Disroot**.
 
-Cubrir todos los servicios, con todas las características provistas por **Disroot**, para todas las plataformas y/o Sistemas Operativos es un proyecto muy ambicioso, que demanda mucho tiempo y requiere mucho trabajo. Pensamos que puede ser beneficioso no solo para nuestros usuarios y usuarias (disrooters) sino para toda comunidad de Software Libre y de Código Abierto que use los mismos programas o similares.
+Cubrir todos los servicios, con todas las características provistas por **Disroot**, para todas las plataformas y/o Sistemas Operativos es un proyecto muy ambicioso, que demanda mucho tiempo y requiere mucho trabajo. Y como pensamos que puede ser beneficioso no solo para nuestros usuarios y usuarias (disrooters) sino para todas las comunidades de **Software Libre** y de **Código Abierto** que use los mismos programas o similares, toda ayuda de l@s disrooters es siempre necesaria y bienvenida.<br>
+Así que, si piensas que falta un tutorial, que la información no es correcta o puede mejorarse, por favor, contáctanos o (mejor aún) empieza a escribir una guía o tutorial tú mism@.<br>
 
-Para hacerlo, toda ayuda de l@s disrooters es siempre necesaria y bienvenida. Así que, si piensas que falta un tutorial, que la información no es correcta o puede mejorarse, por favor, contáctanos o (mejor aún) empieza a escribir una guía o tutorial tú mism@.<br>
+Para conocer las diferentes maneras en que puedes contribuir, por favor, revisa esta [sección](/contribute).
 
-Utilizamos **[Git](https://es.wikipedia.org/wiki/Git)**, así que podrías enviar un "*pull request*" (*petición de validación*) a nuestro repositorio. Si no estás familiarizad@ con esta herramienta, puedes enviar cambios o sugerencias a través de [**Etherpad**](/tutorials/office/pads/etherpad) o correo electrónico. [**Aquí**](/contribute/git) hay una guía muy simple de **git**.<br>
+----
+## CONTACTANOS
 
-Adicionalmente, estamos construyendo un glosario para ayudar a todos aquellos que no están familiarizados con algunos términos y conceptos. Puedes verlo [aquí](/glossary/).
+**Sala XMPP de Howto**: howto@chat.disroot.org
 
-Comencemos...
+
+### TABLEROS DE PROYECTOS DE DISROOT
+
+|[Tablero del proyecto Howto](https://board.disroot.org/project/disroot-disroot-h2/epics)|[Tablero de las Traducciones](https://board.disroot.org/project/fede-disroot-translations/epics)|
+|:--:|:--:|
+|Proyecto dedicado a la creación, actualización y mantenimiento de las guías y tutoriales de **Disroot**|Proyecto dedicado al mantenimiento y actualización de las traducciones del sitio y los manuales de **Disroot**|
