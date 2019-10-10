@@ -11,4 +11,6 @@ visible: true
 page-toc:
     active: false
 ---
-![](permissions_table.png)
+
+
+![](permissions_table.png?lightbox=1024)

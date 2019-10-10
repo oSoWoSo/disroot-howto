@@ -2,7 +2,7 @@
 title: 'Hubzilla: Permissions'
 updated:
 page-toc:
-  active: true
+  active: false
 published: true
 visible: true
 taxonomy:

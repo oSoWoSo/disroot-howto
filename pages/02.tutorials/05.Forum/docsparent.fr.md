@@ -14,9 +14,8 @@ page-toc:
     active: false
 ---
 
-#<br>
-![](/home/icons/discourse.png) {.inline}
-<br>
+![](/home/icons/discourse.png)
+
 **Discourse** is an Open Source internet forum and mailing list management software.
 <br>
 <br>
