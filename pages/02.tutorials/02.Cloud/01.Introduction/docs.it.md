@@ -98,7 +98,7 @@ Quando l'autenticazione a due fattori è abilitata, le applicazioni di terze par
 
 ## Autentificazione a due fattori
 
-**Cos'è l'autentificazione a due fattori (2FA)?**>br>
+**Cos'è l'autentificazione a due fattori (2FA)?**<br>
 È un processo di sicurezza che prevede una verifica in due passaggi:<br>
 1) qualcosa che conosci (come una password),<br>
 2) qualcosa che hai (come un security token, un codice QR, ecc.) o<br>
@@ -109,7 +109,7 @@ Un esempio di come funziona: quando vai a un bancomat per estrarre denaro devi u
 L'autentificazione a due fattori può essere usata se vuoi aumentare la sicurezza del tuo login (puoi approfondire [qui](https://en.wikipedia.org/wiki/Multi-factor_authentication)). Quando abilitato, sarai chiamato non solo ad inserire nome utente e password, ma pure ad un ulteriore fattore di autentificazione come OTP (one-time-password).<br>
 
 ### Autentificazione a due fattori - codici di backup
-It's highly advisable to download backup codes when you have enabled two-factor. If, for some reason, your OTP app doesn't work (*you lost your phone!*), you still be able to login. You should keep these backup codes in a safe place (*not your phone!*) and each code allows you to login once. Once you are in you can reconfigure you OTP or disable two-factor.
+È consigliabile scaricare i codici di backup dopo aver abilitato l'autentificazione a due fattori. Se, per qualche motivo, la tua app OTP non funziona o *hai perso il telefono!*, puoi comunque accedere. Dovresti conservare questi codici di backup in un luogo sicuro (*non il tuo telefono!*). Ciascun codice ti consente di accedere una volta. Una volta entrato, puoi riconfigurare il tuo OTP o disabilitare due fattori.
 
 ![](en/2fa_bup.png)
 
@@ -151,7 +151,7 @@ L'applicazione di archiviazione esterna consente di montare servizi e/o disposit
 
 ## Configuazione dell'archiviazione esterna
 
-### Authentication
+### Autentificazione
 ![](en/external_storage_auth.gif)
 
 - **Nome utente e password**: richiede un nome utente e una password definiti manualmente. Questi vengono passati direttamente al back-end e vengono specificati durante l'installazione del punto di montaggio.
