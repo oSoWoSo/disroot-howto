@@ -14,9 +14,8 @@ page-toc:
     active: false
 ---
 
-<br>
-![](en/round_logo.png) {.inline}
-<br>
+![](en/hubzilla_disroot.png)
+
 # DisHub: Disroot's Hubzilla instance
 
 [**Hubzilla**](https://project.hubzilla.org/page/hubzilla/hubzilla-project) is a powerful, free and open source software to create decentralized and federated web platforms which includes webpages tools, wikis, forums, cloud storage, social networks and more. Any attempt to accurately define Hubzilla may end up being inadequate.<br>
