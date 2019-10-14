@@ -1,2 +1,3 @@
 # vagrant folder
 .vagrant/
+*log

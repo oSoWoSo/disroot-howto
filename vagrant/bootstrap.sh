@@ -1,68 +1,72 @@
 #!/usr/bin/env bash
 
 # Custom configuration
-H2DIR="howto.disroot.lan"
-WEBROOT="/var/www/$H2DIR"
-WWWUSER="www-data"
+WEB_NAME="howto.disroot.lan"
+WEB_ROOT="/var/www/"
+WWW_USER="www-data"
+
+
 
 # Provisioning actions
 
-# Add dotdeb repository to sources.list for PHP7.0
-# echo "deb http://packages.dotdeb.org jessie all" | sudo tee -a /etc/apt/sources.list.d/dotdeb.list
-# echo "deb-src http://packages.dotdeb.org jessie all" | sudo tee -a /etc/apt/sources.list.d/dotdeb.list
-# Dotdeb Key for PHP7.0
-# wget -qO - http://www.dotdeb.org/dotdeb.gpg | sudo apt-key add -
+# Add sury repository to sources.list for PHP
+sudo apt-get -y update
+sudo apt-get -y upgrade
+sudo apt-get -y install ca-certificates apt-transport-https
+echo "deb https://packages.sury.org/php/ stretch main" | sudo tee -a /etc/apt/sources.list.d/php.list
+# Sury Key for PHP7.1
+wget -q https://packages.sury.org/php/apt.gpg -O- | sudo apt-key add -
 sudo apt-get -y update
 
-echo "Installing Apache.."
-sudo apt-get install -y apache2 composer
+echo "Installing nginx.."
+sudo apt-get install -y nginx-full composer
 echo "Installing php7.."
-sudo apt-get install -y php7.0-zip php7.0-cli php7.0-curl php7.0-gd php7.0-mysql php7.0-mbstring php7.0-xml libapache2-mod-php7.0 php7.0-mcrypt php7.0-fpm
-
-# Enable all the Apache mods
-sudo a2enmod proxy proxy_fcgi rewrite
-sudo phpenmod mcrypt zip
+sudo apt-get install -y php7.3-zip php7.3-cli php7.3-curl php7.3-gd php7.3-mbstring php7.3-xml php7.3-fpm
 
 # Create the Apache config files and restart webserver
-sudo rsync -cr /vagrant/provision/etc/apache2/sites-available/ /etc/apache2/sites-available/
-sudo sed -i "s/ServerName V_DOMAIN_NAME/ServerName $H2DIR/g" /etc/apache2/sites-available/*.conf
-sudo sed -i "s/V_DOMAIN_NAME/$H2DIR/g" /etc/apache2/sites-available/*.conf
-sudo a2ensite "$H2DIR".conf
-sudo a2enconf php7.0-fpm
-sudo rm /etc/apache2/sites-enabled/000-default.conf
-sudo service apache2 restart
+sudo rsync -cr /vagrant/provision/etc/nginx/sites-available /etc/nginx/
+sudo ln -s /etc/nginx/sites-available/"${WEB_NAME}".conf /etc/nginx/sites-enabled/"${WEB_NAME}".conf
+sudo rm /etc/nginx/sites-enabled/default
+sudo service nginx restart
 
 # Install GRAV in webroot
-composer create-project getgrav/grav $WEBROOT
-cd $WEBROOT
-sudo chown -R www-data:www-data  $WEBROOT
+sudo chown -R ${WWW_USER}:${WWW_USER} /var/www
+sudo wget https://getcomposer.org/download/1.8.0/composer.phar -O /usr/local/bin/composer && sudo chmod 755 /usr/local/bin/composer
+echo "Git"
+git clone -b master https://github.com/getgrav/grav.git "${WEB_ROOT}""${WEB_NAME}"
+sudo chown -R ${WWW_USER}:${WWW_USER} "${WEB_ROOT}"
+
+echo "enter git"
+cd "${WEB_ROOT}""${WEB_NAME}"
+echo "composer"
+sudo -u "${WWW_USER}" composer install --no-dev -o
+sudo chown -R ${WWW_USER}:${WWW_USER} "${WEB_ROOT}"
 sudo chmod 775 -R bin/
-sudo -u www-data bin/grav install
-sudo -u www-data bin/gpm install learn2
-sudo -u www-data bin/gpm install language-selector
-sudo -u www-data sed -i 's/quark/learn2/g' $WEBROOT/user/config/system.yaml
-sudo -u www-data ex -s -c '13i|redirect_default_route: true' -c x $WEBROOT/user/config/system.yaml
-sudo -u www-data echo "
+sudo -u "${WWW_USER}" bin/grav install
+sudo -u "${WWW_USER}" bin/gpm install language-selector
+sudo -u "${WWW_USER}" bin/gpm install form
+sudo -u "${WWW_USER}" bin/gpm install simplesearch
+sudo -u "${WWW_USER}" sed -i 's/quark/grav-theme-howto/g' "${WEB_ROOT}""${WEB_NAME}"/user/config/system.yaml
+sudo -u "${WWW_USER}" ex -s -c '13i|redirect_default_route: true' -c x "${WEB_ROOT}""${WEB_NAME}"/user/config/system.yaml
+sudo -u "${WWW_USER}" echo "
 languages:
   supported:
     - en
-    - fr
     - es
-    - pt
+    - fr
     - it
-    - pl" >> $WEBROOT/user/config/system.yaml
-sudo -u www-data sed -i '4d' $WEBROOT/user/config/system.yaml
-sudo -u www-data ex -s -c "4i|  alias: '/basics'" -c x $WEBROOT/user/config/system.yaml
-sudo -u www-data sed -i 's/false/true/g' $WEBROOT/user/plugins/language-selector/language-selector.yaml
-sudo -u www-data cp $WEBROOT/user/plugins/language-selector/templates/partials/language-selector.html.twig $WEBROOT/user/themes/learn2/templates/partials/
-sudo -u www-data ex -s -c "9i|	{% include 'partials/language-selector.hreflang.html.twig' %}" -c x $WEBROOT/user/themes/learn2/templates/partials/base.html.twig 
-sudo -u www-data sed -i '2d' $WEBROOT/user/themes/learn2/css-compiled/theme.css
-sudo -u www-data rm $WEBROOT/user/themes/learn2/scss/theme/_fonts.scss 
-sudo -u www-data rm -R $WEBROOT/user/pages
+    - pl
+    - pt
+    - de" >> "${WEB_ROOT}""${WEB_NAME}"/user/config/system.yaml
+sudo -u "${WWW_USER}" sed -i '4d' "${WEB_ROOT}""${WEB_NAME}"/user/config/system.yaml
+sudo -u "${WWW_USER}" ex -s -c "4i|  alias: '/home'" -c x "${WEB_ROOT}""${WEB_NAME}"/user/config/system.yaml
+sudo -u "${WWW_USER}" -i 's/false/true/g' "${WEB_ROOT}""${WEB_NAME}"/user/plugins/language-selector/language-selector.yaml
 
-# Add how2 domain to local /etc/hosts file
-sudo sed -i "s/127.0.0.1\tlocalhost/127.0.0.1\tlocalhost $H2DIR/" /etc/hosts
+# Add website domain to local /etc/hosts file
+sudo sed -i "s/127.0.0.1\tlocalhost/127.0.0.1\tlocalhost ${WEB_NAME}/" /etc/hosts
 
-#Add How to pages in GRAV
-sudo -u www-data ln -s /var/www/pages/ /var/www/howto.disroot.lan/user/
+#Add website pages in GRAV
+sudo mount -o bind /var/www/pages "${WEB_ROOT}""${WEB_NAME}"/user/pages
+chown "${WWW_USER}":"${WWW_USER}" -R "${WEB_ROOT}""${WEB_NAME}"/user/pages
+sudo -u www-data ln -s /var/www/themes/grav-theme-howto "${WEB_ROOT}""${WEB_NAME}"/user/themes/grav-theme-howto
 exit 0
