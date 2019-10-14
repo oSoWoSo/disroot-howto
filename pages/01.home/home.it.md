@@ -14,12 +14,10 @@ content:
 
 L'obiettivo principale di questo sito è aiutarti a orientarti tra i vari servizi **Disroot**.
 
-Coprire tutti i servizi, con tutte le funzionalità fornite da **Disroot**, per tutte le piattaforme e i sistemi operativi è un progetto molto ambizioso che richiede tempo e  molto lavoro. Pensiamo però che questo lavoro può essere utile non solo per i nostri utenti (disrooter), ma per l'intera comunità che gravita attorno al software libero e open source e che sfrutta servizi simili ai nostri.
+Coprire tutti i servizi, con tutte le funzionalità fornite da **Disroot**, per tutte le piattaforme e/o i sistemi operativi è un progetto molto ambizioso che richiede tanto tempo e lavoro. 
+Riteniamo però che questo lavoro possa essere utile non solo per i nostri utenti (disrooter), ma per l'intera comunità del **Software libero** che utilizza gli stessi software.
+Vista la mole di lavoro, qualsiasi aiuto è sempre necessario e benvenuto. <br>
 
-Per fare ciò, qualsiasi aiuto da parte dei disrooter è sempre benvenuto. Quindi, se pensi che ci sia un tutorial mancante, le informazioni non sono accurate o potrebbero essere migliorate, ti preghiamo di contattarci o (ancora meglio) iniziare a scrivere in prima persona a scrivere un how-to. <br>
+Quindi se ritieni che ci sia un tutorial mancante, le informazioni non sono accurate o potrebbero essere migliorate, ti preghiamo di contattarci e (ancora meglio) iniziare a scrivere tu stesso un tutorial. <br>
 
-Usiamo [Git](https://en.wikipedia.org/wiki/Git), quindi per contribuire puoi semplicemente inviare una "richiesta di pull" al nostro repository. Se non hai familiarità con questo strumento, puoi inviare modifiche o suggerimenti anche tramite etherpad o e-mail. [**Qui**](/contrib/git) trovi una semplice guida a git. <br>
-
-Inoltre, stiamo costruendo un glossario per aiutare tutti coloro che non hanno familiarità con alcuni termini e concetti. Puoi trovarlo [qui](/glossario).
-
-Iniziamo...
+Per conoscere i vari modi per contribuire, visita questa [sezione](/contribute).
