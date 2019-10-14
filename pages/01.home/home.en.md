@@ -19,14 +19,3 @@ So, if you think there's a missing tutorial, the information is not accurate or 
 
 To know the different ways you can contribute, please check this [section](/contribute).
 
-----
-## CONTACT US
-
-**Howto XMPP Room**: howto@chat.disroot.org
-
-
-### DISROOT PROJECTS BOARDS
-
-|[Howto Project Board](https://board.disroot.org/project/disroot-disroot-h2/epics)|[Translations Project Board](https://board.disroot.org/project/fede-disroot-translations/epics)|
-|:--:|:--:|
-|Project dedicated to creating, updating & maintaining **Disroot** howtos and tutorials|Project dedicated to maintaining & updating the **Disroot**'s site & howtos translations|
