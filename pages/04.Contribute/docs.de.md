@@ -21,7 +21,7 @@ Die Disroot-Plattform kostet neben Geld auch eine unserer wertvollsten Ressource
 *"Eine Menge kostbarer Zeit..."*
 
 Für all die Benutzer, die ihren Beitrag zu **Disroot** durch eine Spende ihrer wertvollen Zeit und ihres nicht minder wertvollen Wissens leisten wollen, haben wir versucht, mit dieser gebündelten Dokumentation ein Eingangstor zur Mitwirkung an **Disroot** zu schaffen.
-Hier findest Du grundlegende Informationen und Richtlinien zu den unterschiedlichen Möglichkeiten der Mitwirkung, ob nun per Feedback, dem Schreiben eines How-to's oder der Übersetzung eines solchen in Deine Sprache.
+Hier findest Du grundlegende Informationen und Richtlinien zu den unterschiedlichen Möglichkeiten der Mitwirkung, ob nun per Feedback, dem Schreiben eines How-to oder der Übersetzung eines solchen in Deine Sprache.
 
 Unser Dank geht an all jene unter Euch, die **Disroot** unterstützen und daran mitwirken.
 

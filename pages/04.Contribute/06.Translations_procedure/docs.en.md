@@ -22,7 +22,7 @@ For the purposes of this guide, we will assume that either you know what **git**
 **The translations procedure consist of four main steps.**
 
 ## First: One-time steps
-1. Register an account at https://git.fosscommunity.in/users/sign_in
+1. Register an account at [Disroot's git instance](https://git.disroot.org/user/sign_up)
 2. Open a terminal and start git<br>
 `git init`<br>
 
@@ -43,7 +43,7 @@ For the purposes of this guide, we will assume that either you know what **git**
 1. **Clone the Disroot Howto repository**<br>
     a. Navigate to the folder where you're going work in (or open the terminal in the folder)<br>
     b. Clone the repository<br>
-    `git clone https://git.fosscommunity.in/disroot/howto`
+    `git clone https://git.disroot.org/disroot/howto`
 2. **Open Atom text editor**<br>
     a. Go to **File**, select **Add Project Folder** and browse to the folder where the project was cloned.<br>
 ![](en/atom_interface1.png)<br>
@@ -93,7 +93,7 @@ One of **Git**'s main features is the ability to compare versions and to insert 
 
 Now you can start with the final steps of merging your files to the **Master Branch**:
 
-1. Login to https://git.fosscommunity.in<br>
+1. Login to [https://git.disroot.org](https://git.disroot.org)<br>
     At the top right you'll see a **Create Merge Request** button that will open the merge request form, click on it
 2. Add a title
 3. Add a descripton

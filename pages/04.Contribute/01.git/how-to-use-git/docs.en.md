@@ -29,11 +29,9 @@ Since all the modifications will happen on your local machine, you need to [inst
 If you haven't yet, it's time to install [Atom](https://atom.io). **Atom** is a feature rich text editor with special git integration. If your Operating system is not automatically detected or listed when going to [Atom](https://atom.io) website, check [Other platforms](https://github.com/atom/atom/releases/latest). For all Arch users, you can simply install it using `pacman -S atom` or other package manager of your choice.
 
 ## Create an account on git instance
-After installing **git** and **Atom**, you'll need an account on the git instance used by **Disroot**. This is because, unfortunately, git is not yet a federated service so you need to have one.
+After installing **git** and **Atom**, you'll need an account on **Disroot** git instance. As of late we fortunately host our own **gitea** instance, but you'll have to register an account separately. Your **Disroot** account doesn't apply here. For a better assignment we suggest to use the same username as on **Disroot**.
 
-We host all our work at the Gitlab instance from our friends at **FOSS Community India**.
-
-To create an account just go to https://git.fosscommunity.in and register. Additionally to registering new account you can choose to use one of the ID providers such as gitlab.com, Github, Twitter, Gitbucket, Google, given you have already an account on one of those platforms.
+To create an account just go to [https://git.disroot.org](https://git.disroot.org) and register.
 
 ## Preparing the workspace
 Git is designed with collaboration in it's core. So, first thing we need to do is get a copy of all files within the project onto our local hard drive. This process is called "*cloning a repository*". All modifications are done on our local machine (most of the work is made offline). Once we've decided that the changes (new tutorial, translation) are finished we can sent/sync them back to the repository on the server (*push*).
@@ -41,14 +39,14 @@ Git is designed with collaboration in it's core. So, first thing we need to do i
 ### Cloning the **Howto Disroot** repository
 To clone the repository just open a terminal, navigate to the directory you would like to clone the repository to, and run `git clone <url>` command, where *<url>* is basically the address of the repository you want to clone. In our case it would be:
 
-`git clone https://git.fosscommunity.in/disroot/howto`
+`git clone https://git.disroot.org/disroot/howto`
 
 Once the repository is copied to your hard drive you will see a `howto` directory that consists of all the files you could previously browse in your web browser when on our repository's url.
 
 You can later move that directory to any place you want on your computer.
 
 ### Access to the repository
-In order to be able to commit changes to **Disroot**'s git repository, you need to request access. This is done via [our git project page](https://git.fosscommunity.in/disroot/howto)
+In order to be able to commit changes to **Disroot**'s git repository, you need to request access. This is done via [our git project page](https://git.disroot.org/disroot/howto)
 
 ![](en/git-request_access.png)
 
@@ -137,7 +135,7 @@ Luckily git is able to compare versions and to insert your changes into the upda
 Now you can start with the final steps of merging your files to the **Master Branch**:
 
 - First of all is to make sure all the changes are committed.
-- Login to https://git.fosscommunity.in
+- Login to [https://git.disroot.org](https://git.disroot.org)
 - If you pushed any changes to the server on your branch, in the top right you'll see a **"Create Merge Request"** button that will open the merge request form.
 - Add a title
 - Add a descripton

@@ -1,5 +1,5 @@
 ---
-title: How-to Mitwirken Pads
+title: How-to: Mitwirken via Pads
 published: false
 visible: true
 updated:
