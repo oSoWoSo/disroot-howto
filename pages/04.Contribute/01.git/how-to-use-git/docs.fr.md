@@ -15,8 +15,8 @@ Afin de suivre tous les changements et de travailler avec plusieurs personnes en
 Dans ce tutoriel, nous ne couvrirons pas tous les aspects de l'utilisation de git. C'est un outil très complexe et puissant avec des tonnes de tutoriels approfondis et des livres écrits à son sujet. Ce que nous cherchons est de fournir un moyen court et facile de contribuer aux tutoriels et aux traductions.
 
 # Comment créer un compte sur l'instance git
-Tout d'abord, vous avez besoin d'un compte sur l'instance git utilisée par disroot.org. Malheureusement git n'est pas encore un service fédéré donc vous devez avoir un compte. Grâce à nos amis de **FOSS Community India**, nous hébergeons tout notre travail sur leur instance gitlab.
-Pour créer un compte, allez sur https://git.fosscommunity.in aet enregistrez-vous. En plus de l'enregistrement d'un nouveau compte, vous pouvez choisir d'utiliser l'un des fournisseurs d'ID tels que gitlab.com, github, twitter, gitbucket, google si vous avez déjà un compte sur l'une de ces plateformes.
+Tout d'abord, vous avez besoin d'un compte sur l'instance git utilisée par disroot.org.<!-- Malheureusement git n'est pas encore un service fédéré donc vous devez avoir un compte. Grâce à nos amis de **FOSS Community India**, nous hébergeons tout notre travail sur leur instance gitlab.-->
+Pour créer un compte, allez sur [https://git.disroot.org](https://git.disroot.org) aet enregistrez-vous. En plus de l'enregistrement d'un nouveau compte, vous pouvez choisir d'utiliser l'un des fournisseurs d'ID tels que gitlab.com, github, twitter, gitbucket, google si vous avez déjà un compte sur l'une de ces plateformes.
 
 # Installer Git
 Comme toutes les modifications seront effectuées sur votre machine locale, vous devez [installer git](https://gist.github.com/derhuerst/1b15ff4652a867391f03) pour pouvoir envoyer vos modifications ainsi que les changements de synchronisation des autres. Selon votre plate-forme, les méthodes d'installation de git peuvent varier, alors vérifiez le lien ci-dessus ou consultez la documentation spécifique à votre plate-forme.
@@ -29,7 +29,7 @@ Git est créé avec la collaboration dans son noyau. La première chose que nous
 
 La façon la plus simple de cloner le référentiel est d'ouvrir votre terminal, en naviguant vers le répertoire dans lequel vous voulez cloner le référentiel, et d'exécuter la commande `git clone <url>`, où *<url>* est essentiellement l'adresse du dépôt que vous voulez cloner. Dans notre cas, ce serait:
 
-`git clone https://git.fosscommunity.in/disroot/howto`
+`git clone https://git.disroot.org/disroot/howto`
 
 Une fois que le dépot est copié sur votre disque dur, vous verrez un répertoire `howto` qui contient tous les fichiers que vous pouviez auparavant voir dans votre navigateur lorsque vous êtiez sur l'url de notre dépôt.
 
@@ -80,7 +80,7 @@ Une fois les fichiers validés, il est temps de les pousser vers le serveur:
 Une fois que vous pensez que votre travail est terminé et prêt à être publié sur le site, il est temps de le fusionner avec la branche **master**.
 
 - Bien sûr, vous devez d'abord vous assurer que tous les changements sont bien effectués.
-- Connectez-vous sur https://git.fosscommunity.in
+- Connectez-vous sur [https://git.disroot.org](https://git.disroot.org)
 - si vous avez appuyé sur n'importe quel changement au serveur de votre branche, en haut à droite, vous verrez le bouton **"Créer une demande de fusion"**.
 - Cela va ouvrir le formulaire de demande de fusion.
 - Ajoutez le titre

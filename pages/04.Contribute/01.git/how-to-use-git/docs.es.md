@@ -14,8 +14,8 @@ Para seguir todos los cambios y el trabajo de múltiples personas trabajando al 
 En este tutorial no cubriremos todos los aspectos sobre el uso de Git. Es una herramienta muy compleja y poderosa con toneladas de tutoriales y libros escritos en profundidad sobre ella. Lo que pretendemos es proporcionar una breve y fácil guía para contribuir a tutoriales y traducciones.
 
 # Cómo crear una cuenta en una instancia de Git
-Lo primero que necesitarás será una cuenta en la instancia Git usada por disroot.org. Desafortunadamente, Git no es todavía un servicio federado, por lo que necesitarás tener una cuenta. Gracias a nuestros amigos de la **Comunidad FOSS India**, alojamos todo nuestro trabajo en su instancia de GitLab.
-Para crear una cuenta, simplemente ve a https://git.fosscommunity.in y regístrate. Además de registrarte con una nueva cuenta, también puedes escoger usar alguno de los proveedores de IDs que se ofrecen, tales como GitLab, GitHub, Twitter, Gitbucket o Google, si ya tienes cuenta en alguna de estas plataformas.
+Lo primero que necesitarás será una cuenta en la instancia Git usada por disroot.org. <!--Desafortunadamente, Git no es todavía un servicio federado, por lo que necesitarás tener una cuenta. Gracias a nuestros amigos de la **Comunidad FOSS India**, alojamos todo nuestro trabajo en su instancia de GitLab.-->
+Para crear una cuenta, simplemente ve a [https://git.disroot.org](https://git.disroot.org) y regístrate. Además de registrarte con una nueva cuenta, también puedes escoger usar alguno de los proveedores de IDs que se ofrecen, tales como GitLab, GitHub, Twitter, Gitbucket o Google, si ya tienes cuenta en alguna de estas plataformas.
 
 # Instalando Git
 Dado que todas las modificaciones tendrán lugar en tu máquina local, necesitarás [instalar Git](https://gist.github.com/derhuerst/1b15ff4652a867391f03) para poder enviar tus cambios, así como para sincronizar los cambios de terceros. Dependiendo de tu plataforma, las formas de instalar Git pueden variar, así pues, consulta el enlace superior o dirígete a la documentación específica de tu plataforma.
@@ -28,7 +28,7 @@ Git se crea con colaboración en su núcleo. Lo primero que debes hacer es obten
 
 La forma más sencilla de clonar un repositorio es abrir tu terminal, navegar hasta el directorio donde te gustaría clonar el repositorio y ejecutar el comando `git clone <url>`, donde *<url>* es básicamente la dirección del repositorio que quieres clonar. En nuestro caso, sería:
 
-`git clone https://git.fosscommunity.in/disroot/howto`
+`git clone https://git.disroot.org/disroot/howto`
 
 Una vez se ha copiado el repositorio en tu disco duro, verás un directorio `howto` que contiene todos los archivos por los que podías navegar previamente desde tu navegador web cuando visitabas la url de nuestro repositorio.
 
@@ -79,7 +79,7 @@ Para confirmar tus cambios, necesitas:
 Cuando pienses que tu trabajo ha terminado y esté listo para ser publicado en el sitio web, es el momento de fusionarlo con la **rama maestra** (*master branch*).
 
 - En primer lugar, por supuesto, necesitarás asegurarte de que todos los cambios han sido confirmados mediante *commit*.
-- Ingresa en https://git.fosscommunity.in
+- Ingresa en [https://git.disroot.org](https://git.disroot.org)
 - Si publicaste en el servidor algún cambio en tu rama, en la parte superior derecha verás el botón **"Create Merge Request"** (Crear petición de fusión)
 - Pulsando este botón se abrirá el formulario de petición de fusión
 - Añade un título

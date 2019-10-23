@@ -1,5 +1,5 @@
 ---
-title: How-to Mitwirken Forum
+title: How-to: Mitwirken via Forum
 published: false
 visible: true
 updated:

@@ -1,5 +1,5 @@
 ---
-title: How-to Mitwirken Email
+title: How-to: Mitwirken via Email
 published: true
 visible: false
 updated:

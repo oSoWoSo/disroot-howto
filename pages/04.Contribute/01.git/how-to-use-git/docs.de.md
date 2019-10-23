@@ -1,5 +1,5 @@
 ---
-title: How-to Mitwirken Git Basics
+title: How-to: Mitwirken - Git Basics
 published: true
 visible: false
 updated:
@@ -27,14 +27,12 @@ Wir werden in diesem Tutorial nicht alle Aspekte der Arbeit mit git abdecken. Es
 Da alle Änderungen auf Deinem lokalen Rechner stattfinden, musst Du [git installieren](https://gist.github.com/derhuerst/1b15ff4652a867391f03), sowohl um Deine Änderungen einreichen als auch die Änderungen von anderen synchronisieren zu können. Je nach Betriebssystem können sich die einzelnen Schritte zur Installation von git unterscheiden. Folge daher am besten dem Link oder suche nach einer spezifischen Dokumentation, die zu Deinem Betriebssystem passt.
 
 ## Atom installieren
-Wenn Du ihn bisher noch nicht hast, wird es jetzt Zeit, [Atom](https://atom.io) zu installieren. **Atom** ist ein funktionsreicher Texteditor mit spezieller git-Integration. Wenn Dein Betriebssystem auf der Installationsseite nicht automatisch erkannt wird oder aufgeführt wird, wenn Du auf die[Atom](https://atom.io)-Website gehst, sieh unter [Other platforms](https://github.com/atom/atom/releases/latest) nach. Arch-Nutzer können **Atom** ganz einfach installieren, indem sie `pacman -S atom` oder einen anderen Paketmanager ihrer Wahl nutzen.
+Wenn Du ihn bisher noch nicht hast, wird es jetzt Zeit, [Atom](https://atom.io) zu installieren. **Atom** ist ein funktionsreicher Texteditor mit spezieller git-Integration. Wenn Dein Betriebssystem auf der Installationsseite nicht automatisch erkannt wird oder aufgeführt wird, wenn Du auf die [Atom](https://atom.io)-Website gehst, sieh unter [Other platforms](https://github.com/atom/atom/releases/latest) nach. Arch-Nutzer können **Atom** ganz einfach installieren, indem sie `pacman -S atom` oder einen anderen Paketmanager ihrer Wahl nutzen.
 
 ## Einen Account auf einer git-Instanz erstellen
-Nach der Installation von **git** und **Atom** benötigst Du einen Account auf der git-Instanz, die **Disroot** nutzt. Unglücklicherweise ist git noch kein mit **Disroot** verbündeter Service, daher musst Du Dir einen eigenen Account erstellen und kannst nicht Deinen **Disroot**-Account nutzen.
+Nach der Installation von **git** und **Atom** benötigst Du einen Account auf der git-Instanz von **Disroot**. Seit kurzem haben wir eine eigene **gitea**-Instanz, bei der Du Dich jedoch nochmal gesondert registrieren musst. Dein **Disroot**-Account ist hier nicht gültig. Zur Erleichterung der Zuordnung wäre es natürlich nicht verkehrt, wenn Du Deinen **Disroot**-Benutzernamen auch auf unserer **git**-Instanz nutzt.
 
-Wir hosten all unsere Arbeit auf der gitlab-Instanz unserer Freunde bei der **FOSS Community India**.
-
-Um einen Account zu erstellen, gehe einfach zur [FOSS Community India](https://git.fosscommunity.in) und registriere Dich. Neben der Registrierung kannst Du auch einen ID-Provider wie gitlab.com, Github, Twitter, Gitbucket oder Google nutzen, falls Du auf einer dieser Plattformen bereits einen Account hast.
+Um einen Account zu erstellen, gehe einfach zu [https://git.disroot.org](https://git.disroot.org) und registriere Dich.
 
 ## Den Arbeitsplatz vorbereiten
 Git trägt von Natur aus die Zusammenarbeit in seinem Herzen. Als erstes benötigst Du eine Kopie aller Dateien des Projekts auf Deiner lokalen Festplatte. Dieser Vorgang wird "*Klonen eines Repository*" genannt. Alle Veränderungen finden auf Deinem lokalen Rechner statt (die meiste Arbeit wird offline erledigt). Wenn Du der Meinung bist, mit den Änderungen fertig zu sein, kannst Du sie zurück zum Repository auf dem Server senden/synchronisieren (*push*).
@@ -42,14 +40,14 @@ Git trägt von Natur aus die Zusammenarbeit in seinem Herzen. Als erstes benöti
 ### Das **Howto Disroot** Repository klonen
 Um das Repository zu klonen, öffne einfach ein Terminal, gehe zu dem Verzeichnis, in welches Du das Repository klonen möchtest und starte das `git clone <url>`-Kommando, wobei grundsätzlich *<url>* die Adresse des Repository ist, das Du klonen möchtest. In unserem Fall wäre das:
 
-`git clone https://git.fosscommunity.in/disroot/howto`
+`git clone https://git.disroot.org/disroot/howto`
 
 Es wird nun eine 1:1-Kopie des Repository auf Deiner Festplatte erstellt.
 
 Später kannst Du dieses Verzeichnis an jeden Platz auf Deinem Rechner verschieben, wo auch immer Du möchtest.
 
 ### Zugang zum Repository
-Um Änderungen beim **Disroot** git-Repository einreichen zu können, musst Du einen Zugang beantragen. Dies kannst Du über unsere [git-Projektseite](https://git.fosscommunity.in/disroot/howto) machen.
+Um Änderungen beim **Disroot** git-Repository einreichen zu können, musst Du einen Zugang beantragen. Dies kannst Du über unsere [git-Projektseite](https://git.disroot.org/disroot/howto) machen.
 
 ![](de/git-request_access.png)
 
@@ -138,7 +136,7 @@ Glücklicherweise ist git in der Lage, Versionen zu vergleichen und Deine Änder
 Nun kannst Du loslegen mit den finalen Schritten, um Deine Dateien mit der **Master Branch** zusammenzuführen:
 
 - Stelle zunächst sicher, dass alle Änderungen übergeben wurden
-- Log Dich in unsere [git-Instanz](https://git.fosscommunity.in) ein
+- Log Dich in unsere [git-Instanz](https://git.disroot.org) ein
 - Wenn Du Änderungen zu unserer Branch geschoben hast, wirst Du in der rechten oberen Ecke einen **"Create Merge Request"**-Button sehen. Klicke ihn an, es öffnet sich ein Formular
 - Füge einen Titel hinzu (falls er nicht automatisch eingefügt wurde)
 - Füge eine Beschreibung hinzu (falls sie nicht automatisch hinzugefügt wurde)

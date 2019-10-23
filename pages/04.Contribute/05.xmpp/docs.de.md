@@ -1,5 +1,5 @@
 ---
-title: How-to Mitwirken XMPP
+title: How-to: Mitwirken via XMPP
 published: false
 visible: true
 updated:

@@ -1,5 +1,5 @@
 ---
-title: "Howto: Services"
+title: "How-to: Services"
 content:
     items:
       - '@taxonomy': {category: [topic]}

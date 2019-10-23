@@ -23,7 +23,7 @@ Wir sind der Meinung, dass die Möglichkeit, allen Menschen in ihrer eigenen Spr
 Das Übersetzungsschema besteht aus **vier** übergeordneten Schritten.
 
 ## Erstens: Einmalige Schritte
-1. Erstelle Dir einen Account bei der [FOSS Community India](https://git.fosscommunity.in/users/sign_in)
+1. Erstelle Dir einen Account bei der [Disroot Git-Instanz](https://git.disroot.org/user/sign_up)
 2. Öffne ein Terminal und starte git<br>
 `git init`<br>
 
@@ -33,7 +33,7 @@ Das Übersetzungsschema besteht aus **vier** übergeordneten Schritten.
 
 
 ## Zweitens: Einen zu übersetzenden Bereich auswählen
-1. Melde Dich im [**Disroot Translations Board**](https://board.disroot.org/project/fede-disroot-translations/timeline) an
+1. Melde Dich im [**Disroot-Übersetzungsboard**](https://board.disroot.org/project/fede-disroot-translations/timeline) an
 2. Wähle das **Epic** (*ein Satz User Stories*), das zu der Sprache gehört, in die Du übersetzen möchtest
 3. Wähle die **User Story** (*der zu übersetzende Bereich*) und ordne ihn Dir zu (**assign**)<br>
 
@@ -43,7 +43,7 @@ Das Übersetzungsschema besteht aus **vier** übergeordneten Schritten.
 1. **Klone das Disroot How-to-Repository**<br>
     a. Wechsel in das Verzeichnis, in dem Du arbeiten möchtest<br>
     b. Klone das Repository<br>
-    `git clone https://git.fosscommunity.in/disroot/howto`
+    `git clone https://git.disroot.org/disroot/howto`
 2. **Öffne den Atom-Texteditor**<br>
     a. Gehe zu **File**, wähle **Add Project Folder** und wähle das Verzeichnis aus, in welches das Projekt geklont wurde.<br>
 ![](de/atom_interface1.png)<br>
@@ -65,7 +65,7 @@ Das Übersetzungsschema besteht aus **vier** übergeordneten Schritten.
     ![](de/commit.gif)<br>
 
     Wenn die Dateien übersendet sind, musst Du sie noch auf den Server schieben ("push"):<br>
-    e. Öffne das **Push/Pull**-Popupfenster<br>
+    e. Öffne das **Push/Pull**-Popup-Fenster<br>
 ![](de/pull_push.png)<br>
 
     f. Klicke auf **Push**<br>
@@ -93,7 +93,7 @@ Glücklicherweise ist git in der Lage, Versionen zu vergleichen und Deine Änder
 Nun kannst Du loslegen mit den finalen Schritten, um Deine Dateien mit der **Master Branch** zusammenzuführen:
 
 - Stelle zunächst sicher, dass alle Änderungen übergeben wurden
-- Log Dich in unsere [git-Instanz](https://git.fosscommunity.in) ein
+- Log Dich in unsere [Git-Instanz](https://git.disroot.org) ein
 - Wenn Du Änderungen zu unserer Branch geschoben hast, wirst Du in der rechten oberen Ecke einen **"Create Merge Request"**-Button sehen. Klicke ihn an, es öffnet sich ein Formular
 - Füge einen Titel hinzu (falls er nicht automatisch eingefügt wurde)
 - Füge eine Beschreibung hinzu (falls sie nicht automatisch hinzugefügt wurde)

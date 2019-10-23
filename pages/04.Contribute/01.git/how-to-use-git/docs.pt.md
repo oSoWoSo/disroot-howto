@@ -15,8 +15,8 @@ Neste guia, não vamos cobrir todas as funcionalidades do git. É uma ferramenta
 
 # Como criar uma conta de utilizador num serviço de Git
 Antes de mais é necessário criar uma conta de utilizador no serviço de git utilizado pelo disroot.org.
-Infelizmente o git não é um serviço federado, por isso é necessário criar uma conta de utilizador. Nós alojamos todo o nosso trabalho na instância de Gitlab dos nossos amigos da **FOSS Community India**.
-Para criar uma conta de utilizador, basta ir a https://git.fosscommunity.in e registar-se. Para além de registar uma nova conta, pode escolher utilizar como metodo de autenticação, o gitlab.com, github, twitter, gitbucket, google caso já tenha uma conta numa dessas plataformas.
+<!--Infelizmente o git não é um serviço federado, por isso é necessário criar uma conta de utilizador. Nós alojamos todo o nosso trabalho na instância de Gitlab dos nossos amigos da **FOSS Community India**.-->
+Para criar uma conta de utilizador, basta ir a [https://git.disroot.org](https://git.disroot.org) e registar-se. Para além de registar uma nova conta, pode escolher utilizar como metodo de autenticação, o gitlab.com, github, twitter, gitbucket, google caso já tenha uma conta numa dessas plataformas.
 
 # Instalar o Git
 Como todo o trabalho será feito no seu computador, necessita de [instalar o git](https://gist.github.com/derhuerst/1b15ff4652a867391f03) no seu computador para poder enviar as suas alterações e poder receber as alterações feitas por outros. A maneira de instalar o git pode variar consoante o seu sistema operativo. Por isso consulte o link acima referido ou procure a documentação referente a como instalar o git no seu sistema operativo.
@@ -29,7 +29,7 @@ O Git foi criado tendo como objetivo a colaboração entre pessoas. Antes de mai
 
 A maneira mais fácil de clonar um repositório é: abrir o terminal (linha de comandos), navegar até ao diretório/pasta para onde queres clonar/descarregar o repositório e correr o comando `git clone <url>`, onde está *<url>* deves colocar o endereço URL do repositório que queres clonar/descarregar. No nosso caso concreto é:
 
-`git clone https://git.fosscommunity.in/disroot/howto`
+`git clone https://git.disroot.org/disroot/howto`
 
 Uma vez que o repositório esteja colando para o teu computador irás ver uma pasta chamada `howto` que contém todos os ficheiros, que viste no teu browser de Internet quando visitaste o endereço do projeto/repositório.
 
@@ -81,7 +81,7 @@ Para fazer commit das tuas alterações precisas de:
 Quando achares que o teu trabalho está acabado e pronto a ser publicado no website, é altura de enviar as tuas alterações (merge request) para o ramo/branch principal do projeto, o ramo **master**.
 
 - Primeiro, obviamente, tens que certificar-te que fizeste commit de todas as alterações que fizeste.
-- Faz login em https://git.fosscommunity.in
+- Faz login em [https://git.disroot.org](https://git.disroot.org)
 - se fizeste *push* de qualquer alterações para o servidor no teu ramo então verás no canto superior direito o botão **"Create Merge Request"**
 - Isto irá criar um formulário de "merge".
 - Cria um título
