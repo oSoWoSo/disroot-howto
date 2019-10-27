@@ -15,7 +15,7 @@ page-toc:
   active: false
 ---
 
-![](en/gnome.png)
+![](home/icons/gnome.png)
 **Gnome** is a very popular, modern and easy to use graphical Desktop Environment for **GNU/Linux**. It also have an impressive integration with **Disroot**'s services.
 
 Integration with desktop environment means, you no longer need to login to **Disroot**'s cloud via the browser, every time you need to add or lookup information. It means everything you need is available to you directly from your desktop. Furthermore it makes it look and feel unified with all other apps you use while you work.

@@ -1,5 +1,5 @@
 ---
-title: 'Email: Desktop clients'
+title: 'Email: Desktop-Clients'
 published: true
 visible: true
 indexed: true
@@ -15,15 +15,15 @@ page-toc:
     active: false
 ---
 
-## Multiplatform Mail Clients
+## Multiplattform Mail-Clients
 - [Thunderbird](thunderbird)
 - [Claws Mail](claws-mail)
 
 
 
-## GNU/Linux: Email desktop integration
+## GNU/Linux: Email Desktop-Integration
 - [GNOME](gnome-desktop-integration)
 - [KDE](kde-desktop-integration)
 
 
-![](en/email_icon.png)
+![](de/email_icon.png)

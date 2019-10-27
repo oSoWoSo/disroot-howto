@@ -17,7 +17,7 @@ taxonomy:
         - 'claws mail'
 ---
 
-![](en/cmlogo.png)
+![](home/icons/cmlogo.png)
 
 **Claws Mail** is a free and open-source, GTK+-based email and news client. It's user-friendly, lightweight, and fast.
 
@@ -54,7 +54,7 @@ You can chose **POP** or **IMAP** (if you want to know more about the difference
 |**Receiving server**: disroot.org|
 |**Sending server**: disroot.org|
 
-!! ![](en/note.png)**Note**
+!! ![](/home/icons/note.png)**Note**
 
 !! Don't forget to enable **SSL/TLS** for both, receiving and sending server.
 
@@ -80,7 +80,7 @@ If you're already using **Claws Mail** with other email accounts then follow thi
 |**Receiving server**: disroot.org|
 |**Sending server**: disroot.org|
 
-!! ![](en/note.png)**Note**
+!! ![](/home/icons/note.png)**Note**
 
 !! Don't forget to enable **SSL/TLS** for both, receiving and sending server.
 

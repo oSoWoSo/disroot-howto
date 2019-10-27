@@ -22,10 +22,10 @@ page-toc:
 ![](/home/icons/thunderbird.png)
 **Thunderbird** is a powerful open-source email client, calendar and RSS-Feed manager.
 
-## Install Thunderbird.
+## Install Thunderbird
 If you don't have it installed yet, got to [https://www.mozilla.org/en-US/thunderbird/all/](https://www.mozilla.org/en-US/thunderbird/all/) and choose your language and Operating System.
 
-!! ![](/home/icon/note.png)
+!! ![](/home/icons/note.png)
 !! NOTE: For **GNU/Linux** users we recommend using your distribution package manager to get the latest and updatable version of **Thunderbird**.
 
 ## **Open Thunderbird**
