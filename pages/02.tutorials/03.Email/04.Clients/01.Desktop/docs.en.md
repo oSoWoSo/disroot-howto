@@ -26,4 +26,4 @@ page-toc:
 - [KDE](kde-desktop-integration)
 
 
-![](de/email_icon.png)
+![](en/email_icon.png)
