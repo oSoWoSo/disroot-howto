@@ -1,5 +1,5 @@
 ---
-title: 'Email: Desktop clients'
+title: 'Email: Desktop Clients'
 published: true
 visible: true
 indexed: true
