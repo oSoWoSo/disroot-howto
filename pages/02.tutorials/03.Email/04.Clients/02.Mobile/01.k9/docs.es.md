@@ -34,7 +34,7 @@ Una vez que inicias la aplicación por primera vez, necesitas crear **una nueva 
 
 **3.-** **Configuración de correo Entrante**<br>
 Mira las configuraciones de correo y modifícalas según corresponda (lo único que deberías cambiar es *mail.disroot.org* a **disroot.org**).<br>
-Observa la captura o sigue la información de [configuración general del servidor](https://howto.disroot.org/es/email/email-clients).
+Observa la captura o sigue la información de [configuración general del servidor](/tutorials/email/settings).
 
 ![](es/android-k9_3.png)
 
@@ -43,7 +43,7 @@ Lo mismo que en correo entrante. Por favor, asegúrate que:
 - El servidor SMTP sea **disroot.org**
 - Seguridad sea **STARTTLS**
 - El Puerto sea 587.<br>
-Observa la captura como referencia o verifica la información de [configuración general del servidor](https://howto.disroot.org/es/email/email-clients).
+Observa la captura como referencia o verifica la información de [configuración general del servidor](/tutorials/email/settings).
 
 ![](es/android-k9_4.png)
 
