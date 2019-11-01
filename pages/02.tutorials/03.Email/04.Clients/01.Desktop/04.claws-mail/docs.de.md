@@ -17,7 +17,7 @@ taxonomy:
         - 'claws mail'
 ---
 
-![](home/icons/cmlogo.png)
+![](/home/icons/cmlogo.png)
 
 **Claws Mail** ist ein freier und quelloffener, GTK+-basierter Email- und News-Client. Er ist benutzerfreundlich, schlank und schnell.
 
@@ -61,7 +61,7 @@ Wenn Du nach der Auswahl des Protokolls (Servertyp, **IMAP** oder **POP**) auf *
 
 Fertig! **\o/**
 
-![](de/claws_mail_setup05)
+![](de/claws_mail_setup05.png)
 
 ---
 # Claws Mail Nutzer
