@@ -23,9 +23,12 @@ page-toc:
 
 Here is how you setup disroot account on K9.
 
-#Get it
+# Get it
+
 First of, **get K9 on your phone**. We encourage you to use [F-Droid](https://f-droid.org/) store (it's a store hosting only free and open source applications), but you can get it also via g*** store. (additionally you can get **Material K9** version or **P=P** which supports GPG by default)
+
 # Set it up
+
 Once you start the application for the first time, you need to **create new account**.
 1. **Fill in your disroot's email address and password**
 
@@ -36,7 +39,7 @@ Once you start the application for the first time, you need to **create new acco
 ![](en/android-k9_2.png)
 
 3. **Incoming email setup**
-Look at the mail settings and adjust it accordingly. (the only thing you should change is *mail.disroot.org* into **disroot.org**). Check the screenshot or follow the [general server setup information.](https://howto.disroot.org/pt/email/email-clients)
+Look at the mail settings and adjust it accordingly. (the only thing you should change is *mail.disroot.org* into **disroot.org**). Check the screenshot or follow the [general server setup information.](/tutorials/email/settings)
 
 ![](en/android-k9_3.png)
 
@@ -45,7 +48,7 @@ Same as with incoming mail. Please make sure that:
  - SMTP Server is **disroot.org**
  - Security is **STARTTLS**
  - Port is **587**
-Check the screenshot for reference or check [general server setup information](#Other)
+Check the screenshot for reference or check [general server setup information](/tutorials/email/settings)
 
 ![](en/android-k9_4.png)
 

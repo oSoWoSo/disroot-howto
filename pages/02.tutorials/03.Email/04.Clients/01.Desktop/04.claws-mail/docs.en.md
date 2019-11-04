@@ -17,7 +17,7 @@ taxonomy:
         - 'claws mail'
 ---
 
-![](home/icons/cmlogo.png)
+![](/home/icons/cmlogo.png)
 
 **Claws Mail** is a free and open-source, GTK+-based email and news client. It's user-friendly, lightweight, and fast.
 
