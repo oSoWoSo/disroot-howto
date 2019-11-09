@@ -230,7 +230,7 @@ wird es dargestellt als:
 
 ## Kursiv
 
-Kursiv funktioniert genauso wie Fett. Du kannst einen `_` oder einen `*` vor und hinter dem zu formatierenden Text einfügen. Italic works in a similar way as bold. You can use the `_` symbol or one `*` symbol before and after the word or text section you want to apply the format.<br>
+Kursiv funktioniert genauso wie Fett. Du kannst einen `_` oder einen `*` vor und hinter dem zu formatierenden Text einfügen. <br>
 Beispiele:<br>
 Schreibst Du...<br>
 

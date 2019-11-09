@@ -20,6 +20,7 @@ How-To für die Einrichtung eines Email-Clients auf Deinem Smartphone:
 
 ## Android
 - [K9](k9)
+- [FairEmail](fairemail)
 
 ## SailfishOS
 - [Mail App](sailfishos)
