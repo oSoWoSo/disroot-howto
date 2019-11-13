@@ -20,22 +20,21 @@ page-toc:
 
 # Über FairEmail
 
-**[FairEmail](https://email.faircode.eu/)**, aus der Feder von Marcel Bokhorst, dem Entwickler von NetGuard und XPrivacyLua, ist ein freier, quelloffener und funktionenreicher Mail-Client für Android. Mittlerweile hat FairEmail sogar dem Klassiker K-9 Mail den Rang abgelaufen (persönliche Meinung). Das ist natürlich Geschmackssache, ohne Zweifel gehört **FairEmail** jedoch zu den besten **FOSS**-Clients, die es gibt. Wir raten Dir auf jeden Fall, ihn mal auszuprobieren. Einige Funktionen und Vorteile:
+**[FairEmail](https://email.faircode.eu/)**, aus der Feder von Marcel Bokhorst, dem Entwickler von NetGuard und XPrivacyLua, ist ein freier, quelloffener und funktionenreicher Mail-Client für Android. Mittlerweile hat FairEmail sogar dem Klassiker [K-9 Mail](/tutorials/email/clients/k9) den Rang abgelaufen (persönliche Meinung). Das ist natürlich Geschmackssache, ohne Zweifel gehört **FairEmail** jedoch zu den besten **FOSS**-Clients, die es gibt. Wir raten Dir auf jeden Fall, ihn mal auszuprobieren. Einige Funktionen und Vorteile:
 
- - Funktioniert mit IMAP, POP3 und Exchange 2003/2007
+ - Funktioniert mit IMAP und POP3
  - Ordner-Synchronisation
  - Privacy by Design
  - GPG/PGP-Verschlüsselung mit OpenKeyChain-Unterstützung (und damit Autocrypt-fähig)
  - Plaintext-Anzeige, entfernt HTML, Scripts, Styles und Tracking-Pixel bereits vor dem Lesen einer E-Mail
- - niedriger Speicher- und Akkuverbrauch
+ - Niedriger Speicher- und Akkuverbrauch
  - Material Design (inkl. dunklem & schwarzem Design)
  - Senden von Fehlerberichten nur nach Opt-in
  - Kein Tracking, keine Analytics
  - Öffnen von Links, Bildern und Anhängen nur nach Bestätigung (Sicherheitsüberprüfung)
  - Regelmäßige Updates und aktiver Support
 
-
-Wie Du Deinen Disroot-Account in FairEmail einrichtest, erfährst Du in diesem Tutorial.
+Wie Du Deinen **Disroot**-Account in **FairEmail** einrichtest, erfährst Du in diesem Tutorial.
 
 # FairEmail installieren
 
@@ -47,7 +46,7 @@ Wenn Du die App zu ersten Mal startest, musst Du zunächst die Nutzungsbedingung
 
 ![](de/fairemail_setup_01.png)
 
-1. **Schnelleinrichtungs-Assistent starten**
+1. **Schnelleinrichtungs-Assistent starten**<br>
 **FairEmail** hat einen Schnelleinrichtungs-Assistenten, der Dich durch die Prozedur leitet. Wähle den Assistent an ...
 
 ![](de/fairemail_setup_02.png)
@@ -56,7 +55,7 @@ Wenn Du die App zu ersten Mal startest, musst Du zunächst die Nutzungsbedingung
 
 ![](de/fairemail_setup_03.png)
 
-2. **Basis-Informationen**
+2. **Basis-Informationen**<br>
 Gib Deinen **Namen**, Deine **Disroot-Email-Adresse** und Dein **Passwort** ein.
 
 ![](de/fairemail_setup_04.png)
@@ -65,7 +64,7 @@ Bestätige Deine Angaben, indem Du auf *Prüfen* tippst.
 
 ![](de/fairemail_setup_05.png)
 
-Die korrekten Einstellungen sollten nun automatisch erkannt werden (Du benötigst hierfür eine funktionierende Verbindung zum Internet). Sieh Dir zur Überprüfung die Screenshots die [Allgemeinen Informationen zu den Email-Einstellungen](/tutorials/email/settings) an. Sollten wider Erwarten die Einstellungen nicht stimmen, kannst Du den Assistenten abbrechen und das Email-Konto manuell einrichten oder die Einstellungen später in der Kontoverwaltung korrigieren. Bestätige mit *Speichern*.
+Die korrekten Einstellungen sollten nun automatisch erkannt werden (Du benötigst hierfür eine funktionierende Verbindung zum Internet). Sieh Dir zur Überprüfung die Screenshots oder die [Allgemeinen Informationen zu den Email-Einstellungen](/tutorials/email/settings) an. Sollten wider Erwarten die Einstellungen nicht stimmen, kannst Du den Assistenten abbrechen und das Email-Konto manuell einrichten oder die Einstellungen später in der Kontoverwaltung korrigieren. Bestätige mit *Speichern*.
 
 ![](de/fairemail_setup_06.png)
 
@@ -73,7 +72,7 @@ Du erhältst nun die Bestätigung, dass das Konto eingerichtet wurde
 
 ![](de/fairemail_setup_07.png)
 
-3. **Fertig! (Im Prinzip)**
+3. **Fertig! (Im Prinzip)**<br>
 Wenn Du in der Einrichtungsbestätigung auf *OK* tippst, gelangst Du wieder in die Haupteinstellungen. Wenn Du willst, dass Dein Email-Konto im Hintergrund regelmäßig aktualisiert wird, solltest Du unter Punkt 4 noch die **Akku-Optimierung** für **FairEmail** ausstellen.
 
 Wenn Du nun unter Punkt 5 auf *Los* tippst, kommst Du zu Deinen Emails, die nun zum ersten Mal abgerufen werden.
@@ -86,8 +85,8 @@ Beim ersten Besuch Deines Posteingangs erhältst Du noch einige Informationen, d
 
 ![](de/fairemail_setup_10.png)
 
-4. **(Optional) Startansicht ändern**
-Standardmäßig wird Dir beim Start von **FairEmail** ein **Sammeleingang** angezeigt, der die Eingangspostfächer aller Email-Konten zusammengefasst anzeigt. Wenn Du stattdessen zunächst die Kontenübersicht sehen möchtest, weil Du mehrere Email-Konten mit **FairEmail** verwaltest, kannst Du das folgendermaßen einstellen:
+4. **(Optional) Startansicht ändern**<br>
+Standardmäßig wird Dir beim Start von **FairEmail** ein Sammeleingang angezeigt, der die Eingangspostfächer aller Email-Konten zusammengefasst anzeigt. Wenn Du stattdessen zunächst die klassische Kontenübersicht sehen möchtest, weil Du zum Beispiel mehrere Email-Konten mit **FairEmail** verwaltest, kannst Du das folgendermaßen einstellen:
 
 Öffne das Menü, indem Du oben links auf die drei Striche tippst und wähle *Einstellungen*
 
@@ -105,7 +104,7 @@ Wählst Du Dein Email-Konto an, gelangst Du in die Ordner-Ansicht.
 
 ![](de/fairemail_setup_15.png).
 
-5. **(Optional) Weitere Einstellungen**
+5. **(Optional) Weitere Einstellungen**<br>
 **FairEmail** hat sehr viele Möglichkeiten zur Anpassung. Zu viele, um sie hier alle darzustellen. Spiele einfach ein bisschen damit und finde heraus, was Dir gefällt. Du wirst schnell feststellen, dass die Bedienung von **FairEmail** sehr intuitiv ist.
 
-Falls sich Anfragen zu einzelnen Funktionen in FairEmail häufen, werden wir dieses Tutorial in Zukunft sicherlich noch um weitere Erläuterungen ergänzen.
+Falls sich Anfragen zu einzelnen Funktionen in **FairEmail** häufen, werden wir dieses Tutorial in Zukunft sicherlich noch um weitere Erläuterungen ergänzen.
