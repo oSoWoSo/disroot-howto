@@ -32,6 +32,6 @@ If you want to set new email alias as your default one, just select the mail ali
 ![](en/identity_default.gif)
 
 # Send email
-To send email with your new alias, just click on the **"Form"** field and select alias you want to use from the dropdown menu, when composing your mail.
+To send email with your new alias, just click on the **"From"** field and select alias you want to use from the dropdown menu, when composing your mail.
 
 ![](en/identity_send.gif)

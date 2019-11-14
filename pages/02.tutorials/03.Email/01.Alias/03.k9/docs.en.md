@@ -26,7 +26,7 @@ When in Settings, go to **"Sending Mail"** tab, tap on **"Manage Identities"**.
 
 Select **"New identity"** by tapping the "three dot" icon on top right.
 
-*(Every* **Disroot** *user has an* username@disr.it* alias to use by default)*
+*(Every* **Disroot** *user has an* username@disr.it *alias to use by default)*
 
 ![](en/identity_settings3.png)
 
@@ -39,4 +39,4 @@ To change the default identity, while still in **"Manage Identities"** settings,
 ![](en/identity_settings5.png)
 
 # Send email
-To send email with your new alias, just tap on the **"Form"** field and select alias you want to use from the dropdown menu, when composing your mail.
+To send email with your new alias, just tap on the **"From"** field and select alias you want to use from the dropdown menu, when composing your mail.
