@@ -21,7 +21,6 @@ page-toc:
 
 Puoi accedere all'applicazione del tuo calendario premendo l'icona ![](en/calendar_top_icon.png) {.inline} nella barra in alto.
 *Barra sinistra*nella finestra del calendario offre una panoramica dei calendari, delle loro opzioni e impostazioni generali.. 
-
 ![](en/calendar_main.png)
 
 
@@ -32,7 +31,6 @@ Quindi premere "*crea*".
 ![](en/calendar_add_new.png)
 
 Puoi creare più calendari per scopi diversi (lavoro, attivismo, ecc.) ripetendo questo processo. Se lo fai, puoi usare colori diversi per distinguerli (l'ultima icona è il selettore colori che ti consente di scegliere qualsiasi colore tu preferisca![](en/calendar_colorpick_icon.png)).
-
 ![](en/calendar_list.png)
 
 
@@ -42,14 +40,11 @@ Sul pannello di sinistra, vedrai i tuoi calendari elencati. A destra di ogni cal
 - scaricarlo
 - accedere all'indirizzo per la sincronizzazione con gli altri dispositivi
 - eliminare il tuo calendario
-
 ![](en/calendar_edit1.png)
 
 
 ## Creare un evento
 Puoi creare un nuovo evento nel tuo calendario facendo clic, nella pagina principale del calendario, sul giorno dell'evento. Apparirà un pannello sul lato destro, dove puoi riempire con le informazioni dell'evento.
-
-
 ![](en/calendar_edit_menu.png)
 
 Nello specifico in questo pannelo vedrai:
@@ -78,11 +73,9 @@ Puoi decidre il tipo di promemoria desiderato:
 E settarlo per l'evento desiderato.
 
 Basta premere il promemoria che hai aggiunto e le opzioni verranno visualizzate.
-
 ![](en/calendar_edit_menu5.png)
 
 Puoi anche impostare se si tratta di un evento ricorrente o meno. Controlla le opzioni * ripetute *.
-
 ![](en/calendar_edit_menu6.png)
 
 
@@ -133,5 +126,4 @@ Se ha un file .ics con i tuoi calendari da importare, vai nell'applicazione cale
 ![](en/calendar_import_menu1.png)
 
 E selezioni l'impostazione "Importa calendari".
-
 ![](en/calendar_import_menu2.png)
