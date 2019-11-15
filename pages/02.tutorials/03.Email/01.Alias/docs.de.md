@@ -11,6 +11,7 @@ taxonomy:
         - alias
         - settings
         - einstellungen
+        - einrichten
 page-toc:
     active: false
 ---
@@ -21,5 +22,6 @@ Nachdem Du mit diesem [Formular](https://disroot.org/de/forms/alias-request-form
 
 - [Webmail](webmail)
 - [Thunderbird](thunderbird)
-- [K9](k9)
+- [K-9 Mail](k9)
+- [FairEmail](fairemail)
 - [Mail iOS](mailios)
