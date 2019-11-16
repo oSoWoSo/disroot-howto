@@ -22,7 +22,7 @@ We understand that not everyone wants to use **Disroot** mail as their daily dri
 However, there are important information you should not miss out on.
 
  - Get notifications for **Forum** and **Nextcloud**. Those services are tight to **Disroot** email and you can't change it.
- - To be up to date with what's going on in **Disroot**. Every three / six weeks we're sending email to all users informing them about recent developments, new features and services. We're also sending information about scheduled downtime of services if they are longer than 20 min. We have no intention to spam you with too much, information so don't worry about that.
+ - To be up to date with what's going on in **Disroot**. Every three / six weeks we're sending email to all users informing them about recent developments, new features and services. We're also sending information about scheduled downtime of services if they are longer than 20 min. We have no intention to spam you with too much information so don't worry about that.
 
 This short how-to will show you how to forward your **Disroot** emails to your preferred email address (it should take you no more than three minutes to get this setup).
 
@@ -41,14 +41,14 @@ This short how-to will show you how to forward your **Disroot** emails to your p
 
 
 3. Once in Settings **Hit Filter Tab.**<br>
-Filters help you manage your emails. Based on your filer conditions, you can move, copy and forward any email automatically.<br>
+Filters help you manage your emails. Based on your filter conditions, you can move, copy and forward any email automatically.<br>
 This is quite straight forward so if you want to setup some extra filters just look around. Here we'll see how to setup forwarding filter for all your mail.
 
 
 ![](en/settings1.jpg)
 
 
-4. **Click on 'Add new Filter" icon.**
+4. **Click on "Add new Filter" icon.**
 You will be presented with a dialog window that guides you through the setup.
 
 

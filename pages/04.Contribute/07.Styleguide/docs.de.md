@@ -130,7 +130,7 @@ Schreibe nur, was notwendig ist, um eine Aufgabe oder eine Funktion zu beschreib
 
 5. **Benutze Aufzählungen anstatt langer Absätze, wenn Du mehrere Schritte oder Funktionen beschreibst**
 
-6. **Vermeide Taellen, es sei denn, sie dienen einem anderen Zweck als der Textformatierung**
+6. **Vermeide Tabellen, es sei denn, sie dienen einem anderen Zweck als der Textformatierung**
 
 #### Notes:
 
