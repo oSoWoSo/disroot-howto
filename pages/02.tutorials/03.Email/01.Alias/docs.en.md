@@ -21,4 +21,5 @@ Once you requested email aliases using this [form](https://disroot.org/en/forms/
 - [Webmail](webmail)
 - [Thunderbird](thunderbird)
 - [K9](k9)
+- [FairEmail](fairemail)
 - [Mail iOS](mailios)
