@@ -20,7 +20,7 @@ page-toc:
 
 # About FairEmail
 
-**[FairEmail](https://email.faircode.eu/)**, created by Marcel Bokhorst, the developer of NetGuard an XPrivacyLua, is a free, open source and feature rich mail client for android. Meanwhile **FairEmail** outrankend even the classic K-9 Mail (personal opinion), but this is a matter of taste, of course. Without doubt **FairEmail** is definitely one of the best **FLOSS**-clients available. We definitely recommend you to give it a try. Some features and advantages:
+**[FairEmail](https://email.faircode.eu/)**, created by Marcel Bokhorst, the developer of NetGuard and XPrivacyLua, is a free, open source and feature rich mail client for android. Concerning **FLOSS*, **FairEmail**, just like [**K-9 Mail**](/tutorials/email/clients/mobile/k9), surely is one of the most popular email clients for **Android**. Some features and advantages:
 
  - works with IMAP and POP3
  - folder synchronisation
@@ -53,7 +53,7 @@ When you start the app for the first time, you need to accept the license agreem
 
 ... and choose *Other provider*
 
-![](de/fairemail_setup_03.png)
+![](en/fairemail_setup_03.png)
 
 2. **Fill in credentials**<br>
 Fill in your **screen name**, your **Disroot mail address** and your **password**.
@@ -105,6 +105,6 @@ By tapping on your account you will get to the folder view.
 ![](en/fairemail_setup_15.png).
 
 5. **(optional) More settings**<br>
-**FairEmail** has a lot of customization option. Too much to explain them all here. Just play around a bit and find out, what fits your taste. You will find out quickly, that the user interface of **FairEmail** is very intuitive.
+**FairEmail** has a lot of customization options. Too much to explain them all here. Just play around a bit and find out what fits your taste. You will find out quickly, that the user interface of **FairEmail** is very intuitive.
 
 If questions about some features of **FairEmail** will pile up, we may of course add some explanation to this tutorial in the future.

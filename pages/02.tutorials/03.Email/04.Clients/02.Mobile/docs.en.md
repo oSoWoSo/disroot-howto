@@ -18,6 +18,7 @@ How-to setup your email with your mobile device:
 
 ## Android
 - [K9](k9)
+- [FairEmail](fairemail)
 
 ## SailfishOS
 - [Mail App](sailfishos)

@@ -14,7 +14,8 @@ page-toc:
 
 # K9 for Android
 
-**[K9](https://en.wikipedia.org/wiki/K-9_Mail)** is independent, feature-rich Free/Open Source mail client for android. It beats anything out there, including desktop applications (personal opinion). We very much advise giving it a try. Some features:
+**[K9](https://en.wikipedia.org/wiki/K-9_Mail)** is independent, feature-rich Free/Open Source mail client for android. Concerning **FLOSS**, **K-9 Mail**, just like [**FairEmail**](/tutorials/email/clients/mobile/fairemail), surely is one of the most popular email clients for **Android**. Some features:
+
  - Works with IMAP, POP3 and Exchange 2003/2007 (with WebDAV) accounts
  - Folder Sync
  - Encryption with APG/OpenKeychain support

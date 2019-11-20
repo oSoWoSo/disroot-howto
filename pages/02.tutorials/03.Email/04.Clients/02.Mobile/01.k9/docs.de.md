@@ -20,7 +20,7 @@ page-toc:
 
 # K9 für Android
 
-**[K9](https://de.wikipedia.org/wiki/K-9_Mail)** ist ein freier, quelloffener und funktionsreicher Mail-Client für Android. Lange Zeit war K9 besser als alles Andere da draußen, inklusive Desktop-Clients (persönliche Meinung). Mittlerweile haben andere Entwickler nachgelegt, nichtsdestotrotz gehört **K9 Mail** immer noch zu den besten **FOSS**-Clients, die es gibt. Wir raten Dir auf jeden Fall, ihn mal auszuprobieren. Einige Funktionen:
+**[K9](https://de.wikipedia.org/wiki/K-9_Mail)** ist ein freier, quelloffener und funktionsreicher Mail-Client für Android. Was **FLOSS** angeht ist **K-9 Mail**, ebenso wie [**FairEmail**](/tutorials/email/clients/mobile/fairemail), sicherlich eine der beliebtesten Email-Apps für **Android**. Einige Funktionen:
 
  - Funktioniert mit IMAP, POP3 und Exchange 2003/2007
  - Ordner-Synchronisation
