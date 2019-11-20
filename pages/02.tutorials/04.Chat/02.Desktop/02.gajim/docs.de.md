@@ -1,5 +1,5 @@
 ---
-title: Chat client: Gajim
+title: Chat-Client: Gajim
 updated:
         last_modified: "April 2019"
         app: Gajim
@@ -8,7 +8,7 @@ published: true
 visible: false
 indexed: true
 updated:
-        last_modified: "17 April 2019"
+        last_modified: "20 November 2019"
         app: Gajim
         app_version: 1.1
 taxonomy:
@@ -18,62 +18,64 @@ taxonomy:
         - chat
         - gajim
         - xmpp
+        - windows
+        - Linux
+        - GNU
 page-toc:
     active: true
 ---
 
 ![](/start/icons/gajim.png)
-Gajim is multi-platform (runs on most operating systems) messaging application.
+Gajim ist eine Mulitplattform-Kommunikations-Plattform, die auf den meisten Betriebssystemen läuft.
 
-To setup **Disroot** chat on **Gajim**, follow these easy steps:
+Um den **Disroot**-Chat in Gajim einzurichten, folge diesen einfachen Schritten:
 
-# Installing Gajim
-**Gajim** is available in most package repositories of the most widely used distros. If it's not your case, or you are a **MS Windows** user, you can check the [Gajim's website](https://gajim.org/downloads.php) and download the version you're looking for.
+# Gajim installieren
+**Gajim** ist für Linux-Nutzer in den meisten Paket-Archiven der häufig genutzten Distributionen verfügbar. Falls nicht oder falls Du ein **MS Windows**-Nutzer bist, kannst Du auf die [Gajim-Website](https://gajim.org/downloads.php) gehen und die von Dir benötigte Version herunterladen. Die Installation selbst folgt der für Dein Betriebssystem üblichen Verfahrensweise.
 
-# First start
-Start **Gajim**. You will be greeted with a welcome message like this:
+# Erster Programmstart
+Starte **Gajim**. Du wirst mit einer Willkommensnachricht ähnlich der folgenden begrüßt:
 
-![](en/01_creation.png)
+![](de/01_creation.png)
 
-- If you want to use your **Disroot** account then choose **"I already have an account I want to use"**.
-- If you want to create a new account, choose **"I want to register for a new account"**
+- Wenn Du Deinen **Disroot**-Account nutzen willst, wähle **"Ich habe bereits einen Account, den ich nutzen möchte"**.
+- Wenn Du einen neuen Account erstellen möchtest, wähle **"Ich möchte einen neuen Account registrieren"**.
 
-# Creating or adding an account
-Next, fill in the information needed:
+# Einen Account erstellen oder hinzufügen
+Als nächstes gibst Du die benötigten Informationen ein:
 
-![](en/02_creation.png)
+![](de/02_creation.png)
 
-- **Jabber ID**: replace **username** by either your **Disroot** username, or the username you have already created on any XMPP server. And for the **@** part, choose your server name: it is **disroot.org** if your use your **Disroot** account. Remember that your XMPP account will look like this: `username_@_disroot.org`
-- **Password**: either your **Disroot** password, or the password you have already set on any XMPP server.
-- Click on **Forward**.
+- **Jabber ID**: ersetze **Benutzername** entweder durch Deinen **Disroot**-Benutzernamen oder den Benutzernamen, den Du bereits auf einem anderen XMPP-Server erstellt hast. Für den **@**-Teil nimmst Du dden Servernamen: zum Beispiel **disroot.org**, wenn Du Deinen **Disroot**-Account nutzt. Denk dran, dass Dein XMPP-Account etwa so aussehen wird: 'benutzername@disroot.org'.
+- **Passwort**: entweder Dein **Disroot**-Passwort oder das Passwort Deines Accounts auf einem anderen XMPP-Server.
+- Klicke auf **Weiter**.
 
-![](en/03_creation.png)
+![](de/03_creation.png)
 
-- Click on **Finish**.
+- Klicke auf **Fertig**.
 
-**All your contacts and rooms are synced between all the clients, so you can use Disroot chat on all your different devices at the same time.**
+**Alle Deine Kontakte und Räume werden zwischen allen Clients synchronisiert, sodass Du den** 'Disroot'**-Chat gleichzeitig auf all Deinen verschiedenen Geräten nutzen kannst.**
 
 
-# Organize Gajim in a single window
-Instead of having several windows (for contacts, for conversations, etc.), you can have a single window for everything.
+# Organisiere Gajim in einem einzigen Fenster
+Anstatt verschiedener Fenster (für Kontakte, Konversationen, usw.) kannst Du auch alles in einem einzigen Fenster haben.
 
-Go to the **Preferences**. You may find it at the top bar menu. Or you may have to right-click on the **Gajim** icon in the app list.
+Gehe zu den *Einstellungen*. Du findest sie in der oberen Menüleiste oder machst einen Rechtsklick auf das **Gajim**-Icon in der App-Liste.
 
-![](en/preferences.png)
+![](de/preferences.png)
 
-In the **Preferences** window, in **General**, then **Chat Appearance**, change the **Window behavior** to **“Single window for everything”**.
+Im *Einstellungs*-Fenster gehst Du unter *Allgemein* in *Aussehen* und änderst das *Fensterverhalten* auf *Ein Fenster für alles*.
 
-![](en/04_windows.png)
+![](de/04_windows.png)
 
 # Plugins
-You also need to set up a few plugins.
-Depending of your OS, you may have to install them first. [See that page](https://dev.gajim.org/gajim/gajim-plugins)
+Du musst auch noch einige wenige Plugins installieren. Je nach Deinem Betriebssystem musst Du die Plugins als allererstes installieren. Sieh Dir dazu auch [diese Seite](https://dev.gajim.org/gajim/gajim-plugins) an.
 
-Then, in the same place you found the **Preferences**, you should find **Plugins**.
+An der selben Stelle, an der Du die *Einstellungen* gefunden hast, findest Du auch die *Plugins*.
 
-![](en/preferences.png)
+![](de/preferences.png)
 
-You need two plugins:
+Du benötigst zwei Plugins:
     - OMEMO
     - URL image preview
 
