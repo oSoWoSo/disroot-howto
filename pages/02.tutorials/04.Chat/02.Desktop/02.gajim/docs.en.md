@@ -106,7 +106,7 @@ To write/send message to contact or into a room, use the sending message box:
 2. You can add a smiley.
 3. In **Gajim** you have some format options. But they don't work in other clients. So if you set a text in bold, they won't be seen as bold in other clients.
 4. You can join/send any kind of files. The upload limit is currently of 10MB with **Disroot** XMPP server.
-5. You can change the encryption of the message from Disable to OMEMO.
+5. You can change the encryption of the message from Disable to OMEMO (not in open groupchats).
 
 Just press the *Enter* key when you want to send your message.
 

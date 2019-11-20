@@ -79,36 +79,36 @@ Du benötigst zwei Plugins:
     - OMEMO
     - URL image preview
 
-So go to the **Available** tab and check those two plugins. Click on **Install/Upgrade** when you’re done.
+Gehe in den Reiter *Verfügbar* und wähle diese beiden Plugins aus. Klicke auf *Installieren/Aktualisieren*, wenn Du fertig bist.
 
-![](en/05_plugins.png)
+![](de/05_plugins.png)
 
-Then, go to the **Installed** tab. Check the plugins to make them active. Then close the windows.
+Dann gehst Du auf den Reiter *Installiert*. Wähle die Plugins aus, um sie zu aktivieren, und schließe danach das Fenster.
 
-![](en/06_plugins.png)
+![](de/06_plugins.png)
 
-# User Interface
-Here is what **Gajim** now looks like:
+# Benutzeroberfläche
+So in etwa sollte Gajim nun aussehen:
 
-![](en/ui.png)
+![](de/ui.png)
 
-1. This is the room discussion window: there you can see everyone's messages in the current room. Here the user is in the *howto@chat.disroot.org* room.
-2. That is where you can type a message, send files, etc.
-3. This is the list of participants of this current room. Only online participants are listed.
-4. This is the list of the user's contacts and connected room (Groupchats)
-5. Here, the user can switch between opened rooms.
+1. Das ist das Diskussions-Paneel des Raums: Dort kannst Du die Nachrichten von jedem im aktuellen Raum sehen. In diesem Bild ist der Nutzer aktuell im Raum *howto@chat.disroot.org*.
+2. Hier kannst Du Nachrichten schreiben, Dateien versenden, usw.
+3. Dies ist die Liste der Teilnehmer des aktuellen Raums. Nur Teilnehmer, die online sind, werden aufgelistet.
+4. Dies ist die Liste der Kontakte und verbundenen Räume (Gruppenchats) des Benutzers.
+5. Hier kann der Benutzer zwischen den geöffneten Räumen hin und her wechseln.
 
 
-# Sending and editing messages
-To write/send message to contact or into a room, use the sending message box:
+# Nachrichten versenden und bearbeiten
+Um eine Nachricht an einen Kontakt oder in einen Raum zu schreiben/senden, nutze die "Nachricht schreiben"-Box:
 
-![](en/send.png)
+![](de/send.png)
 
-1. You write your message there. **Note:** Shift + Enter will allow you to add a line break.
-2. You can add a smiley.
-3. In **Gajim** you have some format options. But they don't work in other clients. So if you set a text in bold, they won't be seen as bold in other clients.
-4. You can join/send any kind of files. The upload limit is currently of 10MB with **Disroot** XMPP server.
-5. You can change the encryption of the message from Disable to OMEMO.
+1. Hier schreibst Du Deine Nachricht. **Hinweis:** Shift + Enter ermöglichen Dir einen Zeilenumbruch hinzuzufügen.
+2. Hier kannst Du Smileys in Deine Nachricht einfügen.
+3. In **Gajim** hast Du einige Formatierungsoptionen. Sie funktionieren allerdings nicht in anderen Clients. Wenn Du also einen Text zum Beispiel fett schreibst, wird dieser Text in anderen Clients in normaler Schrift angezeigt.
+4. Du kannst jeden Datei-Typ versenden. Das Upload-Limit über den **Disroot**-XMPP-Server liegt derzeit bei 10 MB.
+5. Du kannst die Verschlüsselung von deaktiviert zu OMEMO ändern (nicht in offenen Gruppenchats).
 
 Just press the *Enter* key when you want to send your message.
 
