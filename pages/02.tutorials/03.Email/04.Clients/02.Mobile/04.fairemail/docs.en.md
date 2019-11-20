@@ -20,7 +20,7 @@ page-toc:
 
 # About FairEmail
 
-**[FairEmail](https://email.faircode.eu/)**, created by Marcel Bokhorst, the developer of NetGuard and XPrivacyLua, is a free, open source and feature rich mail client for android. Meanwhile **FairEmail** outrankend even the classic K-9 Mail (personal opinion), but this is a matter of taste, of course. Without doubt **FairEmail** is definitely one of the best **FLOSS**-clients available. We definitely recommend you to give it a try. Some features and advantages:
+**[FairEmail](https://email.faircode.eu/)**, created by Marcel Bokhorst, the developer of NetGuard and XPrivacyLua, is a free, open source and feature rich mail client for android. Concerning **FLOSS*, **FairEmail**, just like [**K-9 Mail**](/tutorials/email/clients/mobile/k9), surely is one of the most popular email clients for **Android**. Some features and advantages:
 
  - works with IMAP and POP3
  - folder synchronisation
