@@ -1,16 +1,12 @@
 ---
 title: Chat-Client: Gajim
-updated:
-        last_modified: "April 2019"
-        app: Gajim
-        app_version: 1.1
 published: true
 visible: false
 indexed: true
 updated:
-        last_modified: "20 November 2019"
+        last_modified: "25 November 2019"
         app: Gajim
-        app_version: 1.1
+        app_version: 1.0.1 für (Ubuntu) Linux
 taxonomy:
     category:
         - docs
@@ -18,41 +14,40 @@ taxonomy:
         - chat
         - gajim
         - xmpp
-        - windows
         - Linux
         - GNU
 page-toc:
     active: true
 ---
 
-![](/start/icons/gajim.png)
-Gajim ist eine Mulitplattform-Kommunikations-Plattform, die auf den meisten Betriebssystemen läuft.
+![](/home/icons/gajim.png)
+**Gajim** ist eine Mulitplattform-Kommunikationsapplikation, die auf den meisten Desktop-Betriebssystemen läuft.
 
-Um den **Disroot**-Chat in Gajim einzurichten, folge diesen einfachen Schritten:
+Um den **Disroot**-Chat in **Gajim** einzurichten, folge diesen einfachen Schritten:
 
 # Gajim installieren
-**Gajim** ist für Linux-Nutzer in den meisten Paket-Archiven der häufig genutzten Distributionen verfügbar. Falls nicht oder falls Du ein **MS Windows**-Nutzer bist, kannst Du auf die [Gajim-Website](https://gajim.org/downloads.php) gehen und die von Dir benötigte Version herunterladen. Die Installation selbst folgt der für Dein Betriebssystem üblichen Verfahrensweise.
+**Gajim** ist für Linux-Nutzer in den meisten Paket-Archiven der häufig genutzten Distributionen verfügbar. Falls nicht oder falls Du ein **MS Windows**-Nutzer bist, kannst Du auf die [Gajim-Website](https://gajim.org/download/) gehen und die von Dir benötigte Version herunterladen. Die Installation selbst folgt der für Dein Betriebssystem üblichen Verfahrensweise.
 
 # Erster Programmstart
 Starte **Gajim**. Du wirst mit einer Willkommensnachricht ähnlich der folgenden begrüßt:
 
-![](de/01_creation.png)
+![](de/gajim_01.png)
 
-- Wenn Du Deinen **Disroot**-Account nutzen willst, wähle **"Ich habe bereits einen Account, den ich nutzen möchte"**.
-- Wenn Du einen neuen Account erstellen möchtest, wähle **"Ich möchte einen neuen Account registrieren"**.
+- Wenn Du Deinen **Disroot**-Account nutzen willst, wähle **"Ich habe bereits ein Konto, das ich benutzen möchte"**.
+- Wenn Du einen neuen Account erstellen möchtest, wähle **"Ich möchte ein neues Konto erstellen"**.
 
 # Einen Account erstellen oder hinzufügen
 Als nächstes gibst Du die benötigten Informationen ein:
 
-![](de/02_creation.png)
+![](de/gajim_02.png)
 
-- **Jabber ID**: ersetze **Benutzername** entweder durch Deinen **Disroot**-Benutzernamen oder den Benutzernamen, den Du bereits auf einem anderen XMPP-Server erstellt hast. Für den **@**-Teil nimmst Du dden Servernamen: zum Beispiel **disroot.org**, wenn Du Deinen **Disroot**-Account nutzt. Denk dran, dass Dein XMPP-Account etwa so aussehen wird: 'benutzername@disroot.org'.
+- **Jabber ID**: ersetze **Benutzername** entweder durch Deinen **Disroot**-Benutzernamen oder den Benutzernamen, den Du bereits auf einem anderen XMPP-Server erstellt hast. Für den **@**-Teil nimmst Du den Servernamen: zum Beispiel **disroot.org**, wenn Du Deinen **Disroot**-Account nutzt. Du kannst Dich daran orientieren, dass Dein XMPP-Account folgendermaßen aussehen wird: 'benutzername@disroot.org'.
 - **Passwort**: entweder Dein **Disroot**-Passwort oder das Passwort Deines Accounts auf einem anderen XMPP-Server.
-- Klicke auf **Weiter**.
+- Klicke auf **Vor**.
 
-![](de/03_creation.png)
+![](de/gajim_03.png)
 
-- Klicke auf **Fertig**.
+- Klicke auf **Beenden**.
 
 **Alle Deine Kontakte und Räume werden zwischen allen Clients synchronisiert, sodass Du den** 'Disroot'**-Chat gleichzeitig auf all Deinen verschiedenen Geräten nutzen kannst.**
 
@@ -62,35 +57,36 @@ Anstatt verschiedener Fenster (für Kontakte, Konversationen, usw.) kannst Du au
 
 Gehe zu den *Einstellungen*. Du findest sie in der oberen Menüleiste oder machst einen Rechtsklick auf das **Gajim**-Icon in der App-Liste.
 
-![](de/preferences.png)
+![](de/gajim_04.png)
 
-Im *Einstellungs*-Fenster gehst Du unter *Allgemein* in *Aussehen* und änderst das *Fensterverhalten* auf *Ein Fenster für alles*.
+Im Fenster *Einstellungen* gehst Du unter *Allgemein* in *Erscheinungsbild des Chats* und änderst das *Fensterverhalten* auf *Ein Fenster für alles*.
 
-![](de/04_windows.png)
+![](de/gajim_05.png)
 
 # Plugins
-Du musst auch noch einige wenige Plugins installieren. Je nach Deinem Betriebssystem musst Du die Plugins als allererstes installieren. Sieh Dir dazu auch [diese Seite](https://dev.gajim.org/gajim/gajim-plugins) an.
+Du musst auch noch einige wenige Plugins installieren. Je nach Betriebssystem musst Du die Plugins als allererstes installieren. Sieh Dir dazu auch [diese Seite](https://dev.gajim.org/gajim/gajim-plugins) an.
 
 An der selben Stelle, an der Du die *Einstellungen* gefunden hast, findest Du auch die *Plugins*.
 
-![](de/preferences.png)
+![](de/gajim_06.png)
 
 Du benötigst zwei Plugins:
     - OMEMO
     - URL image preview
+(Evtl. benötigst Du, z.B. unter Ubuntu, noch den Plugin Installer, den Du [hier](https://dev.gajim.org/gajim/gajim-plugins/wikis/plugininstallerplugin) herunterladen und dann mit dem Button *Aus ZIP Datei installieren* installieren kannst, um den Reiter *Available* zu erhalten)
 
-Gehe in den Reiter *Verfügbar* und wähle diese beiden Plugins aus. Klicke auf *Installieren/Aktualisieren*, wenn Du fertig bist.
+Gehe in den Reiter *Available* und wähle die beiden genannten Plugins aus. Klicke auf *Install/Upgrade*, wenn Du fertig bist.
 
-![](de/05_plugins.png)
+![](de/gajim_07.png)
 
 Dann gehst Du auf den Reiter *Installiert*. Wähle die Plugins aus, um sie zu aktivieren, und schließe danach das Fenster.
 
-![](de/06_plugins.png)
+![](de/gajim_08.png)
 
 # Benutzeroberfläche
 So in etwa sollte Gajim nun aussehen:
 
-![](de/ui.png)
+![](de/gajim_09.png)
 
 1. Das ist das Diskussions-Paneel des Raums: Dort kannst Du die Nachrichten von jedem im aktuellen Raum sehen. In diesem Bild ist der Nutzer aktuell im Raum *howto@chat.disroot.org*.
 2. Hier kannst Du Nachrichten schreiben, Dateien versenden, usw.
@@ -100,9 +96,9 @@ So in etwa sollte Gajim nun aussehen:
 
 
 # Nachrichten versenden und bearbeiten
-Um eine Nachricht an einen Kontakt oder in einen Raum zu schreiben/senden, nutze die "Nachricht schreiben"-Box:
+Um eine Nachricht an einen Kontakt oder in einen Raum zu schreiben/senden, nutze die *Nachricht schreiben*-Box:
 
-![](de/send.png)
+![](de/gajim_10.png)
 
 1. Hier schreibst Du Deine Nachricht. **Hinweis:** Shift + Enter ermöglichen Dir einen Zeilenumbruch hinzuzufügen.
 2. Hier kannst Du Smileys in Deine Nachricht einfügen.
@@ -110,127 +106,144 @@ Um eine Nachricht an einen Kontakt oder in einen Raum zu schreiben/senden, nutze
 4. Du kannst jeden Datei-Typ versenden. Das Upload-Limit über den **Disroot**-XMPP-Server liegt derzeit bei 10 MB.
 5. Du kannst die Verschlüsselung von deaktiviert zu OMEMO ändern (nicht in offenen Gruppenchats).
 
-Just press the *Enter* key when you want to send your message.
+Drücke die *Enter*-Taste, wenn Du Deine Nachricht absenden willst.
 
-You can only edit your last sent message in **Gajim**. To do so, enter the edit message box, press *ctrl* and the up arrow on your keyboard.
+Du kannst in **Gajim** nur Deine letzte versendete Nachricht bearbeiten. Um dies zu tun, drücke *Strg* und die Pfeiltaste nach oben.
 
-![](en/edit.gif)
+![](de/gajim_11.gif)
 
-Note that a pencil appears next to the modified message.
-
-
-# Rooms
-## Entering or creating a room
-Room are also called group conversations or MUC (Multiple Chat Users).
-
-To join one, click on **Accounts** (top-left corner), then on **Join Group Chat**. There, some group conversations may appear (the ones you have already joined in the past).
-
-![](en/join.gif)
-
-If the room you want to join doesn't appear, click again on  **Join Group Chat**. Click also on **Join Group Chat** if you want to create your own room. This window will happen:
-
-![](en/07_join.png)
-
-- **Nickname**: you can set whatever you want, it doesn't have to be your username.
-- **Room**: the name of the room you want to join. If the room doesn't exist, it will be created, and you will be its admin/owner.
-- **Server**: enter **chat.disroot.org** if you want to join or create a room on **Disroot** XMPP server. But you can choose another XMPP server if you want.
-- **Password**: useful only if the room you're trying to join is password protected.
-- **Bookmark**: it allows to remember rooms you have joined, so that you can easily and quickly find them again. And it allows also to keep them from one device to another one.
-- **Autojoin**: if enabled, then on startup, **Gajim** will automatically join/open the room.
-
-### Room creation options
-When you create your room, you may want to configure it. Click on three dots in the send message box: ![](en/dots.png) and choose **Manage Room** and then **Configure room**.
-
-![](en/room_options.gif)
-
-There are a lot of features! Some of the important ones are:
-- **Persistent**: if the room is not set to be persistent, it will be deleted automatically when the last participant disconnects from it.
-- **Include room information in public list**: uncheck this box if you don't want your room to be listed.
-- **Only allow members to join**: if you want your room to be members-only. Then, you can add members a little further, in this section: ![](en/add_members.png)
-
-You can also invite a contact in a members-only room: this contact then become a member of this room. Right click on the contact you want to invite and choose **Invite to** and  choose the room you want to invite him/her in.
-
-![](en/invite.gif)
-
-## Leaving a room
-When you want to leave a room, you need to *disconnect* fro do so there is two ways:
-1. If the room is opened, click on the three dots in the send message box ![](en/dots.png) and choose **Diconnect**.
-2. In the list of your room on the left pannel, right click on the desired room, and choose **Diconnect**.
-
-![](en/disconnect.gif)
-
-## Bookmarking a room
-You can bookmark rooms in order to join them in later easily and to keep them from one client to another.
-
-When you first join a room or create on, you get this box:
-
-![](en/07_join.png)
-
-If you later want to bookmark or unbookmark a room, click on three dots in the send message box: ![](en/dots.png) and choose **Bookmark**.
-
-![](en/bookmark.png)
+Du wirst bemerken, dass nach dem Bearbeiten ein Stift-Symbol an der bearbeiteten Nachricht erscheint.
 
 
-## Room history
-As soon as you close **Gajim**, the rooms windows are cleaned of messages that you've already read. However, you can still access the group conversation history.
+# Räume
+## Einen Raum betreten oder erstellen
+Räume werden auch Gruppenchats oder MUC (**M**`ultiple` **U**`ser` **C**`hats`, Mehrbenutzerchats) genannt.
 
-![](en/08_history.png)
+Um einem solchen beizutreten, klicke auf *Konten* (obere linke Ecke), dann auf *Gruppenchat beitreten*. Dort können einige Gruppenchats erscheinen (diejenigen, denen Du in der Vergangenheit bereits beigetreten bist).
 
-Click on the three vertical dots ![](en/dots.png) in the send message box and choose **History**.
-You can navigate through history by date.
+![](de/gajim_12.gif)
 
-![](en/history.png)
-
-
-## Finding a public room
-You can search for public rooms on XMPP servers.
-Click on **Accounts**, then **Discover Services**.
-
-In **Address** you can choose any public XMPP server. For example, add **disroot.org** to find a public room on **Disroot** XMPP server. Click on **Go**.
-
-Then, search the **Conference** section and choose something that looks like *room server*. Clck on **Browse**.
-
-![](en/public_rooms.gif)
+Wenn der Raum, dem Du beitreten möchtest, nicht erscheint, klicke erneut auf *Gruppenchat beitreten*. Klicke auch auf *Gruppenchat beitreten*, wenn Du Deinen eigenen Raum erstellen möchtest. Dieses Fenster wird nun erscheinen:
 
 
-# Direct chat: 1 to 1 conversation
-You can also chat with someone in private, in a 1:1 discussion with only the two of you participating.
+![](de/gajim_13.png)
 
-## Adding a contact
-Click on **Accounts** and choose **Add contact**.
+- **Spitzname**: Du kannst hier eintragen, was Du möchtest. Es muss nicht Dein Benutzername sein.
+- **Gruppenchat**: Der Name des Raums, den Du betreten möchtest. Wenn der Raum nicht existiert, wird er erstellt und Du wirst sein Administrator / Besitzer.
+- **Server**: gib **chat.disroot.org** ein, wenn Du einen Raum auf dem **Disroot**-XMPP-Server erstellen oder betreten möchtest. Du kannst natürlich auch einen anderen XMPP-Server wählen, wenn Du möchtest.
+- **Passwort**: Nur notwendig, wenn der Raum, den Du betreten möchtest, passwortgeschützt ist.
+- **Gruppenchat speichern**: Dies ermöglicht es Dir, Räume, die Du betreten hast, zu speichern, so dass Du sie später schnell und einfach wiederfindest. Und es ermöglicht Dir, die Räume auf verschiedenen Geräten zu behalten.
+- **Automatisch verbinden**: Wenn dies aktiviert ist, wird **Gajim** den Raum beim Programmstart automatisch betreten/öffnen.
 
-![](en/add_contact.png)
-1. **Jabber ID**: the XMPP address of the the contact you want to add. If this contact his on **Disroot**, his/her XMPP address is like this : **username@disroot.org**
-2. **Nickname**: it can be different of the address.
-3. **Group**: you can create groups to organize your contact.
-4. **Allow contact to view my status**: if checked, that means your contact will be warned you're online/offline.
-5. This is the message your contact will receive. You can change it.
-6. **Add**
+### Raumerstellungs-Optionen
+Wenn Du einen Raum erstellst, wirst Du ihn wahrscheinlich konfigurieren wollen. Klicke auf die 3 waagerechten Linien in der *Nachricht schreiben*-Box: ![](de/gajim_14.png), wähle *Raum verwalten* und dann *Raum konfigurieren*.
 
-When you click on **Add**, a message is send to the person. When the person accepts your subscription, the he/she is added in your contact list.
+![](de/gajim_15.gif)
 
-## Talking to a contact
-Simply double-click on the contact name in your contacts list.
+Es gibt eine Menge Funktionen! Ein paar der wichtigsten sind:
+- **Persistent**: Wenn der Raum nicht auf persistent gesetzt ist, wird er automatisch gelöscht, wenn der letzte Teilnehmer ihn verlassen hat.
+- **Include room information in public lists**: wähle diese Box ab, wenn Du nicht willst, dass Dein Raum öffentlich einsehbar gelistet wird.
+- **Only allow members to join**: Wenn Du willst, dass Dein Raum nur für Mitglieder ist. In dem Fall kannst Du einzelne Mitglieder hinzufügen. Wie das geht, erfährst Du im Folgenden: ![](de/add_members.png)
 
-## Removing a contact
-To remove a contact, right-click on his/her name in your contact list. Choose **Manage contact** then **Remove**
+Du kannst Kontakte in einen Nur-Mitglieder-Raum einladen: dieser Kontakt wird dann ein Mitglied des Raums. Klicke mit der rechten Maustaste auf den Kontakt, den Du einladen möchtest, gehe auf *Einladen zu* und wähle den Raum aus, in den Du ihn/sie einladen willst.
 
-![](en/remove_contact.gif)
+![](de/gajim_16.gif)
 
-# Personnal details
-You can change your personal details, your avatar, etc.
-Cick on **Accounts** then **Profile**. There are a lot of options there. Probably the two most important ones are:
-- **Avatar**: Click on the avatar to change it.
-- **Nickname**: if you want to change your default nickname. By default this is your **Disroot** username.
+## Einen Raum verlassen
+Wenn Du einen Raum verlassen möchtest, musst Du die Verbindung zu dem Raum *trennen*. Um das zu tun gibt es zwei Wege:
 
-Click on **OK** when you're done.
+1. Wenn der Raum geöffnet ist, klicke auf die drei waagerechten Striche in der *Nachricht-schreiben*-Box ![](de/gajim_14.png) und wähle *Verbindung trennen*.
+2. In der Raumliste im linken Paneel klickst Du mit der rechten Maustaste auf den entsprechenden Raum und wählst *Verbindung trennen*.
 
-![](en/profile.gif)
+![](de/gajim_17.gif)
 
-**Be careful** as everyone will be allowed to see what you set in your profile.
+## Einen Raum merken
+Du kannst Dir ein Lesezeichen für einen Raum anlegen, um ihm zum Einen später leichter beitreten zu können und ihn zum Anderen auch über mehrere Clients hinweg zu behalten.
+
+Wenn Du einen Raum zum ersten Mal betrittst oder einen Raum erstellst, wird Dir diese Box angezeigt:
+
+![](de/gajim_13.png)
+
+hier kannst Du bereits auswählen, ob Du diesen Gruppenchat speichern möchtest.
+
+Wenn Du später ein Lesezeichen für einen Raum anlegen möchtest, klicke auf die drei waagerechten Striche in der *Nachricht-schreiben*-Box: ![](de/gajim_14.png) und wähle *Gruppenchat speichern*.
+
+![](de/gajim_18.gif)
+
+Wenn Du ein Lesezeichen für einen Gruppenchat löschen möchtest, findest Du die Verwaltungsoption *Gespeicherte Gruppenchats* dort, wo Du auch die *Einstellungen* und die *Plugin*-Verwaltung gefunden hast:
+
+![](gajim_04.png)
+
+In dem nun erscheinenden Fenster kannst Du Gruppenchats zu Deinen Lesezeichen hinzufügen und entfernen.
+
+![](de/gajim_19.png)
 
 
-# Final note on Gajim
-We have just presented what we think to be the most important features to start using your XMPP account on **Gajim**. But **Gajim** is full of features, so explore them!
+## Raum-Verlauf
+Sobald Du **Gajim** schließt, werden die bereits gelesenen Nachrichten in den Raum-Fenstern entfernt. Dennoch kannst Du weiterhin auf den Verlauf Deines Gruppenchats zugreifen.
 
-If you have any question regarding the use of **Gajim**, join the gajim XMPP room: gajim@conference.gajim.org or check the [gitlab repo](https://dev.gajim.org/gajim/gajim)
+![](de/08_history.png)
+
+Klicke auf die drei waagerechten Striche in der *Nachricht-schreiben*-Box ![](de/gajim_14.png) und wähle *Unterhaltungsverlauf*.
+Innerhalb des Verlaufs kannst Du nach Datum navigieren.
+
+![](de/gajim_20.png)
+
+
+## Einen öffentlichen Raum finden
+Du hast die Möglichkeit, nach öffentlichen Räumen auf XMPP-Servern zu suchen.
+Klicke auf *Konten* und dann auf *Dienste durchsuchen*.
+
+Bei *Adresse* kannst Du jeden öffentlichen XMPP-Server auswählen. Zum Beispiel kannst Du hier **disroot.org** eingeben, um einen öffentlichen Raum auf dem **Disroot-XMPP**-Server zu finden. Klicke auf *Los*.
+
+Sieh Dir dann die Auwahl an, die Du erhältst. Du müsstest einen Bereich *Gruppenchat* sehen, dort wählst Du Du dann den Eintrag aus, der etwas mit *room server* zu tun hat. Klicke auf *Durchsuchen*.
+
+![](de/gajim_21.gif)
+
+
+# Direktnachrichten: 1-zu-1-Gespräch
+Du kannst auch mit jemandem im Privaten chatten, in einer 1:1-Diskussion, an der nur ihr beide teilnehmt.
+
+## Kontakt hinzufügen
+Klicke auf *Konten* und wähle *Kontakt hinzufügen*.
+
+![](de/gajim_22.png)
+
+1. **Jabber ID**: Die XMPP-Adresse des Kontakts, den Du hinzufügen möchtest. Wenn dieser Kontakt ein **Disroot**-Nutzer ist, sieht seine/ihre XMPP-Adresse so aus: *benutzername@disroot.org*
+2. **Spitzname**: Der Spitzname kann von der Adresse abweichen.
+3. **Gruppe**: Du kannst Gruppen erstellen, um Deine Kontakte zu organisieren.
+4. **Erlaube diesem Kontakt, meinen Status zu sehen**: Wenn Du dies aktivierst, wird Dein Kontakt sehen, ob Du online oder offline bist.
+5. **Abonnementnachricht**: Diese Nachricht erhält Dein Kontakt als Mitteilung zu Deinem Wunsch, ihn zu Deinen Kontakten hinzuzufügen. Du kannst die Nachricht ändern.
+6. **Abonnementnachricht speichern**: Wenn Du eine eigene Abonnementnachricht eingegeben hast und diese öfter nutzen möchtest, wähle diese Option aus.
+7. **Hinzufügen**
+
+Wenn Du auf *Hinzufügen* klickst, wird Deinem Kontakt eine Nachricht gesendet. Wenn die Person Deine Eintragung akzeptiert, wird er/sie Deiner Kontaktliste hinzugefügt. Bis dahin erscheint der potentielle Kontakt bereits im entsprechenden Paneel, allerdings als *schwebend*, also quasi in Warteposition.
+
+## Mit einem Kontakt reden
+Um mit einem Kontakt zu reden und einen 1:1-Chat zu öffnen, mache einfach einen Doppelklick auf den entsprechenden Namen in Deiner Kontaktliste.
+
+## Einen Kontakt entfernen
+Um einen Kontakt zu entfernen, mache einen Doppelklick auf seinen Namen in Deiner Kontaktliste. Wähle *Kontakt verwalten* und dann *Entfernen*.
+
+![](de/gajim_23.gif)
+
+# Persönliche Informationen
+Du kannst Deine persönlichen Informationen und Deinen Avatar ändern.
+Klicke auf *Konten* und dann auf *Profil und Avatar*. Hier hast Du dann viele Möglichkeiten. Die zwei wichtigsten sind wahrscheinlich:
+- **Avatar**: Klicke auf das Feld bzw. den angezeigten Avatar, um eine (andere) Bilddatei für Deinen Avatar auszuwählen.
+- **Spitzname**: Wenn Du Deinen Standard-Anzeigename ändern möchtest. Standardmäßig wird Dein **Disroot**-Benutzername als Spitzname angenommen.
+
+Klicke auf *OK*, wenn Du fertig bist.
+
+![](de/gajim_24.gif)
+
+!! ![/home/icons/note.png]
+!! **Sei vorsichtig, wie viele persönliche Angaben Du machst**, da sie von wirklich jedem in Deinem Profil gesehen werden können.
+
+
+# Eine letzte Anmerkung zu Gajim
+Wir haben Dir jetzt nur gezeigt, was wir für die wichtigsten Funktionen für den Anfang gehalten haben, um Deinen **XMPP**-Account in **Gajim** zu nutzen. **Gajim** ist jedoch voller Funktionen, also scheue Dich nicht, sie zu entdecken!
+
+Wenn Du Fragen zu **Gajim** hast, kannst Du den XMPP-Raum über **Gajim** besuchen: gajim@conference.gajim.org oder Du siehst Dir das [Gitlab Repo](https://dev.gajim.org/gajim/gajim) an.
+
+Wie Du sicherlich bemerkt hast, ist **Gajim** noch nicht vollständig ins Deutsche übersetzt. Falls Du dabei helfen möchtest, findest DU dazu auch weitere Informationen im Gitlab Repo.
