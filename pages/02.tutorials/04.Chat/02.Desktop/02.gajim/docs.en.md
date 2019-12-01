@@ -1,9 +1,5 @@
 ---
 title: Chat client: Gajim
-updated:
-        last_modified: "April 2019"
-        app: Gajim
-        app_version: 1.1
 published: true
 visible: false
 indexed: true
@@ -22,13 +18,13 @@ page-toc:
     active: true
 ---
 
-![](/start/icons/gajim.png)
+![](/home/icons/gajim.png)
 Gajim is multi-platform (runs on most operating systems) messaging application.
 
 To setup **Disroot** chat on **Gajim**, follow these easy steps:
 
 # Installing Gajim
-**Gajim** is available in most package repositories of the most widely used distros. If it's not your case, or you are a **MS Windows** user, you can check the [Gajim's website](https://gajim.org/downloads.php) and download the version you're looking for.
+**Gajim** is available in most package repositories of the most widely used distros. If it's not your case, or you are a **MS Windows** user, you can check the [Gajim's website](https://gajim.org/download/) and download the version you're looking for.
 
 # First start
 Start **Gajim**. You will be greeted with a welcome message like this:
@@ -43,7 +39,7 @@ Next, fill in the information needed:
 
 ![](en/02_creation.png)
 
-- **Jabber ID**: replace **username** by either your **Disroot** username, or the username you have already created on any XMPP server. And for the **@** part, choose your server name: it is **disroot.org** if your use your **Disroot** account. Remember that your XMPP account will looks like this: `username_@_disroot.org`
+- **Jabber ID**: replace **username** by either your **Disroot** username, or the username you have already created on any XMPP server. And for the **@** part, choose your server name: it is **disroot.org** if your use your **Disroot** account. Remember that your XMPP account will look like this: `username_@_disroot.org`
 - **Password**: either your **Disroot** password, or the password you have already set on any XMPP server.
 - Click on **Forward**.
 
@@ -76,6 +72,7 @@ Then, in the same place you found the **Preferences**, you should find **Plugins
 You need two plugins:
     - OMEMO
     - URL image preview
+(Maybe you'll need to install the Plugin Installer first, which you can find [here](https://dev.gajim.org/gajim/gajim-plugins/wikis/plugininstallerplugin) to download. After the download you can install it by clicking the button *Install from zip* in the **Plugins** window, to get the **Available** tab)
 
 So go to the **Available** tab and check those two plugins. Click on **Install/Upgrade** when you’re done.
 
@@ -106,7 +103,7 @@ To write/send message to contact or into a room, use the sending message box:
 2. You can add a smiley.
 3. In **Gajim** you have some format options. But they don't work in other clients. So if you set a text in bold, they won't be seen as bold in other clients.
 4. You can join/send any kind of files. The upload limit is currently of 10MB with **Disroot** XMPP server.
-5. You can change the encryption of the message from Disable to OMEMO.
+5. You can change the encryption of the message from Disable to OMEMO (not in open groupchats).
 
 Just press the *Enter* key when you want to send your message.
 
@@ -119,7 +116,7 @@ Note that a pencil appears next to the modified message.
 
 # Rooms
 ## Entering or creating a room
-Room are also called group conversations or MUC (Multiple Chat Users).
+Room are also called group conversations or MUC (Multiple User Chats).
 
 To join one, click on **Accounts** (top-left corner), then on **Join Group Chat**. There, some group conversations may appear (the ones you have already joined in the past).
 
@@ -146,14 +143,14 @@ There are a lot of features! Some of the important ones are:
 - **Include room information in public list**: uncheck this box if you don't want your room to be listed.
 - **Only allow members to join**: if you want your room to be members-only. Then, you can add members a little further, in this section: ![](en/add_members.png)
 
-You can also invite a contact in a members-only room: this contact then become a member of this room. Right click on the contact you want to invite and choose **Invite to** and  choose the room you want to invite him/her in.
+You can also invite a contact in a members-only room: this contact then become a member of this room. Right click on the contact you want to invite, choose **Invite to** and choose the room you want to invite him/her in.
 
 ![](en/invite.gif)
 
 ## Leaving a room
-When you want to leave a room, you need to *disconnect* fro do so there is two ways:
+When you want to leave a room, you need to *disconnect*. To do so there are two ways:
 1. If the room is opened, click on the three dots in the send message box ![](en/dots.png) and choose **Diconnect**.
-2. In the list of your room on the left pannel, right click on the desired room, and choose **Diconnect**.
+2. In the list of your room on the left panel, right click on the desired room, and choose **Diconnect**.
 
 ![](en/disconnect.gif)
 
@@ -186,7 +183,7 @@ Click on **Accounts**, then **Discover Services**.
 
 In **Address** you can choose any public XMPP server. For example, add **disroot.org** to find a public room on **Disroot** XMPP server. Click on **Go**.
 
-Then, search the **Conference** section and choose something that looks like *room server*. Clck on **Browse**.
+Then, search the **Conference** section and choose something that looks like *room server*. Click on **Browse**.
 
 ![](en/public_rooms.gif)
 
@@ -198,7 +195,7 @@ You can also chat with someone in private, in a 1:1 discussion with only the two
 Click on **Accounts** and choose **Add contact**.
 
 ![](en/add_contact.png)
-1. **Jabber ID**: the XMPP address of the the contact you want to add. If this contact his on **Disroot**, his/her XMPP address is like this : **username@disroot.org**
+1. **Jabber ID**: the XMPP address of the the contact you want to add. If this contact his on **Disroot**, his/her XMPP address is like this: **username@disroot.org**
 2. **Nickname**: it can be different of the address.
 3. **Group**: you can create groups to organize your contact.
 4. **Allow contact to view my status**: if checked, that means your contact will be warned you're online/offline.

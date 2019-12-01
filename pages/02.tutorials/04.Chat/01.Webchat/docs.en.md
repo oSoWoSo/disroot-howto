@@ -41,7 +41,7 @@ Once you've logged in, you may see something like this:
 7. The message editor
 
 # Rooms
-You can participate in group discussions, also called groupschats or rooms.
+You can participate in group discussions, also called groupchats or rooms.
 
 ## Entering a room
 
@@ -141,7 +141,7 @@ First you'll need to add a contact before you can talk to the user.
 
 ![](en/16_add_contact.png)
 1. Click on this button to add a contact.
-2. **XMPP Address**: *Your_Contact_XMPP_address*. It can be any XMPP server address, as long as it federates.
+2. **XMPP Address**: *XMPP_address_of_your_Contact*. It can be any XMPP server address, as long as it federates.
 3. **Optional nickname**: it can be anything you want.
 4. **Add**: click on the button once you're done.
 
@@ -167,10 +167,10 @@ If you want your conversation to be really secure, make sure that **OMEMO** is a
 If the chat is encrypted then it should look like this: ![](en/22_omemo.png) {.inline}
 
 
-# Personnal details
+# Personal details
 
 ## Changing name, avatar, etc.
-To change your personnal details, click on your avatar on the top-left corner.<br>
+To change your personal details, click on your avatar on the top-left corner.<br>
 You can add the following information:
 ![](en/23_profile.png)
 
