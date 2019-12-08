@@ -1,5 +1,5 @@
 ---
-title: How-to: License
+title: Licença dos tutoriais
 published: true
 visible: true
 updated:
