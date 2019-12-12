@@ -16,13 +16,13 @@ page-toc:
 
 Nós pensamos que o conhecimento é uma construção coletiva. Por outras palavras, o conhecimento é o resultado de um trabalho conjunto e cooperativo em comunidade.
 
-Disroot platform cost money besides our most precious value: time. While the costs of maintaining all the services working on started being covered a few months ago thanks to donations, documentation requires time.
-*"A lot of precious time..."*
+O Disroot, para além de custar dinheiro também consome o nosso bem mais precioso: tempo. Apesar de desde à uns meses que conseguimos cobrir os custos de manter todos os serviços a funcionar graças a donativos, documentação continua a consumir tempo.<br>
+**Muito tempo precioso**
 
-For those users who may want to contribute to Disroot by donating their time and knowhow, we've tried to channel all the efforts through this section.
-Here you'll find basic information and guidelines for different ways to contribute, from feedback to write a how-to or translate them to your language.
+Criamos esta secção do nosso site para aqueles que queiram contribuir contribuir com o seu tempo e conhecimento para o Disroot. 
 
-Thanks to all of you who support and collaborate with Disroot.
+Aqui encontras informação inicial sobre diferentes formas de contribuir, desde feedback a escrever tutoriais ou traduzi-los para a tua língua.
 
+Obrigado a todos os que apoiam e colaboram com o Disroot.
 
 ![](contribute.png)
