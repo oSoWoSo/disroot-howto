@@ -1,0 +1,24 @@
+---
+title: Home
+content:
+    items:
+      '@taxonomy':
+        category: [topic]
+    order:
+        by: default
+        dir: asc
+    pagination: true
+---
+
+### Bem vindos ao site de guias de utilizador e tutoriais do Disroot.
+
+
+O objetivo principal deste site é ajudar-te a orientares-te pelos vários serviços do **Disroot**.
+
+
+Conseguir cobrir neste site todos os serviços e funcionalidades do **Disroot** para todos as plataformas e Sistemas Operativos é um projeto bastante ambicioso e consome bastante tempo e requer bastante trabalho. E porque nós achamos que  este trabalho é útil não apenas para os utilizadores do **Disroot** (disrooters), mas para toda a comunidade **Software Livre** e **Open Source** que utiliza o mesmo software, ou software parecido, qualquer ajuda de utilizadores é sempre bem vinda e necessária.<br>
+
+Por isso, se achas que falta um tutorial, que a informação não está correta ou que pode ser melhorada,
+por favor entra em contacto connosco (ou melhor ainda) escreve um tutorial tu próprio.<br>
+
+Para veres as diferentes maneiras de que podes contribuir vê a seguinte [página](/contribute).
