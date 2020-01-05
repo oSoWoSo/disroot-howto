@@ -1,22 +1,36 @@
+# This Vagrant setup is still Work in Progress, though it can be used as is.
+
 # Disroot Howto Development Environment using Vagrant
 
-## requrements
-1. vagrant 2.2.1  
+## requirements
+1. vagrant 2.2.6
 	for install on Debian run commands:
 	```
-	wget https://releases.hashicorp.com/vagrant/2.2.1/vagrant_2.2.1_x86_64.deb
+	wget https://releases.hashicorp.com/vagrant/2.2.6/vagrant_2.2.6_x86_64.deb
 	```
 	```
-	sudo dpkg -i vagrant_2.2.1_x86_64.deb
+	sudo dpkg -i vagrant_2.2.6_x86_64.deb
 	```
 	```
 	sudo apt install -f
 	```
 
 2. virtuabox  
-	for install on Debian run command:
+	for install on Debian Jessie run command:
 	```
 	sudo apt install virtualbox-6.0
+	```
+
+	for install on Debian Buster run command:
+	```
+	sudo echo 'deb http://download.virtualbox.org/virtualbox/debian buster contrib' > /etc/apt/sources.list.d/virtualbox.list
+	```
+	```
+	wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+	wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key add -
+	```
+	```
+	sudo apt-get update ; sudo apt-get install virtualbox-6.0
 	```
 
 3. vagrant plugins vagrant-vbguest:  
@@ -24,36 +38,38 @@
 	```
 	vagrant plugin install vagrant-vbguest
 	```
-	```
-	vagrant vbguest
-	```
 
-4. git 
+4. git
 	```
 	sudo apt install git
 	```
 
-## Installation 
+## Installation
 
-1. Clone howto repo to howto project folder
+1. Create a Disroot folder, in which you'll clone the repository:
+	```
+	mkdir ~/Disroot
+	```
+2. Clone howto repo to Disroot folder
 	```
 	git clone https://git.fosscommunity.in/disroot/howto.git ~/howto
 	```
-2. Add the local domain name for the hub to your host machine's `/etc/hosts` file.
+3. Add the local domain name for the hub to your host machine's `/etc/hosts` file.
 
 	```
 	echo "192.168.33.11 howto.disroot.lan" >> /etc/hosts
 	```
-3. Launch Vagrant to build the virtual machine (VM). This will take several minutes.
+4. Launch Vagrant to build the virtual machine (VM). This will take several minutes.
 	```
-	cd ~/howto/vagrant
+	cd ~/Disroot/howto/vagrant
 	vagrant up howto_disroot_lan
 	```
 
 Congratulations, you should now have a fully functioning apache+GRAV server running locally in a Virtualbox-hosted VM managed by Vagrant. Next time you want to run vagrant simply run command
 	```
-	cd ~/howto/vagrant
+	cd ~/Disroot/howto/vagrant
 	vagrant up howto_disroot_lan
+	vagrant provision
 	```
 
 ### Enable SSH access
@@ -65,12 +81,12 @@ To make your development workflow more efficient, you may wish to use an SSH con
 	user@host:~$ cat ~/.ssh/id_rsa.public
 		ssh-rsa eLX1UQbJHUCHf2V3K7YlMP0YmIT+50rlEsWre1eobApKb0Ac/WbvssX/Gh/ user@host
 	```
-1. Use `vagrant ssh howto_disroot_lan` to log in to the virtual machine.
+2. Use `vagrant ssh howto_disroot_lan` to log in to the virtual machine.
 	```
-	user@host:~$ cd ~/howto/vagrant 
+	user@host:~$ cd ~/Disroot/howto/vagrant
 	user@host:hubzilla-vagrant$ vagrant ssh howto_disroot_lan
 	```
-1. Switch to root and add your host user public key.
+3. Switch to root and add your host user public key.
 	```
 	vagrant@stretch:~$ sudo -i
 	root@jessie:~# ssh-keygen
@@ -97,8 +113,7 @@ To make your development workflow more efficient, you may wish to use an SSH con
 			+-----------------+
 	root@stretch:~# echo "ssh-rsa eLX1UQbJHUCHf2V3K7YlMP0YmIT+50rlEsWre1eobApKb0Ac/WbvssX/Gh/ user@host" >> ~/.ssh/authorized_keys
 	```
-1. From your host machine, you may now SSH into the virtual machine using
+4. From your host machine, you may now SSH into the virtual machine using
 	```
 	ssh root@howto.disroot.lan
 	```
-
