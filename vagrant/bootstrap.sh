@@ -78,10 +78,10 @@ sudo -u "${WWW_USER}" -i 's/false/true/g' "${WEB_ROOT}""${WEB_NAME}"/user/plugin
 sudo sed -i "s/127.0.0.1\tlocalhost/127.0.0.1\tlocalhost ${WEB_NAME}/" /etc/hosts
 
 #Add website pages in GRAV
-sudo mount -o bind /var/www/pages "${WEB_ROOT}""${WEB_NAME}"/user/pages
+sudo mount -o bind "${WEB_ROOT}"/pages "${WEB_ROOT}""${WEB_NAME}"/user/pages
 chown "${WWW_USER}":"${WWW_USER}" -R "${WEB_ROOT}""${WEB_NAME}"/user/pages
 
 #Add Disroot theme  in GRAV
-sudo -u www-data ln -s /var/www/themes/grav-theme-howto "${WEB_ROOT}""${WEB_NAME}"/user/themes/grav-theme-howto
+sudo -u "${WWW_USER}" ln -s "${WEB_ROOT}"/themes/grav-theme-howto "${WEB_ROOT}""${WEB_NAME}"/user/themes/grav-theme-howto
 
 exit 0
