@@ -240,11 +240,38 @@ a:hover {
 /* hide toggle button */
 .main-nav > a.mobile-btn { display: none; }
 
-/* Language selector */
+/* age selector */
 
 .language-selector .btn {
     position: relative;
     top: 20px;
+    color: #b9a2ab;
+    background-color: #50162D;
+    border-color: #50162D;
+    font-size: 1.2rem;
+}
+
+.language-selector .btn i {
+    position: absolute;
+    top: 25px;
+    right: 15px;
+}
+
+.language-selector .dropdown-menu {
+  color: #b9a2ab;
+  background-color: #50162D;
+  border-color: #50162D;
+  right: 0px;
+  left: auto;
+  font-size: 1.1rem;
+}
+
+.language-selector .dropdown-menu li:hover {
+    background-color: #8EB726;
+}
+
+.language-selector .dropdown-menu>li>a {
+  color: #b9a2ab;
 }
 
 /* Volor bar */

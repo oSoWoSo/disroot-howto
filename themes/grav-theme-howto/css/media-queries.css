@@ -108,6 +108,34 @@
 
 @media (max-width: 900px) and (min-width:601px) {
 
+  /* Language menu*/
+
+  #language {
+      position: fixed;
+      top: 0px;
+      right: 75px;
+  }
+
+  .language-selector .btn {
+      font-size: 1.2rem;
+      padding: 19px 15px;
+  }
+
+  .language-selector .btn i {
+      position: absolute;
+      top: 35px;
+      right: 20px;
+  }
+
+  .language-selector .dropdown-menu {
+    font-size: 1.1rem;
+  }
+
+  .language-selector .dropdown-menu>li>a {
+      padding: 12px 15px;
+  }
+
+
 }
 
 @media (max-width: 600px) {
