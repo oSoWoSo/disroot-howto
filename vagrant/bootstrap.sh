@@ -49,6 +49,7 @@ sudo chmod 775 -R bin/
 sudo -u "${WWW_USER}" bin/grav install
 sudo -u "${WWW_USER}" bin/gpm install form
 sudo -u "${WWW_USER}" bin/gpm install simplesearch
+sudo -u "${WWW_USER}" bin/gpm install relatedpages
 sudo -u "${WWW_USER}" sed -i 's/quark/grav-theme-howto/g' "${YAML}"
 
 # Add Grav config
