@@ -47,7 +47,6 @@ sudo -u "${WWW_USER}" composer install --no-dev -o
 sudo chown -R ${WWW_USER}:${WWW_USER} "${WEB_ROOT}"
 sudo chmod 775 -R bin/
 sudo -u "${WWW_USER}" bin/grav install
-sudo -u "${WWW_USER}" bin/gpm install language-selector
 sudo -u "${WWW_USER}" bin/gpm install form
 sudo -u "${WWW_USER}" bin/gpm install simplesearch
 sudo -u "${WWW_USER}" sed -i 's/quark/grav-theme-howto/g' "${YAML}"
@@ -83,5 +82,8 @@ chown "${WWW_USER}":"${WWW_USER}" -R "${WEB_ROOT}""${WEB_NAME}"/user/pages
 
 #Add Disroot theme  in GRAV
 sudo -u "${WWW_USER}" ln -s "${WEB_ROOT}"/themes/grav-theme-howto "${WEB_ROOT}""${WEB_NAME}"/user/themes/grav-theme-howto
+
+#Add language-selector in GRAV
+sudo -u "${WWW_USER}" ln -s "${WEB_ROOT}"/grav-plugin-language-selector "${WEB_ROOT}""${WEB_NAME}"/user/plugins/language-selector
 
 exit 0

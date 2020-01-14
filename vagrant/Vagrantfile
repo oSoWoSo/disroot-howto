@@ -20,6 +20,7 @@ Vagrant.configure("2") do |config|
 	howto_disroot_lan.vm.provision :shell, path: "bootstrap.sh"
 	howto_disroot_lan.vm.synced_folder "../pages/", "/var/www/pages", owner: "www-data", group: "www-data"
 	howto_disroot_lan.vm.synced_folder "../themes/", "/var/www/themes", owner: "www-data", group: "www-data"
+	howto_disroot_lan.vm.synced_folder "../../grav-plugin-language-selector", "/var/www/grav-plugin-language-selector", owner: "www-data", group: "www-data"
 
 
 end
