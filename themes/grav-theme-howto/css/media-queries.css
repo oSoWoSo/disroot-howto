@@ -51,7 +51,6 @@
     height: 48px;
     text-align: left;
     background: #50162D;
-    position: relative;
     border: none;
     float: right;
     text-shadow: none;
@@ -120,6 +119,12 @@
       top: 35px;
       font-size: 1.2rem;
       padding: 19px 15px;
+  }
+
+  .language-selector ul#langSelectorList {
+      position: absolute;
+      top: 50px;
+      right: 0;
   }
 
   .language-selector .btn i {
