@@ -62,7 +62,7 @@ Agora os que tem na sua conta Disroot devem estar sincronizados com o seu dispos
 # Contactos
 Os seus contactos deverão ser sincronizados imediatamente com a sua conta Disroot.
 **Nota:**
-Se quiser migrar os seus contactos do Android para a sua conta Disroot e para de os sincronizar com a Google então siga   [este](https://howto.disroot.org/en/nextcloud/sync-with-your-cloud/android/migrating-contacts-from-google) tutorial.
+Se quiser migrar os seus contactos do Android para a sua conta Disroot e para de os sincronizar com a Google então siga **[este tutorial](../migrating-contacts-from-google)**.
 
 ---------------------
 # Tarefas

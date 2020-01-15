@@ -71,7 +71,7 @@ After that, the calendars in your **Disroot** account that you selected will be 
 Your Contacts should be straight away available and synced with **Disroot**.
 
 !! ![](en/note.png)
-!! NOTE: If you want to migrate your **Android** contacts to your **Disroot** contacts and stop syncing with **Google**, then follow [this](migrating-contacts-from-google) tutorial.
+!! NOTE: If you want to migrate your **Android** contacts to your **Disroot** contacts and stop syncing with **Google**, then follow **[this tutorial](../migrating-contacts-from-google)**.
 
 ---------------------
 # Tasks

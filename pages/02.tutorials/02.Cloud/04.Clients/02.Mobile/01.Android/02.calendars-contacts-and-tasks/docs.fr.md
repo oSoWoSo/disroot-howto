@@ -63,7 +63,7 @@ Après cela, les calendriers sélectionnés de votre compte disroot seront synch
 # Contacts
 Vos contacts sont immédiatement disponibles et synchronisés avec disroot.
 **Note:**
-Si vous voulez migrer vos contacts Android vers vos contacts disroot et arrêter la synchronisation avec google, alors suivez [ce tutoriel](https://howto.disroot.org/en/nextcloud/sync-with-your-cloud/android/migrating-contacts-from-google).
+Si vous voulez migrer vos contacts Android vers vos contacts disroot et arrêter la synchronisation avec google, alors suivez **[ce tutoriel](../migrating-contacts-from-google)**.
 
 ---------------------
 

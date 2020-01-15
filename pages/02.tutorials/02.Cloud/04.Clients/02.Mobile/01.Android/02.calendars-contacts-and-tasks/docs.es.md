@@ -64,7 +64,7 @@ Después de eso, los calendarios en tu cuenta de Disroot que hayas seleccionado 
 # Contactos
 Tus Contactos deberían estar enseguida disponibles y sincronizados con Disroot.
 **Nota:**
-Si quieres migrar tus contactos de Android a tus contactos de Disroot y dejar de sincronizar con Google, entonces sigue [este](https://forum.disroot.org/t/syncing-android-with-owncloud/186) tutorial hecho por @muzirian
+Si quieres migrar tus contactos de Android a tus contactos de Disroot y dejar de sincronizar con Google, entonces sigue **[este tutorial](../migrating-contacts-from-google)** hecho por @muzirian
 
 ---------------------
 # Tareas
