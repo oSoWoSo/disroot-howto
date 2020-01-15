@@ -153,6 +153,9 @@ a:hover {
 
 /* Menu Settings */
 
+.main-nav {
+}
+
 .main-nav ul {
     display: flex;
     justify-content: space-between;
@@ -261,8 +264,7 @@ a:hover {
   color: #b9a2ab;
   background-color: #50162D;
   border-color: #50162D;
-  right: 0px;
-  left: auto;
+  top: 20px;
   font-size: 1.1rem;
 }
 
