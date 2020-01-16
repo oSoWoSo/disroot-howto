@@ -73,6 +73,13 @@ a:hover {
     margin: 0 3rem;
 }
 
+#flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
 .padding {
     padding: 3rem 1rem;
 }
