@@ -243,7 +243,7 @@ a:hover {
 /* hide toggle button */
 .main-nav > a.mobile-btn { display: none; }
 
-/* age selector */
+/* Language selector */
 
 .language-selector .btn {
     position: relative;
@@ -275,6 +275,9 @@ a:hover {
 .language-selector .dropdown-menu>li>a {
   color: #b9a2ab;
 }
+
+ul#nav li a:hover { color: #FFFFFF; opacity: 1;}
+
 
 /* Volor bar */
 .body-top {
