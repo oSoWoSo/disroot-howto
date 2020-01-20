@@ -16,6 +16,14 @@
      #sidebar {
        display: none;
     }
+
+    #flex {
+      width: 90vw;
+      margin-left: 5vw;
+    }
+     #flex .columns {
+      width: 50%;
+    }
 }
 
 @media only screen and (max-width: 767px) {
@@ -104,9 +112,19 @@
       clear: both;
    }
 
+   #flex {
+      width: 110vw;
+      margin-left: 0;
+    }
+
    #flex .columns {
      height: auto;
    }
+
+   #flex .three {
+  padding-right: 60px;
+  margin-bottom: 20px;
+  }
 
 }
 
