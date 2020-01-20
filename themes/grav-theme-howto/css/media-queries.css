@@ -17,10 +17,7 @@
        display: none;
     }
 
-    #flex {
-      width: 90vw;
-      margin-left: 5vw;
-    }
+
      #flex .columns {
       width: 50%;
     }
@@ -113,9 +110,9 @@
    }
 
    #flex {
-      width: 110vw;
-      margin-left: 0;
-    }
+     width: 100vw;
+     left: auto;
+
 
    #flex .columns {
      height: auto;
