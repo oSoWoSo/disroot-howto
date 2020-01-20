@@ -74,20 +74,25 @@ a:hover {
 }
 
 #flex {
-  display: flex;
+  width: 80vw;
+/*  display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: space-evenly;*/
+}
+
+#flex .columns {
+  height: 600px;
 }
 
 #flex .three {
-  margin-left: 30px;
-  margin-right: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
-#flex h2 {
+/*#flex h2 {
   text-align: center;
-}
+}*/
 
 .padding {
     padding: 3rem 1rem;
