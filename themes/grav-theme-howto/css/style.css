@@ -75,6 +75,7 @@ a:hover {
 
 #flex {
   width: 80vw;
+  margin-top: -50px;
 /*  display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -92,7 +93,7 @@ a:hover {
 
 #flex .three {
   padding-right: 60px;
-  margin-bottom: 50px;
+  margin-bottom: 80px;
 }
 
 #flex hr {
@@ -210,7 +211,7 @@ a:hover {
     display: block;
     line-height: 30px;
     color: #fff;
-    padding: 0 30px;
+    padding: 0 10px;
     white-space: nowrap;
 }
 
