@@ -153,6 +153,9 @@ a:hover {
 
 /* Menu Settings */
 
+.main-nav {
+}
+
 .main-nav ul {
     display: flex;
     justify-content: space-between;
@@ -245,7 +248,36 @@ a:hover {
 .language-selector .btn {
     position: relative;
     top: 20px;
+    color: #b9a2ab;
+    background-color: #50162D;
+    border-color: #50162D;
+    font-size: 1.2rem;
 }
+
+.language-selector .btn i {
+    position: absolute;
+    top: 25px;
+    right: 15px;
+}
+
+.language-selector .dropdown-menu {
+  color: #b9a2ab;
+  background-color: #50162D;
+  border-color: #50162D;
+  top: 20px;
+  font-size: 1.1rem;
+}
+
+.language-selector .dropdown-menu li:hover {
+    background-color: #8EB726;
+}
+
+.language-selector .dropdown-menu>li>a {
+  color: #b9a2ab;
+}
+
+ul#nav li a:hover { color: #FFFFFF; opacity: 1;}
+
 
 /* Volor bar */
 .body-top {
