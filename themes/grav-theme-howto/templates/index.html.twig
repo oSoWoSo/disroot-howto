@@ -12,6 +12,8 @@
 <section id="{{ page.header.section_id }}" class="wrapper row columns">
 {% for p in page.collection %}
 <div class="topic-list three columns">
+  <img src="{{ theme_url }}/images/logos/logo-{{ p.title|lower }}.png">
+  <hr>
   <h2><a href="{{ p.url }}">{{ p.title }}</a></h2>
   {% for q in p.children.visible %}
       <h5><a href="{{ q.url }}">{{ q.title }}</a></h5>

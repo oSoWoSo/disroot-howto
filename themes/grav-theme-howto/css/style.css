@@ -83,16 +83,33 @@ a:hover {
 
 #flex .columns {
   height: 600px;
+  /*border: none;
+  border-radius: 0px;
+  box-shadow: 10px 10px 38px 0px rgba(0, 0, 0, 0.25);
+  width: 23%;
+  margin: 1%;*/
 }
 
 #flex .three {
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-right: 60px;
+  margin-bottom: 50px;
 }
 
-/*#flex h2 {
-  text-align: center;
-}*/
+#flex hr {
+  border: 1px solid var(--primary-color);
+  border-radius: 5px;
+}
+
+#flex img {
+  width: 50px;
+  height: 50px;
+  position:relative;
+  top: 45px;
+  left: 25%;
+  filter: none;
+  background-color: none;
+  box-shadow: none;
+}
 
 .padding {
     padding: 3rem 1rem;
