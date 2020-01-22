@@ -10,6 +10,11 @@
      #sidebar {
        display: none;
     }
+
+
+     #flex .columns {
+      width: 50%;
+    }
 }
 
 /* mobile wide/smaller tablets
@@ -100,7 +105,21 @@
       clear: both;
    }
 
-   /* Language menu*/
+   #flex {
+     width: 100vw;
+     left: auto;
+
+
+   #flex .columns {
+     height: auto;
+   }
+
+   #flex .three {
+  padding-right: 60px;
+  margin-bottom: 20px;
+  }
+
+}
 
    .language-selector {
        position: fixed;

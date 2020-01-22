@@ -73,6 +73,47 @@ a:hover {
     margin: 0 3rem;
 }
 
+#flex {
+  margin-top: -50px;
+  width: 80vw;
+  position: relative;
+  left: calc(-40vw + 55%);
+/*  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;*/
+}
+
+#flex .columns {
+  height: 600px;
+  /*border: none;
+  border-radius: 0px;
+  box-shadow: 10px 10px 38px 0px rgba(0, 0, 0, 0.25);
+  width: 23%;
+  margin: 1%;*/
+}
+
+#flex .three {
+  padding-right: 60px;
+  margin-bottom: 80px;
+}
+
+#flex hr {
+  border: 1px solid var(--primary-color);
+  border-radius: 5px;
+}
+
+#flex img {
+  width: 50px;
+  height: 50px;
+  position:relative;
+  top: 45px;
+  left: 25%;
+  filter: none;
+  background-color: none;
+  box-shadow: none;
+}
+
 .padding {
     padding: 3rem 1rem;
 }
@@ -175,7 +216,7 @@ a:hover {
     display: block;
     line-height: 30px;
     color: #fff;
-    padding: 0 30px;
+    padding: 0 10px;
     white-space: nowrap;
 }
 
@@ -377,7 +418,7 @@ ul#nav li a:hover { color: #FFFFFF; opacity: 1;}
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 1rem;
-    margin-top: 17rem;
+    margin-top: 5rem;
     font-size: 0.7rem;
     overflow: hidden;
     border: none;
