@@ -95,11 +95,12 @@ Une fois que vous pensez votre travail terminé et prêt à être publié sur le
 Une fois que vous avez créé la demande de fusion, elle sera examinée par les administrateurs de Disroot. Les administrateurs peuvent alors accepter votre commit ce qui signifie qu'il sera fusionné avec la branche master et donc visible sur le site, ou vous demander de corriger quelque chose. Une fois que toutes les corrections sont effectuées et que les *chefs suprêmes* de Disroot sont satisfaits, votre demande de fusion sera ajoutée à la banche "master".
 
 # Récupérer ("pull") les changements du serveur
-Si vous voulez garder la branche locale **master** et votre branche locale à jour, vous devez récupérer les modifications du serveur. Chaque fois que quelqu'un voit sa demande de fusion ajoutée à la branche "master", tout le monde devrait aussi ajouter ('pull") les changements dans ses branches locales. Vous pouvez alors voir facilement ce qui est nouveau et ce qui a changé récemment. Sur la branche maître, nous conservons un fichier appelé "CHANGELOG" dans lequel nous notons toutes les modifications importantes apportées à Howtos.
+Si vous voulez garder la branche locale **master** et votre branche locale à jour, vous devez récupérer les modifications du serveur. Chaque fois que quelqu'un voit sa demande de fusion ajoutée à la branche "master", tout le monde devrait aussi ajouter ("pull") les changements dans ses branches locales. Vous pouvez alors voir facilement ce qui est nouveau et ce qui a changé récemment. Sur la branche maître, nous conservons un fichier appelé "**CHANGELOG**" dans lequel nous notons toutes les modifications importantes apportées à Howtos.
 Le tirage ("pull") doit être effectué régulièrement (**surtout avant de commencer à travailler sur une nouvelle branche**).
 
 -  Ouvrir la fenêtre "popup push / pull"
--  Appuyez sur **pull**.
+-  Appuyez sur le bouton [ Pull ] .
+![](en/atom-pull.gif)
 
 
 # Un peu de vocabulaire et d'explications
