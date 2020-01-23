@@ -46,7 +46,7 @@ Maintenant vous pouvez démarrer Atom et `Ouvrir le dossier` que vous venez de c
 ![](en/atom1.png)
 
 Vous pouvez ouvrir et travailler sur plusieurs fichiers dans des onglets ou comme écran divisé côte à côte.
-Les fichiers non sauvegardés avec des modifications locales sont marqués d'un point bleu (selon le thème utilié, bien sûr)
+Les fichiers non sauvegardés avec des modifications locales sont marqués d'un point bleu (selon le thème utilisé, bien sûr)
 Pour enregistrer les modifications de fichier, utilisez le menu *Fichier* ou le raccourci clavier *Ctrl+s*.
 
 Mais avant de commencer à travailler sur les fichiers, vous devez créer votre propre : **branche**
