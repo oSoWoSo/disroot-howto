@@ -128,7 +128,7 @@ It's highly advisable to download backup codes when you have enabled two-factor.
 You can add as many devices as you like. It is recommended to give each device a distinct name. Chrome is the only browser that supports U2F devices by default. You need to install the "U2F Support Add-on" on Firefox to use U2F.
 
 ### Basic encryption module
-Here you can decide whether or not an administrator will be able to recover your files in case you loose your password. This option is disabled by default as it enables admins of Disroot to decrypt and view your files.
+Here you can decide whether or not an administrator will be able to recover your files in case you lose your password. This option is disabled by default as it enables admins of Disroot to decrypt and view your files.
 
 !! ![](en/note.png)**NOTE:**
 !! **Enabling this option after your password was lost will not recover your files!** You must make this decision beforehand. **We strongly encourage you keep your password stored in a safe place.**<br>
