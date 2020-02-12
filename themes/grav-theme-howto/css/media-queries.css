@@ -113,6 +113,9 @@
       clear: both;
    }
 
+
+   /* Howto: Services  */
+
    #flex {
      width: 100vw;
      left: auto;
@@ -129,8 +132,6 @@
 
 .three {
   min-height: auto;
-}
-
 }
 
    .language-selector {
