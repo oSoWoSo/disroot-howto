@@ -282,7 +282,9 @@ a:hover {
 }
 
 /* hide toggle button */
-.main-nav > a.mobile-btn { display: none; }
+.main-nav > a.mobile-btn {
+  display: none;
+  opacity: 1; }
 
 /* Language selector */
 
