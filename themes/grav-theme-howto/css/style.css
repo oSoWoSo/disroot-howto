@@ -76,6 +76,10 @@ a:hover {
 
 /* Simple search plugin  */
 
+.search-row {
+  width: 80%;
+}
+
 .simplesearch {
 padding: 20px;
 }
