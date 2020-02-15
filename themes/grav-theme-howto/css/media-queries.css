@@ -35,6 +35,24 @@
    margin: 0 auto
  }
 
+
+ /* breadcrumbs display improvments */
+ #breadcrumbs {
+   height: 1rem;
+   line-height: 1.2rem;
+   padding-left: 1rem;
+   margin-bottom: 1rem;
+ }
+
+ #breadcrumbs span {
+    display: inline-block;
+    padding: 0 0.2rem;
+}
+
+ #breadcrumbs i {
+    width: 10px;
+}
+
   /* mobile navigation
   ------------------------------------*/
   #main-nav {
