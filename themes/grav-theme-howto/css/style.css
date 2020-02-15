@@ -96,6 +96,10 @@ padding: 20px;
  font-size: 20px;
 }
 
+.search-item h2 {
+ font-size: 16px;
+}
+
 .search-item img {
  height: 50px;
 }
