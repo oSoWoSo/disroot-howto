@@ -53,6 +53,21 @@
     width: 10px;
 }
 
+/* Simple search plugin
+------------------------------------*/
+.search-item {
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+.search-image {
+}
+
+.search-image img {
+  display: none;
+}
+
+
   /* mobile navigation
   ------------------------------------*/
   #main-nav {
