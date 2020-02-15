@@ -56,7 +56,7 @@
 /* Simple search plugin
 ------------------------------------*/
 .search-item {
-	margin-left: 20px;
+	margin-left: 10px;
 	margin-bottom: 10px;
 }
 
@@ -69,6 +69,13 @@
 
 .search-wrapper .search-input {
 	width: 100%;
+}
+
+.search-title h3 {
+  color: white;
+  background-color: #1F5C60;
+  border-radius: 5px;
+	padding: 0.7% 2%;
 }
 
   /* mobile navigation
