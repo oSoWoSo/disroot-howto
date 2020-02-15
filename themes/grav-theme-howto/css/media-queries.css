@@ -67,6 +67,9 @@
   display: none;
 }
 
+.search-wrapper .search-input {
+	width: 100%;
+}
 
   /* mobile navigation
   ------------------------------------*/
