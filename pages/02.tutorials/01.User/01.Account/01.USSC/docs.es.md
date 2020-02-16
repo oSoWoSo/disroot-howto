@@ -8,7 +8,7 @@ taxonomy:
     category:
         - docs
     tags:
-        - usuario
+        - usuarix
         - cuenta
         - gestión
         - administración
@@ -16,9 +16,9 @@ page-toc:
     active: true
 ---
 
-# Centro de Autoservicio de Usuario
+# Centro de Autoservicio de Usuarix
 
-El **Centro de Autoservicio de Usuario** es el lugar donde puedes gestionar las configuraciones de tu cuenta de **Disroot**.
+El **Centro de Autoservicio de Usuarix** es el lugar donde puedes gestionar las configuraciones de tu cuenta de **Disroot**.
 
 Inicia sesión con tu nombre y contraseña de **Disroot**.
 
@@ -94,9 +94,9 @@ Aquí puedes encontrar un resumen de la **información de la cuenta y contraseñ
 ## Eliminar cuenta
 ![](es/eliminar.png)<br>
 
-Si por alguna razón quieres eliminar tu cuenta, solo haz click en esta opción. Una vez que estés seguro acerca de ello, marca la caja de **Acepto** y finalmente **Suprimir**.
+Si por alguna razón quieres eliminar tu cuenta, solo haz click en esta opción. Una vez que estés segurx acerca de ello, marca la caja de **Acepto** y finalmente **Suprimir**.
 
 ![](es/eliminar_02.png)
 
 !! ![](en/note.png)**AVISO:**<br>
-!! **Este proceso es irreversible.**<br>Una vez confirmado, **no podrás iniciar sesión** en tu cuenta o solicitar **restaurarla** después. **Toda la información restante será borrada** dentro de las 48 horas, y **tu actual nombre de usuario no estará disponible** cuando se cree una nueva cuenta.
+!! **Este proceso es irreversible.**<br>Una vez confirmado, **no podrás iniciar sesión** en tu cuenta o solicitar **restaurarla** después. **Toda la información restante será borrada** dentro de las 48 horas, y **tu actual nombre de usuarix no estará disponible** cuando se cree una nueva cuenta.

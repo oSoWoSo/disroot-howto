@@ -9,7 +9,7 @@ taxonomy:
     category:
         - docs
     tags:
-        - usuario
+        - usuarix
         - administración
 page-toc:
     active: false

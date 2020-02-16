@@ -1,5 +1,6 @@
 ---
 title: "Guías: Servicios"
+section_id: flex
 content:
     items:
       - '@taxonomy': {category: [topic]}
