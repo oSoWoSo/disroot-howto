@@ -10,7 +10,7 @@ content:
     pagination: true
 ---
 
-### Bienvenid@s al sitio de Guías y Tutoriales de Disroot.
+### Bienvenidxs al sitio de Guías y Tutoriales de Disroot.
 
 El objetivo principal de este sitio es orientarte a través de los varios servicios de **Disroot**.
 

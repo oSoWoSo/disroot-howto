@@ -8,7 +8,7 @@ taxonomy:
     category:
         - docs
     tags:
-        - usuario
+        - usuarix
         - cuenta
         - alias
 page-toc:
@@ -17,8 +17,8 @@ page-toc:
 
 # Solicitar alias de correo
 
-Los Alias están disponibles para donantes habituales. Con "donantes habituales" nos referimos a aquellos que nos "compran" por lo menos una taza de café al mes.<br>
-No estamos promoviendo el café, que es en realidad un ejemplo muy claro respecto de lo que es [explotación e inequidad](http://thesourcefilm.com/) (http://www.foodispower.org/coffee/), en verdad, pensamos que es una buena manera de dejar a la gente mensurar por sí mismos cuánto pueden dar.
+Los Alias están disponibles para donantes habituales. Con "donantes habituales" nos referimos a aquellxs que nos "compran" por lo menos una taza de café al mes.<br>
+No estamos promoviendo el café, que es en realidad un ejemplo muy claro respecto de lo que es [explotación e inequidad](http://thesourcefilm.com/) (http://www.foodispower.org/coffee/), en verdad, pensamos que es una buena manera de dejar a la gente mensurar por sí mismxs cuánto pueden dar.
 
 Por favor, tómate el tiempo para considerar tu contribución.
 

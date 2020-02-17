@@ -25,6 +25,10 @@ Most E-mail client will be able to discover the correct server setting automagic
 **STARTTLS Port**: 587 <br>
 **Authentication**: Normal Password
 
+**SMTPS Server**: disroot.org <br>
+**TLS Port**: 465 <br>
+**Authentication**: Normal Password
+
 **POP Server**: disroot.org <br>
 **SSL Port**: 995 <br>
 **Authentication**: Normal Password

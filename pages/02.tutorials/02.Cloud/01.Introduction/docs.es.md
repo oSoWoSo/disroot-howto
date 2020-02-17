@@ -16,7 +16,7 @@ page-toc:
   active: true
 ---
 
-# La Interfaz de Usuario
+# La Interfaz de Usuarix
 
 <br>
 
@@ -40,7 +40,7 @@ Luego de iniciar sesión, encontrarás tres secciones principales, o bloques, y 
 ----------
 
 # Configuraciones Personales
-Comencemos mirando lo que puedes configurar y personalizar en tu cuenta en la nube. Haz click sobre tu imagen de perfil en la esquina superior derecha y elige la configuración **"Personal"** (*si no has establecido una imagen aún, verás un avatar redondo con la primera letra de tu nombre de usuario dentro*).
+Comencemos mirando lo que puedes configurar y personalizar en tu cuenta en la nube. Haz click sobre tu imagen de perfil en la esquina superior derecha y elige la configuración **"Personal"** (*si no has establecido una imagen aún, verás un avatar redondo con la primera letra de tu nombre de usuarix dentro*).
 
 ![](es/configuraciones.gif)
 
@@ -49,22 +49,22 @@ Las configuraciones están divididas en secciones. Puedes usar los links rápido
 ![](en/settings_window.png)
 
 ### Personal Info
-**Este es el lugar donde puedes agregar información sobre ti mismo, que luego puedes elegir compartir con otros.**<br>
+**Este es el lugar donde puedes agregar información sobre ti mismx, que luego puedes elegir compartir con otrxs.**<br>
 
-Haciendo click en el ícono de "candado" justo al lado del título de la información, puedes ajustar el nivel de privacidad que quieras asignarle. Por defecto, tu imagen de perfil, nombre completo y correo electrónico están configurados para ser visibles solo a los usuarios y los servidores en los que confíes.
+Haciendo click en el ícono de "candado" justo al lado del título de la información, puedes ajustar el nivel de privacidad que quieras asignarle. Por defecto, tu imagen de perfil, nombre completo y correo electrónico están configurados para ser visibles solo a lxs usuarixs y los servidores en los que confíes.
 
 ![](es/privacidad.gif)
 
 Los niveles que puedes elegir son:
 
   - **Privada**: Tú eres la única persona que puede ver esta información
-  - **Local**: La información será visible para otros usuarios de la nube de Disroot (sólo si conocen tu nombre de usuario)
-  - **Contactos**: Además de otros usuarios de la nube de Disroot, la información será compartida con usuarios de otras instancias de Nextcloud cuando compartas archivos o datos con ellos
+  - **Local**: La información será visible para otrxs usuarixs de la nube de Disroot (solo si conocen tu nombre de usuarix)
+  - **Contactos**: Además de otrxs usuarixs de la nube de Disroot, la información será compartida con usuarixs de otras instancias de Nextcloud cuando compartas archivos o datos con ellxs
   - **Pública**: La información será enviada a una libreta de direcciones global (que puede ser vista por cualquiera)
 
 
 !! ![](en/note.png)**AVISO:**<br>
-!! Deberías prestar especial atención cuando completas esta información *(lo cual es opcional)* y decidir cuánta información sobre ti mismo quieres compartir y revelar al mundo.
+!! Deberías prestar especial atención cuando completas esta información *(lo cual es opcional)* y decidir cuánta información sobre ti mismx quieres compartir y revelar al mundo.
 
 #### Otras informaciones y configuraciones
 Debajo de tu imagen de perfil puedes ver:
@@ -91,7 +91,7 @@ Aquí puedes ver cuántos dispositivos están actualmente conectados a tu cuenta
 
 
 ### Contraseña de App
-Cuando la Verificación en dos pasos está habilitada, aplicaciones de terceros (como tu correo, notas o lectores de noticias) no podrán iniciar sesión en tu cuenta usando solo tus credenciales de usuario. Para esos dispositivos puedes crear una contraseña específica para cada aplicación.
+Cuando la Verificación en dos pasos (2FA) está habilitada, aplicaciones de terceros (como tu correo, notas o lectores de noticias) no podrán iniciar sesión en tu cuenta usando solo tus credenciales de usuarix. Para esos dispositivos puedes crear una contraseña específica para cada aplicación.
 
 ![](es/app_pass.png)
 
@@ -106,7 +106,7 @@ Es un proceso de seguridad que tiene una verificación en dos pasos que, usualme
 
 Un ejemplo de cómo funciona: cuando vas a un cajero automático a retirar dinero necesitas utilizar tu tarjeta bancaria (algo que tienes) y un PIN (algo que sabes). Si la combinación falla, no puedes extraer el dinero.
 
-La verificación en dos pasos puede ser utilizada si quieres tener un inicio de sesión más seguro (puedes leer más al respecto [aquí](https://es.wikipedia.org/wiki/Autenticaci%C3%B3n_de_m%C3%BAltiples_factores)). Cuando está habilitada, se te requerirán no solo tu usuario y contraseña, sino también una verificación adicional como una contraseña temporaria o a través de un dispositivo electrónico.<br>
+La verificación en dos pasos puede ser utilizada si quieres tener un inicio de sesión más seguro (puedes leer más al respecto [aquí](https://es.wikipedia.org/wiki/Autenticaci%C3%B3n_de_m%C3%BAltiples_factores)). Cuando está habilitada, se te requerirán no solo tu usuarix y contraseña, sino también una verificación adicional como una contraseña temporaria o a través de un dispositivo electrónico.<br>
 
 ### Códigos de respaldo
 Es altamente recomendable que descargues tus códigos de respaldo cuando hayas habilitado la verificación en dos pasos. Si, por alguna razón, tu aplicación de contraseñas temporarias no funciona (*digamos, perdiste el teléfono...*), todavía podrías iniciar sesión. Deberías guardar estos códigos de respaldo en un lugar seguro (*¡no en tu teléfono, claro...!*) ya que cada código te permite un inicio de sesión único. Una vez que accedes puedes reconfigurar tu administrador de Contraseña Temporaria o deshabilitar la verificación en dos pasos.
@@ -141,7 +141,7 @@ Esta es la mejor manera de mantener tus archivos y tu cuenta a salvo. De verdad,
 ----
 
 # Actividad
-En la sección de actividad puedes decidir cómo quieres ser informado acerca de los eventos que sucedan en tu nube. Puedes elegir recibir notificaciones por correo, ser notificado en el flujo de Actividad, o incluso no ser notificado. Si eliges recibir notificaciones por correo, puedes ajustar la frecuencia desde "**Lo antes posible**" a "**Cada hora**, **Diariamente** o **Semanalmente**.
+En la sección de actividad puedes decidir cómo quieres ser informadx acerca de los eventos que sucedan en tu nube. Puedes elegir recibir notificaciones por correo, ser notificadx en el flujo de Actividad, o incluso no ser notificadx. Si eliges recibir notificaciones por correo, puedes ajustar la frecuencia desde "**Lo antes posible**" a "**Cada hora**, **Diariamente** o **Semanalmente**.
 
 ![](es/actividades.png)
 
@@ -156,9 +156,9 @@ La aplicación Almacenamiento Externo te permite montar servicios de almacenaje 
 ### Autenticación
 ![](es/almacenamiento_auth.gif)
 
-- **Nombre de usuario y contraseña**: requiere que el usuario y la contraseña sean definidas manualmente. Estas pasan directamente al servidor y son especificadas durante la configuración del punto de montaje.
+- **Nombre de usuario y contraseña**: requiere que el usuarix y la contraseña sean definidas manualmente. Estas pasan directamente al servidor y son especificadas durante la configuración del punto de montaje.
 
-- **Credenciales de login, guardar en la sesión**: utiliza tus credenciales de inicio de sesión de **Nextcloud** para conectarse al almacenamiento. Estas no son almacenadas en ningún lugar del servidor, sino en la sesión de usuario, aumentando la seguridad. Las desventajas son que compartir está deshabilitado cuando el mecanismo está en uso, porque **Nextcloud** no tiene acceso a las credenciales de almacenamiento, y el escaneo de archivos en segundo plano no funciona.
+- **Credenciales de login, guardar en la sesión**: utiliza tus credenciales de inicio de sesión de **Nextcloud** para conectarse al almacenamiento. Estas no son almacenadas en ningún lugar del servidor, sino en la sesión de usuarix, aumentando la seguridad. Las desventajas son que compartir está deshabilitado cuando el mecanismo está en uso, porque **Nextcloud** no tiene acceso a las credenciales de almacenamiento, y el escaneo de archivos en segundo plano no funciona.
 
 - **Credenciales de inicio de sesión, salvar en la base de datos**: como en el método previo, utiliza tus credenciales de inicio de sesión para conectarse con el almacenamiento, pero estas son guardadas en la base de datos cifrada y lo compartido es secreto. Esto permite compartir archivos desde dentro de este punto de montaje.
 
@@ -180,7 +180,7 @@ En esta sección puedes cambiar el tema de alto contraste que viene por defecto 
 # Compartir
 
 ## Nube federada
-¿Qué es una nube federada? Igual que los correos, que pueden ser enviados entre usuarios de diferentes servidores (GMail, Riseup, Disroot, etc) también **Nextcloud** te da la posibilidad de compartir archivos, contactos, calendarios, etc, con personas fuera de **Disroot** que utilicen también soluciones en la nube (**Owncloud** y/o **Nextcloud**). Esto da a los usuarios la posibilidad de usar la plataforma de su elección y a la vez colaborar unos con otros. En esta sección puedes ver tu ID de federación. Puedes compartirla con otros enviando un link o vía plataformas predefinidas (para lo cual puedes agregar tus preferidas que no estén incluidas, por supuesto).
+¿Qué es una nube federada? Igual que los correos, que pueden ser enviados entre usuarixs de diferentes servidores (GMail, Riseup, Disroot, etc) también **Nextcloud** te da la posibilidad de compartir archivos, contactos, calendarios, etc, con personas fuera de **Disroot** que utilicen también soluciones en la nube (**Owncloud** y/o **Nextcloud**). Esto da a lxs usuarixs la posibilidad de usar la plataforma de su elección y a la vez colaborar unos con otrxs. En esta sección puedes ver tu ID de federación. Puedes compartirla con otrxs enviando un link o vía plataformas predefinidas (para lo cual puedes agregar tus preferidas que no estén incluidas, por supuesto).
 
 ![](es/nube_federada.png)
 

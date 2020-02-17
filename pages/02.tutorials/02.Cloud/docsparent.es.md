@@ -18,7 +18,7 @@ page-toc:
 ---
 
 ![](/home/icons/nc_logo.png)
-**Nextcloud** es el servicio medular de **Disroot** y la interfaz de usuario más importante que intentamos integrar con la mayoría de las aplicaciones que ofrecemos. En esta guía nos gustaría abarcar lo más elemental de la Interfaz de Usuario principal (UI), así como algunas acciones básicas sobre archivos y configuraciones personales.
+**Nextcloud** es el servicio medular de **Disroot** y la interfaz de usuario más importante que intentamos integrar con la mayoría de las aplicaciones que ofrecemos. En esta guía nos gustaría abarcar lo más elemental de la Interfaz de Usuarix principal (UI), así como algunas acciones básicas sobre archivos y configuraciones personales.
 <br>
 
 ----
