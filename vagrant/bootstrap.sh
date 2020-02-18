@@ -8,6 +8,10 @@ YAML="/var/www/howto.disroot.lan/user/config/system.yaml"
 
 # Provisioning actions
 
+# Avoid Postfix installation interactive screens by preconfiguring this information
+sudo debconf-set-selections <<< "postfix postfix/main_mailer_type select No configuration"
+sudo debconf-set-selections <<< "postfix postfix/mailname string ${WEB_NAME}"
+
 # Add sury repository to sources.list for PHP
 sudo apt-get -y update
 sudo apt-get -y upgrade
