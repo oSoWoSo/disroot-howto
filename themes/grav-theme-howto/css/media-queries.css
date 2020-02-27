@@ -55,6 +55,13 @@
 
 /* Simple search plugin
 ------------------------------------*/
+
+.simplesearch {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
 .search-item {
 	margin-left: 10px;
 	margin-bottom: 10px;

@@ -76,12 +76,13 @@ a:hover {
 
 /* Simple search plugin  */
 
-.search-row {
-  width: 80%;
+.search-wrapper form {
 }
 
 .simplesearch {
-padding: 20px;
+  width: 60%;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 .search-title h3 {
