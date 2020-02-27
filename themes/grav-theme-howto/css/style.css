@@ -453,9 +453,9 @@ ul#nav li a:hover {
 /* sidebar */
 
 #sidebar {
-    max-width: 250px;
+    width: 250px;
     padding-top: 10px;
-    margin-left: 20px;
+    margin-right: 20px;
     margin-bottom: 10px;
 }
 
