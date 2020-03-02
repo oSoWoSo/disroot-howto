@@ -20,10 +20,12 @@
     {% endblock %}
 </section>
 
+  <article>
+
+
 <div class=row>
 <div class="full">
  <div id="body-inner">
-     <article>
       <section class="title wrapper">
         <!--h5>
           {{ page.title|e }}
@@ -34,9 +36,7 @@
 
       <section class="index content narrow">
             {{ page.content }}
-             <p></p>
              <div class="row">
-               <div class="row">
                  {% for p in page.children %}
                      <div class="three columns">
                      {%if p.header.indexed %}
@@ -59,7 +59,6 @@
                      {% endfor %}
                      </div>
                  {% endfor %}
-               </div>
              </div>
          </section>
          <section class="foot wrapper">

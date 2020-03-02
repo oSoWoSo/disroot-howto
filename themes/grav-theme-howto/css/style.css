@@ -73,6 +73,45 @@ a:hover {
     margin: 0 3rem;
 }
 
+
+/* Simple search plugin  */
+
+.search-wrapper form {
+}
+
+.simplesearch {
+  width: 60%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.search-title h3 {
+  color: white;
+  background-color: #1F5C60;
+  border-radius: 5px;
+	padding: 0.4% 1%;
+}
+
+.search-title h3 a {
+  color: white;
+	text-decoration: none;
+}
+
+.search-item h1 {
+ font-size: 20px;
+}
+
+.search-item h2 {
+ font-size: 16px;
+}
+
+.search-item img {
+ height: 50px;
+}
+
+
+/* Howto: Services  */
+
 #flex {
   margin-top: -50px;
   width: 80vw;
@@ -237,6 +276,11 @@ a:hover {
     color: var(--secondary-color);
 }
 
+.main-nav ul li.selected > a:hover{
+  font-weight: bold;
+}
+
+
 /* Dropdown CSS */
 .main-nav ul li {position: relative;}
 
@@ -282,7 +326,9 @@ a:hover {
 }
 
 /* hide toggle button */
-.main-nav > a.mobile-btn { display: none; }
+.main-nav > a.mobile-btn {
+  display: none;
+  opacity: 1; }
 
 /* Language selector */
 
@@ -317,8 +363,10 @@ a:hover {
   color: #b9a2ab;
 }
 
-ul#nav li a:hover { color: #FFFFFF; opacity: 1;}
-
+ul#nav li a:hover {
+  color: var(--secondary-color);
+  opacity: 1;
+}
 
 /* Volor bar */
 .body-top {
@@ -406,9 +454,9 @@ ul#nav li a:hover { color: #FFFFFF; opacity: 1;}
 /* sidebar */
 
 #sidebar {
-    max-width: 250px;
+    width: 250px;
     padding-top: 10px;
-    margin-left: 20px;
+    margin-right: 20px;
     margin-bottom: 10px;
 }
 

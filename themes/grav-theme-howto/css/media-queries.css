@@ -22,10 +22,68 @@
 
 @media only screen and (max-width: 830px) {
 
-  .narrow{
-   max-width: 100%;
+  a {
+    font-size: 85%;
+  }
+
+  strong {
+    font-size: 85%;
+  }
+
+  .narrow {
+   max-width: 90%;
    margin: 0 auto
  }
+
+
+ /* breadcrumbs display improvments */
+ #breadcrumbs {
+   height: 1rem;
+   line-height: 1.2rem;
+   padding-left: 1rem;
+   height: auto;
+ }
+
+ #breadcrumbs span {
+    display: inline-block;
+    padding: 0 0.2rem;
+}
+
+ #breadcrumbs i {
+    width: 10px;
+}
+
+/* Simple search plugin
+------------------------------------*/
+
+.simplesearch {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.search-item {
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.search-image {
+}
+
+.search-image img {
+  display: none;
+}
+
+.search-wrapper .search-input {
+	width: 100%;
+}
+
+.search-title h3 {
+  color: white;
+  background-color: #1F5C60;
+  border-radius: 5px;
+	padding: 0.7% 2%;
+}
 
   /* mobile navigation
   ------------------------------------*/
@@ -99,16 +157,19 @@
    /* display menu panels */
 	#main-nav:target > ul#nav	{
       display: block;
-      padding: 30px 20px 48px 20px;
+      padding: 30px 20px 20px 20px;
       background: #50162D;
-      margin: 0 30px;
+      margin: -15px 30px 0px 30px;
       clear: both;
    }
+
+
+   /* Howto: Services  */
 
    #flex {
      width: 100vw;
      left: auto;
-
+}
 
    #flex .columns {
      height: auto;
@@ -119,6 +180,8 @@
   margin-bottom: 20px;
   }
 
+.three {
+  min-height: auto;
 }
 
    .language-selector {
@@ -131,7 +194,7 @@
    .language-selector .btn {
        top: 35px;
        font-size: 1.2rem;
-       padding: 19px 15px;
+       padding: 19px 12px;
    }
 
    .language-selector ul#langSelectorList {
@@ -166,43 +229,5 @@
 
 @media only screen and (max-width: 600px) {
 
-  /* Language menu*/
-
-  .language-selector {
-      position: fixed;
-      top: -10px;
-      right: 80px;
-      width: 50px;
-  }
-
-  .language-selector .btn {
-      top: 35px;
-      font-size: 1.2rem;
-      padding: 19px 15px;
-  }
-
-  .language-selector ul#langSelectorList {
-      position: absolute;
-      top: 50px;
-      right: 0;
-  }
-
-  .language-selector .btn i {
-      top: 40px;
-      right: 20px;
-  }
-
-  .language-selector .dropdown-menu {
-      right: 150px;
-      top: 200px;
-      color: #b9a2ab;
-      background-color: #50162D;
-      border-color: #50162D;
-      font-size: 1.1rem;
-  }
-
-  .language-selector .dropdown-menu>li>a {
-      padding: 12px 15px;
-  }
 
 }
