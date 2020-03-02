@@ -1,5 +1,5 @@
 ---
-title: Usuario
+title: Usuarixs
 subtitle: Gestión de la cuenta y Datos Personales
 icon: fa-user
 published: true

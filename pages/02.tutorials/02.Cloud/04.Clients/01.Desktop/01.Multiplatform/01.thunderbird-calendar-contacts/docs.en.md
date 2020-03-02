@@ -15,6 +15,8 @@ taxonomy:
         - cloud
         - thunderbird
         - sync
+        - calendar
+        - contacts
 ---
 
 # Syncing Contacts, Calendars and Tasks with Thunderbird
@@ -27,7 +29,6 @@ The contact, calendar and tasks features in **Disroot Cloud** can be connected t
 In order to sync all your calendars, tasks and contacts to Thunderbird, you will need to install the following Add-on:
 
 - **CardBook**  -to sync you contacts
-
 - **Lightning** - is already pre-installed in Thunderbird (should be already installed by default in Thunderbird)
 
 **Install CardBook**
@@ -51,9 +52,7 @@ First login to your **[Disroot cloud](https://cloud.disroot.org)**
 - Press the **"three dots"** button to the right of the calendar
 - Press **"Link"** and copy the link URL of your calendar. You will need it to sync with Thunderbird.
 
-
 ![](en/02_thunderbird_copy_calender_link.gif)
-
 
 Now in Thunderbird:
 - Go to Calendar or go directly to Calendar window and
@@ -81,7 +80,7 @@ You will be prompted for your credentials:
 
 ![](en/02_calendar_credentials.png)
 
-Your calendar is now synced with Thunderbird. Any event created in Thunderbird will appear on **Disroot Cloud** and vice versa.
+Your calendar is now synced with Thunderbird. Any event created in it will appear on **Disroot Cloud** and vice versa.
 
 ![](en/03_calendar_is_synced.png)
 
@@ -107,7 +106,7 @@ If you right click the calendars in Thunderbird you will have a set of options:
 
 ![](en/05_extra_options.png)
 
-# Tasks - Integration with with Thunderbird
+# Tasks - Integration with Thunderbird
 Tasks are automatically synchronized when you integrate a calendar with Thunderbird.
 
 Any task you create in Thunderbird assigned to the calendar in question will be synchronized to your **Disroot Cloud Tasks app**. And vice versa.
@@ -138,14 +137,14 @@ Fill your credentials:
 - **Username:** *your_Disroot_username*
 - **Password:** *your_Disroot_Account_Password*
 
-- Press **"Validate"** to check if the credentials are correct. (you cannot finish the process without this step)
+- Press **"Validate"** to check if the credentials are correct (you cannot finish the process without this step)
 - Press **"Next"**
 
 ![](en/05_setup_address_book.gif)
 
 Next you will be asked:
 - Select the Address Book you want to sync
-- You can change the mane of the Address Book (only affects Thunderbird)
+- You can change the name of the Address Book (only affects Thunderbird)
 - Set a color for it. In case you have several Address Books, might be a good idea to use different colors.
 
 - Select **"Work Offline"** if you want a copy of the Address Book to be stored locally in Thunderbird
