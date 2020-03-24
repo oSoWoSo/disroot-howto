@@ -48,7 +48,7 @@ Tap on **ADD** to finish. Now you should see the server info.
 
 ![Adding servers](en/05.png)
 
-You can add as many servers as you want. But **you cannot be connected to more than one server or room at the same time**.
+You can add as many servers as you want. But **you cannot be connected to more than one server, channel or room at the same time**.
 
 Tap on the server you want to join.
 
@@ -85,7 +85,7 @@ Certificates related and default username settings
 
 ### 3. **Audio**
 Here is where you can configure and adjust the audio quality and settings
-  - Transmit Mode (we suggest you to use Push to Talk option)
+  - Transmit Mode (*we suggest you to use **Push to Talk** option*)
   - Handset Mode
   - Microphone Volume
   - Detection Threshold  
@@ -119,11 +119,18 @@ Once you have taken a look around and set the adjustments, you can join or creat
 
 ### Joining a Channel or a room
 
-To joining a channel or a room is simple as tapping the name (1) and then the arrow icon on the top bar (2)
+1. **Root**<br>
+This is the server main space, where Channels and rooms lives.
+2. **Channel**<br>
+A channel is like a category and can contain several rooms. In our example the server (Root) contains two channels: **Disroot** and **Quarantine hangout**
+3. **Room**<br>
+This is the place where the communication takes place.
+
+Now, to joining a channel or a room is simple as tapping the name (1) and then the arrow icon on the top bar (2)
 
 ![Joining](en/11.png)
 
-Remember that **you cannot be connected to more than one server or room at the same time**
+Remember that **you cannot be connected to more than one server, channel or room at the same time**
 
 ### Creating a Channel or a room
 
@@ -144,4 +151,6 @@ Creating a channel or a room is similar to joining in one.
 - **Name**: the name of the room you are creating
 - **Description**: a brief description about the room topic
 - **Position**: the position in which the room will appear on your room list
-- **Temporary**: When allowed by the server admins, you can select whether the room will be permanent or temporary, that is, it will be deleted when the last user leaves it. By default, the rooms you create will be temporary.
+- **Temporary**: When allowed by the server admins, you can select whether the room will be permanent or temporary, that is, it will be deleted when the last user leaves it. By default, the rooms you create will be temporary unless you register your user.
+
+To **Register** a user on the server, you will only need to make a long tap on your username and select the option. This will allow you to create permanent rooms.
