@@ -103,13 +103,16 @@ Here is where you can configure and adjust the audio quality and settings
     - Enable Input Preprocessor
     - Disable Opus Codec
 
-
 ### 4. **Appearance**
 You can choose Light or Dark themes for the app
 
 ### 5. **About**
 **Pumble** information (Version, Contributors and Licenses)
 
+**NOTE**<br>
+The Pumble application lacks of some administrative and features settings - like the **Access Control List** - that are only available through the desktop app.
+
+To learn about **Mumble** desktop app and its settings, please, check [here](../1.Mumble)
 
 ## Basic Usage
 
