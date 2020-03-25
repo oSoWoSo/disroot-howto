@@ -1,5 +1,5 @@
 ---
-title: 'Plumble: Android'
+title: 'Plumble: Mumble Android App'
 updated:
 page-toc:
     active: true
@@ -137,7 +137,9 @@ Remember that **you cannot be connected to more than one server, channel or room
 
 ### Creating a Channel or a room
 
-Creating a channel or a room is similar to joining in one.
+Creating a channel or a room is similar to joining in one. By default, the channel/rooms you create will be temporary unless you register your user (this is to avoid SPAM).
+
+To **Register** a user on the server, you will only need to make a long tap on your username and select the option. This will allow you to create permanent rooms.
 
 1. Tap the channel where the room will be created (1) and the the three dots menu icon on the top bar (2)
 
@@ -154,6 +156,4 @@ Creating a channel or a room is similar to joining in one.
 - **Name**: the name of the room you are creating
 - **Description**: a brief description about the room topic
 - **Position**: the position in which the room will appear on your room list
-- **Temporary**: When allowed by the server admins, you can select whether the room will be permanent or temporary, that is, it will be deleted when the last user leaves it. By default, the rooms you create will be temporary unless you register your user.
-
-To **Register** a user on the server, you will only need to make a long tap on your username and select the option. This will allow you to create permanent rooms.
+- **Temporary**: When allowed by the server admins, you can select whether the room will be permanent or temporary, that is, it will be deleted when the last user leaves it.
