@@ -186,9 +186,6 @@ You can set specific permission to your channels, groups and users. To do that, 
 - **Make temporary**: allows to make a temporary channel that disappears when all users leave the channel.
 
 ### Add permissions to users or groups
-You have some default groups:
-
-
 ![ACL](en/acl2.png)
 
 To set permissions:
@@ -219,3 +216,11 @@ The tilde ("~") character limits the associated group to the channel in which it
 
 
 To know more about how to set groups and ACL, check this [howto](https://wiki.mumble.info/wiki/ACL_and_Groups) and this [video](https://www.youtube.com/watch?v=VOeMsMjQRoM)
+
+
+## Set a user as a Priority speaker
+Setting a **priority speaker** may be useful. When a **priority speaker** talks, every other users in the channel will be attenuated.
+
+To set a user as **priority speaker**:
+- Right click the username that you want to set as the **priority speaker**.
+- Click on "**Priority Speaker**.
