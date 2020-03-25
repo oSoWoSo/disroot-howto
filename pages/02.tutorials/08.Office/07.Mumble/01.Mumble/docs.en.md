@@ -31,6 +31,7 @@ Here is the **Audio wizard** first page.
 
 <br>
 Default installation settings should be enough except for:
+
 - Voice activity detection for which it is advisable to use a key to speak as voice detection parameter. This setting is called **Push To Talk**. Just click in the white box and press the key you want to use. In this example, it is set for **space**.
 
 ![Wizard](en/push_to_talk.png)
@@ -63,7 +64,7 @@ Now, just select the **mumble.disroot.org** server and click on **Connect**.
 
 You're in!
 
-# Join a channel
+# Joining a channel
 **Root** displays the list of channels on the choosen server. As you can see on the image, there are two channels at the moment: **Disroot** and **Quarantine hangout**.
 
 ![Connected](en/connected.png)
@@ -77,16 +78,15 @@ Now you can see your username under the joined channel. You can also see on the 
 !! You can only be connected to one channel at once. So if you join another channel, you'll automatically leave the one you're in.
 
 
-## And if the channel is password protected?
-If a channel is password protected, you need to create an **Access tokens**. To do so, click on **Server** and choose **Access tokens**.
+## What if the channel is password protected?
+If a channel is password protected, you need to create an **Access tokens**. To do so, click on **Server** and choose **Access tokens**. Once there, simply write down the password, validate by pressing enter and then click on **OK**.
 
-There, simply write down the password, validate by pressing enter and then click on **OK**.
 ![Password](en/password2.png)
 
-You can know access the password protected channel.
+You can now access the password protected channel.
 
 
-# Create a channel
+# Creating a channel
 ![Create](en/create.png)
 
 You can create a channel in different places:
@@ -108,13 +108,14 @@ Choose **Add...**.
 
 Keep in mind that when you create a channel, you automatically become its admin.
 
-## Add a password to your channel
-At the moment, anyone connected can access to your channel. To add a password to your channel, first create your channel, and then, right-click on its name and choose **Edit...**
+## Adding a password to your channel
+At the moment, anyone connected can access to your channel. To add a password to it, first create a channel, then right-click on its name and choose **Edit...**
 
 You now have the option to add a password:
+
 ![Password](en/password.png)
 
-Note: you can also configure groups and ACL instead of setting a password (see below).
+**Note**: you can also configure groups and ACL instead of setting a password (see below).
 
 
 # More advanced settings
@@ -132,7 +133,7 @@ You can see here your certificate, which is self-signed.
 Just click on **Export current certificate** to save it on your computer.
 
 
-## Register your username
+## Registering your username
 Once connected to a server, you can register your username which creates a unique account linked to your user certificate. No one will be allowed to use your username, it will be just yours.
 
 To register your username on a server:
@@ -144,28 +145,34 @@ Attention: after registering you can not change your username or unregister it.
 
 
 ## Groups
-You can create groups of users. This is useful if you want to then create specific permissions.
+You can create groups of users. This is useful if you want to create specific permissions.
 
 Right-click on the channel you want to create groups for, and choose **Edit...** and go on the **Groups** pannel.
+
 ![Groups](en/groups.png)
 
 1. Write down the name of the group you want to create.
 2. The **Add** button will then be available, so click on it.
 
 ![Groups](en/groups_members.png)
-You then add members to your group. For example here, (1) antilopa is a member of the mygroup group.
+
+Now you can add members to your group. For example here, (1) antilopa is a member of the mygroup group.
+
 To populate your group:
-2. Write down the name of the user you want to add. Note: only registered users can be added to groups.
-3. Click on **Add**.
-4. Select a member and click on **Remove** if you want to remove it from the group.
+
+1. Write down the name of the user you want to add. Note: only registered users can be added to groups.
+2. Click on **Add**.
+3. Select a member and click on **Remove** if you want to remove it from the group.
 
 
 ## Groups and ACL: manage permissions
 
 ### Presentation
 
-You can set specific permission to your channels, groups and users. To do that, right-click on the channel you want to create ACL for, and choose **Edit...** and go on the **ACL** pannel.
+You can set specific permission to your channels, groups and users. To do that, right-click on the channel you want to create ACL for, and choose **Edit...** and go to the **ACL** pannel.
+
 ![ACL](en/acl.png)
+
 1. Here is the list of Active ACLs. The first ones are inherited from the server config and from parent channel. It is important to understand that the ACLs under are more important than the one above. So here for example, *@$fb7...* is more important than *@all*.
 2. Select of the ACL to check the list of permissions
 3. Here is the list of permissions set for **@auth** ACL. As you can see, some are denied, others are allowed.
