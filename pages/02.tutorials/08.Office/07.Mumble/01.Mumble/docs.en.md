@@ -75,7 +75,7 @@ To join **Quarantine hangout** for example, right click on it and choose **Join 
 
 Now you can see your username under the joined channel. You can also see on the left a message saying that you joined **Quarantine hangout** channel.
 
-!! You can only be connected to one channel at once. So if you join another channel, you'll automatically leave the one you're in.
+!! You can only be connected to one channel at once. So if you join another channel, you'll automatically leave the one you're in. !!
 
 
 ## What if the channel is password protected?
@@ -166,6 +166,10 @@ To populate your group:
 
 
 ## Groups and ACL: manage permissions
+
+**Access Control List (ACL)** is a list of rules that allow sensible access with few restrictions. Most of the times, these rules will be "inherited" from the Channel's Parent. Mumble Admins can modify the ACL (eliminate/modify existing ones or add new ones).
+
+**Groups** are defined or limited by the scope of the rules in an **ACL**. Each rule in each ACL operates on some group of users in order to grant or limit what can be done in a Mumble Channel. So, it is important to understand what Mumble's Groups are before creating ACLs.
 
 ### Presentation
 
