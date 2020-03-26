@@ -178,6 +178,10 @@ Remember that **you cannot be connected to more than one server, channel or room
 
 Creating a channel or a room is similar to joining one. By default, the channel/rooms you create will be temporary unless you register your user. Although you do not need to register to participate in a public channel, doing so allows you not only to keep the username you choose, but also to create permanent rooms.
 
+To register your user is really simple. Just long tap on your username and select **Register** when the options pop up. Remember that you already set the username and the password when you first launched **Plumble**.
+
+Now, to create a channel or a room:
+
 1. Tap the channel where the room will be created (1) and the the three dots menu icon on the top bar (2)
 
 ![Creating](en/12.png)
