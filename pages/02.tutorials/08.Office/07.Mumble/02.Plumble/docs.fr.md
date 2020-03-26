@@ -62,7 +62,7 @@ Appuyez sur **AJOUTER** pour terminer. Vous devriez maintenant voir les informat
 
 ![Ajouter un serveur](en/05.png)
 
-Vous pouvez ajouter autant de serveurs que vous le souhaitez. Mais **vous ne pouvez pas être connecté à plus d'un serveur, canal ou salle en même temps**.
+Vous pouvez ajouter autant de serveurs que vous le souhaitez. Mais **vous ne pouvez pas être connecté à plus d'un serveur ou chaîne en même temps**.
 
 Tapez sur le serveur que vous voulez rejoindre.
 
@@ -143,14 +143,14 @@ Touchez le menu à trois points dans le coin droit à côté de l'icône du micr
 
 ## Utilisation de base
 
-Une fois que vous avez jeté un coup d'œil et défini les réglages, vous pouvez rejoindre ou créer une salle pour parler et/ou discuter.
+Une fois que vous avez jeté un coup d'œil et défini les réglages, vous pouvez rejoindre ou créer une chaîne pour parler et/ou discuter.
 
 ![Chaîne](en/10.png)
 
-### Rejoindre une chaîne ou une salle
+### Rejoindre une chaîne
 
 1. **Root**<br>
-C'est l'espace principal du serveur, où vivent les chaînes et les salles.
+C'est l'espace principal du serveur, où vivent les chaînes.
 2. **Chaîne**<br>
 Une chaîne est comme un comme une salle, qui peut contenir plusieurs salles. Dans notre exemple, le serveur (Root) contient deux chaînes : **Disroot** et **Quarantine hangout**
 
