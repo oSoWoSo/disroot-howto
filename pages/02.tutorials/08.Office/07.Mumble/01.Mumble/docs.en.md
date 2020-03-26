@@ -6,6 +6,10 @@ page-toc:
 published: true
 visible: true
 indexed: true
+updated:
+    last_modified: "March 2020"
+    app: Mumble
+    app_version: 1.3.0
 taxonomy:
     category:
         - docs
