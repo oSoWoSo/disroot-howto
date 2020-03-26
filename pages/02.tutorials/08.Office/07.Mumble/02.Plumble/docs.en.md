@@ -32,14 +32,14 @@ Please check for the latest version of **Plumble** (Version 3.3.0-rc1) since it 
 
 **Mumble** software has some important Administration and Permissions features that can only be configured from the desktop application. **Access Control Lists** and **Groups** are examples of these missing features in **Plumble**.
 
-To learn more about **ACL**, **Groups** and other **Mumble** settings, please check our [**Mumble** howto](../1.Mumble).
+To learn more about **ACL**, **Groups** and other **Mumble** settings, please check our [**Mumble** howto](../mumble).
 
 ----
 
 
 # Configuration
 
-When you first launch **Pumble**, a welcome message appears and you are required to generate a cerficate, which is what **Mumble** uses to identify you as user and avoid asking for username and password every time you log in.
+When you first launch **Plumble**, a welcome message appears and you are required to generate a cerficate, which is what **Mumble** uses to identify you as user and avoid asking for username and password every time you log in.
 
 If you already have a Certificate generated on another device (for example, the laptop via the desktop app) you can **import** it. You can also do it the other way around by **exporting** the Certificate generated on the mobile, for example, to a Mumble file that you can then import from another device or computer.
 
@@ -57,7 +57,7 @@ Once the certificate has been generated, you will see the screen to add servers 
 
 Fill in the fields with the following information:
 
-1. **Label**: the name you want to use to identify the server in Pumble.
+1. **Label**: the name you want to use to identify the server in Plumble.
 2. **Address**: the server address. For **Disroot**, it is *mumble.disroot.org*
 3. **Port**: make sure the port number is **64738**.
 4. **Username**: the username you want to use.
@@ -130,7 +130,7 @@ Here is where you can configure and adjust the audio quality and settings
 You can choose Light or Dark themes for the app
 
 ### 5. **About**
-**Pumble** information (Version, Contributors and Licenses)
+**Plumble** information (Version, Contributors and Licenses)
 
 
 ## Other options
