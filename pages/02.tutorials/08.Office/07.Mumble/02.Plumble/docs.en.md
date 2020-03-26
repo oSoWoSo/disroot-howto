@@ -6,6 +6,10 @@ page-toc:
 published: true
 visible: true
 indexed: true
+updated:
+    last_modified: "March 2020"
+    app: Plumble
+    app_version: 3.3.0
 taxonomy:
     category:
         - docs
