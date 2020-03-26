@@ -61,7 +61,7 @@ Fill in the fields with the following information:
 2. **Address**: the server address. For **Disroot**, it is *mumble.disroot.org*
 3. **Port**: make sure the port number is **64738**.
 4. **Username**: the username you want to use.
-5. **Password**: a password for this user
+5. **Password**: a password for this user (not mandatory)
 
 ![Adding servers](en/04.png)
 
@@ -69,7 +69,7 @@ Tap on **ADD** to finish. Now you should see the server info.
 
 ![Adding servers](en/05.png)
 
-You can add as many servers as you want. But **you cannot be connected to more than one server, channel or room at the same time**.
+You can add as many servers as you want. But **you cannot be connected to more than one server or channel at the same time**.
 
 Tap on the server you want to join.
 
@@ -150,43 +150,41 @@ Tap the three dot icon menu in the right corner next to the microphone icon (1).
 
 ## Basic Usage
 
-Once you have taken a look around and set the adjustments, you can join or create a room to talk and/or chat.
+Once you have taken a look around and set the adjustments, you can join or create a channel to talk and/or chat.
 
 ![Channel](en/10.png)
 
-### Joining a Channel or a room
+### Joining a Channel
 
 1. **Root**<br>
-This is the server main space, where Channels and rooms lives.
+This is the server main space, where Channels lives.
 2. **Channel**<br>
-A channel is like a category and can contain several rooms. In our example the server (Root) contains two channels: **Disroot** and **Quarantine hangout**
-3. **Room**<br>
-This is the place where the communication takes place.
+A channel is like a category and can contain several channels. In our example the server (Root) contains two channels: **Disroot** and **Quarantine hangout**. This is the place where the communication takes place.
 
-Now, to joining a channel or a room is simple as tapping the name (1) and then the arrow icon on the top bar (2)
+Now, to joining a channel is simple as tapping the name (1) and then the arrow icon on the top bar (2)
 
 ![Joining](en/11.png)
 
-### What if the room is password protected?
+### What if the channel is password protected?
 If a channel is password protected you will need to create an **Access Token**.
 
 Tap on the menu, up to the left (1), then tap **Access Token** (2) and finally write the password (3) and tap the plus icon (+) to add it.
 
 ![Access Token](en/acc_tok.png)
 
-You can now access to the password protected room.
+You can now access to the password protected channel.
 
-Remember that **you cannot be connected to more than one server, channel or room at the same time**
+Remember that **you cannot be connected to more than one server or channel at the same time**
 
-### Creating a Channel or a room
+### Creating a Channel
 
-Creating a channel or a room is similar to joining one. By default, the channel/rooms you create will be temporary unless you register your user. Although you do not need to register to participate in a public channel, doing so allows you not only to keep the username you choose, but also to create permanent rooms.
+Creating a channel is similar to joining one. By default, the channel you create will be temporary unless you register your user. Although you do not need to register to participate in a public channel, doing so allows you not only to keep the username you choose, but also to create permanent channels.
 
 To register your user is really simple. Just long tap on your username and select **Register** when the options pop up. Remember that you already set the username and the password when you first launched **Plumble**.
 
-Now, to create a channel or a room:
+Now, to create a channel:
 
-1. Tap the channel where the room will be created (1) and the the three dots menu icon on the top bar (2)
+1. Tap the channel where the new channel will be created (1) and the the three dots menu icon on the top bar (2)
 
 ![Creating](en/12.png)
 
@@ -194,11 +192,11 @@ Now, to create a channel or a room:
 
 ![Adding](en/13.png)
 
-3. Fill in with the necessary information about the room
+3. Fill in with the necessary information about the channel
 
 ![Adding](en/14.png)
 
-- **Name**: the name of the room you are creating
-- **Description**: a brief description about the room topic
-- **Position**: the position in which the room will appear on your room list
-- **Temporary**: When allowed by the server admins, you can select whether the room will be permanent or temporary, that is, it will be deleted when the last user leaves it.
+- **Name**: the name of the channel you are creating
+- **Description**: a brief description about the channel topic
+- **Position**: the position in which the channel will appear on your channels list
+- **Temporary**: When allowed by the server admins, you can select whether the channel will be permanent or temporary, that is, it will be deleted when the last user leaves it.
