@@ -1,6 +1,6 @@
 ---
 title: Oficina
-subtitle: "Blocks de notas, Pastebin, Encuestas & Compartir archivos"
+subtitle: "Blocks de notas, Pastebin, Mumble, Encuestas & Compartir archivos"
 icon: fa-file-text
 published: true
 taxonomy:
