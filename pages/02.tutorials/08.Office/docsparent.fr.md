@@ -1,5 +1,5 @@
 ---
-title: Office
+title: Travail
 subtitle: "Pads, Pastebin, Mumble, Polls & File Sharing"
 icon: fa-file-text
 published: true
@@ -18,12 +18,12 @@ page-toc:
     active: false
 ---
 
-# Office Tools
+# Outil de travail
 
-Disroot provide a bunch of useful web tools you may want to give them a try.
+Disroot propose une série d'outils web utiles que vous voudrez peut-être essayer.
 
 ---
 
-For extra convenience, there is also a **Disroot** app that gathers all this tools and other **Disroot** services:
+Pour plus de commodité, il existe également une application **Disroot** qui regroupe tous ces outils et autres services **Disroot** :
 
 ### [DisApp](../user/disapp)
