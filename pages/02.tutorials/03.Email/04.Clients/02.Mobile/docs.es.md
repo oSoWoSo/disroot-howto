@@ -1,17 +1,27 @@
 ---
-title: 'Correo: Clientes para el móvil'
-visible: false
+title: 'Correo: Clientes para el Móvil'
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - correo
 page-toc:
-     active: false
+    active: false
 ---
 
-Cómo configurar el correo electrónico en tu móvil:
+# Clientes de Correo electrónico para el Móvil
 
-## Clientes
+Cómo configurar tu correo con tu dispositivo móvil:
 
-|**Android**|**SailfishOS**|**iOS**|
-|:--:|:--:|:--:|
-|**[K9](k9)**|**[App de Correo](sailfishos)**|**[App de Correo](ios)**|
+## Android
+- [K9](k9)
+- [FairEmail](fairemail)
+
+## SailfishOS
+- [Aplicación de Correo](sailfishos)
+
+## iOS
+- [Aplicación de Correo](ios)
