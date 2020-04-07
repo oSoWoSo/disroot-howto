@@ -60,67 +60,68 @@ Ve a las **Preferencias**. Puedes encontrarlas en el menú de la barra superior.
 La ventana de **Preferencias** está divida en pestañas. En la primera, **General**, verás **Apariencia de la conversación**, selecciona en **Comportamiento de la ventana** la opción **“Ventana única para todo”**.
 
 # Extensiones
-Necesitarás configurar dos extensiones.
-Dependiendo de tu sistema operativo, you may have to install them first. [See that page](https://dev.gajim.org/gajim/gajim-plugins)
+Necesitarás configurar dos extensiones. Dependiendo de tu sistema operativo, tal vez tendrías que instalarlas primero. [Mira esta página](https://dev.gajim.org/gajim/gajim-plugins).
 
-Then, in the same place you found the **Preferences**, you should find **Plugins**.
+En el mismo menú donde se encuentran las **Preferencias**, deberías encontrar las **Extensiones**.
 
-![](en/preferences.png)
+Verifica si tienes instalado el **Plugin Installer** (Instalador de Extensiones)(1), si no lo está, puedes encontrarlo [aquí](https://dev.gajim.org/gajim/gajim-plugins/wikis/plugininstallerplugin) para descargar. Luego de hacerlo, puedes instalarlo haciendo click en el botón *Instalar extensión desde archivo* (2) en el cuadro de las **Extensiones**, para hacer visible la pestaña **Available** (Disponible) (3).
 
-You need two plugins:
-    - OMEMO
-    - URL image preview
-(Maybe you'll need to install the Plugin Installer first, which you can find [here](https://dev.gajim.org/gajim/gajim-plugins/wikis/plugininstallerplugin) to download. After the download you can install it by clicking the button *Install from zip* in the **Plugins** window, to get the **Available** tab)
+![](es/extensiones_zip.png)
 
-So go to the **Available** tab and check those two plugins. Click on **Install/Upgrade** when you’re done.
+Las extensiones que necesitas son:
+- OMEMO
+- URL image preview
 
-![](en/05_plugins.png)
+Ve a la pestaña **Available**, busca esas dos extensiones y luego marca la casilla en **Install/Upgrade** cuando estes listx.
 
-Then, go to the **Installed** tab. Check the plugins to make them active. Then close the windows.
+![](es/extensiones.png)
 
-![](en/06_plugins.png)
+Finalmente, ve a la pestaña **Instalado** y selecciona las extensiones para activarlas. Ya puedes cerrar esta ventana.
 
-# User Interface
-Here is what **Gajim** now looks like:
+![](es/extensiones_activas.png)
 
-![](en/ui.png)
+# Interfaz de Usuarix
+Así es cómo se vería **Gajim** ahora:
 
-1. This is the room discussion window: there you can see everyone's messages in the current room. Here the user is in the *howto@chat.disroot.org* room.
-2. That is where you can type a message, send files, etc.
-3. This is the list of participants of this current room. Only online participants are listed.
-4. This is the list of the user's contacts and connected room (Groupchats)
-5. Here, the user can switch between opened rooms.
+![](es/principal.png)
 
-
-# Sending and editing messages
-To write/send message to contact or into a room, use the sending message box:
-
-![](en/send.png)
-
-1. You write your message there. **Note:** Shift + Enter will allow you to add a line break.
-2. You can add a smiley.
-3. In **Gajim** you have some format options. But they don't work in other clients. So if you set a text in bold, they won't be seen as bold in other clients.
-4. You can join/send any kind of files. The upload limit is currently of 10MB with **Disroot** XMPP server.
-5. You can change the encryption of the message from Disable to OMEMO (not in open groupchats).
-
-Just press the *Enter* key when you want to send your message.
-
-You can only edit your last sent message in **Gajim**. To do so, enter the edit message box, press *ctrl* and the up arrow on your keyboard.
-
-![](en/edit.gif)
-
-Note that a pencil appears next to the modified message.
+1. Esta es la ventana de la sala de chat: aquí puedes ver los mensajes de cada unx de lxs participantes de la sala actual. En la imagen el usuario está en la sala *howto@chat.disroot.org*
+2. La caja de envío de mensajes: desde aquí escribes un mensaje, envías archivos, etc.
+3. El **roster** o la lista de contactos y salas de la o el usuarix (Grupos de charla)
+4. Aquí seleccionas tu disponibilidad
+5. Estas pestañas representan las salas abiertas y puedes cambiar entre ellas seleccionando una con un click.
+6. Aquí están lxs participantes de la sala. También puedes ver a sus propietarixs y moderadorxs.
 
 
-# Rooms
-## Entering or creating a room
-Room are also called group conversations or MUC (Multiple User Chats).
+# Envío y edición de mensajes
+Para escribir/enviar un mensaje a un contacto o sala, utiliza la caja de envío de mensajes:
 
-To join one, click on **Accounts** (top-left corner), then on **Join Group Chat**. There, some group conversations may appear (the ones you have already joined in the past).
+![](es/caja_mensaje.png)
 
-![](en/join.gif)
+1. Aquí escribes tus mensajes. **Consejo:** con Shift + Enter puedes agregar un salto de línea.
+2. Acceso a emoticonos.
+3. En **Gajim** tienes algunas opciones de formato. Pero es poco probable que funcionen en otros clientes. Así que si formateas un texto como negrita, lxs demás podrían no verlo como negrita en sus clientes si estos son diferentes de **Gajim**.
+4. Puedes adjuntar/enviar cualquier tipo de archivo. El límite de subida en el servidor XMPP de **Disroot** es actualmente de 10MB.
+5. Puedes cifrar los mensajes con **OMEMO** (la extensión que permite el cifrado de extremo-a-extremo). No puedes cifrar las conversaciones en las salas de chat abiertas.
 
-If the room you want to join doesn't appear, click again on  **Join Group Chat**. Click also on **Join Group Chat** if you want to create your own room. This window will happen:
+Presiona *Enter* para enviar tu mensaje.
+
+En **Gajim** solo puedes editar tu último mensaje enviado. Para hacerlo, ingresa en la caja de envío de mensajes, presiona la tecla *ctrl* y la flecha arriba en tu teclado.
+
+![](es/correccion.gif)
+
+Al final del mensaje modificado aparece ahora un ícono de lápiz que lo denota.
+
+
+# Salas
+## Ingresar o crear una sala
+A las salas también se las conoce como conversaciones grupales o MUC (Multiple User Chats: Conversaciones de Múltiples Usuarixs).
+
+Para unirte a una, ve al menú **Cuentas**, posiciónate sobre tu nombre de usuarix y ve a la opción **Entrar en un salón de chat**. Si alguna vez te uniste a una sala antes, probablemente aparezca aquí.
+
+![](es/sala_ingresar.png)
+
+Si la sala a la que quieres entrar no aparece, selecciona **Entrar a un salón de chat**:
 
 ![](en/07_join.png)
 
