@@ -171,8 +171,6 @@ We already saw this one within the options of the Folders section:     it shows/
 
 #### Clean
 
-![](en/show_size.png)
-
 Depending on the settings of your Trash folder, when you click on **Clean**, this option will look for old messages and ask you if you want to delete them.
 
 ![](en/clean.gif)
