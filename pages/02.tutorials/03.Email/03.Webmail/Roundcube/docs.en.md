@@ -61,7 +61,7 @@ Displays the mailbox storage space used.
 ![](en/message_actions.png)
 
 ### a. Actions
-Here are the operations you can perform on the messages shown in the list (5).
+Here are the operations you can perform on the messages shown in the list (3).
 
 #### Select
 
