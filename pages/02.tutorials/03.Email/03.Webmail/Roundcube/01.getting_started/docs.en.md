@@ -1,12 +1,9 @@
 ---
-title: "Webmail: Roundcube"
+title: "Webmail: Getting Started"
 published: true
 visible: true
 indexed: true
 updated:
-        last_modified: "April 2020"
-        app: Roundcube Webmail
-        app_version: 1.4.2
 taxonomy:
     category:
         - docs

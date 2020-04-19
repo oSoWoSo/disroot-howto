@@ -1,8 +1,12 @@
 ---
 title: Disroot Webmail
+published: true
 visible: true
 indexed: true
 updated:
+        last_modified: "April 2020"
+        app: Roundcube Webmail
+        app_version: 1.4.2
 taxonomy:
     category:
         - docs
@@ -54,4 +58,8 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
   - Two Factor Authentication
     - Activate Two Factor Authentication
     - Log in when Two Factor Authentication is activated
-    
+
+## [03. Email](Roundcube/03.email)
+  - Composing an email
+  - Fordwarding
+  - Filters

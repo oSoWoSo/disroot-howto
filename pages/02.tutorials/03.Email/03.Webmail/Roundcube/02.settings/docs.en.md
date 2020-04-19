@@ -1,5 +1,5 @@
 ---
-title: Settings
+title: "Webmail: Settings"
 visible: true
 indexed: true
 updated:
@@ -9,7 +9,7 @@ taxonomy:
     tags:
         - webmail
 page-toc:
-    active: false
+    active: true
 ---
 
 # Settings
