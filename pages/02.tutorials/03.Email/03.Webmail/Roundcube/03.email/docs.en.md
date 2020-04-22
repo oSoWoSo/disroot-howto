@@ -45,7 +45,7 @@ Depending on your settings it will open the compose screen in the current browse
 
 ### 2. Sending information
 
-You must already know this essential part of the process. Here is the information regarding **who is sending** the mail (**From**), **who is receiving** it (**To**) and the **Subject** of the message.
+You probably already know this essential part of the process. Here is the information regarding **who is sending** the mail (**From**), **who is receiving** it (**To**) and the **Subject** of the message.
 
 Let's go over these three fields and its options.
 
@@ -53,7 +53,7 @@ Let's go over these three fields and its options.
 
 ![](en/sending_info.png)
 
-If you have no other identities configured, the default one will automatically appear here. In case you have them, click the arrows icon at the far right of the field to select the one you want to use.
+If you have no other identities configured, the default one will automatically appear here. In case you have them, click on the field to select the one you want to use.
 
 ![](en/from_select.gif)
 
@@ -71,7 +71,7 @@ To add one or more recipients you can:
 
   ![](en/to_contacts_add_2.png)
 
-  Only a limited number of contacts is displayed at a time so use the arrow buttons in the widget bottom (2) to navigate the contacts or to go to the next page of them.
+  Since only a limited number of contacts are displayed, you can use the arrow buttons (2) to navigate the pages.
 
   Select the contact(s) you want to add and click **Insert**
 
@@ -95,3 +95,58 @@ At the end of the **To** field, you have some additional **Recipient** options.
 Here you type the subject of the email.
 
 ![](en/subject.png)
+
+### 03. Message box and text editor
+
+![](en/message_box.png)
+
+Depending on your settings, the compose screen will show the message box with the text editor toolbar for text formatting (HTML) or without it if you prefer plain text.
+
+To toggle the composition mode between rich (HTML) (1) and plain text (2) use the Editor Type selector which is in the upper left corner of the message box.
+
+![](en/toggle.png)
+
+#### Formatting a message
+
+You can use the **Rich text editor toolbar** to format your emails.
+
+![](en/toolbar.png)
+
+- **1. Editor type selector**: to toggle composition modes.
+- **2. Basic text formating**: basic formatting options
+  - Bold / Italic / Underline
+  - Text alignment
+  - Lists (numbered / bullet)
+  - Indent (increase / decrease)
+  - Direction of the text (left to right / right to left)
+- **3. Typography**: to select the typography and the size
+- **4. Embedding options**:
+  - Insert/remove links
+  - Insert a table
+  - Insert Emoticons
+  - Insert a special character
+  - Insert/edit an image / media file
+- **5. Other options**
+  - Source code: to see the source code of the message.
+  - Find and replace
+  - Undo / Redo
+
+### 04. Options and attachments
+
+![](en/options_attachments.png)
+
+In this section, you can see information about attachments as well as set some additional options regarding sending emails.
+
+- **Return receipt**: activating this option will generate a request for confirmation of receipt of our email in the recipients's email client.
+- **Delivery status notifications**: activating this option you will receive a notification in the form of an email, that will indicate whether the delivery succeeded, failed, or got delayed.
+- **Priority**: set the importance of the message.
+- **Save sent message in**: this option allows you to choose where to save a sent message or not save it at all.
+
+
+Now that we have a general idea of the email composer and how it works, we can write our email following the usual procedure:
+
+- Select an email alias to send a message, if not, the default one will be used
+- Enter at least one recipient address
+- Write the subject of the message
+- Write the message, add attachments, if any, and set the additional options you want/need
+- And once you have it ready, press **Send**

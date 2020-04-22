@@ -61,5 +61,5 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
 
 ## [03. Email](Roundcube/03.email)
   - Composing an email
-  - Fordwarding
+  - Forwarding
   - Filters
