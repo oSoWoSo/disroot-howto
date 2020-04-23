@@ -39,7 +39,7 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
   - Tasks and basic operations
 
 ## [02. Settings](Roundcube/02.settings)
-  - Preferences
+  - [01. Preferences](Roundcube/02.settings/01.preferences)
     - User interface
     - Mailbox view
     - Displaying messages
@@ -49,13 +49,15 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
     - Server settings
     - Deleting old messages
     - Message highlights
-  - Responses
-  - Filters
-  - Identities
+  - [02. Folders](Roundcube/02.settings/02.folders)
+  - [03. Identities](Roundcube/02.settings/03.identities)
     - Default identity
     - Add other identities / aliases
     - Sending an email with another identity
-  - Two Factor Authentication
+  - [04. Responses](Roundcube/02.settings/04.responses)
+  - [05. Filters](Roundcube/02.settings/05.filters)
+  - [06. Account details](Roundcube/02.settings/06.account_details)
+  - [07. Two Factor Authentication](Roundcube/02.settings/07.2fa)
     - Activate Two Factor Authentication
     - Log in when Two Factor Authentication is activated
 
