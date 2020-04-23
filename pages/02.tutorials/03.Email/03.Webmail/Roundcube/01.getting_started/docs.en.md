@@ -14,7 +14,7 @@ page-toc:
 ---
 
 # Getting started
-Once you have logged in, you will find the main Roundcube screen which is divided into the following sections:
+Once you have logged in, you will find the main **Roundcube** screen which is divided into the following sections:
 
 ![](en/overview.png)
 

@@ -14,15 +14,23 @@ page-toc:
 
 # Settings
 
-### Preferences
+![Settings](en/settings.png)
+
+## Preferences
 The user preferences let you adjust various options and settings that control the behavior and the UI of the webmail application. Since there are a lot of them, we will see the main ones. If you want to learn much more, check the [Roundcube documentation](https://docs.roundcube.net/doc/help/1.1/en_US/settings/preferences.html)
 
 After changing preferences, don’t forget to save them by clicking the **Save** button below the settings form.
 
-#### User Interface
-In **Settings**, **Preferences**, choose **User Interface**
+### User Interface
+To modify your user interface configurations, go to **Settings**, **Preferences** and choose **User Interface**.
 
-![UI](en/UI.png)
+![UI](en/settings_ui.png)
+
+This is the **User Interface** section:
+
+![UI](en/ui.png)
+
+And the **Main Options** are:
 
 - **Language**: The language of the webmail interface is automatically chosen from your computer’s operating system language. However, if you want to change it to a specific language, that is where you should set this.
 
@@ -34,15 +42,22 @@ In **Settings**, **Preferences**, choose **User Interface**
 
 
 #### Mailbox View
-In **Settings**, **Preferences**, choose **Mailbox View**
+To set or change options regarding the mailbox, go to **Settings**, **Preferences** and choose **Mailbox View**
+
+![Mailbox](en/pref_mailbox.png)
+
+
+This is the **Mailbox** configuration section:
 
 ![Mailbox view](en/mailbox_view.png)
 
-- **Show Preview Pane**: This shows or hides the **Preview Pane** in the mail view.
+- **Mark messages as read**: Sets how long after selecting a message the client should mark it as read.
 
-- **Mark previewed messages as read**: select the delay to mark new messages as “read” when opening them in the preview pane.
+- **On request for return receipt**: Sets out what the client should do if the sender of a message requests for a read receipt.
 
-- **Expand message threads**: when listing messages in threads, this option controls how conversation groups are expanded in the list.
+- **Expand message threads**: When listing messages in threads, this option controls how conversation groups are expanded in the list.
+
+- **Rows per page**: The number of messages displayed in the mailbox.
 
 - **Check all folders for new messages**: by default, only the *Inbox* is checked for new messages periodically. If you have server-side filters installed that will move incoming messages to other folders, you should check this option.
 
