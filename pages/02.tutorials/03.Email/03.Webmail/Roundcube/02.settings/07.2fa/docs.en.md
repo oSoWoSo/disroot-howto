@@ -15,11 +15,11 @@ page-toc:
 
 # Settings
 
-![Settings](en/settings.png)
+![Settings](../settings.png)
 
 ## Two Factor Authentication
 
-![Two Factor Authentication](en/set_preferences.png)
+![Two Factor Authentication](en/set_2fa.png)
 
 ### Activate Two Factor Authentication
 Two-factor authentication (2FA) adds a second level of authentication to an account log-in. 2FA requires the user to have not only his/her username and password, but also a code provided by an app (for example [Aegis](https://f-droid.org/en/packages/com.beemdevelopment.aegis/), [FreeOTP](https://f-droid.org/en/packages/org.fedorahosted.freeotp/), [andOTP](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/))

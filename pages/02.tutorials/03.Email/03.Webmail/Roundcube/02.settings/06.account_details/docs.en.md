@@ -1,5 +1,5 @@
 ---
-title: "Webmail: Settings / Folders"
+title: "Webmail: Settings / Account details"
 visible: true
 indexed: true
 updated:
@@ -8,15 +8,14 @@ taxonomy:
         - docs
     tags:
         - webmail
-        - folders
 page-toc:
     active: true
 ---
 
 # Settings
 
-![Settings](en/settings.png)
+![Settings](../settings.png)
 
-## Folders
+## Account details
 
-![Folders](en/set_folders.png)
+![Account details](en/set_account.png)

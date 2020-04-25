@@ -15,7 +15,7 @@ page-toc:
 
 # Settings
 
-![Settings](en/settings.png)
+![Settings](../settings.png)
 
 ## Identities
 

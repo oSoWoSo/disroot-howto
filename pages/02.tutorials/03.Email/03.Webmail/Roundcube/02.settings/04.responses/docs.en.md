@@ -14,11 +14,11 @@ page-toc:
 
 # Settings
 
-![Settings](en/settings.png)
+![Settings](../settings.png)
 
 ## Responses
 
-![Responses](en/set_preferences.png)
+![Responses](en/set_responses.png)
 
 This option allows you to save responses, which can be handy when repeatedly writing emails with the same text.
 
@@ -26,17 +26,17 @@ This option allows you to save responses, which can be handy when repeatedly wri
 
 To add or insert a response to your email, go on **Compose** and click on **Responses** button in the top bar.
 
-![Identities](en/responses.png)
+![Responses](en/responses.png)
 
 You then have three options:
 - **Insert a response**: the list of your responses appears it. Just click on it to insert it your email.
 
 - **Create a new response**: give it a name, add your text and save it.
 
-![Identities](en/responses_new.png)
+![Responses](en/responses_new.png)
 
 - **Edit responses**: clicking on this option will get you to the **Settings**, in the **Responses** section.
 
-![Identities](en/responses_edit.png)
+![Responses](en/responses_edit.png)
 
 From there you can change your responses: their names, their contents, delete them, add new ones.
