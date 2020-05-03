@@ -15,8 +15,6 @@ page-toc:
 
 # Settings
 
-![Settings](../settings.png)
-
 ## Preferences
 
 ![Preferences](en/set_preferences.png)

@@ -28,7 +28,7 @@ A webmail, or web-based email, is an email service that can be accessed using th
 # What is Roundcube?
 Roundcube is a free and open source webmail software that provides all the functionalities you would expect from an email client: full support for MIME and HTML messages, multiple sender identities, address book with groups and LDAP connectors, threaded message listing, spell checking, support for access control lists (ACL), import/export functions and support for PGP encryption among many other features.
 
-Through the following tutorial, we will learn how to use **Roundcube** and get to know all its features.
+Through the following tutorial, we will learn how to use **Roundcube** and get to know its features.
 
 ----
 
