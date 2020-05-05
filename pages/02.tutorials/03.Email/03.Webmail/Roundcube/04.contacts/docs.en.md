@@ -39,9 +39,20 @@ Fill in the form with the data you think is convenient to identify a contact. Yo
 
 ## Contact list actions
 
+![Contacts](en/actions.png)
+
+In addition to creating, printing or deleting a contact you can do some other operations.
+
+![Search](en/search.png) Search for a contact based on certain criteria.
+
+![Import](en/import.png) You can import contacts from an existing address book. Webmail currently support importing addresses from the vCard or CSV (comma-separated) data format.
+
+![Export](en/export.png) You can export all the contacts from a directory or group, only some or even just one to a vcf file.
+
+![More](en/more.png) From here you can generate a **QR** code from the data of a selected contact (which you can use to, for example, transfer a contact from the webmail to the mobile) and assign/remove it from a contact group.
 
 ## Address book
-The address book is a collection or group of contacts. The first time you open your address book, it is probably empty.
+Now that we have seen the contacts, let's take a look at the address book which is - precisely - a collection or group of contacts. The first time you open your address book, it is probably empty, unless you have already been using your **Disroot** account and had some contacts and groups organized before.
 
 ![Address book](en/first_add_book.png)
 
@@ -72,7 +83,7 @@ Click on **Save** to save your group.
 
 You can abort the group creation by pressing the **Esc** key while entering the group name.
 
-### Assigning Contacts to group
+### Assigning Contacts to groups
 You can assign contacts to groups by dragging & dropping them. Just select one or multiple contacts in the list and drop them onto the desired group.
 
 ![Contact Group](en/grouping.gif)

@@ -149,4 +149,8 @@ Now that we have a general idea of the email composer and how it works, we can w
 - Enter at least one recipient address
 - Write the subject of the message
 - Write the message, add attachments, if any, and set the additional options you want/need
-- And once you have it ready, press **Send**
+- And once you have it ready, press **Send**...
+
+  ![](en/message_sent.png)
+
+... And that's it.
