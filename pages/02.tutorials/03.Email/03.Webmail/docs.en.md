@@ -66,7 +66,7 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
   - Forwarding
   - Filters
 
-## [Contacts](Roundcube/04.contacts)
+## [04. Contacts](Roundcube/04.contacts)
   - Contacts lists
   - Address book
   - Groups
