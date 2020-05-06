@@ -57,7 +57,7 @@ If you have no other identities configured, the default one will automatically a
 
 ![](en/from_select.gif)
 
-### To
+#### To
 
 ![](en/to_contacts_add.png)
 
@@ -90,7 +90,7 @@ At the end of the **To** field, you have some additional **Recipient** options.
 - **Followup-To**: This option is generally used when you want to get an answer from someone who has been sent a message previously and from whom we have had no response after a certain time.
 
 
-### Subject
+#### Subject
 
 Here you type the subject of the email.
 

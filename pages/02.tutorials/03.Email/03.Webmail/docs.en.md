@@ -63,8 +63,6 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
 
 ## [03. Email](Roundcube/03.email)
   - Composing an email
-  - Forwarding
-  - Filters
 
 ## [04. Contacts](Roundcube/04.contacts)
   - Contacts lists

@@ -20,9 +20,11 @@ An email filter is a set of rules that are applied to the incoming mail. Dependi
 
 So, with filters you can specify conditions to match and actions to take on matching, for example, move emails from a sender to a particular folder. Basically, you tell the mailserver how it should process your mails.
 
+To manage/create filters, go to the **Settings** and click on **Filters**
+
 ![Filters](en/set_filters.png)
 
-To manage/create filters, go to the **Settings** and click on **Filters**
+## Creating a filter
 
 ![Filters](en/filters.png)
 

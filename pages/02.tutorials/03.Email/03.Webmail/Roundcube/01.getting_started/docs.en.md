@@ -148,7 +148,7 @@ There are three **Forward** options:
 - **Resend (bounce)**<br>
     This option is similar to the previous ones, but it works differently. Since it forwards the email untouched it is not necessary a complete mail composing page, just a dialog box to enter few data. The **From**, **To**, **Cc** and/or **Bcc** information will be appended to the original message as headers with ‘Resent-‘ prefix according to mail standards.
 
-![](en/forward_bounce.png)
+    ![](en/forward_bounce.png)
 
 !! We will look the **Reply** and **Forward** options, as well as everything related to creation and management of emails, in more detail in the following chapters.
 
