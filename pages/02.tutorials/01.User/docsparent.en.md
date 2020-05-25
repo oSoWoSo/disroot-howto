@@ -13,7 +13,5 @@ page-toc:
 ---
 
 # User
-
-In this section you can find  useful information about managing your account.
-
+In this section you can find useful information about managing your account.
 <br>
