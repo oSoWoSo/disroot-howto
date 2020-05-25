@@ -1,16 +1,24 @@
 ---
-title: Nube: Clientes para el móvil
+title: 'Nube: Clientes para el móvil'
+published: true
+updated:
 taxonomy:
     category:
         - docs
-visible: false
+    tags:
+        - nube
+        - nextcloud
+indexed: true
+visible: true
 page-toc:
      active: false
 ---
+## Sincronizando tus dispositivos
 
-Nextcloud se integra con tu dispositivo de manera muy sencilla, proporcionando una experiencia nativa para la mayoría de los dispositivos y sistemas operativos.
-Aquí en Disroot intentamos incluir y documentarlos a todos para que sea sencillo para cualquiera ponerlos en marcha.
+**Nextcloud** se integra con tu dispositivo muy fácilmente, brindando una experiencia nativa para casi todos los equipos y sistemas operativos.
 
-|Android|iOS|MacOS|
-|:--:|:--:|:--:|
-|[Aplicaciones de Nextcloud](android)|[Aplicación de iOS](ios)|[Aplicación de MacOS](mac-os)|
+### [Android](android)
+- Aplicaciones de Nextcloud
+
+### [iOS](ios)
+- Aplicaciones de iOS

@@ -12,7 +12,7 @@ page-toc:
     active: false
 ---
 
-# Usuario
+# Usuarixs
 
 En esta sección puedes encontrar información útil sobre la gestión de tu cuenta.
 
