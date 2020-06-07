@@ -3,7 +3,7 @@ title: "Discourse: Exporting your Forum posts"
 published: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "June 2020"		
     app: Discourse
     app_version: 2.3
 taxonomy:
@@ -18,27 +18,39 @@ visible: true
 page-toc:
     active: false
 ---
+**Discourse**, the forum software used by **Disroot**, allows you to export the text content of all your posts to a .csv file, (a simple text file which is supported by most calc/spreadsheet software).
 
-**Discourse**, the software used by **Disroot** for **Forum**, allows you to export the text content off all your posts to a .csv file, (which is supported by most calc/spreadsheet software's, Libreoffice, Openoffice, Gnumeric, Excel).
 
 **To export your posts from Discourse:**
-- Press your Gravatar on the upper right corner of the screen
-![](en/export_data_discourse_01.png)<br>
+- Login in the **Forum**
+- Press your user avatar on the upper right corner of the screen
 - Press the button with your username
-![](en/export_data_discourse_02.png)<br>
-- Press the button _"Download my posts"_
-![](en/export_data_discourse_03.png)<br>
-- Press _"yes"_ when the pop-up window asks if you want to download your posts and then press _"ok"_
 
-**NOTE:** The data can only be downloaded once every 24h
+  ![](en/export.gif)
 
-![](en/export_data_discourse_01.gif)
+- Press the **Download All** button
 
-You will get a message from the system notifying you that the data is ready to be downloaded, and providing you a link to download the .csv file with a copy of your posts.
-If you have enabled notifications via email, you will also get an email with this information. Just press the link to download the file.
+  ![](en/download_1.png)
 
-The data is compressed as a gzip archive. If the archive does not extract itself when you open it, use the tools recommended here: http://www.gzip.org/#faq4
+- A pop-up windows will appear asking if you want to download your posts and then press **OK**
 
-The link will be available for 48h, after that it will expire and you will have to export your data again.
+  ![](en/download_2.png)
 
-Once you extract the file you can open it in your spreadsheet program.
+- The system will start processing your data and send you a notification when it is ready to download.
+
+  ![](en/download_3.png)
+
+  ![](en/notification.png)
+
+- You will get a message from the system notifying you that the data is ready to be downloaded, and providing you a link to download the .csv file with a copy of your posts. If you have enabled notifications via email, you will also get an email with this information.
+
+- Press the link to download the file.
+
+  ![](en/notification_2.png)  
+
+- The link will be available for 48h, after that it will expire and you will have to export your data again.
+
+- Once you extract the file you can open it in your spreadsheet program.
+
+
+**NOTE**: The data can only be downloaded once every 24h

@@ -3,13 +3,14 @@ title: "Nextcloud: Exporting Contacts"
 published: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "June 2020"		
     app: Nextcloud
-    app_version: 15
+    app_version: 18
 taxonomy:
     category:
         - docs
     tags:
+        - gdpr
         - user
         - cloud
 visible: true
@@ -19,12 +20,11 @@ page-toc:
 
 Contacts can be exported at any time in a very simple way.
 
-1. Login to your cloud account at [https://cloud.disroot.org](https://cloud.disroot.org)
+  - Login to your cloud account at [https://cloud.disroot.org](https://cloud.disroot.org)
+  - Select "*Contacts*" app.
 
-2. Select "*Contacts*" App.
+  ![](en/select.gif)
 
-![](en/select_app.gif)
+  - Hit the download button next to the addressbook you want to export. Contacts are saved in .vcf format.
 
-3. Hit the download button next to the addressbook you want to export. Contacts are saved in .vcf format.
-
-![](en/export_data.gif)
+  ![](en/export.gif)

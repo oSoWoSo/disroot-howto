@@ -4,9 +4,9 @@ published: true
 visible: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "June 2020"		
     app: Hubzilla
-    app_version: 4.2
+    app_version: 4.6
 taxonomy:
     category:
         - docs

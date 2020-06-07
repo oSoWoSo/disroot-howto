@@ -3,7 +3,7 @@ title: 'Export data: Nextcloud Files & Notes'
 published: true
 indexed: true
 updated:
-    last_modified: "May 2020"		
+    last_modified: "June 2020"		
     app: Nextcloud
     app_version: 18
 taxonomy:
@@ -22,12 +22,9 @@ page-toc:
 
 You can download your files as easy as in case of any **Nextcloud** app.
 
-1. Login to your [cloud](https://cloud.disroot.org)
+  - Login to your [cloud](https://cloud.disroot.org)
+  - Select **Files** app
+  - Select all files by clicking on the checkbox
+  - Then click on the **Actions** menu and select *Download*
 
-2. Select **Files** app
-
-3. Select all files by clicking on the checkbox
-
-4. Then click on the **Actions** menu and select *Download*
-
-![](en/files_app.gif)
+![](en/export_files.gif)

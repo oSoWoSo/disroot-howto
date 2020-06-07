@@ -3,9 +3,9 @@ title: 'Nextcloud: Exporting Bookmarks'
 published: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "June 2020"		
     app: Nextcloud
-    app_version: 15
+    app_version: 18
 taxonomy:
     category:
         - docs
@@ -19,14 +19,15 @@ page-toc:
     active: false
 ---
 
-Exporting your bookmark data stored on the cloud is very easy with **Disroot**.
+Exporting your bookmark data stored on the **Disroot** cloud is very easy.
 
-1. Login to the [cloud](https://cloud.disroot.org)
+  - Login to the [cloud](https://cloud.disroot.org).
+  - Select **Bookmark** app.
 
-2. Select Bookmark app
+  ![](en/select.gif)
 
-![](en/select_app.gif)
+  - Select **Settings** (on the bottom of the right sidebar) and press the **Export** button.
 
-3. Select Settings (on the bottom of the right sidebar) and press **"Export"** button
+  ![](en/export.gif)
 
-![](en/export.gif)
+  - Select where to save the file.

@@ -14,8 +14,8 @@ page-toc:
 ---
 ## How-to export your...
 
-  - [**Files and Notes**](files)
-  - [**Contacts**](contacts)
-  - [**Calendars**](calendar)
-  - [**News**](news)
   - [**Bookmarks**](bookmarks)
+  - [**Calendars**](calendar)
+  - [**Contacts**](contacts)
+  - [**Files and Notes**](files)
+  - [**News**](news)
