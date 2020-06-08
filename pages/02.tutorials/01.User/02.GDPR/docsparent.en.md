@@ -20,7 +20,6 @@ page-toc:
 
 #  Your data is data is yours:<br>How to access and export your personal data
 
-![](data.png)
 
 At **Disroot**, pretty much all data collected is the one you provide when using the services (*we store your files because you choose to store files on our cloud*).
 
