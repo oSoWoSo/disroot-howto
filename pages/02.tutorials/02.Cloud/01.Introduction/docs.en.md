@@ -1,18 +1,19 @@
 ---
-title: 'Cloud: Nextcloud Introduction'
+title: 'Cloud: Interface'
 published: true
 visible: true
 indexed: true
 updated:
-        last_modified: "April 2019"
+        last_modified: "June 2020"
         app: Nextcloud
-        app_version: 15
+        app_version: 18
 taxonomy:
     category:
         - docs
     tags:
         - cloud
         - nextcloud
+        - interface
 page-toc:
   active: true
 ---
