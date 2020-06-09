@@ -3,9 +3,9 @@ title: Cloud
 subtitle: "Basics, settings, syncing, clients"
 icon: fa-cloud
 updated:
-        last_modified: "April 2019"
+        last_modified: "June 2020"
         app: Nextcloud
-        app_version: 15
+        app_version: 18
 published: true
 taxonomy:
     category:
@@ -13,17 +13,14 @@ taxonomy:
         - topic
     tags:
         - cloud
+        - nextcloud
 page-toc:
     active: false
 ---
 
-![](/home/icons/nc_logo.png)
-**Nextcloud** is **Disroot**'s core service and the main user interface we try to integrate with most of the apps we offer. In this howto we would like to go through the basics of the interface, explaining the main UI (User interface) concept, as well as some basic actions on files and personal settings.
-<br>
+![](nc_logo.png)
 
-----
+**Nextcloud** is a free and open source software that allows you to upload and storage files on a server (it could be a server of your own), and syncing them with different devices to which you can safely access from anywhere via internet. Some of the features it provides are: calendars, contacts and bookmarks synchronization, call/video conference, a basic project board, news feeder and more.<br>
+It is **Disroot**'s core service and the main user interface we try to integrate with most of the apps we offer.
 
-## What is Nextcloud?
-**Nextcloud** is a free and open source software that allows you to upload and storage files on a server (it could be a server of your own), syncing them with different devices to which you can safely access from anywhere via internet. In addition, Nextcloud provides some interesting and useful features like calendars, contacts and bookmarks synchronization, call/video conference and news feeder.<br>
-
-----------
+In the following chapters of this **Cloud** howto, we will learn about the interface, the basics of its operation and the main features of **Nextcloud**, as well as some basic actions on files and personal settings.
