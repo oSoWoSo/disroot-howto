@@ -4,7 +4,9 @@ published: true
 indexed: true
 visible: true
 updated:
-    last_modified: "June 2020"		
+    last_modified: "June 2020"
+    app: User Self-Service Center
+published: true
 taxonomy:
     category:
         - docs
@@ -16,7 +18,3 @@ page-toc:
 ---
 
 # Account Administration
-
-#### [Manage your Disroot Account](ussc/)
-
-#### [Request email Alias](alias-request)
