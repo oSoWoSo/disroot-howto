@@ -1,12 +1,15 @@
 ---
 title: GDPR: Nextcloud
 published: true
-indexed: false
+indexed: true
+updated:
+    last_modified: "June 2020"
 taxonomy:
     category:
         - docs
     tags:
         - user
+        - email
         - gdpr
 visible: true
 page-toc:
