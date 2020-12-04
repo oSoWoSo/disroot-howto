@@ -67,7 +67,7 @@ Commands for Vagrant plugins installation
 vagrant plugin install vagrant-vbguest
 ```
 
-* **git**
+* **Git**
 
 Commands for git installation
 
@@ -85,22 +85,22 @@ sudo pacman -S git
 
 ## Installing the Vagrant virtual machine
 
-1. Create the Disroot folder in which the repositories will be cloned
+1. Create the Disroot folder in which the repositories will be cloned, and enter it
 
 ```
-mkdir ~/Disroot
+mkdir ~/Disroot ; cd ~/Disroot
 ```
 
-2. Clone the Howto repository to the Disroot folder
+2. Clone the Howto repository inside the Disroot folder
 
 ```
 git clone https://git.disroot.org/Disroot/Howto.git
 ```
 
-3. Clone the grav-plugin-language-selector repository in this same folder
+3. Clone the grav-plugin-language-selector repository inside this same Disroot folder
 
 ```
-git clone https://git.disroot.org/Disroot/grav-plugin-language-selector.git ~/howto
+git clone https://git.disroot.org/Disroot/grav-plugin-language-selector.git
 ```
 
 4. Add the local domain name for the hub to your host machine's `/etc/hosts` file.
@@ -120,7 +120,7 @@ cd ~/Disroot/howto/vagrant
 vagrant up howto_disroot_lan
 ```
 
-**Congratulations!** You should now have a fully functioning Apache+GRAV server running locally in a VirtualBox-hosted VM managed by Vagrant.
+**Congratulations!** You should now have a fully functioning Nginx + GRAV server running locally in a VirtualBox-hosted VM managed by Vagrant.
 
 Next time you want to run Vagrant simply use the commands
 
