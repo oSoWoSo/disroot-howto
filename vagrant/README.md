@@ -50,16 +50,24 @@
 	```
 	mkdir ~/Disroot
 	```
+
 2. Clone howto repo to Disroot folder
 	```
 	git clone https://git.fosscommunity.in/disroot/howto.git ~/howto
 	```
-3. Add the local domain name for the hub to your host machine's `/etc/hosts` file.
+
+3. Clone grav-plugin-language-selector repo to Disroot folder
+    ```
+    git clone https://git.disroot.org/Disroot/grav-plugin-language-selector.git ~/howto
+    ```
+
+4. Add the local domain name for the hub to your host machine's `/etc/hosts` file.
 
 	```
 	echo "192.168.33.11 howto.disroot.lan" >> /etc/hosts
 	```
-4. Launch Vagrant to build the virtual machine (VM). This will take several minutes.
+
+5. Launch Vagrant to build the virtual machine (VM). This will take several minutes.
 	```
 	cd ~/Disroot/howto/vagrant
 	vagrant up howto_disroot_lan
