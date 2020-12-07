@@ -1,11 +1,11 @@
 ---
-title: Tasks: Web
+title: 'Tasks: Web'
 published: true
 visible: false
 updated:
-        last_modified: "July 2019"
+        last_modified: "October 2020"
         app: Nextcloud
-        app_version: 15
+        app_version: 18
 taxonomy:
     category:
         - docs
@@ -17,37 +17,77 @@ page-toc:
     active: false
 ---
 
-## Tasks on web-interface
-
-The Tasks app allows you to add and delete tasks. A task could be a meeting date reminder, a job that needs to be done, a personal or a group activity and a lot of other things.<br> In this howto we'll see how to create, edit and share tasks.
+# Tasks
 
 ![](en/main.png)
 
-#### Adding a new task
-Click in the item box and enter the name of the new task.
+The **Tasks** app allows you to add and delete tasks, edit their title, description, start and due dates and mark them as important. A task could be a meeting date reminder, a job that needs to be done, a personal or a group activity and a lot of other things.
 
-![](en/add_task_box.png)
+In this short howto we'll see how it works.
+
+# Adding a new task
+To start, click on **+ Add list...**, write the name of your new list of tasks and press enter.
+
+![](en/add_task.gif)
 
 Once you did it, a new section will show at the right.
 
-![](en/add_tasks.png)
+![](en/add_tasks_window.png)
 
-Here you can set:
+Type in the name of the new task you want to add and then press enter. Click on the three-dots icon at the right if you want to add subtasks.
 
-- **The start date and due date**
+![](en/add_tasks.gif)
 
-![](en/add_tasks_date_01.png) ![](en/add_tasks_date_02.png)
-By clicking on the Start/Due option you can set the day and the hour of it. You can also set the task as an all day activity
+## Tasks options
+Click on the task or subtask title to access the options.
 
+![](en/tasks_options.png)
 
-- **The priority of the task**
+Here you can:
 
-![](en/add_tasks_priority.png)
-By moving the bar, you can set the priority level from 1 to 9.
+- **Set the start date and due date**<br>
+By clicking on the Start/Due option you can set the day and the hour of it.
 
-- **Set and edit the progress level of the task**
+  ![](en/start_due_date.gif)
 
-![](en/task_completed.png)
-By moving the bar, you can set the task progress from 0% to 100%.
+  You can also set the task as an all day activity.
 
-- **Tags**
+  ![](en/all_day.png)
+
+- **Assign / change the tasks list**<br>
+  You can change / assign a task or sub-task to different lists or calendar. Just select one from the drop-down menu and the tasks will change to the new one.
+
+  ![](en/assign_list.gif)
+
+- **Select a classification**<br>
+  You can assign the task list to a previously created calendar and choose how it should be shown.
+
+  ![](en/show.png)
+
+- **Select a status**<br>
+  Select if the task **needs an action**, if it is **in process**, **completed** or **cancelled**.
+
+  ![](en/status.gif)
+
+- **Assign a priority level to the task**
+  By moving the bar, you can set the priority level where 1 to 4 is **High**, 5 is **Medium** and 6 to 9 is **Low**.
+
+  ![](en/priority.gif)
+
+- **Set and edit the progress level of the task**<br>
+  By moving the bar, you can set the task progress from 0% to 100%.
+
+  ![](en/progress.gif)
+
+- **Categories and Comments**<br>
+  Assigning categories and adding comments can be very useful when working in a group. Click on **Select categories**, select or create one and press Enter. To write a comment, simply type it in the box.
+
+  ![](en/categories_comments.gif)
+
+  When the task has a category assigned or a comment added, you can see it in the description, next to the title.
+
+  ![](en/categories_comments.png)
+
+- Finally, at the bottom of the tasks details you will see a bar with the delete and info options.
+
+  ![](en/info.png)
