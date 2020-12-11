@@ -1,9 +1,9 @@
 ---
-title: Tasks: Desktop
+title: 'Tasks: Desktop'
 published: true
 visible: false
 updated:
-        last_modified: "July 2019"
+        last_modified: "October 2020"
 taxonomy:
     category:
         - docs
@@ -15,13 +15,13 @@ page-toc:
     active: false
 ---
 
-## Tasks desktop Integration
+## Tasks on the desktop
 
-You can read the tutorials below in order to get your **Tasks** synchronized via a multi-platform desktop client.
+There are several ways you can sync and work with **Nextcloud Tasks** from your desktop. Below you will find some tutorials to get it.
 
-- [Thunderbird: Calendar / Contacts / Tasks sync](/tutorials/cloud/clients/desktop/multiplatform/thunderbird-calendar-contacts)
+### Multi-platform desktop clients
+ - [Thunderbird: Calendar / Contacts / Tasks sync](/tutorials/cloud/clients/desktop/multiplatform/thunderbird-calendar-contacts)
 
-Alternatively, you can use and set up the desktop integration.
-
- - [GNOME: Desktop Integration](/tutorials/cloud/clients/desktop/gnu-linux/gnome-desktop-integration)
- - [KDE: Desktop Integration](/tutorials/cloud/clients/desktop/gnu-linux/kde-desktop-integration)
+### GNU/Linux
+ - [GNOME Desktop Integration](/tutorials/cloud/clients/desktop/gnu-linux/gnome-desktop-integration)
+ - [KDE Desktop Integration](/tutorials/cloud/clients/desktop/gnu-linux/kde-desktop-integration)
