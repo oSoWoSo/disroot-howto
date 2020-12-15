@@ -4,9 +4,9 @@ published: true
 visible: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "December 2020"		
     app: DisApp
-    app_version: 1.2
+    app_version: 2.0.2
 taxonomy:
     category:
         - docs

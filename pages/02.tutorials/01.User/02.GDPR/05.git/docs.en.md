@@ -64,6 +64,15 @@ If you do not have a repo, and what you want is to recreate the original one the
 git clone repo_name.bundle -b master my_new_repo_folder
 ~~~
 
+!! **NOTE** that while both commands do similar things, the main difference between them is that **git bundle** communicate changes to a repo to which you can't push (or which can't fetch from you), for example, because there is not network access. So, **git bundle** let you pack the references of your repository as a single file that is a recognized git source. You can fetch, pull clone from it.
+
+According to the [git docs](https://git-scm.com/docs/git-bundle):
+
+> Some workflows require that one or more branches of development on one machine be replicated on another machine, but the two machines cannot be directly connected, and therefore the interactive Git protocols (git, ssh, http) cannot be used.
+
+> The git bundle command packages objects and references in an archive at the originating machine, which can then be imported into another repository using git fetch, git pull, or git clone, after moving the archive by some means (e.g., by sneakernet).
+
+
 ## Using the web interface
 From **Disroot's Gitea** web interface you can download an entire repository in a single compressed file.
 
