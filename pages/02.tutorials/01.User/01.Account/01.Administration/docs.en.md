@@ -20,7 +20,9 @@ page-toc:
 - [User Self-service Center](ussc)
   - Signing in
   - Reseting your password
+  - New user registration
 - [Change your password](password)
+  - Update your **Cloud** encryption key
 - [Setup your Security Questions](questions)
 - [Update your Profile](profile)
 - [Request forms](forms)

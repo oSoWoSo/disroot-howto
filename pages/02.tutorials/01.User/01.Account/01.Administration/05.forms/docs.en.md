@@ -1,5 +1,5 @@
 ---
-title: 'Request Forms'
+title: 'Requests Forms'
 published: true
 indexed: true
 visible: true
@@ -10,16 +10,21 @@ taxonomy:
     tags:
         - user
         - account
-        - management
+        - forms
 page-toc:
-    active: flase
+    active: true
 ---
 
 # Custom Requests forms
-From here you can access the forms to request additional email alias, link your personal domain or extra storage for your mailbox or cloud.
 
-![](dashboard_forms.png)
+![](en/dashboard_forms.png)
 
-Just click on the option you need.
+From here you can access the forms to request:
+- Additional email alias
+- Link your personal domain
+- Request extra storage for your mailbox, or...
+- Request extra storage for your **Cloud**.
 
-![](../en/forms.png)
+Just click on the option you need and the form will open for you to complete.
+
+![](en/forms.png)
