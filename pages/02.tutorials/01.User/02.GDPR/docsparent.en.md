@@ -4,7 +4,7 @@ visible: true
 published: true
 indexed: true
 updated:
-    last_modified: "June 2020"
+    last_modified: "December 2020"
 taxonomy:
     category:
         - docs
