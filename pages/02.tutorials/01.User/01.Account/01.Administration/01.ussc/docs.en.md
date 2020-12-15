@@ -33,6 +33,8 @@ It is a quick access menu to the account settings and options which we will see 
 ##  Reseting your Password
 If for any reason, you have forgotten/lost your password, you can reset it through any of the methods described below.
 
+Go to [https://user.disroot.org](https://user.disroot.org) and select **Forgotten Password**.
+
 ![](en/reset.gif)
 
 1. Go to [https://user.disroot.org](https://user.disroot.org)
