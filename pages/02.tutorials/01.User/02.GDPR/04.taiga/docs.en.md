@@ -6,7 +6,7 @@ indexed: true
 updated:
     last_modified: "June 2020"		
     app: Taiga
-    app_version: 5.0.8s
+    app_version: 4.0.0
 taxonomy:
     category:
         - docs
