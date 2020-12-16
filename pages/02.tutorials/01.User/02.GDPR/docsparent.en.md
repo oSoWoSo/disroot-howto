@@ -4,7 +4,7 @@ visible: true
 published: true
 indexed: true
 updated:
-    last_modified: "June 2020"
+    last_modified: "December 2020"
 taxonomy:
     category:
         - docs
@@ -30,18 +30,16 @@ This chapter includes tutorials that will help you get all the data stored on se
 ----
 
 ## Export your data from:
-- [01. Email (Roundcube)](roundcube)
+- [01. Email (Rainloop)](rainloop)
 - [02. Cloud (Nextcloud)](nextcloud)
   - [Files & Notes](nextcloud/files)
   - [Contacts](nextcloud/contacts)
   - [Calendars](nextcloud/calendar)
   - [News](nextcloud/news)
   - [Bookmarks](nextcloud/bookmarks)
-- [03. XMPP Chat (Converse)](converse)
-- [04. Diaspora*](diaspora)
-- [05. Forum (Discourse)](discourse)
-- [06. Board (Taiga)](taiga)
-- [07. Git (Gitea)](gitea)
-- [08. Hubzilla](hubzilla)
+- [03. Forum (Discourse)](discourse)
+- [04. Board (Taiga)](taiga)
+- [05. Git (Gitea)](git)
+- [06. Hubzilla](hubzilla)
 
 ---
