@@ -20,6 +20,9 @@ page-toc:
 - [Claws Mail](claws-mail)
 
 
+## GNU/Linux
+- [Mutt](mutt)
+
 
 ## GNU/Linux: Email desktop integration
 - [GNOME](gnome-desktop-integration)

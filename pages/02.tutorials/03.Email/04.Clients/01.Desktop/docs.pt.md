@@ -19,5 +19,6 @@ Como configurar o seu cliente de email no seu desktop:
 
 ## Table of content
 - [Thunderbird - cliente de email multiplataforma](thunderbird)
+- [Mutt - cliente de email para GNU/Linux](mutt)
 
 ![](c64.jpg)
