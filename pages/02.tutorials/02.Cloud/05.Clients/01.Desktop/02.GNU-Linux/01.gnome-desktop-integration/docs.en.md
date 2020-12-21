@@ -1,10 +1,10 @@
 ---
-title: GNU/Linux: GNOME Desktop Integration
+title: 'GNOME Desktop Integration'
 visible: false
 updated:
-        last_modified: "8 April 2019"
-        app: Gnome
-        app_version: 3.30.2 For Manjaro Linux
+        last_modified: "December 2020"
+        app: GNOME
+        app_version: 3.38.2 on Manjaro Linux
 page-toc:
   active: true
 published: true
@@ -17,45 +17,43 @@ taxonomy:
         - integration
 ---
 
-# Gnome Integration
+# GNOME Integration
 
-Gnome is a very popular, slick, modern and easy to use graphical desktop environment for Linux. It's my desktop of choice and it is mainly due to it's awesome integration with Disroot's cloud services.
+**GNOME** is a free and open source graphical desktop environment for **GNU/Linux** based operating systems. It has an excellent integration with **Disroot**'s cloud services.
 
-Integration with desktop environment means, you no longer need to login to Disroots cloud via the browser, every time you need to add or lookup information. It means everything you need is available to you directly from your desktop. Furthermore it makes it look and feel unified with all other apps you use while you work. It's definitely **THE** way to get things done.
+In the context of desktop environments, integration is the ability to use a number of web services and applications directly on the desktop as if they were just computer programs. In the case of **GNOME**, moreover, this level of integration makes it look and feel unified with the rest of the applications.
 
-In this tutorial I would like to show you how easy and handy it is to integrate your cloud calendar on your computer. Setup procedure should take no longer then few minutes of your time.
+Once you have set up your **Disroot** account with **GNOME** you will not need to configure anything else. On top of that, the process is incredibly simple.
 
+# Setting up an Online Account
 
-# Set Online accounts
-
-In order to get up and running, all you need to do is:
-
- - Go to Gnome **Settings** (eg. type settings in the dashboard search)
- - Open **"Online Accounts"**
- - Select **"Nextcloud"** (or owncloud if using older version)
- - Follow instructions to fill in all your credentials:
-    - **Address:** https://cloud.disroot.org
-    - **Username:** *yourusername*
+ - Open the **GNOME Settings**
+ - Go to **Online Accounts**
+ - Select **Nextcloud**
+ - Fill in the required data:
+    - **Server:** https://cloud.disroot.org
+    - **Username:** *your_username*
     - **Password:** *your_super_secret_password*
+ - Click on **Connect**
 
-If you did that correctly now you can choose which aspects of the cloud you want to integrate. You can switch them on and off at any time depending on your use case. I choose to integrate it all.
+If you entered the data correctly, a box will appear with the aspects that you can integrate. By default, they are all active, but you can activate/deactivate them as you wish.
 
-![](en/gnome_online_accounts1.gif)
+Now services such as the Calendar, the Tasks and the Contacts can be found and used directly on your desktop.
+
+![](en/goa.mp4?resize=1024,576&loop)
+
+
+Next we will see how to work with the **Cloud** services integrated in the **GNOME** desktop.
 
 
 # Calendar
 
-One of the useful features is calendar. You will notice that your calendars are already integrated if you press on the  **current time** in your top bar on the desktop. A popup window with a calendar will automatically display all the events from your disroot's cloud account. You will of course receive all notifications on upcoming events as well.
+Now that you account is connected you will notice that your calendars are already integrated if you press on the  **current time** in your top bar on the desktop. The calendar window will automatically display all the events (if any) from your **Disroot**'s cloud account. You will of course receive all notifications on upcoming events as well.
 
-![](en/gnome_calendar1.gif)
+![](en/calendar.png)
 
-In order to add/edit/remove events or have better overview on all your calendars, I suggest installing Gnome Calendar app.
-Depending on your operating system you should search for it in your "Software" application (linux app store).
+To add/edit/remove events or have better overview on all your calendars, you will need to use the GNOME Calendar app.
 
-![](en/gnome_install_calendar.png)
+It should be already installed and accessible from the **Software menu**. If not, you will have to search for it and download it from the system's software centre.
 
-Once you get it installed, you'll notice your calendars are already integrated thanks to the global "Online Accounts" you set up earlier. The application is very simple, and still missing some features to be complete (eg. recurrence) but it enables you to do basic things such as create/delete/edit calendar entries. You can select which calendars you would like to see and which ones to disable (in case you have numerous calendars). You can create/modify/delete events, and they'll be all synchronized with disroot cloud, which means also with all the devices connected to it.
-
-![](en/gnome_calendar2.gif)
-
-![](en/gnome_calendar3.gif)
+![](en/gnome_integration.mp4?resize=1024,576&loop)
