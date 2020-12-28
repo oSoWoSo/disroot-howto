@@ -1,22 +1,27 @@
 ---
-title: Cloud: Clients
+title: 'Cloud: Clients'
 published: true
+visible: true
+indexed: true
 updated:
+        last_modified: "December 2020"
+        app: Nextcloud
+        app_version: 20
 taxonomy:
     category:
         - docs
     tags:
         - cloud
+        - nextcloud
         - clients
-visible: true
 page-toc:
-    active: false
+  active: true
 ---
 
-<br>
+## [Desktop clients and Integration](desktop)
+- How to setup **Nextcloud** and others sync clients
+- Desktop environments integration on GNU/Linux
 
-### [Desktop clients and Integration](desktop)
-- Nextcloud and others sync clients, settings
-
-### [Mobile clients](mobile)
-- Nextcloud Apps, clients, DAVx⁵, device settings
+## [Mobile clients](mobile)
+- **Nextcloud** mobile client
+- **DAVx⁵**, device settings
