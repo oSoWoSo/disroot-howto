@@ -55,6 +55,7 @@ sudo -u "${WWW_USER}" bin/gpm install form
 sudo -u "${WWW_USER}" bin/gpm install simplesearch
 sudo -u "${WWW_USER}" bin/gpm install relatedpages
 sudo -u "${WWW_USER}" bin/gpm install breadcrumbs
+sudo -u "${WWW_USER}" bin/gpm install page-toc
 sudo -u "${WWW_USER}" sed -i 's/quark/grav-theme-howto/g' "${YAML}"
 
 # Add Grav config
