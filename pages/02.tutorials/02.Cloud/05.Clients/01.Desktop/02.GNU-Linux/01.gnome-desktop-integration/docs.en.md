@@ -25,18 +25,10 @@ In the context of desktop environments, integration is the ability to use a numb
 
 Once you have set up your **Disroot** account with **GNOME** you will not need to configure anything else. On top of that, the process is incredibly simple.
 
-----
-
 <a name="top"></a>
-# Table of Contents
-- ### [Setting up Online Accounts](#online-account)
-- ### [Calendar](#calendar)
-- ### [Tasks](#tasks)
-- ### [Contacts](#contacts)
-- ### [Documents](#documents)
 
 ----
-<a name="online-account"></a>
+
 # Setting up an Online Account
 
  - Open the **GNOME Settings**
@@ -57,7 +49,6 @@ Now services such as the **Calendar**, **Tasks** and **Contacts** can be found a
 Next we will see how to work with the **Cloud** services integrated in the **GNOME** desktop.
 
 
-<a name="calendar"></a>
 # Calendar
 
 The Calendar app is quite easy to use. From it you can manage your calendars and perform basic operations such as adding, editing and removing events. To do this you need to have installed the **GNOME Calendar** app.
@@ -94,7 +85,7 @@ To add or import a calendar that does not belong to your online account, click o
 
 From this menu you can add a calendar by entering its URL address or upload one that you have previously exported in .ics format, assign it a name and colour.
 
-!! #### TIP:
+!! **TIP**
 !! To learn how to get the URL address of a calendar in the **Cloud** or export it, you can check this [**Calendar tutorial**](/tutorials/cloud/apps/calendar/web).
 
 ## Adding and editing an event
@@ -143,7 +134,6 @@ If you need to edit an event, simply click on it, make the necessary changes and
 
 [Back to the top](#top)
 
-<a name="tasks"></a>
 # Tasks
 The tasks are linked to the calendars so once your online account is synced up, the tasks will be too.
 
