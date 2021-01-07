@@ -1,8 +1,8 @@
 ---
-title: 'GNOME Desktop Integration'
+title: 'Cloud: GNOME Integration'
 visible: false
 updated:
-        last_modified: "December 2020"
+        last_modified: "January 2021"
         app: GNOME
         app_version: 3.38.2 on Manjaro Linux
 page-toc:
@@ -17,7 +17,7 @@ taxonomy:
         - integration
 ---
 
-# GNOME Integration
+# GNOME Desktop Integration
 
 **GNOME** is a free and open source graphical desktop environment for **GNU/Linux** based operating systems. It has an excellent integration with **Disroot**'s cloud services.
 
