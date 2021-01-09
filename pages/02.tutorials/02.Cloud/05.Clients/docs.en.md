@@ -15,7 +15,7 @@ taxonomy:
         - nextcloud
         - clients
 page-toc:
-  active: true
+  active: false
 ---
 
 ## [Desktop clients and Integration](desktop)
