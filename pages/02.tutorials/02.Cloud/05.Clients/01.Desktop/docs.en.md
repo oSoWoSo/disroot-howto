@@ -14,13 +14,14 @@ page-toc:
     active: false
 ---
 
-<br>
+## Multiplatform Desktop Clients
+- [**Nextcloud** client](multiplatform/desktop-sync-client)
+- [**Thunderbird**](multiplatform/thunderbird-calendar-contacts)
+- [**calcurse** command line client](multiplatform/calcurse-caldav)
 
-### [Multiplatform Desktop Clients](multiplatform)
-- **Nextcloud** multiplatform clients
+## GNU/Linux
+- [**GNOME** desktop integration](gnu-linux/gnome-desktop-integration)
+- [**KDE** desktop integration](gnu-linux/kde-desktop-integration)
 
-### [GNU/Linux](gnu-linux)
-- Desktop Integration
-
-### [MacOS](mac-os)
-- MacOS device integration
+## MacOS
+- [**MacOS** device integration](mac-os)
