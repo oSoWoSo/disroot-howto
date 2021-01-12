@@ -56,7 +56,7 @@ In case you have enabled the **Two-Factor Authentication (2FA)** method to log i
 
 ![](en/2fa_login.png)
 
-You can read about what is and how to enable **Two-Factor Authentication** [**here**](https://howto.disroot.org/en/tutorials/cloud/settings#two-factor-authentication).
+You can read about what it is and how to enable **Two-Factor Authentication** [**here**](https://howto.disroot.org/en/tutorials/cloud/settings#two-factor-authentication).
 
 ## Setting up a local folder
 
@@ -111,7 +111,7 @@ To add an extra account the process is the same as the first one.
 !! Keep in mind that **you cannot use the same Nextcloud folder** with multiple active accounts.<br>
 !! During the configuration process of the second account, **Nextcloud** client will try to create a folder called **Nextcloud2"** in your home directory. Keep an eye to this.
 
-After you add a second account your, it will show up on the top bar of the app. This is how you also switch between accounts if you need to change settings.
+After you add a second account, it will show up on the top bar of the app. This is how you also switch between accounts if you need to change settings.
 
 # Settings
 
