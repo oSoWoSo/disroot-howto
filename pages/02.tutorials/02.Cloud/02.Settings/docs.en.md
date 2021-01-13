@@ -105,12 +105,9 @@ It's highly advisable to download backup codes when you have enabled two-factor.
 
   ![](en/totp_auth.png)
 
-- **U2F (Universal 2nd Factor)**: U2F uses a hardware device like the [USB key by Yubico](https://en.wikipedia.org/wiki/YubiKey). You plug the device into your laptop and press the device button to authorize. After adding it, the browser will communicate with the U2F device to authorize you to log in.
+- **U2F (Universal 2nd Factor)**: U2F uses a hardware device like the [USB key by Yubico](https://en.wikipedia.org/wiki/YubiKey). You plug the device into your laptop and press the device button to authorize or you just tap the U2F device (NFC-enabled is required). After adding it, the browser will communicate with the U2F device to authorize you to log in.
 
   ![](en/u2f.png)
-
-You can add as many devices as you like. It is recommended to give each device a distinct name. **Chrome** is the only browser that supports U2F devices by default. You need to install the "U2F Support Add-on" on **Firefox** to use U2F.
-
 
 ## Basic encryption module
 
