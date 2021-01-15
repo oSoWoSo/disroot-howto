@@ -3,9 +3,6 @@ title: News: Desktop clients
 published: true
 visible: false
 updated:
-        last_modified: "July 2019"
-        app:
-        app_version:
 taxonomy:
     category:
         - docs
@@ -25,6 +22,6 @@ page-toc:
 
 ----
 
-#### Related How-tos
+### Related How-tos
 #### [GNOME: Desktop Integration](/tutorials/cloud/clients/desktop/gnu-linux/gnome-desktop-integration)
 #### [KDE: Desktop Integration](/tutorials/cloud/clients/desktop/gnu-linux/kde-desktop-integration)

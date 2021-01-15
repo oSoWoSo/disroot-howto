@@ -4,9 +4,6 @@ published: true
 visible: false
 indexed: true
 updated:
-        last_modified: " 2021"
-        app: Notes
-        app_version: 4.0.2
 taxonomy:
     category:
         - docs
@@ -19,6 +16,17 @@ page-toc:
     active: false
 ---
 
-# Notes (Coming soon)
+# Notes
 
 **Notes** is a distraction free notes taking app. It provides categories for better organization and supports formatting using **Markdown** syntax. Notes are saved as files in your **Disroot Cloud**, so you can view and edit them with every Nextcloud client.
+
+---
+
+## [Web interface](web)
+- Creating and editing Notes
+
+## [Desktop clients](desktop)
+- Desktop clients and taking notes apps to create and sync notes
+
+## [Mobile clients](/tutorials/cloud/clients/mobile)
+- Mobile clients and taking notes apps to create and sync notes

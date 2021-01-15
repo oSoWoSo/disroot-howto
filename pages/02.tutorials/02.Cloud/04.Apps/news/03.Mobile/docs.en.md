@@ -3,7 +3,6 @@ title: News: Mobile
 published: true
 visible: false
 updated:
-        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
