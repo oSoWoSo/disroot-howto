@@ -1,10 +1,10 @@
 ---
-title: "GNU/Linux: Terminal Integration"
+title: "Terminal Integration"
 visible: false
 updated:
         last_modified: "July 2019"
-        app: Command line
-        app_version: vdirsyncer - version 0.16.7-2 / Khard - version 0.13.0-1 / Khal - version 1:0.9.10-1.1 on DEBIAN 10
+        app: Vdirsyncer / Khard / Khal
+        app_version: Vdirsyncer, version 0.16.7-2 / Khard, version 0.13.0-1 / Khal, version 1:0.9.10-1.1 on DEBIAN 10
 page-toc:
   active: true
 published: true
@@ -13,13 +13,15 @@ taxonomy:
         - docs
     tags:
         - terminal
-        - linux
+        - gnu-linux
+        - desktop
         - integration
 ---
 
 # General information
 
 The goal of this tutorial is to explain how to synchronize calendar and contacts between the Nextcloud server and your client using the command line.
+
 For this operation the software that will be used are:
 
 - **Vdirsyncer**: a command-line tool for synchronizing calendars and addressbooks between a variety of servers and the local filesystem. More info [here](https://vdirsyncer.pimutils.org/en/stable/)

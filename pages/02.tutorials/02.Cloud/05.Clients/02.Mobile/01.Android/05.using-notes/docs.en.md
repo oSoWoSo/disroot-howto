@@ -1,7 +1,7 @@
 ---
-title: Mobile clients: Notes App
+title: Notes App
 visible: false
-updated: 
+updated:
 page-toc:
   active: true
 published: true

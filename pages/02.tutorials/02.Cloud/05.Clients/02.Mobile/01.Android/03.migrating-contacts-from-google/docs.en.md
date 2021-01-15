@@ -1,5 +1,5 @@
 ---
-title: Mobile clients: Migrating Contacts
+title: Migrating Contacts
 visible: false
 published: true
 updated:

@@ -1,5 +1,5 @@
 ---
-title: 'Cloud: GNOME Integration'
+title: 'GNOME Integration'
 visible: false
 updated:
         last_modified: "January 2021"
@@ -13,6 +13,8 @@ taxonomy:
         - docs
     tags:
         - cloud
+        - desktop
+        - gnu-linux
         - gnome
         - integration
 ---

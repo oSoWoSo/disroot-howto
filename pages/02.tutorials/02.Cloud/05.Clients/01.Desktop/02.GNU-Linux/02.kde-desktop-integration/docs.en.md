@@ -1,5 +1,5 @@
 ---
-title: GNU/Linux: KDE Desktop Integration
+title: 'KDE Desktop Integration'
 visible: false
 updated:
         last_modified: "8 April 2019"

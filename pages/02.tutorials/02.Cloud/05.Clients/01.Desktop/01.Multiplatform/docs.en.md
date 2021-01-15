@@ -1,14 +1,16 @@
 ---
-title: Desktop Clients: Multiplatform
+title: Multiplatform
 published: true
-visible: false
+indexed:
 updated:
 taxonomy:
     category:
         - docs
     tags:
         - cloud
-        - sync
+        - clients
+        - multiplatform
+visible: true
 page-toc:
     active: false
 ---
@@ -16,11 +18,11 @@ page-toc:
 # Multiplatform Clients
 
 
-### [Nextcloud client](desktop-sync-client)
+## [Nextcloud client](desktop-sync-client)
 - Desktop sync client
 
-### [Thunderbird](thunderbird-calendar-contacts)
+## [Thunderbird](thunderbird-calendar-contacts)
 - Calendar, Contacts & Tasks sync
 
-### [calcurse](calcurse-caldav)
+## [calcurse](calcurse-caldav)
 - Calendar sync for the command line

@@ -1,5 +1,5 @@
 ---
-title: Mobile clients: Nextcloud App
+title: Nextcloud App
 visible: false
 updated:
 page-toc:
@@ -10,6 +10,7 @@ taxonomy:
         - docs
     tags:
         - nextcloud
+        - mobile
         - android
 ---
 

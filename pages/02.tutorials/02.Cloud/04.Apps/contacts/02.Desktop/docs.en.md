@@ -1,5 +1,5 @@
 ---
-title: Contacts: Desktop
+title: Desktop
 published: true
 visible: false
 updated:
@@ -13,7 +13,7 @@ page-toc:
     active: false
 ---
 
-# Contact integration on desktop
+# Contact desktop integration
 
 You can read the tutorials below in order to get your **Contacts** syncronized through a multiplatform desktop client.
 

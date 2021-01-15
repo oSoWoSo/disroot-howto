@@ -4,9 +4,6 @@ published: true
 visible: false
 indexed: true
 updated:
-        last_modified: " 2021"
-        app: Contacts
-        app_version: 3.4.3
 taxonomy:
     category:
         - docs

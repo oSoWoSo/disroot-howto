@@ -1,6 +1,6 @@
 ---
 title: MacOS
-visible: false
+visible: true
 published: true
 updated:
 taxonomy:
@@ -8,16 +8,14 @@ taxonomy:
         - docs
     tags:
         - cloud
+        - desktop
         - integration
         - macos
 page-toc:
      active: false
 ---
 
-# Syncing your data with MacOS
+# macOS Desktop clients
 
-Below you can learn how to integrate Nextcloud with your MacOS device
-### [Syncing Calendars](calendar-syncing)
-### [Syncing Contacts](contact-syncing)
-
-![](macos.jpg)
+## [Syncing Calendars](calendar-syncing)
+## [Syncing Contacts](contact-syncing)

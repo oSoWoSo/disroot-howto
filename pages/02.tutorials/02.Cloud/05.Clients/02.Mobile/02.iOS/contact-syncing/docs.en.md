@@ -1,5 +1,5 @@
 ---
-title: 'iOS - Syncing Contacts'
+title: 'Syncing Contacts'
 updated:
         last_modified: "21 august 2018"
         app: iOS

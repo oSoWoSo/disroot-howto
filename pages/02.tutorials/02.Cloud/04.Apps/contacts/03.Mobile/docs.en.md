@@ -1,5 +1,5 @@
 ---
-title: Contacts: Mobile
+title: Mobile
 published: true
 visible: false
 updated:

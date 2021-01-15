@@ -1,5 +1,5 @@
 ---
-title: 'calcurse: Calendar sync'
+title: 'calcurse'
 visible: false
 updated:
         last_modified: "July 2019"

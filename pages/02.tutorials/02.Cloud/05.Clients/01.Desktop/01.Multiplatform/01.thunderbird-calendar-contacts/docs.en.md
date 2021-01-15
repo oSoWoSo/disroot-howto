@@ -1,9 +1,9 @@
 ---
-title: 'Thunderbird: Syncing Contacts, Calendars and Tasks'
+title: 'Thunderbird'
 visible: false
 updated:
         last_modified: "October 2020"
-        app: Thunderbird
+        app: Mozilla Thunderbird
         app_version: 68.12.0 on Manjaro Linux
 page-toc:
   active: true
@@ -19,7 +19,7 @@ taxonomy:
         - contacts
 ---
 
-# Thunderbird...
+# Mozilla Thunderbird...
 ... is a free and open-source multi-platform email client and personal information manager with news, RSS and chat client integrated.<br>
 We will learn how to connect your **Cloud** contacts, calendars and tasks to **Thunderbird** in order to manage them from one place in your desktop.
 
