@@ -1,6 +1,6 @@
 ---
-title: Mobile clients: DAVx⁵ / OpenTasks
-visible: true
+title: DAVx⁵ / OpenTasks
+visible: false
 updated:
 page-toc:
   active: true

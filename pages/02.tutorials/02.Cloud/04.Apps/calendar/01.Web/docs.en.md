@@ -1,5 +1,5 @@
 ---
-title: "Calendar: Web"
+title: "Web interface"
 published: true
 indexed: true
 visible: false

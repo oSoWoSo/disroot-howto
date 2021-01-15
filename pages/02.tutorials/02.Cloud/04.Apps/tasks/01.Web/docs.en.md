@@ -1,8 +1,11 @@
 ---
-title: 'Tasks: Web'
+title: Web interface
 published: true
 visible: false
 updated:
+        last_modified: "January 2021"
+        app: Tasks
+        app_version: 0.13.6
 taxonomy:
     category:
         - docs

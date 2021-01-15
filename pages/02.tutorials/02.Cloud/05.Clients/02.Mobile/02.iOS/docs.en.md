@@ -9,15 +9,12 @@ taxonomy:
         - cloud
         - sync
         - iOS
-visible: false
+visible: true
 page-toc:
      active: false
 ---
 
-# iOS Nextcloud Integration
+# iOS: Nextcloud Integration
 
-Below you can learn how to integrate Nextcloud with your iOS device
-### [Syncing Calendars](calendar-syncing)
-### [Syncing Contacts](contact-syncing)
-
-![](ios.png)
+## [Syncing Calendars](calendar-syncing)
+## [Syncing Contacts](contact-syncing)

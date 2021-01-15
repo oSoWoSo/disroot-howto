@@ -1,5 +1,5 @@
 ---
-title: Mobile clients: News App
+title: News App
 visible: false
 updated:
 page-toc:

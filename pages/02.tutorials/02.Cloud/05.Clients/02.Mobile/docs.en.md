@@ -1,5 +1,5 @@
 ---
-title: 'Cloud: Mobile Clients'
+title: Mobile
 published: true
 updated:
 taxonomy:
@@ -7,18 +7,18 @@ taxonomy:
         - docs
     tags:
         - cloud
+        - mobile
         - nextcloud
-indexed: true
+indexed: 
 visible: true
 page-toc:
      active: false
 ---
-## Syncing your devices
 
-**Nextcloud** integrates with your device very easily, providing native experience for most devices and operating systems.
+# Mobile Clients
 
-### [Android](android)
+## [Android](android)
 - Nextcloud apps
 
-### [iOS](ios)
+## [iOS](ios)
 - iOS app
