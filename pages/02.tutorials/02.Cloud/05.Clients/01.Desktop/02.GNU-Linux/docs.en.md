@@ -20,6 +20,6 @@ page-toc:
 
 ## [GNOME Desktop Integration](gnome-desktop-integration)
 
-## [KDE Desktop Integration]((kde-desktop-integration))
+## [KDE Desktop Integration](kde-desktop-integration)
 
 ## [Terminal Integration](terminal-integration)
