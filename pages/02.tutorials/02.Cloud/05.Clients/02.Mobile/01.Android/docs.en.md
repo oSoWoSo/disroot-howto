@@ -1,5 +1,5 @@
 ---
-title: Mobile clients: Android
+title: Android
 published: true
 updated:
 taxonomy:
@@ -14,14 +14,10 @@ page-toc:
      active: false
 ---
 
-# Android Nextcloud Integration
+# Android: Nextcloud clients and integration
 
-The following How-tos will help you integrate **Nextcloud** with your **Android** device.
-
-### [Nextcloud app](nextcloud-app)
-### [Syncing Calendars, Contacts and Tasks](calendars-contacts-and-tasks)
-### [Migrating contacts from Google into Nextcloud](migrating-contacts-from-google)
-### [Syncing News](using-news)
-### [Syncing Notes](using-notes)
-
-![](android.jpg)
+## [Nextcloud app](nextcloud-app)
+## [Syncing Calendars, Contacts and Tasks](calendars-contacts-and-tasks)
+## [Migrating contacts from Google into Nextcloud](migrating-contacts-from-google)
+## [Syncing News](using-news)
+## [Syncing Notes](using-notes)

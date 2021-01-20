@@ -3,9 +3,6 @@ title: Cloud
 subtitle: "Basics, settings, syncing, clients"
 icon: fa-cloud
 updated:
-        last_modified: "June 2020"
-        app: Nextcloud
-        app_version: 18
 published: true
 taxonomy:
     category:

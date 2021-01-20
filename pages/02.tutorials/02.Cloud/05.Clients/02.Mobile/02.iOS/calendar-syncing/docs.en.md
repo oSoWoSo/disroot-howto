@@ -1,5 +1,5 @@
 ---
-title: 'iOS - Syncing Calendars & Reminders'
+title: 'Syncing Calendars & Reminders'
 updated:
         last_modified: "19 August 2018"
         app: iOS
