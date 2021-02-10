@@ -21,7 +21,7 @@ We understand that not everyone wants to use **Disroot** mail as their daily dri
 
 However, there are important information you should not miss out on.
 
- - Get notifications for **Forum** and **Nextcloud**. Those services are tight to **Disroot** email and you can't change it.
+ - Get notifications for **Forum** and **Nextcloud**. These services are tied to **Disroot** email and you can not change it.
  - To be up to date with what's going on in **Disroot**. Every three / six weeks we're sending email to all users informing them about recent developments, new features and services. We're also sending information about scheduled downtime of services if they are longer than 20 min. We have no intention to spam you with too much information so don't worry about that.
 
 This short how-to will show you how to forward your **Disroot** emails to your preferred email address (it should take you no more than three minutes to get this setup).
