@@ -35,14 +35,14 @@
       {% include 'partials/docmeta.html.twig' %}
 
       <section class="index content narrow">
-            {{ page.content }}
+            {{ page.content|raw }}
              <div class="row">
                  {% for p in page.children %}
                      <div class="three columns">
                      {%if p.header.indexed %}
                          <a href="{{ p.link }}">
                          {%if p.media %}
-                            {{ p.media.images|first.html }}
+                            {{ p.media.images|first.html|raw }}
                          {% endif %}
                          <h6>{{ p.title }}</h6>
                          </a>

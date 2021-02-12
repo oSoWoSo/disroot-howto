@@ -10,7 +10,7 @@
 {% set colsize = ['seven', 'five'] %}
 <section id="{{ page.header.section_id }}" class="row columns">
   <div class="{{ colsize[0] }} columns">
-    {{ page.content }}
+    {{ page.content|raw }}
   </div>
   <div class="{{ colsize[1] }} columns topic-list">
     {% for p in page.collection %}
