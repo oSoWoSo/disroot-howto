@@ -17,13 +17,13 @@
         {% do assets.addCss('theme://css/style.css') %}
         {% do assets.addCss('theme://css/media-queries.css') %}
     {% endblock %}
-    {{ assets.css() }}
+    {{ assets.css()|raw }}
 
-        {% block javascripts %}
+    {% block javascripts %}
         {% do assets.addJs('jquery', 100) %}
         {% do assets.addJs('theme://js/howto.js', { group:'bottom' }) %}
     {% endblock %}
-    {{ assets.js() }}
+    {{ assets.js()|raw }}
 
 {% endblock head%}
 </head>
