@@ -13,12 +13,13 @@ GRAV_VERSION="1.6.18"
 sudo debconf-set-selections <<< "postfix postfix/main_mailer_type select No configuration"
 sudo debconf-set-selections <<< "postfix postfix/mailname string ${WEB_NAME}"
 
-# Add sury repository to sources.list for PHP
+# Add sury repository to sources.list for PHP7.4
+echo "set grub-pc/install_devices /dev/sda" | debconf-communicate # Fix grub error
 sudo apt-get -y update
-sudo apt-get -y upgrade
+sudo apt-get -y dist-upgrade
 sudo apt-get -y install ca-certificates apt-transport-https
 if ! grep -q "^deb .*sury" /etc/apt/sources.list /etc/apt/sources.list.d/*; then
-    echo "deb https://packages.sury.org/php/ buster main" | sudo tee -a /etc/apt/sources.list.d/php.list
+   sudo sh -c 'echo "deb https://packages.sury.org/php/ buster main" > /etc/apt/sources.list.d/php.list'
 fi
 
 # Sury Key for PHP7.4
@@ -37,8 +38,12 @@ sudo apt-get install -y php7.4-zip php7.4-cli php7.4-curl php7.4-gd php7.4-mbstr
 # Create the Nginx config files and restart webserver
 echo "Installing Nginx config files..."
 sudo rsync -cr /vagrant/provision/etc/nginx/sites-available /etc/nginx/
-sudo ln -s /etc/nginx/sites-available/"${WEB_NAME}".conf /etc/nginx/sites-enabled/"${WEB_NAME}".conf
-sudo rm /etc/nginx/sites-enabled/default
+if [ ! -f /etc/nginx/sites-enabled/"${WEB_NAME}".conf ]; then
+    sudo ln -s /etc/nginx/sites-available/"${WEB_NAME}".conf /etc/nginx/sites-enabled/"${WEB_NAME}".conf
+fi
+if [ -f /etc/nginx/sites-enabled/default ]; then
+    sudo rm /etc/nginx/sites-enabled/default
+fi
 sudo service nginx restart
 
 # Install GRAV in webroot
@@ -81,11 +86,11 @@ fi
 echo "Enter git"
 cd "${WEB_ROOT}""${WEB_NAME}"
 
-sudo -u "${WWW_USER}" bin/gpm install form
-sudo -u "${WWW_USER}" bin/gpm install simplesearch
-sudo -u "${WWW_USER}" bin/gpm install relatedpages
-sudo -u "${WWW_USER}" bin/gpm install breadcrumbs
-sudo -u "${WWW_USER}" bin/gpm install page-toc
+sudo -u "${WWW_USER}" php7.4 bin/gpm install form
+sudo -u "${WWW_USER}" php7.4 bin/gpm install simplesearch
+sudo -u "${WWW_USER}" php7.4 bin/gpm install relatedpages
+sudo -u "${WWW_USER}" php7.4 bin/gpm install breadcrumbs
+sudo -u "${WWW_USER}" php7.4 bin/gpm install page-toc
 sudo -u "${WWW_USER}" sed -i 's/quark/grav-theme-howto/g' "${YAML}"
 
 # Add Grav config
