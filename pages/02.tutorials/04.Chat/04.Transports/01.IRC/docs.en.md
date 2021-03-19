@@ -54,9 +54,9 @@ Repeat 1 to 3, for different channel on different network.
 
 ### For long-term/recurring
 
-1. Add `irc.disroot.org` to your roaster.
+1. Add `irc.disroot.org` to your roster.
 2. Execute ad-hoc command on it, then enable history and persistence.
-3. Add `irc.network.tld@irc.disroot.org` to your roaster.
+3. Add `irc.network.tld@irc.disroot.org` to your roster.
 4. Execute ad-hoc command on it, then add your username (nick) and password (nick password).
 5. Add `#channel%irc.network.tld@irc.disroot.org` to bookmarks and then join.
 6. Execute ad-hoc command on it, then enable history and persistence.
@@ -72,6 +72,6 @@ Any client can be used, although only following clients are known to support ad-
 
 ### Gajim
 
-1. Right-click on the roaster element.
+1. Right-click on the roster element.
 2. Click 'Execute Command'.
 3. Follow the options.
