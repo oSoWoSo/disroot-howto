@@ -5,8 +5,8 @@ visible: true
 indexed: false
 updated:
         last_modified: March, 2021
-        app: Biboumi
-        app_version: 9.0
+        app: Bifrost
+        app_version: 0.2.0
 taxonomy:
     category:
         - docs
@@ -25,3 +25,8 @@ You can connect to any **Matrix** room hosted on any **Matrix** server via **Mat
 `#room#matrix.domain.ldt@matrix.org`
 
 Where `#room` is the **Matrix** room you want to join and `matrix.domain.tld` is the **Matrix server address** you want to join. Make sure to leave `@matrix.org` as it is, because it's the **Matrix bridge address**.
+
+!! ### IMPORTANT NOTICE
+!! As it is mentioned in the [**Bifrost**](https://github.com/matrix-org/matrix-bifrost)'s code page:<br>
+!! ###### `This bridge is in very active development currently and intended mainly for experimentation and evaluation purposes`
+!! **So please keep in mind that this "bridge" is unstable and sometimes it can be down**.
