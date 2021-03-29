@@ -24,7 +24,7 @@ page-toc:
 
 **Disroot Chat** allows you to connect to any **IRC** channel, on any server, using your **XMPP** client of choice. This is possible thanks to [**Biboumi**](https://biboumi.louiz.org/), a gateway that connects both protocols and allows access to IRC channels as if they were XMPP rooms. Our gateway is hosted at **irc.disroot.org**
 
-# How does it works?
+# How does it work?
 ## Joining a channel
 To join an **IRC** channel using your **XMPP** client, use the following schema:
 
