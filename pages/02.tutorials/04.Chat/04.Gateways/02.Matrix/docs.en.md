@@ -16,13 +16,13 @@ taxonomy:
         - matrix
         - bridge
 page-toc:
-    active: true
+    active: false
 ---
 
 # Matrix bridge
-You can connect to any **Matrix** room hosted on any **Matrix** server via **Matrix.org bridge**. To join a Matrix room:
+You can connect to any **Matrix** room hosted on any **Matrix** server via **Bifrost Matrix bridge** (_**which is hosted by Matrix.org**_). To join a Matrix room:
 
-`#room#matrix.domain.ldt@matrix.org`
+`#room#matrix.domain.tld@matrix.org`
 
 Where `#room` is the **Matrix** room you want to join and `matrix.domain.tld` is the **Matrix server address** you want to join. Make sure to leave `@matrix.org` as it is, because it's the **Matrix bridge address**.
 
