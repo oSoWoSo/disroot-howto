@@ -1,5 +1,6 @@
 ---
-title: "Webmail: Contacts"
+title: "Contacts"
+vpublished: true
 visible: true
 indexed: true
 updated:
@@ -14,7 +15,6 @@ page-toc:
 ---
 
 # Contacts
-
 **Contacts** is the tool that manages contacts and address books. Its interface consists of two sections: the **Groups** and the **Contact list**. On the left is the detailed view that shows information about the contacts.
 
 ![Contacts](en/contacts_main.png)

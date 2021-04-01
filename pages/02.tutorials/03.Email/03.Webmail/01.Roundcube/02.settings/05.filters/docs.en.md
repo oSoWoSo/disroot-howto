@@ -1,5 +1,5 @@
 ---
-title: "Webmail: Settings / Filters"
+title: "Filters"
 visible: true
 indexed: true
 updated:
@@ -13,9 +13,7 @@ page-toc:
     active: true
 ---
 
-# Settings
-
-## Filters
+# Filters
 An email filter is a set of rules that are applied to the incoming mail. Depending on whether or not the emails comply with these rules, the email client will execute an action on them, such as forwarding certain emails to a specific folder.
 
 So, with filters you can specify conditions to match and actions to take on matching, for example, move emails from a sender to a particular folder. Basically, you tell the mailserver how it should process your mails.

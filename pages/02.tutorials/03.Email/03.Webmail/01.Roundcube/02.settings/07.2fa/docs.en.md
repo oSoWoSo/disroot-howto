@@ -1,5 +1,5 @@
 ---
-title: "Webmail: Settings / Two Factor Authentication"
+title: "Two Factor Authentication"
 visible: true
 indexed: true
 updated:
@@ -13,9 +13,7 @@ page-toc:
     active: true
 ---
 
-# Settings
-
-## Two Factor Authentication
+# Two Factor Authentication
 Two-factor authentication (2FA) is a security process that has a two steps verification, usually, the combination of two factors:
 1. something you know (like a password),
 2. something you have (could be a security token, a card, a QR code, etc.), or

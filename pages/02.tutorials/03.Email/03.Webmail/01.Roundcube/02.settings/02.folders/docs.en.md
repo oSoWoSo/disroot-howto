@@ -1,5 +1,5 @@
 ---
-title: "Webmail: Settings / Folders"
+title: "Folders"
 visible: true
 indexed: true
 updated:
@@ -13,9 +13,7 @@ page-toc:
     active: true
 ---
 
-# Settings
-
-## Folders
+# Folders
 Here are the settings that allows you to manage the mailbox folders.
 
 ![Folders](en/set_folders.png)
