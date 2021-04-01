@@ -1,5 +1,5 @@
 ---
-title: "Webmail: Settings / Preferences"
+title: "Preferences"
 visible: true
 indexed: true
 updated:
@@ -13,9 +13,7 @@ page-toc:
     active: true
 ---
 
-# Settings
-
-## Preferences
+# Preferences
 
 ![Preferences](en/set_preferences.png)
 

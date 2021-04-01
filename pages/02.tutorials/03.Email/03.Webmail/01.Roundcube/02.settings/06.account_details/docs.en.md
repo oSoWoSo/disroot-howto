@@ -1,5 +1,5 @@
 ---
-title: "Webmail: Settings / Account details"
+title: "Account details"
 visible: true
 indexed: true
 updated:
@@ -12,9 +12,7 @@ page-toc:
     active: true
 ---
 
-# Settings
-
-## Account details
+# Account details
 
 ![Account details](en/set_account.png)
 

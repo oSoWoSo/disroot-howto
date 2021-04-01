@@ -1,5 +1,5 @@
 ---
-title: "Webmail: Settings / Responses"
+title: "Responses"
 visible: true
 indexed: true
 updated:
@@ -12,9 +12,7 @@ page-toc:
     active: true
 ---
 
-# Settings
-
-## Responses
+# Responses
 
 This option allows you to save responses, which can be handy when repeatedly writing emails with the same text.
 

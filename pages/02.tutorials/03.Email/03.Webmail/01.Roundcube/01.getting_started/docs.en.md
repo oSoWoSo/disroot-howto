@@ -1,5 +1,5 @@
 ---
-title: "Webmail: Getting Started"
+title: "Getting started"
 published: true
 visible: true
 indexed: true
