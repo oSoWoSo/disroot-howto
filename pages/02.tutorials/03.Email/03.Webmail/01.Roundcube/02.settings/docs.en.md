@@ -1,12 +1,9 @@
 ---
-title: "Webmail: Settings"
+title: "Settings"
 published: true
 visible: true
 indexed: true
 updated:
-        last_modified: "April 2020"
-        app: Roundcube Webmail
-        app_version: 1.4.2
 taxonomy:
     category:
         - docs
@@ -15,9 +12,6 @@ taxonomy:
 page-toc:
     active: false
 ---
-
-# Webmail Settings
-
 
 # Table of Content
 ## [01. Preferences](01.preferences)
@@ -36,7 +30,7 @@ page-toc:
   - Default identity
   - Add other identities / aliases
   - Sending an email with another identity
-  
+
 ## [04. Responses](04.responses)
 ## [05. Filters](05.filters)
 ## [06. Account details](06.account_details)

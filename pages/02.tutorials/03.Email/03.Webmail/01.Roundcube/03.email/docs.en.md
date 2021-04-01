@@ -1,5 +1,5 @@
 ---
-title: "Webmail: Email"
+title: "Composing emails"
 published: true
 visible: true
 indexed: true
@@ -13,10 +13,7 @@ page-toc:
   active: true
 ---
 
-# Email
-
 # Composing emails
-
 To create an email, click on the **Compose** button.
 
 ![](en/composing_01.png)

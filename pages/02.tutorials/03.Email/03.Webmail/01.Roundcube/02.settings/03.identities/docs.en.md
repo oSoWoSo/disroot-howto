@@ -1,5 +1,5 @@
 ---
-title: "Webmail: Settings / Identities"
+title: "Identities"
 visible: true
 indexed: true
 updated:
@@ -13,9 +13,7 @@ page-toc:
     active: true
 ---
 
-# Settings
-
-## Identities
+# Identities
 
 ![Identities](en/set_identities.png)
 
