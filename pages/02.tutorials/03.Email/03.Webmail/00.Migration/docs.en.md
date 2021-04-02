@@ -18,6 +18,8 @@ page-toc:
 
 # Roundcube Migration Guide
 
+![](thumb.png)
+
 From "date" the **Disroot** webmail solution will be **Roundcube** and the current one (**Rainloop**) will be discontinued.
 
 Although you should not have any issues with the transition, we strongly suggest that you previously make a backup of your contacts and emails. Below you will find a brief step-by-step guide to help you do it without problems.

@@ -3,10 +3,6 @@ title: Disroot Webmail
 published: true
 visible: true
 indexed: true
-updated:
-        last_modified: "April, 2021"
-        app: Roundcube Webmail
-        app_version: 1.4.4
 taxonomy:
     category:
         - docs
@@ -23,10 +19,12 @@ A webmail, or web-based email, is an email service that can be accessed using th
 **Disroot** webmail solution is powered by **Roundcube**.
 
 
-![](rc_logo.png)
+![](roundcube/rc_logo.png)
 
 # What is Roundcube?
 Roundcube is a free and open source webmail software that provides all the functionalities you would expect from an email client: full support for MIME and HTML messages, multiple sender identities, address book with groups and LDAP connectors, threaded message listing, spell checking, support for access control lists (ACL), import/export functions and support for PGP encryption among many other features.
+
+**[[Roundcube Site](https://roundcube.net/)] | [[Source code](https://github.com/roundcube/roundcubemail/)]**
 
 Through the following tutorial, we will learn how to use **Roundcube** and get to know its features.
 
