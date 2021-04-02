@@ -1,5 +1,5 @@
 ---
-title: Roundcube
+title: "Roundcube Webmail Client"
 published: true
 visible: true
 indexed: true
@@ -16,15 +16,7 @@ page-toc:
     active: true
 ---
 
-# Disroot Roundcube Webmail
-
-![](../rc_logo.png)
-
-Roundcube is a free and open source webmail software that provides all the functionalities you would expect from an email client: full support for MIME and HTML messages, multiple sender identities, address book with groups and LDAP connectors, threaded message listing, spell checking, support for access control lists (ACL), import/export functions and support for PGP encryption among many other features.
-
-Through the following tutorial, we will learn how to use **Roundcube** and get to know its features.
-
-----
+![](rc_logo.png)
 
 # Table of Contents
 
