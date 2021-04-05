@@ -1,5 +1,5 @@
 ---
-title: Email: Configuring Filters
+title: "Filters: Configuring"
 published: true
 visible: true
 indexed: true
