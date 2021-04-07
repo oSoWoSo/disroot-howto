@@ -1,5 +1,5 @@
 ---
-title: "Configuring your Disroot account"
+title: "Setting up your Disroot account"
 visible: false
 published: true
 updated:
@@ -15,7 +15,8 @@ page-toc:
     active: true
 ---
 
-# Configuring your Disroot account
+# Setting up your Disroot account
+
 The first time you run **Thunderbird**, you will be greeted by the account setup. Select **Skip this and use my existing email** to configure your Disroot account.<br>
 If you are already using **Thunderbird** then you can select "**Email**" in the root view.
 
