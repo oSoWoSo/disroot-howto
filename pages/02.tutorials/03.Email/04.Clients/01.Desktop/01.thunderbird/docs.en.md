@@ -9,7 +9,7 @@ taxonomy:
     tags:
         - email
 page-toc:
-    active: true
+    active: false
 ---
 
 # Mozilla Thunderbird
@@ -25,7 +25,6 @@ If you don't have it installed yet, go to [Thunderbird page](https://www.thunder
 
 ----
 
-# Table of Contents
-[Setup](setup)
+## [Setting up your Disroot account](setup)
 
-[Exporting](exporting)
+## [Exporting / Importing emails](exporting)
