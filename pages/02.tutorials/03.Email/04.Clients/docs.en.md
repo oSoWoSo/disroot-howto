@@ -1,5 +1,5 @@
 ---
-title: Email: Clients
+title: "Email Clients"
 visible: true
 updated:
 taxonomy:
@@ -11,13 +11,13 @@ page-toc:
     active: false
 ---
 
-## [Desktop Mail Client](desktop)
-- [**Multiplatform**](desktop/thunderbird)
+## Desktop Mail Client
+- [**Multiplatform**](desktop)
 - [**GNOME** Desktop integration](desktop/gnome-desktop-integration)
 - [**KDE** Desktop integration](desktop/kde-desktop-integration)
 
 
-## [Mobile Mail Client](mobile)
+## Mobile Mail Client
 - [**Android: K9**](mobile/k9)
 - [**SailfishOS: Mail App**](mobile/sailfishos)
 - [**iOS: Mail App**](mobile/ios)

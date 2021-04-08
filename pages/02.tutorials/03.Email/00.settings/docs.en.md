@@ -1,5 +1,5 @@
 ---
-title: Email: Clients Settings
+title: Clients Settings
 published: true
 visible: true
 indexed: true

@@ -1,5 +1,5 @@
 ---
-title: 'Email: Setup alias'
+title: 'Alias setup'
 visible: true
 indexed: true
 updated:
