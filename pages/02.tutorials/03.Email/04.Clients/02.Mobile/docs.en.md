@@ -1,5 +1,5 @@
 ---
-title: 'Email: Mobile Clients'
+title: 'Mobile Clients'
 visible: true
 indexed: true
 updated:

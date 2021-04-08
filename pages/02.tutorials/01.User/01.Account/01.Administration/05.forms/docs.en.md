@@ -12,7 +12,7 @@ taxonomy:
         - account
         - forms
 page-toc:
-    active: true
+    active: 
 ---
 
 # Custom Requests forms

@@ -12,7 +12,7 @@ taxonomy:
         - account
         - information
 page-toc:
-    active: true
+    active: 
 ---
 
 # Your Account information

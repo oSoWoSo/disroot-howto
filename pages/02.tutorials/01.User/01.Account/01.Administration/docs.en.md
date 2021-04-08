@@ -15,16 +15,20 @@ page-toc:
     active: true
 ---
 
-# Manage your Disroot Account
+# [User Self-service Center](ussc)
+- Overview
+- [Password reset](ussc/pwd_reset)
+- [New account registration](ussc/new_reg)
 
-- [User Self-service Center](ussc)
-  - Signing in
-  - Reseting your password
-  - New user registration
-- [Change your password](password)
-  - Update your **Cloud** encryption key
-- [Setup your Security Questions](questions)
-- [Update your Profile](profile)
-- [Request forms](forms)
-- [Account information](info)
-- [Delete your Account](delete)
+## [Change your password](password)
+Update your **Cloud** encryption key
+
+## [Setup your Security Questions](questions)
+
+## [Update your Profile](profile)
+
+## [Request forms](forms)
+
+## [Account information](info)
+
+## [Delete your Account](delete)
