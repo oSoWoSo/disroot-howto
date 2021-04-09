@@ -39,4 +39,5 @@ Unfortunately, exporting emails from **Rainloop** is a very cumbersome process b
 The ability to export multiple emails at once is a feature that has been requested to the **Rainloop** team for five years now, but has not been yet developed.
 
 There are a couple of workarounds to do this from **Thunderbird** (which do not provide a native feature to backup emails either).
-Please check our **Thunderbird** howto to learn about them.
+
+Please check our [**Thunderbird Email Backup**](../../../clients/desktop/thunderbird/exporting) howto to learn about them.
