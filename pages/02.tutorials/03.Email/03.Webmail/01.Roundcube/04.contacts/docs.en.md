@@ -51,6 +51,9 @@ In addition to creating, printing or deleting a contact you can do some other op
 
 ![More](en/more.png) From here you can generate a **QR** code from the data of a selected contact (which you can use to, for example, transfer a contact from the webmail to the mobile) and assign/remove it from a contact group.
 
+## Importing contacts
+
+
 ## Address book
 Now that we have seen the contacts, let's take a look at the address book which is - precisely - a collection or group of contacts. The first time you open your address book, it is probably empty, unless you have already been using your **Disroot** account and had some contacts and groups organized before.
 

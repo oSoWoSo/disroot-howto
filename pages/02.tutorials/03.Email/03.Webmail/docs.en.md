@@ -35,15 +35,15 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
 # [Rainloop to Roundcube Migration Guide](migration)
   - [Roundcube Migration FAQ](migration/faq)
   - [Rainloop: Exporting contacts and emails](migration/rainloop)
-  - [Roundcube: Importing contacts and emails](migration/roundcube)
+  - [Roundcube: Importing contacts](migration/roundcube)
 
 # [Roundcube](roundcube)
-## [01. Getting started](Roundcube/01.getting_started)
+## [01. Getting started](roundcube/getting_started)
   - Overview
   - Tasks and basic operations
 
-## [02. Settings](Roundcube/02.settings)
-  - [01. Preferences](Roundcube/02.settings/01.preferences)
+## [02. Settings](roundcube/settings)
+  - [01. Preferences](roundcube/settings/preferences)
     - User interface
     - Mailbox view
     - Displaying messages
@@ -53,22 +53,23 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
     - Server settings
     - Deleting old messages
     - Message highlights
-  - [02. Folders](Roundcube/02.settings/02.folders)
-  - [03. Identities](Roundcube/02.settings/03.identities)
+  - [02. Folders](roundcube/settings/folders)
+  - [03. Identities](roundcube/settings/identities)
     - Default identity
     - Add other identities / aliases
     - Sending an email with another identity
-  - [04. Responses](Roundcube/02.settings/04.responses)
-  - [05. Filters](Roundcube/02.settings/05.filters)
-  - [06. Account details](Roundcube/02.settings/06.account_details)
-  - [07. Two Factor Authentication](Roundcube/02.settings/07.2fa)
+  - [04. Responses](roundcube/settings/responses)
+  - [05. Filters](roundcube/settings/filters)
+  - [06. Account details](roundcube/settings/account_details)
+  - [07. Two Factor Authentication](roundcube/settings/2fa)
     - Activate Two Factor Authentication
     - Log in when Two Factor Authentication is activated
 
-## [03. Email](Roundcube/03.email)
+## [03. Email](roundcube/email)
   - Composing an email
 
-## [04. Contacts](Roundcube/04.contacts)
+## [04. Contacts](roundcube/contacts)
   - Contacts lists
+  - Importing contacts
   - Address book
   - Groups

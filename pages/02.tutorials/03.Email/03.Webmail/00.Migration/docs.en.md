@@ -31,4 +31,4 @@ Let's get started...
 # Table of Contents
 ##  1. [Roundcube Migration FAQ](faq)
 ##  2. [Rainloop: Exporting contacts and emails](rainloop)
-##  3. [Roundcube: Importing contacts and emails](roundcube)
+##  3. [Roundcube: Importing contacts](roundcube)
