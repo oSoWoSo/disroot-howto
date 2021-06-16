@@ -28,5 +28,5 @@ page-toc:
 ## [Desktop clients](desktop)
 - Desktop clients and taking notes apps to create and sync notes
 
-## [Mobile clients](/tutorials/cloud/clients/mobile)
+## [Mobile clients](mobile/android)
 - Mobile clients and taking notes apps to create and sync notes

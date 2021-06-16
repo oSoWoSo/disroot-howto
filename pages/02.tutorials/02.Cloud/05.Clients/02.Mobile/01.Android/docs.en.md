@@ -17,7 +17,10 @@ page-toc:
 # Android: Nextcloud clients and integration
 
 ## [Nextcloud app](nextcloud-app)
-## [Syncing Calendars, Contacts and Tasks](calendars-contacts-and-tasks)
-## [Migrating contacts from Google into Nextcloud](migrating-contacts-from-google)
-## [Syncing News](using-news)
-## [Syncing Notes](using-notes)
+Configuring and using the Nextcloud app with a Disroot account
+
+## [DAVx⁵](calendars-contacts-and-tasks)
+How to sync Calendars, Contacts and Tasks
+
+## [Migrating contacts in Android](migrating-contacts-from-google)
+How to migrate contatcs from Google into Nextcloud
