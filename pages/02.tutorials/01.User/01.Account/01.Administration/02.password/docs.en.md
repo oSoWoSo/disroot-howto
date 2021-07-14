@@ -12,7 +12,7 @@ taxonomy:
         - account
         - management
 page-toc:
-    active: false
+    active: 
 ---
 
 # Change your password

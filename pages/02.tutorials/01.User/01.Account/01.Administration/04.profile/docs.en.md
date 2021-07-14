@@ -12,7 +12,7 @@ taxonomy:
         - account
         - profile
 page-toc:
-    active: true
+    active: 
 ---
 
 # Update your Profile

@@ -1,5 +1,5 @@
 ---
-title: "Email: Forwarding from Disroot to another email account"
+title: "Forwarding emails"
 published: true
 visible: true
 indexed: true
