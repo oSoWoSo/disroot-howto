@@ -3,14 +3,14 @@ title: "Discourse: Exportar tus publicaciones en el Foro"
 published: true
 indexed: true
 updated:
-    last_modified: "Julio 2019"		
+    last_modified: "Junio, 2020"		
     app: Discourse
     app_version: 2.3
 taxonomy:
     category:
         - docs
     tags:
-        - usuario
+        - usuarix
         - foro
         - discourse
         - rgpd
@@ -19,30 +19,38 @@ page-toc:
     active: false
 ---
 
-**Discourse**, el software utilizado por **Disroot** para el **Foro**, te permite exportar el contenido escrito de todas tus publicaciones en un archivo de formato .csv (que es soportado por la mayoría de los programas que manejan hojas de cálculo: Libreoffice, Openoffice, Gnumeric, Excel).
+**Discourse**, el software utilizado por **Disroot** para el **Foro**, te permite exportar el contenido escrito de todas tus publicaciones en un archivo de formato .csv (un archivo de texto simple que es soportado por la mayoría de los programas que manejan hojas de cálculo).
 
 **Para exportar tus publicaciones desde Discourse:**
-- Presiona tu Gravatar en la esquina superior derecha de la pantalla
-![](es/export_data_discourse_01.png)<br>
+- Inicia sesión en el **Foro**
+- Presiona tu avatar en la esquina superior derecha de la pantalla
+- Presiona el botón con tu nombre de usuarix
 
-- Presiona el botón con tu nombre de usuario
-![](es/export_data_discourse_02.png)<br>
+  ![](en/export.gif)
 
 - Presiona el botón *"Descargar mis posts"*
-![](es/export_data_discourse_03.png)<br>
 
-- Se abrirá un cuadro de diálogo pidiendo que confirmes si quieres descargar tus publicaciones, selecciona *"Sí"* y luego *"Ok"*<br>
+  ![](en/download_1.png)
+
+- Se abrirá un cuadro de diálogo pidiendo que confirmes si quieres descargar tus publicaciones, selecciona **Sí** y luego **Ok**
+
+  ![](en/download_2.png)
+
+- El sistema comenzará a procesar tus datos y te notificará cuando estén listos para descargar.
+
+![](en/download_3.png)
+
+![](en/notification.png)
+
+- Recibirás un mensaje del sistema notificándote que los datos están listos para ser descargados, y proporcionándote un enlace para descargar el archivo .csv con una copia de tus publicaciones. Si has habilitado las notificaciones por correo electrónico, también recibirás un correo con esta información.
+
+- Presiona el enlace para descargar el archivo.
+
+  ![](en/notification_2.png)  
+
+- Este enlace estará disponible durante 48hs, tras lo cual expirará y tendrás que realizar el proceso nuevamente para exportar tus datos otra vez.
+
+- Una vez extraído el contenido del archivo, puedes abrirlo con tu programa de hojas de cálculo.
 
 
-**AVISO:** La información solo puede descargarse una vez cada 24hs.<br>
-
-![](es/export_data_discourse_01.gif)
-
-Recibirás un mensaje del sistema notificándote cuando los datos estén listos para descarga y un link a un archivo .csv, con la copia de todas tus publicaciones.
-Si tienes habilitadas las notificaciones por correo, también recibirás uno con esta información. Solo haz click en el link para descargar el archivo.
-
-Los datos son comprimidos en un archivo gzip. Si el mismo no se puede extraer cuando lo intentas abrir, utiliza alguna de las herramientas recomendadas aquí: http://www.gzip.org/#faq4
-
-El link estará disponible durante 48hs, luego expirará y tendrás que realizar el proceso nuevamente para exportar tus datos otra vez.
-
-Una vez extraído el archivo, puedes abrirlo con tu programa de hojas de cálculo.
+**AVISO**: Los datos solo pueden ser descargados una vez cada 24hs.
