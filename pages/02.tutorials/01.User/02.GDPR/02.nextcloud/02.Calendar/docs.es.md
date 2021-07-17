@@ -3,14 +3,14 @@ title: "Nextcloud: Exportar Calendarios"
 published: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "Junio 2020"		
     app: Nextcloud
-    app_version: 15
+    app_version: 18
 taxonomy:
     category:
         - docs
     tags:
-        - usuario
+        - usuarix
         - nube
         - calendario
         - rgdp
@@ -19,16 +19,15 @@ page-toc:
     active: false
 ---
 
-Exportar calendarios es muy simple:
+Exportar calendarios es bastante simple:
 
-1. Inicia sesión en la [nube](https://cloud.disroot.org)
+  - Inicia sesión en la [nube](https://cloud.disroot.org)
+  - Selecciona la aplicación Calendario
 
-2. Selecciona la aplicación Calendario
+  ![](es/select_app.gif)
 
-![](es/select_app.gif)
+  - Para exportar cualquiera de los calendarios que tengas, haz click en el menú de *"tres puntos"* que estará al lado del que quieras respaldar y selecciona la opción *"Descargar"*. El calendario exportado se guarda como un archivo .ics.
 
-3. Para exportar cualquiera de los calendarios que tengas, haz click en el menú de *"tres puntos"* que estará al lado del que quieras respaldar y selecciona la opción *"Descargar"*. El calendario exportado se guarda como un archivo .ics.
+  ![](es/export-calendar.gif)
 
-![](es/export-calendar.gif)
-
-El proceso es el mismo para cualquier calendario que quieras exportar.
+  - Repite el procedimiento para exportar cualquier calendario.
