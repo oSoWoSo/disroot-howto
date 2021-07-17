@@ -27,6 +27,11 @@ page-toc:
 
 ![](es/cambiar_pass.png)
 
+!! **La contraseña debe cumplir los siguientes requisitos:**
+!! - La contraseña distingue entre mayúsculas y minúsculas.
+!! - Debe tener al menos 8 caracteres.
+!! - La contraseña no puede tener más de 64 caracteres
+
 !! **Luego de cambiar tu contraseña asegúrate de modificar tu clave de cifrado en Nextcloud también, ya que todos tus archivos en la Nube están cifrados con una clave que se genera a partir de la contraseña.**
 
 ----
