@@ -13,7 +13,5 @@ page-toc:
 ---
 
 # Usuarixs
-
 En esta sección puedes encontrar información útil sobre la gestión de tu cuenta.
-
 <br>
