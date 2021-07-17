@@ -35,7 +35,6 @@ This chapter includes tutorials that will help you get all the data stored on se
   - [Files & Notes](nextcloud/files)
   - [Contacts](nextcloud/contacts)
   - [Calendars](nextcloud/calendar)
-  - [News](nextcloud/news)
   - [Bookmarks](nextcloud/bookmarks)
 - [03. Forum (Discourse)](discourse)
 - [04. Board (Taiga)](taiga)
