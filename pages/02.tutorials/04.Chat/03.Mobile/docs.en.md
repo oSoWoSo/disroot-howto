@@ -19,7 +19,6 @@ page-toc:
 
 ### Android
 - [Conversations](android/conversations)
-- [Pix-Art Messenger](android/pix-art)
 
 ### SailfishOS
 - [Chat app](sailfishos)
