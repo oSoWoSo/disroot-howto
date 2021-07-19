@@ -19,7 +19,7 @@ page-toc:
 
 ![](es/tablero_preguntas.png)
 
-En caso que olvides/pierdas tu contraseña, puedes restablecerla sin intervención de lxs administradores configurando primero las preguntas de seguridad. Para hacerlo, haz click en esta opción.
+En caso que olvides/pierdas tu contraseña, puedes restablecerla sin intervención de lxs administradorxs configurando primero las preguntas de seguridad. Para hacerlo, haz clic en esta opción.
 
 El proceso es bastante sencillo.
 
@@ -31,6 +31,6 @@ El proceso es bastante sencillo.
 
   ![](es/preg_02.png)
 
-- Una vez que las respuestas cumplan con los requisitos, solo haz click en **Guardar respuestas** y finalmente en **Continuar**
+- Una vez que las respuestas cumplan con los requisitos, solo haz clic en **Guardar respuestas** y finalmente en **Continuar**
 
   ![](es/preg_03.png)

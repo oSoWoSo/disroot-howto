@@ -19,7 +19,7 @@ page-toc:
 
 ![](en/dashboard_pass.png)
 
-#### Click on this option to change your current password.
+#### clic on this option to change your current password.
 
 
 !! #### NOTICE<br>
@@ -47,7 +47,7 @@ page-toc:
 
   ![](en/invalid_encrypt_bem_pass.png)
 
-4. Enter your old password then the new one and finally click on the **Update Private Key Password** button
+4. Enter your old password then the new one and finally clic on the **Update Private Key Password** button
 
   ![](en/invalid_encrypt_bem_pass_2.png)
 

@@ -22,8 +22,10 @@ page-toc:
 #### Selecciona esta opción para cambiar tu contraseña actual.
 
 
-!! #### AVISO<br>
-!! **Por favor, lee cuidadosamente las instrucciones y reglas para cambiar la contraseña y los pasos adicionales necesarios para actualizar la clave de cifrado de tu Nube.**
+!! #### IMPORTANTE<br>
+!! **Luego de cambiar tu contraseña asegúrate de actualizar tu clave de cifrado en Nextcloud también, ya que todos tus archivos en la Nube están cifrados con una clave generada a partir de la contraseña de tu cuenta.**
+
+**Por favor, lee cuidadosamente las instrucciones y reglas para cambiar la contraseña y los pasos adicionales necesarios para actualizar la clave de cifrado de tu Nube.**
 
 ![](es/cambiar_pass.png)
 
@@ -31,8 +33,6 @@ page-toc:
 !! - La contraseña distingue entre mayúsculas y minúsculas.
 !! - Debe tener al menos 8 caracteres.
 !! - La contraseña no puede tener más de 64 caracteres
-
-!! **Luego de cambiar tu contraseña asegúrate de modificar tu clave de cifrado en Nextcloud también, ya que todos tus archivos en la Nube están cifrados con una clave que se genera a partir de la contraseña.**
 
 ----
 
@@ -52,11 +52,11 @@ page-toc:
 
   ![](es/clave_modulo_01.png)
 
-4. Ingresa la contraseña anterior, luego la nueva y finalmente haz click en el botón **Actualizar contraseña de clave privada**
+4. Ingresa la contraseña anterior, luego la nueva y finalmente haz clic en el botón **Actualizar contraseña de clave privada**
 
   ![](es/clave_modulo_02.png)
 
-5. Cierra la sesión, vuelve a iniciarla y listo. Ahora toda tu información en la **Nube** está cifrada con tus nuevas claves de cifrado.
+5. Una vez modificada la contraseña, cierra la sesión y vuelve a iniciarla. Ahora toda tu información en la **Nube** está cifrada con tus nuevas claves.
 
-!! #### AVISO<br>
-!! **Recuerda que si pierdes tu contraseña, no podrás acceder a tus archivos en la nube ya que están cifrados y ni siquiera lxs administradores pueden ver su contenido.**
+!! #### IMPORTANTE<br>
+!! **Recuerda que si pierdes/olvidas tu contraseña, no podrás acceder de nuevo a tus archivos en la nube ya que están cifrados con claves generadas a partir de ella.**

@@ -28,4 +28,4 @@ Desde aquí puedes acceder a los formularios para solicitar:
 - Espacio adicional de almacenamiento para tu buzón de correo (Email Extra storage Request), o...
 - para tu **Nube** (Extra cloud storage Request).
 
-Solo haz click en la opción que necesites y se abrirá el formulario para que lo completes.
+Solo haz clic en la opción que necesites y se abrirá el formulario para que lo completes.

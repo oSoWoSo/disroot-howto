@@ -16,7 +16,7 @@ page-toc:
 ---
 
 # Delete your account
-If for any reason you want to delete your account, just click this option.
+If for any reason you want to delete your account, just clic this option.
 
 ![](en/dashboard_delete.png)
 

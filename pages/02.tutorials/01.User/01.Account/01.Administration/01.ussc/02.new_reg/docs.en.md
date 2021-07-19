@@ -56,7 +56,7 @@ In order to complete the registration process, it is necessary to send you a ver
 
 ![](en/reg_04.png)
 
-Then enter your password twice, checking that it meets the password rules, and click the **Continue** button to finish.
+Then enter your password twice, checking that it meets the password rules, and clic the **Continue** button to finish.
 
 And that's it! **\0/**
 

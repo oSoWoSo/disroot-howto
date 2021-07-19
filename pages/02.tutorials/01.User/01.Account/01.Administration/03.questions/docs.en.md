@@ -19,11 +19,11 @@ page-toc:
 
 ![](en/dashboard_questions.png)
 
-In case you forget/lose your password, you can reset it without Admins intervention by setting the security questions first. To do it, click on this option.
+In case you forget/lose your password, you can reset it without Admins intervention by setting the security questions first. To do it, clic on this option.
 
 The proccess is pretty simple.
 
-- Click on ***Setup Security Questions***.
+- clic on ***Setup Security Questions***.
 
  ![](en/sec_qs_01.png)
 
@@ -31,6 +31,6 @@ The proccess is pretty simple.
 
   ![](en/sec_qs_02.png)
 
-- Once the answers meet the requirements, just click **Save Answers** and finally **Continue**
+- Once the answers meet the requirements, just clic **Save Answers** and finally **Continue**
 
   ![](en/sec_qs_03.png)

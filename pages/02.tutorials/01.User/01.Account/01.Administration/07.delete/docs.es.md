@@ -16,7 +16,7 @@ page-toc:
 ---
 
 # Suprimir mi cuenta
-Si por alguna razón quieres cancelar tu cuenta, solo haz click en esta opción.
+Si por alguna razón quieres cancelar tu cuenta, solo haz clic en esta opción.
 
 ![](es/tablero_borrar.png)
 
@@ -26,4 +26,4 @@ Si estás segurx respecto de la eliminación, marca la casilla **Acepto** y fina
 
 !! #### AVISO<br>
 !! **Este proceso es irreversible. Una vez confirmado, no podrás iniciar sesión en tu cuenta o solicitar que sea restaurada más adelante.**<br>
-!! **Toda la información restante será eliminada dentro de las 48 horas luego de confirmar la cancelación y tu usuarix actual no estará disponible cuando crees una cuenta nueva.**
+!! **Toda la información será eliminada dentro de las 48 horas luego de confirmar la cancelación y tu usuarix actual no estará disponible cuando crees una cuenta nueva.**

@@ -26,7 +26,7 @@ In order to reset your password, you must have previously
 ![](en/reset.gif)
 
 1. Go to [https://user.disroot.org](https://user.disroot.org)
-2. Click on the "**Forgotten Password**" button
+2. clic on the "**Forgotten Password**" button
 3. Type your username and then **Search**
 4. Choose one of the methods
   - **Secret Questions and Answers**: If you choose this option, you will be prompted with the questions.<br> *Please, note that the answers are case sensitive*
