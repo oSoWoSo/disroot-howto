@@ -25,6 +25,6 @@ From here you can access the forms to request:
 - Request extra storage for your mailbox, or...
 - Request extra storage for your **Cloud**.
 
-Just click on the option you need and the form will open for you to complete.
+Just clic on the option you need and the form will open for you to complete.
 
 ![](en/forms.png)

@@ -56,7 +56,7 @@ Para completar el proceso de registro, es necesario enviarte un código de verif
 
 ![](en/reg_04.png)
 
-Luego ingresa la contraseña dos veces, verificando que cumpla con las condiciones para su creación, y haz click en el botón **Continue** para terminar.
+Luego ingresa la contraseña dos veces, verificando que cumpla con las condiciones para su creación, y haz clic en el botón **Continue** para terminar.
 
 ¡Y eso es todo! **\0/**
 
