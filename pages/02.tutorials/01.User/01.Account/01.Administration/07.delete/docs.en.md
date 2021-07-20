@@ -12,11 +12,11 @@ taxonomy:
         - account
         - deletion
 page-toc:
-    active: 
+    active:
 ---
 
 # Delete your account
-If for any reason you want to delete your account, just clic this option.
+If for any reason you want to delete your account, just click this option.
 
 ![](en/dashboard_delete.png)
 
