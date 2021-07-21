@@ -1,16 +1,16 @@
 ---
-title: Nextcloud: Archivos & Notas
+title: 'Nextcloud: Exportar archivos y notas'
 published: true
 indexed: true
 updated:
-    last_modified: "Julio 2019"		
+    last_modified: "Junio, 2020"
     app: Nextcloud
-    app_version: 15
+    app_version: 18
 taxonomy:
     category:
         - docs
     tags:
-        - usuario
+        - usuarix
         - nube
         - archivos
         - notas
@@ -22,12 +22,9 @@ page-toc:
 
 Puedes descargar tus archivos tan fácilmente como en cualquiera del resto de las aplicaciones de **Nextcloud**.
 
-1. Inicia sesión en la [nube](https://cloud.disroot.org)
-
-2. Selecciona la aplicación **Archivos**
-
-3. Selecciona todos los archivos haciendo click en el cuadro de selección
-
-4. Luego haz click en el menú **Acciones** y selecciona *Descargar*
+  - Inicia sesión en la [nube](https://cloud.disroot.org)
+  - Selecciona la aplicación **Archivos**
+  - Selecciona todos los archivos haciendo click en el cuadro de selección
+  - Luego haz click en el menú **Acciones** y selecciona *Descargar*
 
 ![](es/files_app.gif)

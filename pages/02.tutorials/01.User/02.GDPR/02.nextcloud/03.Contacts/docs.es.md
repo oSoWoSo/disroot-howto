@@ -3,14 +3,14 @@ title: "Nextcloud: Exportar Contactos"
 published: true
 indexed: true
 updated:
-    last_modified: "Julio 2019"		
+    last_modified: "Junio, 2020"		
     app: Nextcloud
-    app_version: 15
+    app_version: 18
 taxonomy:
     category:
         - docs
     tags:
-        - usuario
+        - usuarix
         - nube
         - contactos
         - rgdp
@@ -19,15 +19,14 @@ page-toc:
     active: false
 ---
 
-Los Contactos se pueden exportar de manera sencilla en cualquier momento.
+Los contactos se pueden exportar de manera sencilla en cualquier momento.
 
-1. Inicia sesión en la [nube](https://cloud.disroot.org)
+  - Inicia sesión en tu [nube](https://cloud.disroot.org)
+  - Selecciona la aplicación "*Contactos*".
 
-2. Selecciona la aplicación "*Contactos*".
+  ![](es/select_app.gif)
 
-![](es/select_app.gif)
-
-3. Selecciona la opción **Ajustes** que está abajo en la barra lateral izquierda.
+  - Selecciona la opción **Ajustes** que está abajo en la barra lateral izquierda.
 
 4. Haz click en el menú de "*tres puntos*" que estará al lado de la libreta de direcciones que quieras exportar.
 

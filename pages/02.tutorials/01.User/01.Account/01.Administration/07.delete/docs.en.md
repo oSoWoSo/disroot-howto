@@ -12,7 +12,7 @@ taxonomy:
         - account
         - deletion
 page-toc:
-    active: 
+    active:
 ---
 
 # Delete your account
