@@ -3,9 +3,6 @@ title: 'Accounts'
 published: true
 visible: true
 updated:
-        last_modified: "September 2021"
-        app: CryptPad
-        app_version: 4.11.0
 taxonomy:
     category:
         - docs
@@ -48,4 +45,4 @@ Read and accept the terms of the service and finally click on **Sign up**. That'
 
 ![](en/signup.mp4?resize=1024,576&autoplay=0&loop)
 
-# Settings
+!! **If you have documents created as a guest (non-registered) user, you can import them into your account.**

@@ -8,9 +8,8 @@ taxonomy:
         - docs
     tags:
         - user
-        - account
-        - cryptpad
         - cryptdrive
+        - cryptpad
 page-toc:
     active: true
 ---

@@ -28,13 +28,17 @@ In the following chapters you will find the information needed to start using an
 
 # Disroot CryptPad:
 ## [01. Accounts](accounts)
-  - Accounts types, settings, management
+  - Accounts types
+  - Registering a new account
+<!-- TODO: users -->
+## [02. Users](users)
+  - [Configurations](users/configurations)
+  - [Profile](users/profile)
+  - [Teams](users/teams)
+  - [Calendar & Contacts](users/calendar-contacts)
+  - [Settings](users/settings)
 
-## [02. CryptDrive](cryptdrive)
-  - Documents management
-
-## [03. Collaboration](collaboration)
-  - Profile, calendar, contacts, teams
+## [03. CryptDrive](cryptdrive)
 
 ## [04. Sharing](sharing)
   - Sharing, permissions
