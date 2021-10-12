@@ -18,8 +18,11 @@ page-toc:
 # Users
 **Guests** (non-registered) and **registered** users have some functionalities and features differences.
 
-- ### [Configurations](configurations)
-- ### [Profile](profile)
-- ### [Teams](teams)
-- ### [Calendar & Contacts](calendar-contacts)
-- ### [Settings](settings)
+## [Guest user configurations](guest/configurations)
+
+## Registered user
+- ### [Configurations](registered/configurations)
+- ### [Profile](registered/profile)
+- ### [Teams](registered/teams)
+- ### [Calendar & Contacts](registered/calendar-contacts)
+- ### [Settings](registered/settings)

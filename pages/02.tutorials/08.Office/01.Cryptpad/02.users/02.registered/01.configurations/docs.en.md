@@ -16,3 +16,9 @@ page-toc:
 ---
 
 # Configurations
+
+
+# Guest account
+![](en/settings.png)
+
+![](en/settings_02.png)

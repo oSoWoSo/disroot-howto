@@ -30,7 +30,7 @@ In the following chapters you will find the information needed to start using an
 ## [01. Accounts](accounts)
   - Accounts types
   - Registering a new account
-<!-- TODO: users -->
+
 ## [02. Users](users)
   - [Configurations](users/configurations)
   - [Profile](users/profile)
