@@ -15,3 +15,4 @@ page-toc:
 ---
 
 # Teams
+**Teams** are shared spaces between a group of users. A team has its own CryptDrive, chat, and a list of members with roles and permissions.

@@ -16,7 +16,7 @@ page-toc:
 ---
 
 # Profile
-Registered users have a **Profile** option enabled where they can customize:
+Here you can customize:
 
 ![](en/user_profile.png)
 

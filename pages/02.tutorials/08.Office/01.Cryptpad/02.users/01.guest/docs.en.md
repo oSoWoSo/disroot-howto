@@ -94,13 +94,13 @@ User settings for the Code / Markdown application.
 
 - **Code editor indentation (spaces)**: Choose the number of spaces for each level of indentation.
 
-- **Indent using tabs (instead of spaces)**: Insert tabs rather than spaces with the Tab key.
+- **Indent using tabs (instead of spaces)**: Check this option to insert tabs rather than spaces with the `Tab` key.
 
-- **Auto-close brackets**: Automatically insert a closing character ) when brackets are opened with ( (also works with [, ', ").
+- **Auto-close brackets**: Automatically insert a closing character `)` when brackets are opened with `(` (it also works with `[`, `'`, `"`).
 
 - **Font size in the code editor**: Set the size of text in the code editor.
 
-- **Spellcheck**: Underline spelling mistakes in the code editor, correction suggestions are available through Right click on the word to correct.
+- **Spellcheck**: Underline spelling mistakes in the code editor, correction suggestions are available through right click on the word to correct.
 
 ## Kanban
 ![](en/kanban.png)
@@ -110,4 +110,4 @@ User settings for the Code / Markdown application.
 ## Notifications
 ![](en/notifications.png)
 
-- **Calendar notifications**: enable/disable all notifications for upcoming calendar events.
+- **Calendar notifications**: Enable/disable all notifications for upcoming calendar events.

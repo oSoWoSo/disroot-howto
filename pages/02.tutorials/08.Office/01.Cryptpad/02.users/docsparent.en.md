@@ -16,9 +16,9 @@ page-toc:
 ---
 
 # Users
-**Guests** (non-registered) and **registered** users have some functionalities and features differences.
+Both type of users, **guests** (non-registered) and **registered**, have access to all the **CryptPad** suite applications. However, options, settings and functionalities are different for one and the other.
 
-## [Guest user configurations](guest/configurations)
+## [Guest user configurations](guest)
 
 ## Registered user
 - ### [Configurations](registered/configurations)

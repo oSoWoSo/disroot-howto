@@ -32,11 +32,15 @@ In the following chapters you will find the information needed to start using an
   - Registering a new account
 
 ## [02. Users](users)
-  - [Configurations](users/configurations)
-  - [Profile](users/profile)
-  - [Teams](users/teams)
-  - [Calendar & Contacts](users/calendar-contacts)
-  - [Settings](users/settings)
+### Guest users
+- [Configurations](users/guest)
+
+### Registered users
+- [Configurations](users/registered/configurations)
+- [Profile](users/registered/profile)
+- [Teams](users/registered/teams)
+- [Calendar & Contacts](users/registered/calendar-contacts)
+- [Settings](users/registered/settings)
 
 ## [03. CryptDrive](cryptdrive)
 
