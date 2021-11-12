@@ -36,8 +36,7 @@ The team drive is the storage space shared between members of the team and it wo
 ## Team Members
 Team members management is done from the **Members** tab.
 1. Select a Team,
-2. move the mouse to the left
-3. and select **Members**
+2. and then **Members** in the left tabs.
 
 ![](en/team_members.gif)
 

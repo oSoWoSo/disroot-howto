@@ -39,7 +39,8 @@ In the following chapters you will find the information needed to start using an
 - [Configurations](users/registered/configurations)
 - [Profile](users/registered/profile)
 - [Teams](users/registered/teams)
-- [Calendar & Contacts](users/registered/calendar-contacts)
+- [Calendar](users/registered/calendar)
+- [Contacts](users/registered/contacts)
 - [Settings](users/registered/settings)
 
 ## [03. CryptDrive](cryptdrive)

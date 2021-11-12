@@ -24,5 +24,6 @@ Both type of users, **guests** (non-registered) and **registered**, have access 
 - ### [Configurations](registered/configurations)
 - ### [Profile](registered/profile)
 - ### [Teams](registered/teams)
-- ### [Calendar & Contacts](registered/calendar-contacts)
+- ### [Calendar](registered/calendar)
+- ### [Contacts](registered/contacts)
 - ### [Settings](registered/settings)
