@@ -36,5 +36,6 @@ In the user menu you will find the following options:
 
 - [Profile](../profile)
 - [Teams](../teams)
-- [Calendar & Contacts](../calendar-contacts)
+- [Calendar](../calendar)
+- [Contacts](../contacts)
 - [Settings](../settings)

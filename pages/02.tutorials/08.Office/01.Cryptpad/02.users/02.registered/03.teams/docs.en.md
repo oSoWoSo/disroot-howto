@@ -45,7 +45,7 @@ Team members management is done from the **Members** tab.
 ![](en/members.png)
 
 You can
-1. invite someone who is already in your **Contacts** (see **Calendar & Contacts** to learn how to add a contact)
+1. invite someone who is already in your **Contacts** (see [**Contacts**](../contacts) to learn how to add a contact)
 
 ![](en/invite_contacts.png)
 

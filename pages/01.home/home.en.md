@@ -14,8 +14,10 @@ content:
 
 The main goal of this site is to help you find your way around the various **Disroot** services.
 
-To cover all the services, with all its **Disroot**'s provided features, for all platforms and/or Operating Systems it's a very ambitious and time consuming project that requires a lot of work. And because we think it could be beneficial not only for our users (disrooters) but the entire **Free Software** and **Open Source** communities running the same or similar software, any help from disrooters is always needed and welcome.<br>
-So, if you think there's a missing tutorial, the information is not accurate or could be improved, please contact us and (even better) start writing a how-to yourself.<br>
+We aim to cover all the services, with all its **Disroot**'s provided features, for all platforms and/or Operating Systems as well as the largest possible number of clients for the most widely used devices.
 
-To know the different ways you can contribute, please check this [section](/contribute).
+It is a very ambitious and time consuming project that requires a lot of work. But since we think it could be beneficial not only for our users (disrooters) but for all **Free Software** and **Open Source** communities running the same or similar software, we also think it is worthwhile. Because of that, any help is always needed and welcome.
 
+So, if you think there's a missing tutorial, the information is not accurate or could be improved, please contact us and (even better) start writing a how-to yourself.
+
+To know the different ways you can contribute, please check this [**section**](/contribute).
