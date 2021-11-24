@@ -15,7 +15,7 @@ page-toc:
   active: false
 ---
 
-![](en/cp_logo.svg)
+![](en/cryptpad_logo.svg)
 
 # What is CryptPad?
 
@@ -26,26 +26,13 @@ In many aspects, it is similar to well-known, privacy-unfriendly proprietary sol
 In the following chapters you will find the information needed to start using and get familiar with **CryptPad**.
 
 
-# Disroot CryptPad:
-## [01. Accounts](accounts)
+# [01. Accounts](accounts)
   - Accounts types
   - Registering a new account
 
-## [02. Users](users)
-### Guest users
-- [Configurations](users/guest)
+# [02. Users](users)
+Configurations and features for
 
-### Registered users
-- [Configurations](users/registered/configurations)
-- [Profile](users/registered/profile)
-- [Teams](users/registered/teams)
-- [Calendar](users/registered/calendar)
-- [Contacts](users/registered/contacts)
-- [Settings](users/registered/settings)
+- [**Guest user**](users/guest)
 
-## [03. CryptDrive](cryptdrive)
-
-## [04. Sharing](sharing)
-  - Sharing, permissions
-
-## [05. Applications](apps)
+- [**Registered users**](users/registered)
