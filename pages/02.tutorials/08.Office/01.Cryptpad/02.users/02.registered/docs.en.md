@@ -32,3 +32,4 @@ In the next chapters we will learn how to configure CryptPad, its basics and how
 
 - ## [Configurations](configurations)
 - ## [CryptDrive](cryptdrive)
+- ## [Share & Access](sharing)

@@ -34,7 +34,7 @@ You can also share a pad from the
 # Access
 Set the ways documents and calendars can be accessed.
 
-![](en/)
+![](en/access.png)
 
 - **Access**
   * **Destroy**: Delete the document permanently.
@@ -45,7 +45,7 @@ Set the ways documents and calendars can be accessed.
   **To add contacts or teams** to the list, select them from the contacts list on the right and add them with the arrow button.<br>
   **To remove a user or team** from the list use the **x** button next to their name.
 
-  ![](en/calendar_al.gif)
+![](en/access_list.gif)
 
 - **Owners**
   * Manage the ownership of the document. Owners of a document have permissions to **enable an access list**, **enable a password**, **add or remove other owners**, and to **destroy the document**.<br>
