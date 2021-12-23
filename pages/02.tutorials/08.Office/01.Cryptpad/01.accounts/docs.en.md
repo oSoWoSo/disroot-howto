@@ -23,7 +23,7 @@ page-toc:
 2. **Registered**: with this type of account you access not only to the guest features (with extra functions) but also to the complete social, collaboration and **CryptDrive** functionalities and it has no storage time limitations (we will see these features in detail later on).
 
 !! **NOTE:**
-!! If you want to keep all your documents and files, you need to register an account on **CryptPad**. Your **Disroot** one will not work.
+!! Your **Disroot credentials** will not work in our **CryptPad** so you need to create a separate account.
 
 
 # Registering an account
