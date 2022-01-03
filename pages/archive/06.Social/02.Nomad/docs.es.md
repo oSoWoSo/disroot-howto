@@ -1,6 +1,6 @@
 ---
 title: Nomad
-published: true
+published: false
 taxonomy:
     category:
         - docs

@@ -1,9 +1,9 @@
 ---
 title: Nomad
 updated:
-published: true
-visible: true
-indexed: true
+published: false
+visible: false
+indexed: false
 taxonomy:
     category:
         - docs

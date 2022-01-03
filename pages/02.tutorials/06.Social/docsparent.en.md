@@ -1,6 +1,6 @@
 ---
 title: Social Network
-subtitle: "DisHub - Settings, basics, permission"
+subtitle: "Pleroma"
 icon: fa-asterisk
 published: true
 taxonomy:
@@ -8,15 +8,15 @@ taxonomy:
         - docs
         - topic
     tags:
-        - dishub
-        - nomad
-        - hubzilla
+        - fediverse
+        - pleroma
+        - fe
 page-toc:
     active: false
 ---
 
-# DisHub: Disroot's Hubzilla Instance
+# Disroot's Pleroma Instance
 
-Introduction to **Dishub/Hubzilla** and **Nomad** - Mobile app for DisHub
+Soon to come!
 <br>
 <br>

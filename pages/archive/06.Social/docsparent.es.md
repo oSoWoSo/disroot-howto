@@ -2,7 +2,7 @@
 title: Red social
 subtitle: "DisHub: Configuraciones, lo básico, permisos"
 icon: fa-asterisk
-published: true
+published: false
 taxonomy:
     category:
         - docs
