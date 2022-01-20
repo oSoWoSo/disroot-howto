@@ -26,7 +26,7 @@ Exportar los datos de tus marcadores almacenados en la nube de **Disroot** es mu
 
   ![](en/select.gif)
 
-  - Selecciona **Configuraciones** (on the bottom of the right sidebar) y presiona el botón **Exportar**.
+  - Selecciona **Configuraciones** (on the bottom of the left sidebar) y presiona el botón **Exportar**.
 
   ![](en/export.gif)
 
