@@ -18,6 +18,7 @@ page-toc:
 
 
 ## [Clientes para Móvil](mobile)
+- [**Android: FairEmail**](mobile/fairemail)
 - [**Android: K9**](mobile/k9)
 - [**SailfishOS: Mail App**](mobile/sailfishos)
 - [**iOS: Mail App**](mobile/ios)
