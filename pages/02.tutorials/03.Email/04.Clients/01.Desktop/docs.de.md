@@ -1,5 +1,5 @@
 ---
-title: 'Email: Desktop-Clients'
+title: 'E-Mail: Desktop-Clients'
 published: true
 visible: true
 indexed: true
@@ -15,10 +15,15 @@ page-toc:
     active: false
 ---
 
+![](../thumb.png)
+
 ## Multiplattform-Mailclients
 - [Thunderbird](thunderbird)
 - [Claws Mail](claws-mail)
 
+
+## GNU/Linux
+- [Mutt](mutt)
 
 
 ## GNU/Linux: Email per Desktop-Integration

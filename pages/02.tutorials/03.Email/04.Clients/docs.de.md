@@ -1,5 +1,5 @@
 ---
-title: Email: Clients
+title: E-Mail: Clients
 visible: true
 updated:
 taxonomy:
@@ -19,6 +19,7 @@ page-toc:
 
 
 ## [Mobile Mail-Client](mobile)
+- [**Android: FairEmail**](mobile/fairemail)
 - [**Android: K9**](mobile/k9)
 - [**SailfishOS: Mail App**](mobile/sailfishos)
 - [**iOS: Mail App**](mobile/ios)

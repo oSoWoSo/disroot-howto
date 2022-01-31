@@ -1,11 +1,11 @@
 ---
-title: Email-Clients: Thunderbird
+title: E-Mail-Clients: Thunderbird
 page-toc:
   active: true
 visible: false
 published: true
 updated:
-        last_modified: "Oktober 2019"
+        last_modified: "Januar 2022"
         app: Thunderbird
         app_version: 68.1.2 für Ubuntu-Linux
 taxonomy:
