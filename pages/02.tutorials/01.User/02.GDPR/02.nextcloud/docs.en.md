@@ -21,4 +21,3 @@ page-toc:
   - [**Calendars**](calendar)
   - [**Contacts**](contacts)
   - [**Files and Notes**](files)
-  - [**News**](news)

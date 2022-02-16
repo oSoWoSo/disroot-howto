@@ -17,5 +17,4 @@ page-toc:
   - [**Documenti e note**](files)
   - [**Contatti**](contacts)
   - [**Calendari**](calendar)
-  - [**Feed**](news)
   - [**Segnalibri**](bookmarks)
