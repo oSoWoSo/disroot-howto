@@ -39,6 +39,5 @@ This chapter includes tutorials that will help you get all the data stored on se
 - [03. Forum (Discourse)](discourse)
 - [04. Board (Taiga)](taiga)
 - [05. Git (Gitea)](git)
-- [06. Hubzilla](hubzilla)
 
 ---

@@ -17,5 +17,4 @@ page-toc:
   - [**Fichiers et Notes**](files)
   - [**Contacts**](contacts)
   - [**Calendriers**](calendar)
-  - [**News**](news)
   - [**Favoris**](bookmarks)

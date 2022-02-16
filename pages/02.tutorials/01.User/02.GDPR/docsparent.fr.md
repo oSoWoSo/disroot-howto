@@ -26,11 +26,8 @@ Chez **Disroot**, toutes les données collectées sont celles que vous fournisse
   - [Fichiers & Notes](nextcloud/files)
   - [Contacts](nextcloud/contacts)
   - [Calendriers](nextcloud/calendar)
-  - [News](nextcloud/news)
   - [Favoris](nextcloud/bookmarks)
-- [Diaspora*](diaspora)
 - [Forum (Discourse)](discourse)
 - [Boards (Taiga)](taiga)
-- [Hubzilla](hubzilla)
 
 ---

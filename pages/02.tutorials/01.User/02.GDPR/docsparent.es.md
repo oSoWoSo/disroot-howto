@@ -39,6 +39,5 @@ Este capítulo contiene tutoriales que te ayudarán a obtener toda tu informaci�
 - [03. Foro (Discourse)](discourse)
 - [04. Tablero (Taiga)](taiga)
 - [05. Git (Gitea)](git)
-- [06. Hubzilla](hubzilla)
 
 ---
