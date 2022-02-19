@@ -21,7 +21,7 @@ page-toc:
 - [Registrazione nuovo account](ussc/new_reg)
 
 ## [Cambia la password](password)
-Aggiorna la tua chiave crittotrafica del **Cloud**
+Aggiorna la tua chiave crittografica del **Cloud**
 
 # [Imposta le domande di sicurezza](questions)
 

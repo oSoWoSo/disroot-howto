@@ -5,7 +5,7 @@ indexed: true
 updated:
     last_modified: "February 2022"		
     app: Nextcloud
-    app_version: 15
+    app_version: 18
 taxonomy:
     category:
         - docs

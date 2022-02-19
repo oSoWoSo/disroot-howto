@@ -3,7 +3,7 @@ title: 'Email: Export'
 published: true
 indexed: true
 updated:
-    last_modified: "November 2020"		
+    last_modified: "February 2022"		
     app: RainLoop
     app_version:
 taxonomy:

@@ -16,7 +16,7 @@ page-toc:
 ---
 
 # User Self Service Center
-L'**User Self Service Center** è il luogo in cui è possibile gestire le impostazioni dell'account **Disroot**, dalla modifica della password all'eliminazione. 
+Lo **User Self Service Center** è il luogo in cui è possibile gestire le impostazioni dell'account **Disroot**, dalla modifica della password all'eliminazione. 
 
 
 ## Accedi
