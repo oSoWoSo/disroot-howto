@@ -1,12 +1,12 @@
 ---
-title: "Taiga: Esportare progetti"
+title: "Taiga: Project export"
 published: true
 visible: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "February 2022"		
     app: Taiga
-    app_version: 4.2
+    app_version: 4.0.0
 taxonomy:
     category:
         - docs
@@ -21,11 +21,8 @@ page-toc:
 
 Segui i seguenti passi per esportare i dati dei tuoi progetti dall'interfaccia di **Taiga**:
 
-1. Vai su https://board.disroot.org e fai il log in.
-2. Seleziona il progetto che vuoi esportare e accedi al link "Amministratore" (nella barra sulla sinistra).
+- Vai su https://board.disroot.org e accedi.
+- Seleziona il progetto che desideri esportare e vai alle impostazioni dell'amministratore.
+- Nella scheda **Progetto** troverai l'opzione **Esporta**. Fare clic sul pulsante **ESPORTA** per generare un file .json con tutte le informazioni del progetto. Puoi usarlo come backup o per iniziare un nuovo progetto basato su di esso.
 
-![](en/settings.png)
-
-3. Sotto il menu **PROGETTO** troverai l'opzione **ESPORTA**. Clicca sul pulsante ![ESPORTA](en/export_button.png) per generare un file .json con tutte le informazioni del progetto. Puoi utilizzare questa possibilità per fare un backup del tuo progetto, oppure per creare un nuovo progetto basato su quello precedente.
-
-![](en/export.png)
+![](en/export.gif) 

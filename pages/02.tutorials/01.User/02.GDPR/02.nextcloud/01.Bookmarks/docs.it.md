@@ -1,11 +1,11 @@
 ---
-title: 'Nextcloud: Esportare i segnalibri'
+title: 'Nextcloud: Exporting Bookmarks'
 published: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "February 2022"		
     app: Nextcloud
-    app_version: 15
+    app_version: 18
 taxonomy:
     category:
         - docs
@@ -23,7 +23,7 @@ Esportare i tuoi link preferiti salvati nel cloud è molto semplice su **Disroot
 
 1. Accedi al [cloud](https://cloud.disroot.org)
 
-2. Seleziona l'applicazione segnalibri
+2. Seleziona l'applicazione **segnalibri**
 
 ![](en/select_app.gif)
 

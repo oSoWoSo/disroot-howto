@@ -1,11 +1,11 @@
 ---
-title: "Nextcloud: Esportare i contatti"
+title: "Nextcloud: Exporting Contacts"
 published: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "February 2022"		
     app: Nextcloud
-    app_version: 15
+    app_version: 18
 taxonomy:
     category:
         - docs
@@ -19,16 +19,11 @@ page-toc:
 
 I contatti possono essere esportati in qualsiasi momento in modo molto semplice.
 
-1. Accedi al [cloud](https://cloud.disroot.org)
-
-2. Seleziona l'applicazione "*Contatti*".
+- Accedi al [cloud](https://cloud.disroot.org)
+- Seleziona l'applicazione "*Contatti*".
 
 ![](en/select_app.gif)
 
-3. Seleziona l'opzione **Impostazioni** in basso nella barra laterale.
+- Premi il pulsante di download accanto alla rubrica che desideri esportare. I contatti vengono salvati in formato .vcf.
 
-4. Seleziona i "*tre puntini*" a fianco della rubrica che vuoi esportare.
-
-5. Seleziona "*Scarica*" per esportare i contatti. I tuoi contatti saranno salvati nel formato .vcf.
-
-![](en/export_data.gif)
+![](en/export.gif)

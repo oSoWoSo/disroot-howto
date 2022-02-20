@@ -1,11 +1,11 @@
 ---
-title: Nextcloud: Esportare i calendari
+title: 'Nextcloud: Exporting Calendars'
 published: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "February 2022"		
     app: Nextcloud
-    app_version: 15
+    app_version: 18
 taxonomy:
     category:
         - docs

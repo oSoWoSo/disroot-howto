@@ -1,11 +1,11 @@
 ---
-title: Nextcloud: File e Note
+title: 'Export data: Nextcloud Files & Notes'
 published: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "February 2022"		
     app: Nextcloud
-    app_version: 15
+    app_version: 18
 taxonomy:
     category:
         - docs
@@ -22,12 +22,9 @@ page-toc:
 
 Puoi scaricare i tuoi file i n modo molto semplice su **Nextcloud**:app.
 
-1. Accedi al [cloud](https://cloud.disroot.org)
-
-2. Seleziona l'applicazione **File**
-
-3. Seleziona tutti i file cliccando sul quadratino (checkbox)
-
-4. Successivamente clicca su menu **Azioni** e scegli *Download*
+- Accedi al tuo [cloud](https://cloud.disroot.org)
+- Seleziona l'app **File**
+- Seleziona tutti i file facendo clic sulla casella di controllo
+- Quindi fai clic sul menu **Azioni** e seleziona *Scarica* 
 
 ![](en/files_app.gif)
