@@ -4,7 +4,7 @@ published: true
 visible: true
 indexed: true
 updated:
-        last_modified: "June 2020"
+        last_modified: "February 2022"
         app: Nextcloud
         app_version: 18
 taxonomy:
