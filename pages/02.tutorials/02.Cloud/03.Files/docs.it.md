@@ -1,11 +1,11 @@
 ---
-title: "Cloud: Gestione file"
+title: "Cloud: Files management"
 published: true
 indexed: true
 updated:
-        last_modified: "July 2019"
+        last_modified: "February 2022"
         app: Nextcloud
-        app_version: 15
+        app_version: 18
 taxonomy:
     category:
         - docs
@@ -17,92 +17,126 @@ page-toc:
 ---
 
 # File
-
-Uno degli obiettivi principali del cloud è quello di gestire i file. Puoi in modo semplice caricarli, scaricarli, condividerli e commentarli.
+L'attività principale di **Nextcloud** è la gestione dei file. Di seguito una panoramica della finestra principale, che divideremo in due sezioni: 
 
 ![](en/main.png)
-La *barra laterale sinistra* ti consente di filtrare i file in base a determinati criteri (recenti, preferiti, condivisi, per tag). <br> La *finestra principale* è il tuo file browser* (dovresti avere familiarità con esso se hai già utilizzato un computer...) *
 
-## Creare nuovi file o cartelle
-Per creare un nuov file, basta cliccare sull'icona **"+"** e scegliere il tipo di file dalla lista. La stessa procedura si applica per la creazione di cartelle.
+- La **barra laterale sinistra** ti consente di filtrare i file in base a determinati criteri (recenti, preferiti, condivisi, per tag, condivisi con cerchie o da archivi esterni).
 
-![](en/file_creation.gif)
+- La **finestra principale** è il tuo browser di file e spazio di lavoro. oltre alle informazioni sui tuoi file, da qui puoi eseguire una serie di operazioni, come commentarli, taggarli o condividerli. 
 
-## Caricare un file
-Ci sono due modi per caricare un file:
+# Gestione dei file
 
-Trascinando il file dal tuo computer dentro la finestra del web browser.
+![](en/workspace.png)
 
-![](en/dragging_files.gif)
+Abbiamo già menzionato le prime tre funzioni nell'introduzione, ma vale la pena rivederle.
 
-Utilizzando l'icona **"+"** e selezionando l'opzione **carica file**.
+#### 1. Pulsante Home
+Ti riporta alla cartella principale (la cartella home) quando navighi tra i tuoi file o cartelle.
 
-![](en/uploading_files.gif)
+![](it/home_btn.gif)
 
-## Menu file e cartelle
-Cliccando sull'icona con i **"tre puntini"** a fianco del file o della cartella si ha la possibilità di accedere alle opzioni. Le varie possibilità si spiegano da sole: puoi aggiungere i contenuti ai tuoi preferiti, vedere i dettagli, rinominare, spostare, scaricare o eliminare file o cartelle.
+#### 2. Nuovo pulsante
+Ti consente di caricare un file e creare nuove cartelle, file di testo o pad. Fare clic su di esso e scegliere un'azione dall'elenco.
 
-![](en/file_menu.png)
+![](it/nuovo_pulsante.gif)
 
+#### 3. Area di lavoro
+Ti consente di dare un contesto alle tue cartelle aggiungendo note, elenchi di cose da fare e collegamenti a file in cima.
 
-## Condivisione file
+![](it/workspace.gif) 
 
+Rich workspace può essere abilitato/disabilitato facendo clic sull'icona delle impostazioni nella parte inferiore della barra laterale sinistra.
+
+![](it/workspace_set.gif)
+
+#### 4. File recenti
+Qui puoi vedere gli ultimi file o cartelle modificati.
+
+![](en/recent.png)
+
+#### 5. File manager
+Da questa sezione è possibile eseguire una serie di operazioni su file o cartelle.
+
+##### 5.1 Caricare i file
+Oltre all'opzione nel menu **Nuovo** (+), puoi caricare i tuoi file direttamente trascinandoli dal tuo computer qui. 
+
+  ![](en/upload.gif)
+
+##### 5.2 Azioni di base su file e cartelle
+Cliccando sull'icona **"tre punti"** accanto al nome del file o alla directory puoi accedere ad alcune opzioni extra. Queste opzioni sono autoesplicative. Puoi "Aggiungi ai preferiti", vedere "Dettagli", "Rinomina", "Sposta o copia", "Scarica" o "Elimina" il file o la directory. 
+
+  ![](en/file_options.gif)
+
+##### 5.3 Condivisione di file
 La condivisione di file e directory è una parte essenziale di qualsiasi servizio di archiviazione cloud. Puoi scegliere di condividere file con altri utenti Disroot, un intero gruppo o anche con altri utenti utilizzando OwnCloud/Nextcloud su piattaforme diverse. Puoi anche condividere con chiunque là fuori tramite l'opzione di collegamento pubblico.
 
-Per condividere un file o una directory, fai clic sull'icona "*condividi*" (![](En/share_icon.png)) proprio accanto al nome dell'elemento che desideri condividere. Verrà visualizzato un popup della barra di destra con tutte le opzioni di condivisione tra cui scegliere.
+   ![](it/condivisione.gif)
 
-![](en/file_sharing_menu.png)
+   Per condividere un file o una directory, fai clic sull'icona *share* ![](en/share_icon.png) accanto al nome dell'elemento che desideri condividere. Verrà visualizzato un popup della barra di destra con tutte le opzioni di condivisione tra cui scegliere.
 
-È possibile condividere con altri utenti, gruppi o utenti su server cloud diversi utilizzando l'indirizzo della federazione. Per fare ciò, dovrai digitare i loro nomi utente completi perché **non forniamo il completamento automatico per motivi di privacy**. <br>
+   ![](it/sharing.png)
 
-![](en/sharing_options.png)
+È possibile condividere con altri utenti, gruppi o utenti su server cloud diversi utilizzando l'indirizzo della federazione. Per farlo, dovrai digitare tutti i loro nomi utente perché **non forniamo il completamento automatico per motivi di privacy**. 
 
-Durante la condivisione con altri utenti o gruppi, è possibile scegliere se dispongono dei diritti per modificare e/o ricondividere il file condiviso. È inoltre possibile impostare una data di scadenza per esso e inviare una nota ai destinatari.
+![](en/sharing_id.png)
 
-![](en/edit_options.png)
+Durante la condivisione con altri utenti o gruppi, puoi scegliere se hanno i diritti per modificare e/o ricondividere il file condiviso. Puoi anche impostare una data di scadenza e inviare una nota ai destinatari.
 
-Puoi anche condividere un file o una directory con chiunque usando l'opzione![](En/sharing_icon.png). Ti permette di copiare/incollare un link e condividerlo. Chiunque conosca l'indirizzo (url) sarà in grado di accedere al file. Non hanno bisogno di avere un account. Questa opzione consente di impostare autorizzazioni di modifica, proteggere il collegamento con una password, nascondere il download e impostare una data di scadenza.
-![](en/share_link_options.png)
+![](en/sharing_opt.png)
 
-## Operazioni supplementari sui file
+Puoi anche condividere un file o una directory con chiunque utilizzando l'opzione **Condividi collegamento**. Ti permette di copiare/incollare un link e condividerlo. Qualsiasi persona che conosce l'indirizzo (url) potrà accedere al file. Non hanno bisogno di avere un account. Questa opzione ti consente di impostare le autorizzazioni di modifica e nascondere il download, proteggere il collegamento con una password, impostare una data di scadenza, inviare una nota al destinatario, inviare il collegamento via e-mail, annullare la condivisione del file e aggiungere un altro collegamento ad esso. 
 
-![](en/other_ops.png)
+![](en/share_link.gif)
 
-Come avrai notato durante l'impostazione della condivisione, ci sono più opzioni nella barra laterale destra.
-Loro sono:
+##### 5.4 Operazioni aggiuntive sui file
 
-**Chat**<br>![](en/chat_opt.png)
+![](en/other_op.png)
 
-Puoi iniziare una chiamata o una chat con gli utenti con i quali ai condiviso il file o la directory.
+Come avrai notato durante la configurazione della condivisione, ci sono più opzioni nella barra laterale.
 
-**Attività**<br>![](en/activity_opt.png)
+- **Tag**
 
-Ti dà una panoramica di tutti gli eventi correlati con il file. Quando è stato creato, quando è stato condiviso, rimosso, modificato, commentato, ecc.
+   ![](it/tags.png)
 
-**Commenti**<br>![](en/comment_01.png)
+   La codifica dei file può essere molto utile per trovarli più facilmente. Per assegnare un tag, vai al menu a tre punti a sinistra del nome del file e seleziona **Tag**. Digita un tag o sfoglia quelli già creati e premi Invio. Puoi assegnare tutti i tag che desideri o di cui hai bisogno.
 
-Questa è una funzione molto utile quando lavori su un file con altri utenti. Chiunque abbia condiviso il file può leggere e aggiungere commenti. Facendo clic sulle icone a tre punti accanto al tuo nome utente, puoi modificare il tuo commento.
+   ![](it/tagging.gif)
 
-![](en/comment_edit.png)
+   Dopo aver assegnato i tag, puoi andare all'opzione di filtro **Tag** e cercare i file in base ai tag ad essi associati.
 
-**Versioni**<br>![](en/versions_opt.png)
+   ![](it/tag_filter.gif)
 
-Ti consente di visualizzare tutte le modifiche apportate a un file. È possibile scaricare le revisioni precedenti di un file e ripristinarlo alla revisione precedente (eliminando tutte le modifiche apportate dopo).
+   Tieni presente che saranno tutti tag di sistema, quindi saranno condivisi con il resto degli utenti sul server.
 
-----------
+- **Attività**
 
-# Attività
+   ![](en/activity.png)
 
-![](en/main_activities_icon.png)
+   Ti offre una panoramica di tutti gli eventi con il file. Il momento in cui è stato creato, quando è stato condiviso, rimosso, modificato, commentato, ecc. 
 
-Se il tuo account inizia ad essere quasi pieno, perché ad esempio inizi a collaborare con (molti) altri utenti e gruppi, potresti trovare l'app **"Attività"** molto utile. Con essa hai una panoramica generale su tutti gli eventi che si verificano nel tuo account cloud (modifiche ai file, commenti, condivisioni, contatti, todos, calendari ecc.).
+- **Chat**
 
-![](en/activity_app.png)
+  ![](en/chat.png)
 
-La finestra principale fornisce una sequenza temporale con tutti gli eventi e la barra laterale sinistra consente di filtrare le informazioni in base a determinati criteri.
+Puoi avviare una chiamata o chattare con gli utenti con cui hai condiviso un file o una directory. 
 
-Inoltre puoi creare un feed RSS delle tue attività che puoi seguire usando il tuo lettore rss preferito, condividerlo con qualcuno o integrarlo nella tua applicazione o sito web. Per farlo, basta premere il pulsante "Impostazioni" nella barra in basso a sinistra e abilitare l'opzione di feed RSS.
+- **Checksum**
 
-![](en/activity_rss.png)
+  ![](en/checksum.png)
 
-----------
+Ti permette di creare un checksum hash di un file. Seleziona un algoritmo e proverà a generare un hash.
+
+- **Commenti**
+
+   ![](en/comment.png)
+
+   Questa è una funzione molto utile quando lavori su un file con altri utenti. Tutte le persone con cui hai condiviso il file possono leggere e aggiungere commenti. Facendo clic sulle icone dei tre punti accanto al tuo nome utente, puoi modificare il tuo commento. 
+   
+  ![](en/comment_edit.png)
+
+- **Versioni**
+
+  ![](en/versions.png)
+
+Ti consente di visualizzare tutte le modifiche apportate a un file. È possibile scaricare le revisioni precedenti di un file e ripristinarlo alla revisione precedente (eliminando tutte le modifiche apportate successivamente). 
