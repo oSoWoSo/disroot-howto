@@ -1,9 +1,8 @@
 ---
-title: Tasks: Desktop
+title: Desktop
 published: true
 visible: false
 updated:
-        last_modified: "July 2019"
 taxonomy:
     category:
         - docs
@@ -15,11 +14,13 @@ page-toc:
     active: false
 ---
 
-## Integrazione delle attività nel desktop
-Puoi leggere la seguente guida per sincronizzare le **Attività** tramite un client desktop multipiattaforma.
-- [Thunderbird: Calendario / Contatti / Attività sync](/tutorials/cloud/clients/desktop/multiplatform/thunderbird-calendar-contacts)
+# Tasks nel desktop
 
-In alternativa, è possibile utilizzare e configurare l'integrazione desktop.
+Esistono diversi modi per sincronizzare e lavorare con **Attività Nextcloud** dal desktop. Di seguito troverai alcuni tutorial per ottenerlo. 
 
- - [GNOME: Integrazione desktop](/tutorials/cloud/clients/desktop/gnu-linux/gnome-desktop-integration)
- - [KDE: Integrazione desktop](/tutorials/cloud/clients/desktop/gnu-linux/kde-desktop-integration)
+## Desktop client multipiattaforma
+ - [Thunderbird: Calendario / Contatti / Tasks sincronizzati](/tutorials/cloud/clients/desktop/multiplatform/thunderbird-calendar-contacts)
+
+## GNU/Linux
+ - [GNOME](/tutorials/cloud/clients/desktop/gnu-linux/gnome-desktop-integration)
+ - [KDE](/tutorials/cloud/clients/desktop/gnu-linux/kde-desktop-integration)

@@ -1,5 +1,5 @@
 ---
-title: Tasks: dispositivi mobili
+title: Mobile
 published: true
 visible: false
 updated:
@@ -15,10 +15,10 @@ page-toc:
     active: false
 ---
 
-## Integrazione delle attività nei dispositivi mobili
+# Integrazione dei task nei dispositivi mobili
 
-Per configurare e sincronizzare le **Attività** tramite un client mobile, consultare il tutorial seguente:
+Per configurare e sincronizzare le tue **Attività** tramite un client mobile, consulta il tutorial di seguito: 
 
-### Android
+## Android
 - [DAVx⁵ / OpenTasks](/tutorials/cloud/clients/mobile/android/calendars-contacts-and-tasks)
-- [Nextcloud mobile app](/tutorials/cloud/clients/mobile/android/nextcloud-app)
+- [App mobile per Nextcloud](/tutorials/cloud/clients/mobile/android/nextcloud-app)

@@ -17,6 +17,7 @@ page-toc:
 ---
 
 # Tasks
+L'app **Attività** ti consente di aggiungere, modificare ed eliminare attività nel tuo **Cloud**. Possono essere condivisi tra utenti, sincronizzati utilizzando [**CalDav**](https://en.wikipedia.org/wiki/CalDAV) per sincronizzarli con il tuo client locale e persino scaricati come [ICS](https:// en.wikipedia.org/wiki/ICalendar). 
 
 ### [Interfaccia web](web)
 - Creare e configurare attività
