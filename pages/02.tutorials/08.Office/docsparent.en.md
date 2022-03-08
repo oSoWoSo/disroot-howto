@@ -9,7 +9,6 @@ taxonomy:
         - topic
     tags:
         - office
-        - poll
         - cryptpad
         - pastebin
         - file

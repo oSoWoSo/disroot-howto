@@ -9,10 +9,11 @@ taxonomy:
         - topic
     tags:
         - office
-        - poll
+        - cryptpad
         - pastebin
         - file
         - sharing
+        - mumble
         - disapp
 page-toc:
     active: false
