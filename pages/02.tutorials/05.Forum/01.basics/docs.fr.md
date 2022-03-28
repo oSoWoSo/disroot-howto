@@ -1,43 +1,51 @@
 ---
-title: Discourse - Usage de base
-page-toc:
-  active: true
+title: Bases de Discourse
 published: true
-visible: false
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - forum
+        - discourse
+page-toc:
+    active: true
 ---
+
+# Forum Discourse
 
 Le forum Discourse offre une interface utilisateur simple et intuitive. Même si vous utilisez Discourse principalement comme liste de diffusion, il est recommandé de voir l'interface web pour une expérience utilisateur supérieure. Voici quelques conseils pour commencer:
 
 
-----------
-
-
 # Connectez-vous d'abord
 Vous pouvez vous connecter au forum avec votre compte Discourse ou votre compte Disroot, si vous en avez un.
-Aller à https://forum.disroot.org/ et cliquez ![](en/forum_basics1.png?resize=64,25) dans le coin supérieur droit.
-**Si vous avez un compte Disroot, assurez-vous de sélectionner Connexion avec un compte Disroot avant d'entrer vos identifiants.**
+Aller à https://forum.disroot.org/ et cliquez ![](en/forum_basics1.png?resize=64,25) {.inline} dans le coin supérieur droit.
+
+!! Si vous avez un compte Disroot, assurez-vous de sélectionner Connexion avec un compte Disroot avant d'entrer vos identifiants.
 
 Si vous n'avez pas encore de compte, vous pouvez enregistrer un compte Disroot via https://user.disroot.org, ce qui vous donnera un accès supplémentaire au stockage cloud, à l'email, au xmpp et au tableau de projet. Vous pouvez également décider de créer un compte forum seulement - vous trouverez le bouton S'inscrire en haut à droite de la page du forum.
 
+Par défaut, aucun compte Disroot n'est activé dans Discourse. Vous devez donc l'activer ou, disons, connecter un compte Discourse avec Disroot, si vous voulez vous connecter pour la première fois. Cliquez sur ***Log in with Disroot*** et entrez vos informations d'identification. Veillez à saisir votre **nom de compte** au lieu de votre **adresse électronique**. Une fois que votre connexion Disroot a été vérifiée, vous serez ramené à la page de connexion du forum, mais avec votre adresse électronique Disroot dans le champ. Il ne vous reste plus qu'à cliquer sur ***Créer un nouveau compte*** et vous serez admis.  
+
 # Le menu
 Les boutons d'icônes en haut à droite incluent la recherche et vos paramètres personnels:
+
 ![](en/forum_basics2.png)
 
 Cliquez sur votre icône d'utilisateur (la première lettre de votre nom jusqu' à ce que vous changiez d'avatar) pour voir vos messages et notifications et pour entrer dans votre paramétrage personnel et voir votre page d'utilisateur.
 
-Les petits nombres en haut de votre avatar indiquent combien de notifications (à droite) et de messages (à gauche) vous avez. Lorsque vous cliquez sur votre avatar, vous verrez tous les avis et messages non lus listés ci-dessous. Vous pouvez également accéder à tous vos messages via l'icône ![](en/forum_basics3.png?resize=30,25).
+Les petits nombres en haut de votre avatar indiquent combien de notifications (à droite) et de messages (à gauche) vous avez. Lorsque vous cliquez sur votre avatar, vous verrez tous les avis et messages non lus listés ci-dessous. Vous pouvez également accéder à tous vos messages via l'icône ![](en/forum_basics3.png?resize=30,25) {.inline}.
 
-Cliquez sur votre avatar et ensuite sur le bouton ![](en/forum_basics4.png?resize=23,24) pour saisir vos paramètres personnels. Là, vous pouvez changer votre avatar, ajuster le niveau des notifications, vos catégories vues et bien plus encore.
+Cliquez sur votre avatar et ensuite sur le bouton ![](en/forum_basics4.png?resize=23,24) {.inline} pour saisir vos paramètres personnels. Là, vous pouvez changer votre avatar, ajuster le niveau des notifications, vos catégories vues et bien plus encore.
 
 # Navigation
-Lorsque vous vous connectez pour la première fois au forum (ou cliquez sur l'icône ![](en/forum_basics5.png?resize=100,20) pour revenir à la page d'accueil à tout moment), vous trouverez une liste des catégories que vous suivez. Les catégories sont comme des sous-forums. Si vous êtes membre d'un forum privé, les catégories de ce groupe seront listées en premier et toutes les catégories publiques seront listées ci-dessous. Plus d'informations sur la façon de suivre et de cacher certaines catégories seront bientôt publiées dans un autre tutoriel.
+Lorsque vous vous connectez pour la première fois au forum (ou cliquez sur l'icône ![](en/forum_basics5.png?resize=100,20) {.inline} pour revenir à la page d'accueil à tout moment), vous trouverez une liste des catégories que vous suivez. Les catégories sont comme des sous-forums. Si vous êtes membre d'un forum privé, les catégories de ce groupe seront listées en premier et toutes les catégories publiques seront listées ci-dessous. Plus d'informations sur la façon de suivre et de cacher certaines catégories seront bientôt publiées dans un autre tutoriel.
 
-~[](en/forum_basics6.png)
+![](en/forum_basics6.png)
 
-La barre en haut vous permet de naviguer rapidement entre les derniers messages, nouveaux, non lus et la plupart des messages actifs. Vous pouvez également filtrer les catégories que vous souhaitez voir sous le bouton ![](en/forum_basics7.png?resize=133,30).
+La barre en haut vous permet de naviguer rapidement entre les derniers messages, nouveaux, non lus et la plupart des messages actifs. Vous pouvez également filtrer les catégories que vous souhaitez voir sous le bouton ![](en/forum_basics7.png?resize=133,30) {.inline}.
 A l'extrême droite, vous trouvez un bouton d'onglet pour lancer un nouveau fil de discussion (thème).
 
 Les derniers sujets sont également listés dans votre page d'accueil, à droite des catégories. N'importe quel titre de sujet que vous sélectionnez pour l'afficher vous amènera au prochain message non lu.
@@ -50,9 +58,9 @@ Au fur et à mesure que de nouveaux messages entreront, ils apparaîtront automa
 
 # Répondre aux messages
 
-Pour répondre à l'ensemble du sujet, utilisez le bouton ![](en/forum_basics8.png?resize=80,29) en bas de la page.
+Pour répondre à l'ensemble du sujet, utilisez le bouton ![](en/forum_basics8.png?resize=80,29) {.inline} en bas de la page.
 
-Pour répondre à un message spécifique dans le fil, utilisez le bouton ![](en/forum_basics9.png?resize=82,30) sur ce poste.
+Pour répondre à un message spécifique dans le fil, utilisez le bouton ![](en/forum_basics9.png?resize=82,30) {.inline} sur ce poste.
 
 Pour insérer une citation, sélectionnez le texte que vous souhaitez citer, puis appuyez sur n'importe quel bouton Répondre. Répétez pour plusieurs citations!
 
@@ -64,7 +72,7 @@ Vous pouvez également aimer, partager, signaler ou ajouter un message à vos fa
 
 
 # Créer un nouveau sujet
-Vous pouvez créer un nouveau sujet dans une catégorie (Howtos, support, changelog, etc.) en naviguant dans la catégorie et en appuyant sur le bouton nouveau sujet ![](en/forum_basics10.png?resize=121,26), ou en appuyant simplement sur le bouton et dans le panneau de composition du sujet/message, sélectionnez la catégorie dans laquelle il se trouve. Les sujets doivent avoir un minimum de 8 lettres dans le sujet et 10 lettres dans le sujet, sinon le message ne sera pas envoyé.
+Vous pouvez créer un nouveau sujet dans une catégorie (Howtos, support, changelog, etc.) en naviguant dans la catégorie et en appuyant sur le bouton nouveau sujet ![](en/forum_basics10.png?resize=121,26) {.inline}, ou en appuyant simplement sur le bouton et dans le panneau de composition du sujet/message, sélectionnez la catégorie dans laquelle il se trouve. Les sujets doivent avoir un minimum de 8 lettres dans le sujet et 10 lettres dans le sujet, sinon le message ne sera pas envoyé.
 
 ![](en/forum_basics2.gif)
 
@@ -97,14 +105,19 @@ Vous pouvez télécharger des fichiers en appuyant sur le bouton de télécharge
 Les fichiers, images et vidéos seront présentés sur le côté gauche de l'écran (où se trouve tout le code) comme ceci:
 
 **Fichiers**
-> < a class="attachment" href="/uploads/default/original/1X/ffd8f38b235dbf199a919f0187ae63a183d22ada.odt">hello world.odt</a> (8.0 KB)
+```
+<a class="attachment" href="/uploads/default/original/1X/ffd8f38b235dbf199a919f0187ae63a183d22ada.odt">hello world.odt</a> (8.0 KB)
+```
 
 **Photos**
-> < img src="/uploads/default/original/1X/019a9706a4676128e452b81f450851353f36175c.png" width="690" height="347">
+```
+<img src="/uploads/default/original/1X/019a9706a4676128e452b81f450851353f36175c.png" width="690" height="347">
+```
 
 **Vidéos**
->https ://forum.disroot.org/uploads/default/original/1X/59b17ec97a8daabcb96a787b4900f3d3221083da.mp4
-
+```
+https ://forum.disroot.org/uploads/default/original/1X/59b17ec97a8daabcb96a787b4900f3d3221083da.mp4
+```
 Pour les déplacer, coupez simplement la ligne et collez-la où vous voulez. Dans le cas des images, vous pouvez également ajuster leur taille en changeant les valeurs de "hauteur" et "largeur" dans la ligne.
 
 ## Ajouter des étiquettes à votre sujet

@@ -20,7 +20,7 @@ Estas são algumas das coisas que podes fazer com o PrivateBin:
 
 Neste tutorial vamos explicar como usar o PrivateBin. Podes aceder ao PrivateBin em [bin.disroot.org](https://bin.disroot.org)
 
-Nota: O PrivateBin não é uma ferramente colaborativa de edição de texto, para isso tens o [etherpad e o ethercalc](https://disroot.org/pad/)
+Nota: O PrivateBin não é uma ferramente colaborativa de edição de texto, para isso tens o [etherpad](https://disroot.org/pad/)
 
 De momento o PrivateBin não tem uma versão em língua portuguesa
 

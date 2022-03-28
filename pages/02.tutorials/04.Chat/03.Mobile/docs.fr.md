@@ -1,12 +1,27 @@
 ---
-title: Clients de téléphone
+title: Chat: clients pour mobiles
+updated:
 published: true
-visible: false
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - chat
+        - xmpp
 page-toc:
-     active: false
+    active: false
 ---
 
-<br>
+# Clients de chat pour mobiles
+
+### Android
+- [Conversations](android/conversations)
+
+### SailfishOS
+- [Chat app](sailfishos)
+
+### iOS
+- [Chat Secure](ios)

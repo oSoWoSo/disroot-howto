@@ -1,5 +1,5 @@
 ---
-title: 'Chat Clients: Android'
+title: 'Clients de Chat: Android'
 published: false
 visible: false
 taxonomy:
@@ -13,7 +13,7 @@ page-toc:
     active: false
 ---
 
-How to setup your chat client on your mobile:
+Comment configurer votre client de chat sur votre mobile :
 
 ## Clients
 - [Conversation](conversation)

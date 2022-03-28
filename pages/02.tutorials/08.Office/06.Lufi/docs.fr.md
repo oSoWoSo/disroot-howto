@@ -1,20 +1,28 @@
 ---
 title: Utiliser Lufi
+updated:
 page-toc:
-  active: true
+    active: true
 published: true
 visible: true
+indexed: true
 taxonomy:
     category:
         - docs
+    tags:
+        - téléverser
+        - lufi
 ---
-Disroot fournit Lufi, un logiciel open-source en ligne pour télécharger et partager des fichiers de manière sécurisée et privée avec d'autres personnes, comme alternative à des services tels que le transfert par wetransfer.
+![](/home/icons/lufi.png)
+
+# Lufi/Upload
+Lufi est un logiciel en ligne à code source ouvert permettant de télécharger et de partager des fichiers de manière sécurisée et privée avec d'autres personnes, comme alternative à des services tels que wetransfer.
 
 Lufi travaille dans une logique de connaissance zéro.
 
 Ce qui signifie que les fichiers sont chiffrés avant qu'ils ne quittent votre ordinateur, de sorte que votre fournisseur d'accès Internet et "l'administrateur de Disroot" ne peuvent pas voir le contenu du fichier. L'administrateur ne peut voir que le nom du fichier, sa taille et son type de mimetype (quel type de fichier c'est: vidéo, texte, etc.)".
 
-**Vous "n'avez pas besoin de vous enregistrer pour téléverser des fichiers."**
+**Vous "n'avez pas besoin de créer un compte pour téléverser des fichiers."**
 
 Entre autres choses, vous pouvez l'utiliser pour:
 
@@ -23,12 +31,9 @@ Entre autres choses, vous pouvez l'utiliser pour:
 
 Dans ce tutoriel, nous allons vous montrer comment l'utiliser. Vous pouvez accéder à Uploads/Lufi sur [upload.disroot.org](https://upload.disroot.org)
 
-Remarques:
+!! ![](/home/icons/note.png)
+!! REMARQUE: Lufi n'est pas un service cloud (les fichiers ne sont stockés en ligne que pendant un certain temps, après quoi ils sont supprimés). Pour les services cloud, vous avez votre [cloud](https//:cloud.disroot.org) fourni par disroot. <br><br> C'est différent de [PrivateBin](projects_office/bin/privatebin). PrivateBin peut seulement partager du texte, tandis que Lufi peut être utilisé pour partager et télécharger n'importe quel type de fichier.
 
-Lufi n'est pas un service cloud (les fichiers ne sont stockés en ligne que pendant un certain temps, après quoi ils sont supprimés). Pour les services cloud, vous avez votre [cloud](https//:cloud.disroot.org) fourni par disroot.
-C'est différent de PrivateBin. Un Bin peut seulement partager du texte, tandis que Lufi peut être utilisé pour partager et télécharger n'importe quel type de fichier.
-
-----------
 
 # A quel point Lufi est sûr et comment ça marche
 
@@ -64,8 +69,6 @@ Si vous essayez juste d'utiliser [https://upload.disroot.org/r/FA7MHOOL](https:/
 ![](en/lufi01.png)
 
 
-
-----------
 # L'interface
 
 L'interface est assez simple, quand vous téléverser un fichier, vous avez les options suivantes:
@@ -77,7 +80,6 @@ Dans la partie centrale supérieure du panneau, vous pouvez régler les options 
 
 ![](en/lufi02.png)
 
-----------
 
 # Taille maximale du fichier
 
@@ -92,7 +94,6 @@ Les fichiers volumineux seront stockés pour une durée plus courte. "Le délai 
 
 Vous pouvez également vérifier ces informations à tout moment en appuyant sur le bouton ![](en/lufi03.png?resize=30,24) dans l'interface principale de Lufi.
 
-----------
 
 # Comment téléverser et télécharger un fichier
 
@@ -109,8 +110,6 @@ Pour télécharger le fichier, il suffit d'utiliser le lien dans le navigateur:
 ![](en/lufi2.gif)
 
 
-
-----------
 
 
 # Comment partager un fichier
@@ -132,8 +131,6 @@ La raison en est que, si vous utilisez cette option, le lien est envoyé en util
 Disroot est un fournisseur soucieux de la vie privée, mais par principe vous devriez éviter de faire cela.  
 
 
-
-----------
 
 # Comment gérer/supprimer vos téléversements
 

@@ -1,22 +1,32 @@
 ---
-title: Pidgin
+title: Client de chat: Pidgin
+updated:
+    app: Pidgin
 published: true
 visible: false
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - chat
+        - pidgin
+        - xmpp
+page-toc:
+    active: true
 ---
+
+![](/home/icons/pidgin.png)
 
 Pidgin est une application de messagerie multiplateforme (fonctionne sur la plupart des systèmes d'exploitation) et multiprotocole. Elle prend en charge un grand nombre de protocoles de messagerie différents tels que: xmpp, skype, AIM, TOX, Whatsapp, facebook, etc, de sorte que vous pouvez avoir toute votre messagerie faite avec une seule application.
 
-Pour configurer le chat Disroot sur pidgin, suivez ces étapes faciles:
+# Installer Pidgin.
+Si vous utilisez **MS Windows** / **MacOS**, vérifiez le [site web de pidgin](http://pidgin.im/download/) et téléchargez une version.<br>
+Si vous êtes un utilisateur **GNU/Linux**, vérifiez votre gestionnaire de paquets et télécharger pidgin. (*vérifiez pour des plugins supplémentaires pendant que vous y êtes.*)
 
-1. **Installer Pidgin.**
-Si vous utilisez windows/macos, vérifiez le [site web de pidgin](http://pidgin.im/download/) et téléchargez une version.
-Si vous êtes un utilisateur linux, vérifiez votre gestionnaire de paquets et télécharger pidgin. (vérifiez pour des plugins supplémentaires pendant que vous y êtes.)
-
-2. **Le lancer.**
-Vous serez accueilli par un message de bienvenue comme celui-ci:
+# Configurer Pidgin
+Une fois installé, la première fois que vous lancez **Pidgin**, vous serez accueilli par un message de bienvenue comme celui-ci:
 
 ![](en/pidgin1.png)
 
@@ -25,7 +35,7 @@ Si ce n'est pas la première fois que vous exécutez pidgin vous devriez utilise
 
 ![](en/pidgin2.png)
 
-3. **Mise en place du compte.**
+# Mise en place du compte.
 Tout d'abord, choisissez le protocole xmpp dans la liste déroulante:
 
 ![](en/pidgin3.png)

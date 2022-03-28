@@ -301,13 +301,10 @@ Um die Tutorials kohärenter und außerdem die Adaption durch andere Gruppen ein
 |Lufi|**Disroot Upload**|
 |Forum/Discourse|**Disroot Forum**|
 |Etherpad|**Disroot Pad**|
-|EtherCalc|**Disroot Calc**|
 |XMPP|**Disroot Chat**|
 |Email services im Allgemeinen|**Disroot Email**|
 |Rainloop|**Disroot Webmail**|
-|Hubzilla Instanz|**DisHub**|
 |Private Bin|**Disroot Bin**|
-|Polls|**Disroot Polls**|
 |Nextcloud:|**Disroot Cloud**|
 |Nextcloud Kalender-App|**Disroot Calendar**|
 |Nextcloud Notizen-App|**Disroot Notes**|

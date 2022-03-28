@@ -1,0 +1,26 @@
+---
+title: 'Modèle' <!-- modifier le titre  -->
+visible: false <!-- éditer la visibilité dans l'arborescence  -->
+page-toc:
+  active: true
+published: true
+taxonomy:
+    category:
+        - docs
+---
+
+---
+
+|```Information Meta```|
+|:--:|
+|```Ce guide a été mis à jour le``` **date ici** *(Le format de la date pourrait être mm-jj-aa or aaaa-mm-jj, e.g: 01-04-19 or 2019-01-04)* ```et il fait référence à:```<br>**Nom du logiciel: version 00.0.0-0 pour la distribution GNU/Linux:**<br> <!-- éditer le logiciel et la version du logiciel actuel  -->|
+
+**REMARQUE:**```Si le guide fait référence à une version de logiciel plus ancienne que celle fournie par``` **Disroot**,```ou celui que vous utilisez dans votre appareil, il se peut que des fonctionnalités manquent ou que de petites parties de l'information aient changé.```<br> La documentation How-to **Disroot** ``` est un processus mené par la communauté. Nous essayons de le maintenir aussi à jour que possible.```
+
+---
+# Le contenu actuel du guide se trouve ici
+---
+
+ <center><a rel="license" href="http://creativecommons.org/licenses/by- sa/4.0/"><img alt="License Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Cette œuvre est soumise à une licence internationale <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</a>.</center>
+
+---

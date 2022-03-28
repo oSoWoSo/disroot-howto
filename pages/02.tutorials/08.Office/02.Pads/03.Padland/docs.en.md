@@ -45,7 +45,7 @@ Then click on **OK**. **Disroot** is now in your server list.
 # Create or add a pad
 Click on the "new pad"  button to create or add a pad ![](en/create.png)
 
-You'll see  this:<br>
+You'll see this:<br>
 ![](en/create_blank.png)
 - **Pad name (URL)**: set the pad name if you know it. For example if the pad address you want to add is *https://pad.disroot.org/p/test* just add *test* here.
 - **Pad Alias**: you can an alias if the pad address/name doesn't make to much sense to you. For example, if the pad address is *https://pad.disroot.org/p/1r4o_f6-Rzc* you may want to set *Shopping_list* as an alias!
