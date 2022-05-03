@@ -1,33 +1,31 @@
 ---
-title: Nextcloud: Exporter ses Calendriers/Agendas
+title: Nextcloud: Exporter ses agendas
 published: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "Juin 2020"		
     app: Nextcloud
     app_version: 15
 taxonomy:
     category:
         - docs
     tags:
-        - user
+        - utilisateur
         - cloud
 visible: true
 page-toc:
     active: false
 ---
 
-Exporter vos calendriers/agendas est très simple:
+L'exportation des calendriers est assez simple :
 
-1. Connectez-vous sur [cloud](https://cloud.disroot.org)
+  - Connectez-vous au [cloud](https://cloud.disroot.org)
+  - Sélectionnez l'application Calendrier
 
-2. Choisissez l'application Agenda
+  ![](en/select.gif)
 
-![](fr/select_app.gif)
+  - Pour exporter un de vos calendriers ou les calendriers auxquels vous êtes abonné, sélectionnez l'option de menu *"trois points "* à côté du calendrier et cliquez sur l'option *"Exporter "*. Le calendrier exporté est enregistré au format .ics.
 
-3. Exportez n'importe lequel de vos agendas / calendriers ou de ceux auquels vous êtes abonnés.
-Sélectionnez le bouton de menu *"trois petits points"* à côté du calendrier que vous voulez exporter et cliquez sur  *"Télécharger"*. Le calendrier exporté est sauvé au format .ics .
+  ![](en/export.gif)
 
-![](fr/export-calendar.gif)
-
-Répétez cette procédure pour tous les autres calendriers / agendas que vous voulez exporter.
+  - Répétez le processus pour tous les autres calendriers que vous souhaitez exporter.

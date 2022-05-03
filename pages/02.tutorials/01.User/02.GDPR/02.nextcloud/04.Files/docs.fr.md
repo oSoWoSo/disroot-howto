@@ -1,35 +1,30 @@
 ---
-title: Nextcloud: Fichiers & Notes
+title: Exportez vos données: Fichiers & Notes Nextcloud
 published: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "Juin 2020"		
     app: Nextcloud
     app_version: 15
 taxonomy:
     category:
         - docs
     tags:
-        - user
+        - utilisateur
         - cloud
-        - files
+        - fichiers
         - notes
-        - gdpr
+        - rgpd
 visible: true
 page-toc:
     active: false
 ---
 
-Vous pouvez télécharger vos fichiers et notes très facilement, comme pour toutes les applications **Nextcloud**.
+Vous pouvez télécharger vos fichiers aussi facilement que dans le cas de toute application **Nextcloud**.
 
-1. Connectez-vous sur [cloud](https://cloud.disroot.org)
+  - Connectez-vous à votre [cloud](https://cloud.disroot.org)
+  - Sélectionnez l'application **Files**.
+  - Sélectionnez tous les fichiers en cliquant sur la case à cocher
+  - Cliquez ensuite sur le menu **Actions** et sélectionnez *Téléchargement*.
 
-2. Choisissez l'application **Fichiers** 
-
-![](fr/select_app.gif)
-
-3. Sélectionnez tous les fichiers avec la case à cocher.
-
-4. Cliquez ensuite sur **Actions** menu et choisissez *Télécharger*
-
-![](fr/files_app.gif)
+![](en/export_files.gif)

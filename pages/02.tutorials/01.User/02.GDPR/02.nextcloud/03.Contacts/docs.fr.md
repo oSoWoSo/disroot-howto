@@ -3,14 +3,15 @@ title: "Nextcloud: Exporter ses Contacts"
 published: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "Juin 2020"		
     app: Nextcloud
     app_version: 15
 taxonomy:
     category:
         - docs
     tags:
-        - user
+        - rgpd
+        - utilisateur
         - cloud
 visible: true
 page-toc:
