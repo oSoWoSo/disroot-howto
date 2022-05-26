@@ -15,6 +15,8 @@ page-toc:
     active: false
 ---
 
+# Transférer le courrier de Disroot vers un autre compte e-mail
+
 Nous comprenons que tout le monde ne veut pas utiliser le courrier Disroot comme email quotidien. Les gens ont leur compte de courrier depuis des années et il est difficile, pas pratique ou dans certains cas même impossible pour eux de passer à un autre fournisseur d'accès, comme par exemple Disroot.
 
 Cependant, il y a des informations importantes à ne pas manquer.

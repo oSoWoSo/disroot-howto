@@ -10,14 +10,22 @@ taxonomy:
     tags:
         - email
         - clients
-        - desktop
+        - bureau
 page-toc:
     active: false
 ---
 
-Comment configurer votre email sur votre bureau:
+![](../thumb.png)
 
-## Table des matières
-- [Thunderbird - client email multiplateforme](thunderbird)
+## Clients de messagerie multiplatformes
+- [Thunderbird](thunderbird)
+- [Claws Mail](claws-mail)
 
-![](c64.jpg)
+
+## GNU/Linux
+- [Mutt](mutt)
+
+
+## GNU/Linux: Intégration email du bureau
+- [GNOME](gnome-desktop-integration)
+- [KDE](kde-desktop-integration)

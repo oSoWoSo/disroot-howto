@@ -2,10 +2,18 @@
 title: Client de messagerie SailfishOS
 published: true
 visible: false
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+page-toc:
+    active: false
 ---
+
+# Email sur SailfishOS
+
 
 La mise en place du courrier Disroot sur SailfishOS est très facile. Suivez ces simples étapes. (il a fallu plus de temps pour faire ces captures d'écran sophistiquées :P )
 

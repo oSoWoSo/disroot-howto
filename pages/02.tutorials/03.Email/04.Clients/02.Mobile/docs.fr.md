@@ -1,18 +1,27 @@
 ---
-title: 'Clients de téléphone'
-visible: false
+title: 'Clients pour appareil mobile'
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
 page-toc:
-     active: false
+    active: false
 ---
 
-Comment configurer votre email avec votre appareil mobile:
+# Clients d'email pour appareil mobile
 
-## Sommaire
- - [K9 - Une application email Android](androidk9)
- - [SailfishOS](sailfishos)
- - [iOS](ios)
+Comment configurer votre courriel avec votre appareil mobile :
 
-![](mobile.jpg)
+## Android
+- [K9](k9)
+- [FairEmail](fairemail)
+
+## SailfishOS
+- [Mail App](sailfishos)
+
+## iOS
+- [Mail App](ios)
