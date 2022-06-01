@@ -1,14 +1,24 @@
 ---
-title: 'Synchroniser vers votre appareil'
+title: Portables
+published: true
+updated:
 taxonomy:
     category:
         - docs
-visible: false
+    tags:
+        - cloud
+        - portables
+        - nextcloud
+indexed:
+visible: true
 page-toc:
      active: false
 ---
 
-Nextcloud s'intègre très facilement avec votre appareil, offrant une expérience native pour la plupart des appareils et systèmes d'exploitation.
-Ici, nous essayons d'inclure et de documenter tous ces éléments pour faciliter la mise en place et le fonctionnement de n'importe qui.
+# Clients mobiles
 
-Si vous souhaitez nous aider, votre contribution est la bienvenue.
+## [Android](android)
+- Applications Nextcloud
+
+## [iOS](ios)
+- Application iOS

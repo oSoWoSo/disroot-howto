@@ -1,19 +1,25 @@
 ---
 title: 'Linux'
+published: true
+updated:
 taxonomy:
     category:
-        - docs
-visible: false
+            - docs
+    tags:
+            - cloud
+            - bureau
+            - intégration
+            - clients
+            - gnu-linux
+visible: true
 page-toc:
      active: false
 ---
 
- Nextcloud s'intègre très bien à Linux. Vous trouverez ci-dessous des liens utiles qui vous aideront à tout mettre en place.
+# Clients de bureau GNU/Linux
 
- ## Sommaire
- - [Synchroniser des fichiers avec votre client bureau](desktop-sync-client)
- - [GNOME - Intégration du Bureau](gnome-desktop-integration)
- - [KDE - Intégration du Bureau](kde-desktop-integration)
- - [Application News - Synchroniser avec votre Bureau](news-app-syncing)
+## [Intégration bureau GNOME](gnome-desktop-integration)
 
- ![](Tux.png)
+## [Intégration bureau KDE](kde-desktop-integration)
+
+## [Intégration Terminal](terminal-integration)

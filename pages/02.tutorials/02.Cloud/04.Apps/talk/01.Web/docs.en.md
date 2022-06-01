@@ -19,7 +19,7 @@ page-toc:
 
 # Nextcloud Talk
 
-Since January 2017 we've introduced spreed calls to our cloud. It's very simple audio/video conference app you can use to communicate not only with other disroot users but with anyone who has a computer connected to the internet and up to date web browser supporting WebRTC technology.
+Depuis janvier 2017, nous avons introduit les appels spreed dans notre cloud. Il s'agit d'une application de conférence audio/vidéo très simple que vous pouvez utiliser pour communiquer non seulement avec d'autres utilisateurs de disroot mais avec toute personne disposant d'un ordinateur connecté à internet et d'un navigateur web à jour supportant la technologie WebRTC.
 
 ![](en/spreed_main.png)
 

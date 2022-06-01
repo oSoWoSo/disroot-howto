@@ -1,6 +1,5 @@
 ---
-title: MacOS
-visible: true
+title: iOS
 published: true
 updated:
 taxonomy:
@@ -8,14 +7,14 @@ taxonomy:
         - docs
     tags:
         - cloud
-        - desktop
-        - integration
-        - macos
+        - sync
+        - iOS
+visible: true
 page-toc:
      active: false
 ---
 
-# macOS Desktop clients
+# iOS: Intégration de Nextcloud
 
 ## [Synchronisation des calendriers](calendar-syncing)
 ## [Synchronisation des contacts](contact-syncing)

@@ -20,8 +20,8 @@ taxonomy:
 ---
 
 # Mozilla Thunderbird...
-... is a free and open-source multi-platform email client and personal information manager with news, RSS and chat client integrated.<br>
-We will learn how to connect your **Cloud** contacts, calendars and tasks to **Thunderbird** in order to manage them from one place in your desktop.
+... est un client de messagerie multiplateforme gratuit et open-source et un gestionnaire d'informations personnelles avec un client de nouvelles, de RSS et de chat intégré.<br>
+Nous apprendrons à connecter vos contacts, calendriers et tâches **Cloud** à **Thunderbird** afin de les gérer depuis un seul endroit sur votre bureau.
 
 # Installing Thunderbird
 If you do not have it installed, go to [**Thunderbird** page](https://www.thunderbird.net/en-US/) and select the download for your operating system and language. Additionally, if you use a GNU/Linux based operating system you will almost certainly find it in the software manager of your distribution.

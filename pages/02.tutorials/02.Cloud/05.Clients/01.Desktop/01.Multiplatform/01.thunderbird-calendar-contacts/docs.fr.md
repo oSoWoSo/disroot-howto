@@ -1,147 +1,236 @@
 ---
-title: 'Thunderbird - Synchronisation des contacts, calendriers et tâches'
+title: 'Thunderbird'
 visible: false
+updated:
+        last_modified: "Octobre 2020"
+        app: Mozilla Thunderbird
+        app_version: 68.12.0 sur Manjaro Linux
 page-toc:
   active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - thunderbird
+        - sync
+        - calendrier
+        - contacts
 ---
 
-Les fonctionnalités de contact et de calendrier dans Disroot/Nextcloud sont assez cool mais si vous avez votre email Disroot connecté à un client de messagerie comme Thunderbird, il est agréable d'avoir les contacts et les calendriers de Disroot intégrés à Thunderbird également et d' y accéder d'un seul endroit sur votre bureau.
+# Mozilla Thunderbird...
+... est un client de messagerie multiplateforme gratuit et open-source et un gestionnaire d'informations personnelles avec un client de nouvelles, de RSS et de chat intégré.<br>
+Nous apprendrons à connecter vos contacts, calendriers et tâches **Cloud** à **Thunderbird** afin de les gérer depuis un seul endroit sur votre bureau.
 
----------
-
-
-# Installation des modules complémentaires nécessaires
-
-Afin de synchroniser tous vos calendriers, tâches et contacts avec thunderbird, vous devrez installer ces modules complémentaires:
-
-* **Lightning** - un calendrier pour Thunderbird
-* **SoGo Connector** -pour synchroniser vos contacts
-
-**Note!** Même si vous voulez juste synchroniser vos contacts, vous aurez toujours besoin de l'extension Lightning. C'est ce que dit le manuel Nextcloud [ici](https://docs.nextcloud.com/server/9.0/user_manual/pim/sync_thunderbird.html)
-
-## Installer Lightning
-
-Dans Thunderbird, allez dans > Outils > Modules complémentaires
-![](en/thunderbird_1.png)
-Dans la page Modules complémentaires dans le coin supérieur droit, vous trouverez une barre de recherche. Cherchez "Lightning". Une fois que thunderbird l'a trouvé, appuyez sur installer.
-
-![](en/thunderbird_2.png)
-
-Vous devrez redémarrer Thunderbird pour terminer l'installation des deux modules complémentaires.
-
-## Installation du connecteur So Go Connector
-
-Ce module complémentaire n'est pas listé dans le menu Modules complémentaires donc nous devons le télécharger directement depuis le site des développeurs[ici](https://sogo.nu/download.html#/frontends)
-
-Sur le site Web, sélectionnez **"SoGo Connector"**. Puis, une fois le téléchargement terminé, retournez au menu Modules complémentaires de thunderbird et sélectionnez l'option Installer à partir du fichier.
-
-![](en/thunderbird_3.png)
-
-Sélectionnez maintenant le fichier connecteur SoGo (extension .xpi) que vous venez de télécharger sur le site.
-L'image suivante doit apparaître ensuite, il suffit d'appuyer sur installer
-
-![](en/thunderbird_4.png)
-
-Pour que les deux modules complémentaires puissent terminer leurs installations, vous devrez redémarrer Thunderbird
+# Installation de Thunderbird
+Si vous ne l'avez pas installé, allez sur la [**page Thunderbird**] (https://www.thunderbird.net/en-US/) et sélectionnez le téléchargement correspondant à votre système d'exploitation et à votre langue. En outre, si vous utilisez un système d'exploitation basé sur GNU/Linux, vous le trouverez très certainement dans le gestionnaire de logiciels de votre distribution.
 
 
-# Intégrer le calendrier avec Thunderbird
+# Configuration d'un calendrier
+## 01. Obtenir l'adresse du calendrier
+Pour configurer un calendrier dans **Thunderbird**, vous devez d'abord connaître son adresse.
 
-Connectez-vous d'abord à votre [cloud Disroot](https://cloud.disroot.org) et accédez à l'application Calendrier. Sélectionnez les options du calendrier que vous voulez synchroniser avec Thunderbird.
-Copiez maintenant l'URL du lien de votre calendrier. Vous en aurez besoin pour synchroniser avec Thunderbird.
+- Connectez-vous au **[Cloud](https://cloud.disroot.org)**.
+- Allez dans l'application **Calendrier**.
 
- ![](en/thunderbird_6.png)
+ ![](en/calendar_select.png)
 
-Maintenant dans Thunderbird. Allez dans: Fichier > Nouveau > Calendrier ou allez directement dans la fenêtre Calendrier et sélectionnez *"Nouveau calendrier"* en cliquant avec le bouton droit sur la liste des calendriers.
+- Sélectionnez ou créez un calendrier que vous voulez synchroniser.
+- Appuyez sur le bouton **"trois points "** à droite du calendrier.
 
-![](en/thunderbird_7.png)
+ ![](en/calendar_select_02.png)
 
-Configurez maintenant votre calendrier pour qu'il se synchronise:
-1- sélectionner l'option **CalDAV***.
-2 - Dans le champ Emplacement, collez le lien de votre Calendrier Disroot que vous avez copié précédemment.
-3 - Sélectionnez le support hors ligne, si vous souhaitez conserver une copie locale de votre calendrier, au cas où vous auriez besoin de travailler hors ligne.
-4 - Appuyer sur Suivant
-![](en/thunderbird_8.png)
+- Appuyez sur **Copier le lien privé**. L'adresse sera enregistrée dans le presse-papiers de l'ordinateur.
 
-Donnez un nom à votre calendrier et attribuez lui une couleur.
-Ensuite, appuyez sur Suivant.
+ ![](en/copy_link.png)
 
-![](en/thunderbird_9.png)
+- Vous verrez le message suivant :
 
-Appuyez ensuite sur Terminer.
-Votre calendrier est maintenant synchronisé avec Thunderbird. Tout événement créé dans thunderbird se produira sur le cloud Disroot et vice versa.
+  ![](en/link_copied.png)
 
-![](en/thunderbird_10.png)
+Une bonne façon de vérifier que l'URL a été copiée correctement serait de la coller dans un bloc-notes, de la vérifier et de l'enregistrer. Cette première étape étant terminée, nous allons maintenant passer à la configuration de **Thunderbird**.
 
-**Note!**
-Si vous avez plusieurs calendriers dans votre compte Disroot, répétez cette procédure pour chaque calendrier. Vous pouvez utiliser une couleur différente pour chaque calendrier afin de les distinguer. Cette méthode fonctionne pour n'importe quel autre fournisseur nextcloud/owncloud.
-De plus, vous pouvez synchroniser tous les calendriers de n'importe quel fournisseur du moment qu'ils supportent le protocole caldav (consultez votre fournisseur pour plus de détails).
+## 02. Configuration de Thunderbird
+- Cliquez sur l'icône **Calendrier** en haut à droite.
 
-![](en/thunderbird_11.png)
+  ![](en/tb_calendar_01.png)
 
-## Ajout d'événements avec plusieurs calendriers
-Si vous avez plusieurs calendriers dans Thunderbird, lors de la création d'un événement, vous devez sélectionner dans quel calendrier il va, sinon vous finirez peut-être par le rechercher en ligne au mauvais endroit.
+- Faites un clic droit sur la liste des calendriers et sélectionnez **Nouveau calendrier**.
 
-![](en/thunderbird_12.png)
+  ![](en/tb_calendar_02.png)
 
-Si vous cliquez avec le bouton droit de la souris sur les calendriers dans Thunderbird vous aurez un ensemble d'options:
+- Le processus **Créer un nouveau calendrier** va démarrer. Sélectionnez **Sur le réseau** (le calendrier est stocké dans le nuage).
 
-* Afficher ou masquer un calendrier
-* Exporter le calendrier
-* Se désabonner Calendrier (le supprime de Thunderbird)
-* Le rendre en lecture seule (dans Thunderbird)
-* Synchroniser le calendrier  
+  ![](en/tb_calendar_03.png)
 
-![](en/thunderbird_13.png)
+- Sélectionnez le format **CalDAV** et entrez votre nom d'utilisateur.
 
-# Contacts - Intégration avec Thunderbird
+  ![](en/tb_calendar_04.png)
 
-Le processus est semblable à l'intégration des calendriers dans Thunderbird. Vous devez d'abord obtenir le lien depuis les contacts de votre compte Disroot.
+- Dans le champ **Location**, collez le lien de votre **Disroot Calendar**, celui que vous avez précédemment copié du **Cloud**. Sélectionnez **Support hors ligne** si vous souhaitez conserver une copie locale de votre calendrier pour travailler hors ligne. Appuyez sur **Suivant**.
 
-Allez dans l'application Contacts de Disroot, puis dans Paramètres (icône 'roue crantée' en bas à gauche dans le panneau inférieur), sélectionnez le bouton de partage "url" pour qu'il vous fournisse un lien.
-Copiez ce lien et sauvegardez-le, vous en aurez besoin plus tard.
+  ![](en/tb_calendar_05.png)
 
-![](en/thunderbird_contacts-1.png)
+- Donnez un nom à votre calendrier. Vous pouvez également lui attribuer une couleur et activer/désactiver les rappels.
 
-Dans Thunderbird, sélectionnez Outils > Carnet d'adresses
-![](en/thunderbird_contacts-2.png)
+  ![](en/tb_calendar_06.png)
 
-Sélectionnez ensuite: Fichier > Nouveau > Carnet d'adresses distant
-![](en/thunderbird_contacts-3.png)
+- Appuyez ensuite sur **Suivant** puis sur **Fini**.
 
-Dans le panneau suivant, il vous sera demandé de définir le nom et l'url:
+  ![](en/tb_calendar_07.png)
 
-* Le nom est le nom que vous voulez donner à votre carnet d'adresses dans thunderbird
-* L'url est le lien que vous avez récupéré plus tôt dans l'application Contact de Disroot
+- Vous serez invité à saisir vos informations d'identification :
+  - **Nom d'utilisateur:** *Votre_nom_d'utilisateur_désinstallé*.
+  - **Mot de passe:** *Votre_Disroot_mot de passe*.
+  - You can select the option **Use password manager to remember this password** so you don't get asked for it every time you connect.
+  - Press **"OK"**
 
-Dans ce même panneau
-Vous pouvez régler la synchronisation périodique sur 5 minutes (la valeur par défaut est 15 minutes)
-Vous pouvez régler les contacts en lecture uniquement si vous le souhaitez (mais si vous le faites, vous ne pourrez pas éditer les contacts dans Thunderbird)
+  ![](en/tb_credentials.png)
 
-Quand vous avez fini, appuyez sur "ok".
+Your calendar is now synced with **Thunderbird**. Any event created in it will appear on **Disroot Cloud** and vice versa.
 
-![](en/thunderbird_contacts-4.png)
+- ![](en/calendar_sync.png)
 
-Cliquez avec le bouton droit de la souris sur votre nouveau carnet d'adresses distant et sélectionnez Synchroniser
+!! #### Astuce<br>
+!! Si vous avez plusieurs calendriers dans votre compte **Disroot**, il suffit de répéter ce processus pour chaque calendrier. Vous pouvez utiliser une couleur différente pour chaque calendrier afin de les identifier. This method works for any **Nextcloud** provider.<br>
+!! En outre, vous pouvez synchroniser tous les calendriers de n'importe quel fournisseur, tant qu'ils prennent en charge le protocole **CalDAV** (vous pouvez vérifier auprès de votre fournisseur pour plus de détails).
 
-![](en/thunderbird_contacts-5.png)
+## 03. Ajouter des événements
+- Cliquez avec le bouton droit de la souris sur la date à laquelle vous voulez ajouter un événement.
 
-Vous serez invité à insérer vos identifiants de compte Disroot
-Nom d'utilisateur: votre nom d'utilisateur Disroot
-Mot de passe: votre mot de passe Disroot
+  ![](en/add_event_01.png)
 
-Sélectionnez l'option: **"Utiliser le gestionnaire de mots de passe pour mémoriser ce mot de passe"** afin que Thunderbird se souvienne du mot de passe et ne le demande pas chaque fois que vous utilisez Thunderbird.
+- La fenêtre **Nouvel événement** s'ouvre. Vous pouvez maintenant attribuer un nom à l'événement.
 
-Puis appuyez sur **"ok"**.
+  ![](en/add_event_02.png)
 
-Vos contacts dans votre compte Disroot sont maintenant synchronisés avec le carnet d'adresses des contacts distants que vous avez créé dans Thunderbird.
+- Ajoutez ou créez une catégorie pour l'événement.
 
-Tous les contacts que vous ajoutez/supprimez/éditionnez dans votre compte Disroot seront modifiés en conséquence dans votre calendrier distant Thunderbird et vice versa.
+  ![](en/add_event_03.png)
 
-Si vous voulez déplacer des contacts de votre carnet d'adresses personnel Thunderbird ou des Adresses collectées vers votre nouveau carnet d'adresses distant afin qu'ils se synchronisent avec vos contacts Disroot, il vous suffit de sélectionner et de glisser le contact dans votre carnet d'adresses distant.
+- Sélectionnez dans quel calendrier l'événement va (utile dans le cas où vous avez plusieurs calendriers et que vous voulez éviter de le rechercher en ligne au mauvais endroit).
 
-Cependant, il est conseillé de créer des sauvegardes de vos contacts. Juste au cas où  :wink:
+  ![](en/add_event_04.png)
+
+- Vous pouvez également définir :
+  - S'il s'agit d'un **Evénement toute la journée**.
+  - Le **Début** et **Fin** de l'événement.
+  - Si vous voulez/besoin que l'événement soit répété et à quelle fréquence.
+  - Définissez un rappel pour l'événement.
+  - Ajoutez une description, des pièces jointes ou le nom des participants s'il s'agit d'une réunion, par exemple.
+
+  ![](en/add_event_05.png)
+
+Une fois que vous avez terminé, cliquez sur **Save and Close**.
+
+  ![](en/event_added.png)
+
+### Options supplémentaires
+Si vous faites un clic droit sur un calendrier, vous trouverez un ensemble d'options :
+
+- Afficher/Masquer les calendriers.
+- Nouveau calendrier... (Pour en ajouter un nouveau).
+- Désabonner le calendrier... (Pour le supprimer de **Thunderbird**).
+- Exporter le calendrier...
+- Publier le calendrier...
+- Synchroniser les calendriers.
+- Propriétés d'un Calendrier.
+
+  ![](en/additional_options.png)
+
+# Tâches
+Les tâches sont automatiquement synchronisées lorsque vous intégrez un calendrier dans **Thunderbird**.<br>
+Toute tâche que vous créez dans **Thunderbird** et qui est assignée à un calendrier sera synchronisée avec votre application **Cloud Tasks** et vice versa.
+
+# Contacts
+Pour intégrer vos contacts **Cloud** dans **Thunderbird**, vous devrez d'abord installer un module complémentaire appelé **CardBook**.
+
+## 01. Installation du module complémentaire CardBook
+- Aller sur **Outils** et sélectionnez **Modules**.
+
+  ![](en/cardbook_01.png)
+
+- Dans le champ **Trouver d'autres extensions**, écrivez **cardbook** et appuyez sur Entrée.
+
+  ![](en/cardbook_02.png)
+
+- Select the **CardBook** add-on and add it to **Thunderbird**.
+
+  ![](en/cardbook_03.png)
+
+  **Thunderbird** téléchargera l'addon, vous demandera si vous voulez l'ajouter et finalement vous demandera de redémarrer.
+
+   ![](en/cardbook_addon.png)
+
+ ## 02. Ajout d'un carnet d'adresses distant
+ Le processus est assez similaire à l'intégration des calendriers. Vous devez d'abord obtenir le lien des contacts de votre compte **Disroot**.
+
+ ### Obtenir l'URL du carnet d'adresses
+ - Allez dans l'application **Contacts** dans le **Disroot Cloud** (1).
+ - Allez ensuite dans les **Paramètres** (2) (l'icône en forme d'engrenage dans le panneau inférieur gauche) et cliquez sur le bouton **trois points** à droite du carnet d'adresses que vous voulez synchroniser.
+
+   ![](en/contact_address.png)
+
+ - Sélectionnez **Copier le lien**.
+
+   ![](en/link_menu.png)
+
+ L'URL est maintenant copiée dans le presse-papiers de votre ordinateur et, comme il a été suggéré auparavant, il est préférable de l'enregistrer, vous en aurez besoin à l'étape suivante.
+
+
+ ### Configuration des contacts
+ - Cliquez sur **CardBook** dans la barre d'outils de messagerie.
+
+   ![](en/tb_contacts_cbook.png)
+
+ - Faites un clic droit et sélectionnez **Nouveau carnet d'adresses**.
+
+   ![](en/tb_contacts_new_book.png)
+
+ - Sélectionnez **Remote** et appuyez sur **Suivant**.
+
+   ![](en/tb_contacts_remote.png)
+
+ - Sélectionnez **CardDAV** et collez le carnet d'adresses distant que vous avez copié auparavant dans le champ **URL**.
+
+   ![](en/tb_contacts_cardav.png)
+
+ - Entrez vos informations d'identification
+   - Nom d'utilisateur:** *votre nom d'utilisateur_désintoxiqué
+   - **Mot de passe:** *votre_Disroot_Mot de passe*.
+
+
+ - Appuyez sur **Valider** pour vérifier si les informations d'identification sont correctes (vous ne pouvez pas terminer le processus sans cette étape).
+ - Une fois les informations d'identification validées, appuyez sur **Suivant**.
+ - Vous pouvez maintenant
+   - changer le nom du Carnet d'adresses
+   - définir une couleur pour lui
+   - et sélectionner **Travail hors ligne** si vous souhaitez qu'une copie du Carnet d'adresses soit stockée localement.
+
+  ![](en/tb_contacts_properties.png)
+
+ - Appuyez sur **Suivant** et ensuite sur **Finish**.
+
+  ![](en/tb_contacts_finish.png)
+
+ Vos contacts dans votre **Cloud** sont maintenant synchronisés avec le carnet d'adresses de **Thunderbird**.
+
+  ![](en/tb_contacts_synced.png)
+
+ A partir de maintenant, tous les contacts que vous ajoutez/supprimez/modifiez dans **Cloud** seront modifiés en conséquence dans votre agenda distant **Thunderbird** et vice versa.
+
+ ### Synchronisation
+ La synchronisation entre le calendrier local (**Thunderbird**) et le calendrier distant (**Disroot Cloud**) se produit toutes les quelques minutes. Mais vous pouvez la forcer :
+
+ - Faites un clic droit sur le calendrier en question dans **Thunderbird**. Vous trouverez un large éventail d'options. Sélectionnez **Synchroniser le carnet d'adresses**.
+
+   ![](en/tb_sync.png)
+
+ Si vous voulez déplacer des contacts de votre **Carnet d'adresses personnel** ou **Adresses collectées** vers votre nouveau carnet d'adresses distant :
+
+ - Sélectionnez et faites glisser le contact vers votre carnet d'adresses distant.
+
+  ![](en/contacts_drag.png)
+
+ ! ! **Il est fortement recommandé de ne pas oublier de sauvegarder vos contacts de temps en temps.**

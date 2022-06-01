@@ -17,7 +17,7 @@ taxonomy:
         - sync
 ---
 
-# Calcurse: Calendar sync
+# Calcurse : Synchronisation du calendrier
 
 ![](en/calcurse.png)
 

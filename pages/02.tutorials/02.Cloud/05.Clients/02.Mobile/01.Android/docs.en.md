@@ -14,13 +14,13 @@ page-toc:
      active: false
 ---
 
-# Android: Nextcloud clients and integration
+# Android : Clients et intégration de Nextcloud
 
-## [Nextcloud app](nextcloud-app)
-Configuring and using the Nextcloud app with a Disroot account
+## [Application Nextcloud](nextcloud-app)
+Configuration et utilisation de l'application Nextcloud avec un compte Disroot.
 
-## [DAVx⁵](calendars-contacts-and-tasks)
-How to sync Calendars, Contacts and Tasks
+## [DAVx⁵](calendriers-contacts-et-tâches)
+Comment synchroniser les calendriers, les contacts et les tâches.
 
-## [Migrating contacts in Android](migrating-contacts-from-google)
-How to migrate contatcs from Google into Nextcloud
+## [Migration des contacts dans Android](migrating-contacts-from-google)
+Comment migrer les contacts de Google vers Nextcloud ?

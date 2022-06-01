@@ -1,13 +1,28 @@
 ---
-title: Multiplatforme
+title: Multiplatformes
 published: true
-visible: false
+indexed:
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - clients
+        - multiplatformes
+visible: true
+page-toc:
+    active: false
 ---
 
-Voici comment ajouter des guides et des tutoriels pour les applications multiplateformes (applications qui fonctionnent sur différents systèmes d'exploitation).
+## Clients multiplateformes
 
-- [Synchronisation de Thunderbird - Calendrier et Contact](thunderbird-calendar-contacts)
-- [Calcurse calendar sync](calcurse-caldav)
+
+## [Client Nextcloud](desktop-sync-client)
+- Client de synchronisation de bureau
+
+## [Thunderbird](thunderbird-calendar-contacts)
+- Synchronisation du calendrier, des contacts et des tâches
+
+## [calcurse](calcurse-caldav)
+- Synchronisation du calendrier en ligne de commande
