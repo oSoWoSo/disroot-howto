@@ -14,28 +14,28 @@ page-toc:
     active: false
 ---
 
-# Paramètres du serveur
-La plupart des clients de messagerie seront en mesure de découvrir automatiquement le paramètre correct du serveur, mais dans certains cas, vous devrez saisir manuellement les informations suivantes pour configurer votre client de messagerie.
+# Server Settings
+Most E-mail client will be able to discover the correct server setting automagically, but in some cases you may need to manually enter the following information to configure your email client.
 
-**IMAP Serveur** : disroot.org <br>
+**IMAP Server**: disroot.org <br>
 **SSL Port**: 993 <br>
-**Authentification** : Mot de passe normal
+**Authentication**: Normal Password
 
-**SMTP Serveur** : disroot.org <br>
+**SMTP Server**: disroot.org <br>
 **STARTTLS Port**: 587 <br>
-**Authentification** : Mot de passe normal
+**Authentication**: Normal Password
 
-**SMTPS Serveur** : disroot.org <br>
+**SMTPS Server**: disroot.org <br>
 **TLS Port**: 465 <br>
-**Authentification** : Mot de passe normal
+**Authentication**: Normal Password
 
-**POP Serveur** : disroot.org <br>
+**POP Server**: disroot.org <br>
 **SSL Port**: 995 <br>
-**Authentification** : Mot de passe normal
+**Authentication**: Normal Password
 
 ---
 
-#### Tutoriels connexes :
+#### Related how-tos:
 - [**Webmail**](/tutorials/email/webmail)
-- [**Clients de bureau**](/tutorials/email/clients/desktop)
-- [**Clients mobiles**](/tutorials/email/clients/mobile)
+- [**Desktop Clients**](/tutorials/email/clients/desktop)
+- [**Mobile Clients**](/tutorials/email/clients/mobile)
