@@ -32,9 +32,9 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
 
 # Table of Contents
 
-# [Rainloop to Roundcube Migration Guide](migration)
+# [SnappyMail to Roundcube Migration Guide](migration)
   - [Roundcube Migration FAQ](migration/faq)
-  - [Rainloop: Exporting contacts and emails](migration/rainloop)
+  - [SnappyMail: Exporting contacts and emails](migration/snappy)
   - [Roundcube: Importing contacts](migration/roundcube)
 
 # [Roundcube](roundcube)

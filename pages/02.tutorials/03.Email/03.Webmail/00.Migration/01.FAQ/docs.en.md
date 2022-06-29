@@ -4,9 +4,9 @@ published: true
 visible: true
 indexed: true
 updated:
-        last_modified: "April, 2021"
+        last_modified: "July, 2022"
         app: Roundcube Webmail
-        app_version: 1.4.4
+        app_version: 1.16.0
 taxonomy:
     category:
         - docs
