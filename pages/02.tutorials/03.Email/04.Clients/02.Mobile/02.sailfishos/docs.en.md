@@ -14,7 +14,7 @@ page-toc:
 
 # Email on SailfishOS
 
-Setting up your Disroot mail on SailfishOS is very easy. Just follow those simple steps. (it took longer to make those fancy screenshots :P )
+Setting up your **Disroot** mail on SailfishOS is very easy. Just follow those simple steps. (it took longer to make those fancy screenshots :P )
 
 
 1. Open up **Settings** app
@@ -25,7 +25,7 @@ Setting up your Disroot mail on SailfishOS is very easy. Just follow those simpl
 
 ![](en/sailfish_mail1.png)
 
-4. Fill in your disroot email address and password and swipe "Accept".
+4. Fill in your **disroot** email address and password and swipe "Accept".
 
 ![](en/sailfish_mail2.png)
 
@@ -38,7 +38,7 @@ Setting up your Disroot mail on SailfishOS is very easy. Just follow those simpl
 
 ![](en/sailfish_mail3.png)
 
- - **Outgoing mail server**
+ - **Outgoing mail server:**
     - Server address: **disroot.org**
     - Secure connection: **StartTLS**
     - Port: **587**

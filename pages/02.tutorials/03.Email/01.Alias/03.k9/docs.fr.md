@@ -16,6 +16,7 @@ page-toc:
 
 # Configuration
 Tout d'abord, ouvrez K9 et accédez aux paramètres de vos comptes
+
 ![](en/identity_settings.png)
 
 Dans Paramètres, allez dans l'onglet **"Envoi de courrier", tapez sur **"Gérer les identités"**.

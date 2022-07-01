@@ -13,7 +13,7 @@ page-toc:
     active: false
 ---
 
-How2 setup your chat client on your mobile:
+How to setup your chat client on your mobile:
 
 ## Clients
 - [Conversation](conversation)

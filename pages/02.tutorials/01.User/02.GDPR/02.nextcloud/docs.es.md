@@ -1,13 +1,16 @@
 ---
-title: RGDP: Nextcloud
+title: RGPD: Nextcloud
 published: true
-indexed: false
+indexed: true
+updated:
+    last_modified: "Junio, 2020"
 taxonomy:
     category:
         - docs
     tags:
-        - user
-        - rgdp
+        - usuarix
+        - nextcloud
+        - rgpd
 visible: true
 page-toc:
     active: false
@@ -17,5 +20,4 @@ page-toc:
   - [**Archivos & Notas**](files)
   - [**Contactos**](contacts)
   - [**Calendarios**](calendar)
-  - [**Noticias**](news)
   - [**Marcadores**](bookmarks)

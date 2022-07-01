@@ -26,7 +26,7 @@ Exporting your bookmark data stored on the **Disroot** cloud is very easy.
 
   ![](en/select.gif)
 
-  - Select **Settings** (on the bottom of the right sidebar) and press the **Export** button.
+  - Select **Settings** (on the bottom of the left sidebar) and press the **Export** button.
 
   ![](en/export.gif)
 

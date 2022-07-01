@@ -1,9 +1,14 @@
 ---
 title: Android
-visible: false
+published: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - android
+        - nextcloud
 visible: true
 page-toc:
      active: false

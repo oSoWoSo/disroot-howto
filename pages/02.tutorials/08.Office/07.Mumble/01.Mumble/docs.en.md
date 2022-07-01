@@ -5,7 +5,7 @@ page-toc:
     active: true
 published: true
 visible: true
-indexed: true
+indexed: false
 updated:
     last_modified: "March 2020"
     app: Mumble

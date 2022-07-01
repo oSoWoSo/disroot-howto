@@ -4,7 +4,7 @@ visible: true
 published: true
 indexed: true
 updated:
-    last_modified: "July 2019"
+    last_modified: "February 2022"
 taxonomy:
     category:
         - docs
@@ -27,11 +27,8 @@ In **Disroot** praticamente tutti i dati raccolti sono quelli forniti dall'utent
   - [File & Note](nextcloud/files)
   - [Contatti](nextcloud/contacts)
   - [Calendari](nextcloud/calendar)
-  - [News (Feed RSS)](nextcloud/news)
   - [Segnalibri](nextcloud/bookmarks)
-- [Diaspora*](diaspora)
 - [Forum (Discourse)](discourse)
 - [Board (Taiga)](taiga)
-- [Hubzilla](hubzilla)
 
 ---

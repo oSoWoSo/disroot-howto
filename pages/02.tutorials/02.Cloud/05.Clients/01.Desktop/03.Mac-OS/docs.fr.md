@@ -1,15 +1,21 @@
 ---
 title: MacOS
-visible: false
+visible: true
+published: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - desktop
+        - integration
+        - macos
 page-toc:
      active: false
 ---
 
-Ci-dessous vous pouvez apprendre comment intégrer Nextcloud avec votre périphérique MacOS
-- [Synchronisation des calendriers](calendar-syncing)
-- [Synchronisation des contacts](contact-syncing)
+# macOS Desktop clients
 
-![](macos.jpg)
+## [Synchronisation des calendriers](calendar-syncing)
+## [Synchronisation des contacts](contact-syncing)

@@ -1,12 +1,20 @@
 ---
 title: 'Application Contacts'
 published: true
+indexed: true
 visible: false
+updated:
+        last_modified: "Juillet 2019"
+        app: Nextcloud
+        app_version: 15
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - contacts
 page-toc:
-  active: true
+     active: true
 ---
 
 # Contacts

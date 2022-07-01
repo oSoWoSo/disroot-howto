@@ -1,5 +1,6 @@
 ---
 title: PrivateBin
+updated:
 page-toc:
   active: true
 published: true
@@ -7,22 +8,29 @@ visible: true
 taxonomy:
     category:
         - docs
+    tags:
+        - pastebin        
 ---
-Disroot fournit PrivateBin comme un service. Un forum de discussion en ligne minimaliste, open-source et sans connaissances. Ce qui signifie que ni le serveur ni ses administrateurs peuvent décrypter le contenu du collage.
 
-Voici quelques-unes des exemples d'utilisation:
+![](/home/icons/privatebin.png)
+PrivateBin est un pastebin en ligne minimaliste et open-source et un forum de discussion avec zéro connaissance. Cela signifie que ni le serveur ni ses administrateurs ne peuvent décrypter le contenu du pastebin.
+<br>
 
-* Partager rapidement le contenu d'un fichier texte avec n'importe qui sans avoir besoin de copier/coller un gros morceau de texte ou d'envoyer des e-mails avec le contenu.
-* Publier des informations/documents en ligne afin que d'autres personnes puissent y avoir accès.
-* Utilisation en tant que forum jetable, avec sa fonction forum
-* Envoyer de l'information à quelqu'un, via un lien url qui doit être "brûlé après lecture".
-* Envoyez à quelqu'un une copie d'un script ou un morceau de code, une note ou des informations confidentielles que vous ne voulez pas que quelqu'un d'autre voit.
+#### Qu'est-ce qu'un Pastebin?
+Un pastebin est un service d'hébergement de contenu qui vous permet de télécharger et de partager du texte en ligne.
 
-Dans ce tutoriel, nous allons vous montrer comment l'utiliser. Vous pouvez accéder à PrivateBin sur [bin.disroot.org](https://bin.disroot.org)
+**Voici quelques-unes des exemples d'utilisation**:
 
-Remarque: PrivateBin n'est pas un outil d'édition de texte collaboratif, pour cela, vous disposez de [etherpad and ethercalc](https://disroot.org/pad/)
+- Partager rapidement le contenu d'un fichier texte avec n'importe qui sans avoir besoin de copier/coller un gros morceau de texte ou d'envoyer des e-mails avec le contenu.
+- Publier des informations/documents en ligne afin que d'autres personnes puissent y avoir accès.
+- Utilisation en tant que forum jetable, avec sa fonction forum
+- Envoyer de l'information à quelqu'un, via un lien url qui doit être "brûlé après lecture".
+- Envoyez à quelqu'un une copie d'un script ou un morceau de code, une note ou des informations confidentielles que vous ne voulez pas que quelqu'un d'autre voit.
 
---------
+!! ![](/home/icons/note.png)
+!!n'est pas un outil d'édition de texte collaboratif, pour cela vous avez [Etherpad](projects_office/pads/
+
+
 # L'interface
 
 L'interface est super facile. Vous avez la zone de texte pour écrire ou coller votre texte et au-dessus, vous avez vos boutons d'option:
@@ -38,8 +46,6 @@ L'interface est super facile. Vous avez la zone de texte pour écrire ou coller 
 
 
 ![](en/privatebin01.gif)
-
-----------
 
 
 # Comment coller et partager du contenu
@@ -86,10 +92,9 @@ Lorsque vous et les gens qui le reçoivent ouvrent le lien, vous verrez des comm
 ![](en/privatebin05.gif)
 
 
-
-**Remarque:**
-Il ne s'agit pas d'un système de messagerie instantanée dans lequel une réponse apparaît automatiquement. Pour voir une réponse, vous aurez peut-être besoin de rafraîchir votre page.
-C'est un forum de discussion très simple et basique que vous pouvez utiliser pour communiquer de façon plus privée avec les autres. Personne exceptées les personnes avec qui vous avez partagé le lien (pas même les administrateurs système de Disroot) ne sera en mesure de lire votre discussion. A l'expiration du réglage, toute la conversation sera effacée sans laisser de trace.
+|![](en/note.png) **Remarque**|
+|:--:|
+|Il ne s'agit pas d'un système de messagerie instantanée dans lequel une réponse apparaît automatiquement. Pour voir une réponse, vous aurez peut-être besoin de rafraîchir votre page.<br> C'est un forum de discussion très simple et basique que vous pouvez utiliser pour communiquer de façon plus privée avec les autres. Personne exceptées les personnes avec qui vous avez partagé le lien (pas même les administrateurs système de Disroot) ne sera en mesure de lire votre discussion. A l'expiration du réglage, toute la conversation sera effacée sans laisser de trace.|
 
 ----------
 # Utiliser PrivateBin comme forum de discussion jetable

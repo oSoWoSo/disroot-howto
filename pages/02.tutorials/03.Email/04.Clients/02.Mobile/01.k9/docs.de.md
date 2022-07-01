@@ -1,8 +1,8 @@
 ---
-title: Mobile clients: K9
+title: Mobile Clients: K9
 published: true
 updated:
-        last_modified: "November 2019"
+        last_modified: "Januar 2022"
         app: K-9 Mail
         app_version: 5.600 für Android
 visible: false
@@ -22,11 +22,11 @@ page-toc:
 
 **[K9](https://de.wikipedia.org/wiki/K-9_Mail)** ist ein freier, quelloffener und funktionsreicher Mail-Client für Android. Was **FLOSS** angeht ist **K-9 Mail**, ebenso wie [**FairEmail**](/tutorials/email/clients/mobile/fairemail), sicherlich eine der beliebtesten Email-Apps für **Android**. Einige Funktionen:
 
- - Funktioniert mit IMAP, POP3 und Exchange 2003/2007
+ - Funktioniert mit IMAP, POP3 und Exchange 2003/2007 (mit WebDAV)
  - Ordner-Synchronisation
- - GPG/PGP-Verschlüsselung mit OpenKeyChain-Unterstützung
+ - GPG/PGP-Verschlüsselung mit APG/OpenKeyChain-Unterstützung
  - Signaturen
- - SD-Karten-Speicherung
+ - Datenspeicherung auf SD-Karte
 
 Wie Du Deinen Disroot-Account in K9 einrichtest, erfährst Du in diesem Tutorial.
 
@@ -58,7 +58,7 @@ Die selbe Vorgehensweise wie beim Posteingangsserver. Stell bitte sicher, dass:
  - als SMTP-Server **disroot.org**
  - als Sicherheit **STARTTLS**
  - als Port **587**
-eingetragen ist. Sieh Dir die Screenshots an oder folge den [Allgemeinen Informationen zu den Email-Einstellungen](/tutorials/email/settings).
+eingetragen sind. Sieh Dir die Screenshots an oder folge den [Allgemeinen Informationen zu den Email-Einstellungen](/tutorials/email/settings).
 
 ![](de/k9_setup_05.png) ![](de/k9_setup_06.png)
 

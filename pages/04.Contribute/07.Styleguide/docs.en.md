@@ -294,13 +294,10 @@ To make the tutorials more coherent and easier to be adapted by other groups, we
 |Lufi|**Disroot Upload**|
 |Forum/Discourse|**Disroot Forum**|
 |Etherpad|**Disroot Pad**|
-|EtherCalc|**Disroot Calc**|
 |XMPP|**Disroot Chat**|
 |Email services in general|**Disroot Email**|
 |Rainloop|**Disroot Webmail**|
-|Hubzilla Instance|**DisHub**|
 |Private Bin|**Disroot Bin**|
-|Polls|**Disroot Polls**|
 |Nextcloud:|**Disroot Cloud**|
 |Nextcloud Calendar App|**Disroot Calendar**|
 |Nextcloud Notes App|**Disroot Notes**|

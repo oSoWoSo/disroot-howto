@@ -1,18 +1,24 @@
 ---
 title: 'MacOS - Synchronisation des calendriers'
 visible: false
+updated:
+        last_modified: "3 February 2017"
+        app: MacOS
+        app_version: 10.8 - 10.11.6
 page-toc:
   active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - intégration
+        - macos
 ---
 
-_Ce tutoriel a été mis à jour pour la dernière fois le 3 févr. 2017_
-
 # But:
-** Synchroniser l'application de calendrier macOSX avec le cloud Disroot.**
+**Synchroniser l'application de calendrier macOSX avec le cloud Disroot.**
 
 Ceci vous permettra de vérifier, mettre à jour et supprimer vos événements depuis n'importe quel ordinateur avec une connexion Internet. Cela permet également de synchroniser les éléments du calendrier avec votre smartphone et/ou votre tablette. Une fois que cela fonctionnera sans problème, vous oublierez que c'est là.
 

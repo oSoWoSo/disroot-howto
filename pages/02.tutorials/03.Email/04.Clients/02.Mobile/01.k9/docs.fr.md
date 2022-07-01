@@ -2,12 +2,17 @@
 title: Android - K9
 published: true
 visible: false
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
 page-toc:
-    active: false
+    active: true
 ---
+
+# K9 pour Android
 
 [K9](https://en.wikipedia.org/wiki/K-9_Mail) est un client de messagerie indépendant et riche en fonctionnalités pour Android. Il bat n'importe quoi, y compris les applications de bureau (avis personnel). Nous vous conseillons vivement d'essayer. Quelques fonctionnalités:
 - Fonctionne avec les comptes IMAP, POP3 et Exchange 2003/2007 (avec WebDAV)
@@ -20,6 +25,7 @@ Voici comment configurer le compte de disroot sur K9.
 
 # Obtenez-le
 D'abord, **récupérez K9 sur votre téléphone**. Nous vous encourageons à utiliser le magasin [F-Droid](https://f-droid.org/) (c'est un magasin hébergeant uniquement des applications libres et open source), mais vous pouvez aussi l'obtenir via g*** store. (en plus vous pouvez obtenir la version **Material K9** ou **P=P** qui supporte GPG par défaut)
+
 # Le régler
 Une fois que vous lancez l'application pour la première fois, vous devez **créer un nouveau compte**.
 1. Remplissez l'adresse email et le mot de passe Disroot.

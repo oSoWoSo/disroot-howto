@@ -2,12 +2,15 @@
 title: RGPD: Nextcloud
 published: true
 indexed: false
+updated:
+    last_modified: "Juin 2020"
 taxonomy:
     category:
         - docs
     tags:
-        - user
-        - gdpr
+        - utilisateur
+        - email
+        - rgpd
 visible: true
 page-toc:
     active: false
@@ -17,5 +20,4 @@ page-toc:
   - [**Fichiers et Notes**](files)
   - [**Contacts**](contacts)
   - [**Calendriers**](calendar)
-  - [**News**](news)
   - [**Favoris**](bookmarks)

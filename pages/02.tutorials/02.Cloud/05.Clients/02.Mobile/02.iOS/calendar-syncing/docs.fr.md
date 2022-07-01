@@ -1,5 +1,9 @@
 ---
 title: 'iOS - Synchronisation des calendriers et des rappels'
+updated:
+        last_modified: "19 aoput 2018"
+        app: iOS
+        app_version: unknown
 visible: false
 page-toc:
   active: true
@@ -7,9 +11,11 @@ published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - sync
+        - iOS
 ---
-
-_Ce tutoriel a été mis à jour pour la dernière fois le 15 août 2018_
 
 # But :
 **Synchroniser les applications Calendrier iOS et Rappels avec Disroot cloud.**

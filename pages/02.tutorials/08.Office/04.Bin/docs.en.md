@@ -29,7 +29,7 @@ A pastebin is a content hosting service that allows you to upload and share text
 - Send someone a copy of a script or piece of code, note or confidential information you dont want anyone else to see.
 
 !! ![](/home/icons/note.png)
-!! PrivateBin is not a collaborative text editing tool, for that you have [Etherpad and EtherCalc](projects_office/pads/
+!! PrivateBin is not a collaborative text editing tool, for that you have [Etherpad](projects_office/pads/
 
 # The interface
 

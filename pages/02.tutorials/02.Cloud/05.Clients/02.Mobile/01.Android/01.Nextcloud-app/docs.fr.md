@@ -1,15 +1,20 @@
 ---
 title: 'Application Nextcloud'
 visible: false
+updated:
 page-toc:
   active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - nextcloud
+        - mobile
+        - android
 ---
 
-
+# Application mobile Nextcloud
 
 La possibilité de synchroniser, téléverser et télécharger facilement des fichiers depuis votre cloud Disroot vers votre mobile peut être très utile dans plusieurs cas.
 
@@ -17,7 +22,6 @@ Dans ce tutoriel, nous allons vous montrer comment installer et travailler avec 
 
 Cette application ne télécharge pas les fichiers dans un dossier local de votre mobile, elle affiche simplement les fichiers existants dans votre cloud. Les fichiers ne sont téléchargés que si vous les sélectionnez pour les télécharger. De cette façon, cela ne prendra pas trop de place dans votre mobile. Pour les fichiers téléchargés, si vous voulez ou non conserver une copie locale dans votre mobile, c'est votre choix.
 
-----------
 
 # Installer Nextcloud Mobile
 
@@ -25,8 +29,6 @@ Pour installer l'application sur android, nous vous recommandons d'installer l'a
 
 Les utilisateurs d'IOS devront probablement payer environ 0,99€ pour cela dans l'app store IOS.
 
-
-----------
 
 # Configuration du compte
 Une fois l'application installée, démarrez-la et connectez-vous avec vos identifiants de compte Disroot:
@@ -37,7 +39,7 @@ Une fois l'application installée, démarrez-la et connectez-vous avec vos ident
 
 ![](en/nextcloud_app_login.jpeg)
 
-----------
+
 # Interface générale
 
 L'interface générale est assez simple et facile à utiliser. Au centre, il y a vos fichiers.
@@ -60,7 +62,7 @@ Dans **Vue Grille**, vous pouvez changer la façon dont les fichiers sont affich
 
 ![](en/nextcloud_app_main2.jpeg)    
 
-----------
+
 ## Réglages généraux
 
 Dans les réglages généraux, vous pouvez:
@@ -106,7 +108,7 @@ Nextcloud sur le cloud Disroot permet de téléverser des *"fichiers cachés"*. 
 ![](en/nextcloud_app_settings3.jpeg)
 
 
-----------
+
 # Téléverser et télécharger des fichiers
 
 ## Téléverser des fichiers depuis l'application Nextcloud
@@ -131,7 +133,7 @@ Sélectionnez les fichiers que vous souhaitez télécharger par *"pression longu
 ![](en/nextcloud_app_download2.jpeg)
 
 
-----------
+
 
 ## Partager des fichiers et dossiers<a name="share"></a>
 Vous pouvez partager des fichiers ou des dossiers à n'importe qui via un lien URL de lien public ou avec d'autres personnes qui utilisent un clou basé sur le logiciel Nextcloud/OwnCloud même s'ils ne sont pas des utilisateurs Disroot (contrairement aux dropboxes et autres).
@@ -147,7 +149,7 @@ Pour partager un fichier ou un dossier avec d'autres utilisateurs Disroot ou Nex
 
 * **NOM_UTLISATEUR@SADRESSE_SERVEUR**
 
-----------
+
 # Gérer et ajouter plusieurs comptes
 Si vous avez plusieurs comptes cloud répartis sur plusieurs services utilisant Nextcloud ou Owncloud, vous pouvez les ajouter à votre application mobile.
 Appuyez sur le *"bouton hamburger"* dans le coin supérieur gauche de l'interface principale ou faites glisser le curseur vers la droite.
@@ -160,5 +162,3 @@ Vous devrez répéter le processus de configuration du compte pour le nouveau co
 
 Maintenant, pour voir les fichiers sur des comptes supplémentaires, vous devez passer d'un compte à l'autre en passant à droite et en sélectionnant un compte dans le menu.
 Si vous téléchargez des fichiers à l'aide des options de partage de votre appareil mobile, il vous sera demandé vers quel compte vous souhaitez que le fichier soit téléversé.
-
-----------

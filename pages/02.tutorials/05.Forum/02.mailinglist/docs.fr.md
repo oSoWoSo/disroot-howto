@@ -1,18 +1,27 @@
 ---
 title: Utiliser le forum comme liste de diffusion
-page-toc:
-  active: true
 published: true
-visible: false
+visible: true
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - forum
+        - discourse
+page-toc:
+    active: true
 ---
+
+# Liste de diffusion Discourse
+
 Dans ce tutoriel, nous montrerons comment Discourse peut être utilisé comme liste de diffusion pour les Collectifs/Associations/projets.
 
 Disroot, accueille principalement des groupes de discussion privés. Si vous êtes intéressé, écrivez-nous.
 
-**Remarque:** Pour pouvoir être membre d'un groupe (public ou privé), vous n'avez pas besoin d'avoir un compte Disroot. Vous pouvez créer des comptes forum seulement.
+!! [](/home/icons/note.png)
+!! Remarque: Pour pouvoir être membre d'un groupe (public ou privé), vous n'avez pas besoin d'avoir un compte Disroot. Vous pouvez créer des comptes forum seulement.
 
 ----------
 # Comment fonctionne la liste de diffusion dans Discourse
@@ -64,7 +73,7 @@ Pour en savoir plus sur comment suivre ou mettre en sourdine des catégories [ic
 
 Le nom du Groupe et des Catégories, ainsi que les alias de courriel correspondants, peuvent être ce que vous voulez (à moins qu'ils ne soient déjà pris).
 
-----------
+
 # Groupes privés / Listes de diffusion
 
 Les groupes privés/listes de diffusion fonctionnent comme décrit ci-dessus, mais comme leur nom l'indique, ils sont privés et ne peuvent être vus et accessibles que par les membres du groupe. Vous ne pouvez envoyer un courriel à ce groupe que si vous êtes membre.
@@ -88,19 +97,17 @@ Il y a deux façons d'ajouter des membres à un groupe privé:
 
 2. Les administrateurs de Disroot peuvent envoyer des invitations en masse à tous les membres en un seul instant et préconfigurer leurs comptes afin qu'ils ne reçoivent pas d' e-mails des autres groupes publics de Disroot (par exemple: Tutoriels, Support, etc.).
 
-----------
+
 # Groupes publics/liste de diffusion
 
 Les groupes publics travaillent comme décrit ci-dessus. La principale différence par rapport aux Groupes privés est ceci:
 
 Ils sont publics, et n'importe quel utilisateur du Forum peut voir ses discussions, et y poster un message via l'interface Web du Forum (ou par email si une adresse email est attribuée). Ils peuvent également être vus par les gens sur Internet, qui ne sont pas des utilisateurs du Forum et peuvent apparaître dans les résultats des moteurs de recherche comme Google.
 
-----------
+
 # Le cas des Groupes publics de Disroot
 
 Les Catégories publiques du Forum Disroot (i. e. FAQ, Features, Changelog, Main, Howto / Toturials, Open Talks, etc.) n'ont pas d'alias de courriel qui leur sont assignés, vous ne pouvez donc pas créer de sujet dans ces Catégories par courriel.
 
 Vous ne pouvez y répondre par e-mail que lorsque vous recevez un message dans votre boîte aux lettres.
 
-
-----------

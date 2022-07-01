@@ -14,43 +14,43 @@ page-toc:
     active: true
 ---
 
-# Setup Alias on Mail iOS
+# Configurer un alias dans Mail iOS
 
-First off, open **Settings** and go to **Password and Accounts** section
+Tout d'abord, ouvrez **Paramètres** et allez dans la section **Mot de passe et comptes**.
 
 ![](en/identity_settings.png)
 
-Once in **Settings**, select **Add a new account**...
+Une fois dans **Paramètres**, sélectionnez **Ajouter un nouveau compte**...
 
 ![](en/identity_settings2.png)
 
-... then **Other**...
+... puis **Autres**...
 
 ![](en/identity_settings3.png)
 
-... and finally, choose **Add Mail Account**.
+... et enfin, choisissez **Add Mail Account**.
 
 ![](en/identity_settings4.png)
 <br>
 
-On the **New Account** screen, fill in the details of your alias account (name, username, password and account description) and then click **Next**.
+Sur l'écran **Nouveau compte**, remplissez les détails de votre compte alias (nom, nom d'utilisateur, mot de passe et description du compte), puis cliquez sur **Suivant**.
 
 ![](en/identity_settings5.png)
 
-The next screen will require you to fill in the details of **IMAP** and **SMTP** servers. Leave the first fields just like they appear.
+L'écran suivant vous demandera de remplir les détails des serveurs **IMAP** et **SMTP**. Leave the first fields just like they appear.
 
 ![](en/identity_settings6.png)
 
-At **Incoming Mail Server** as well as **Outgoing Mail Server**, fill in the username of your base account (not the alias).
+Dans **Serveur de courrier entrant** ainsi que **Serveur de courrier sortant**, indiquez le nom d'utilisateur de votre compte de base (pas l'alias).
 
 ![](en/identity_settings7.png)
 
-!! NOTE:
+!! ATTENTION !
 
-!! Both for **IMAP** and **SMTP**, all details must be filled in (even though it says "optional").
+!! Pour **IMAP** et **SMTP**, tous les détails doivent être remplis (même si cela dit "facultatif").
 
-Then click on **Next**.
+Cliquez ensuite sur **Suivant**.
 
-From now on, when sending an email, you can select your alias by tapping on the "*From*" field and choosing it.
+À partir de maintenant, lorsque vous envoyez un e-mail, vous pouvez sélectionner votre alias en appuyant sur le champ "*From*" et en le choisissant.
 
 ![](en/identity_settings8.png)

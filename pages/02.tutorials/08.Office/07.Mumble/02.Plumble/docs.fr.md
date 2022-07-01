@@ -1,17 +1,21 @@
 ---
-title: 'Plumble: Mumble Android App'
+title: 'Plumble: application Android Mumble'
 updated:
 page-toc:
     active: true
 published: true
 visible: true
 indexed: true
+updated:
+    last_modified: "Mars 2020"
+    app: Plumble
+    app_version: 3.3.0
 taxonomy:
     category:
         - docs
     tags:
         - audio
-        - conference
+        - conférence
         - parler
         - plumble
 ---

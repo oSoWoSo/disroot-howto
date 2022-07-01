@@ -27,6 +27,6 @@ Exportar os seus bookmarks armazenados na cloud é muito fácil com o Disroot.
 
 ![](pt/select_app.gif)
 
-3. Selecione 'Settings' (no fundo da página à direita) e carregue no botão **"Export"**
+3. Selecione 'Settings' (no fundo da barra lateral esquerda) e carregue no botão **"Export"**
 
 ![](pt/export.gif)

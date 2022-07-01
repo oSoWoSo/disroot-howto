@@ -1,15 +1,22 @@
 ---
-title: 'Application Calendrier'
+title: 'Interface web'
 published: true
+indexed: true
 visible: false
+updated:
+        last_modified: "Mars 2022"
+        app: Nextcloud
+        app_version: 21
 taxonomy:
     category:
         - docs
+    tags:
+        - calendar
+        - cloud
 page-toc:
-  active: true
+    active: true
 ---
 
-------------
 # Utilisation de l'application Calendrier
 
 Vous pouvez accéder à votre application de calendrier en appuyant sur la touche ![](en/calendar_top_icon.png) dans la barre supérieure.

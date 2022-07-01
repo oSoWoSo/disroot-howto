@@ -14,7 +14,7 @@ page-toc:
 
 # K9 for Android
 
-**[K9](https://en.wikipedia.org/wiki/K-9_Mail)** is independent, feature-rich Free/Open Source mail client for android. Concerning **FLOSS**, **K-9 Mail**, just like [**FairEmail**](/tutorials/email/clients/mobile/fairemail), surely is one of the most popular email clients for **Android**. Some features:
+**[K9](https://en.wikipedia.org/wiki/K-9_Mail)** is an independent, feature-rich Free/Open Source mail client for android. Concerning **FLOSS**, **K-9 Mail**, just like [**FairEmail**](/tutorials/email/clients/mobile/fairemail), surely is one of the most popular email clients for **Android**. Some features:
 
  - Works with IMAP, POP3 and Exchange 2003/2007 (with WebDAV) accounts
  - Folder Sync
@@ -31,6 +31,7 @@ First of, **get K9 on your phone**. We encourage you to use [F-Droid](https://f-
 # Set it up
 
 Once you start the application for the first time, you need to **create new account**.
+
 1. **Fill in your disroot's email address and password**
 
 ![](en/android-k9_1.png)
@@ -54,7 +55,7 @@ Check the screenshot for reference or check [general server setup information](/
 ![](en/android-k9_4.png)
 
 5. **Account setting.**
-Adjust frequency with which K9 will check for new emails, and how will it notify you about them.
+Adjust frequency with which K9 will check for new emails, and how it will notify you about them.
 
 6. Lastly give your **account** a **name**.
 

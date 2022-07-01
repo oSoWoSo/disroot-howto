@@ -14,8 +14,9 @@ page-toc:
     active: true
 ---
 
-# Configuration
+# Configuration des alias sur Thunderbird
 Tout d'abord, lancez thunderbird et accédez aux paramètres du compte en cliquant avec le bouton droit de la souris sur votre compte.
+
 ![](en/identity_settings.gif)
 
 En bas à droite de la fenêtre des paramètres, vous avez le bouton de paramètres **"Gérer les identités..."**.

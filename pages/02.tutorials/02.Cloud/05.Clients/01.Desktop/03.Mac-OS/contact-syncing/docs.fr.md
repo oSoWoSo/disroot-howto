@@ -1,17 +1,21 @@
 ---
-title: 'MacOS - Synchronisation des contacts'
+title: 'MacOS et OS X- Synchronisation des contacts'
 visible: false
+updated:
+        last_modified: "28 December 2018"
+        app: MacOS
+        app_version: 10.8 - 10.14
 page-toc:
   active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - intégration
+        - macos
 ---
-
-_Ce tutoriel a été mis à jour pour la dernière fois le 11 févr. 2017_
-C'est du travail en cours. Le tutoriel ne fonctionne pas encore.
-
 
 # But:
 **Synchronisez l'application Contacts MacOSX  avec le cloud Disroot.**

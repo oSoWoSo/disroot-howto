@@ -1,11 +1,22 @@
 ---
 title: SailfishOS
+updated:
 published: true
 visible: false
+indexed: true
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - chat
+        - sailfishos
+        - xmpp
+page-toc:
+    active: false
 ---
+
+# XMPP osur SailfishOS
 
 1. **Ouvrez l'application Paramètres** et faites défiler jusqu' à "**Comptes**".
 

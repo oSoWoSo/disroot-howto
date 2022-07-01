@@ -1,13 +1,19 @@
 ---
-title: 'calendriers, contacts et tâches'
-visible: true
+title: 'caleDAVx⁵ / OpenTasks'
+visible: false
+updated:
 page-toc:
   active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - DAVx⁵
+        - android
 ---
+
+# DAVx⁵ / OpenTasks
 
 Disroot a activé les applications calendrier, contacts et tâches.
 

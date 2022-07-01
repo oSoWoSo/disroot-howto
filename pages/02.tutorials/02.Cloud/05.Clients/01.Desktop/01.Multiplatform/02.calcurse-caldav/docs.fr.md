@@ -1,19 +1,32 @@
 ---
 title: 'calcurse calendar sync'
 visible: false
+updated:
+        last_modified: "July 2019"
+        app: Calcurse
+        app_version:
 page-toc:
   active: true
 published: true
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - calcurse
+        - sync
 ---
+
+# Calcurse : Synchronisation du calendrier
 
 calcurse est "une application de calendrier et de planification pour la ligne de commande",  [d'après son site web](http://calcurse.org/).
 
-Ce tutoriel vous montre comment configurer la synchronisation entre votre calendrier Nextcloud et calcurse.
+![](en/calcurse.png)
 
-Note : ce qui suit a été testé sur GNU/Linux avec l'instance Nextcloud hébergée sur Disroot, bien qu'il devrait fonctionner sur d'autres OS de type Unix avec d'autres instances Nextcloud.
+Ce tutoriel vous montre comment configurer la synchronisation entre votre calendrier **Nextcloud** et **calcurse**.
+
+!! ![](/home/icons/note.png)
+!! NOTE : ce qui suit a été testé sur **GNU/Linux** avec l'instance **Nextcloud** hébergée sur **Disroot**, bien qu'il devrait fonctionner sur d'autres OS de type Unix avec d'autres instances **Nextcloud**.
 
 ## Avant de commencer
 

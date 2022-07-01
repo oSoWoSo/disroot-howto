@@ -3,30 +3,31 @@ title: 'Nextcloud: Exportar Marcadores'
 published: true
 indexed: true
 updated:
-    last_modified: "Julio 2019"		
+    last_modified: "Junio, 2020"		
     app: Nextcloud
-    app_version: 15
+    app_version: 18
 taxonomy:
     category:
         - docs
     tags:
-        - usuario
+        - usuarix
         - nube
         - marcadores
-        - rgdp
+        - rgpd
 visible: true
 page-toc:
     active: false
 ---
 
-Exportar la información almacenada en la nube de tus marcadores es muy sencillo con **Disroot**.
+Exportar los datos de tus marcadores almacenados en la nube de **Disroot** es muy sencillo.
 
-1. Inicia sesión en la [nube](https://cloud.disroot.org)
+  - Inicia sesión en la [nube](https://cloud.disroot.org).
+  - Selecciona la aplicación **Marcadores**.
 
-2. Selecciona la aplicación Marcadores
+  ![](es/select_app.gif)
 
-![](es/select_app.gif)
+  - Selecciona **Configuraciones** (al final de la barra lateral izquierda) y presiona el botón **Exportar**.
 
-3. Selecciona Configuración (abajo, en la barra lateral izquierda) y presiona el botón **"Export"**
+  ![](es/export.gif)
 
-![](es/export.gif)
+  - Elige dónde guardar el archivo.

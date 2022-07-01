@@ -2,10 +2,17 @@
 title: Client de messagerie iOS
 published: true
 visible: false
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
+page-toc:
+    active: false
 ---
+
+# Email sur iOS
 
 1. Ouvrez la configuration de votre appareil iOS et allez dans 'Courrier, Contacts, Calendriers'. Sélectionnez ensuite "Ajouter un compte".
 

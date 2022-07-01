@@ -1,6 +1,6 @@
 ---
-title: Office
-subtitle: "Pads, Pastebin, Mumble, Polls & File Sharing"
+title: Collaboration
+subtitle: "Office, collaborative and file sharing tools"
 icon: fa-file-text
 published: true
 taxonomy:
@@ -9,21 +9,18 @@ taxonomy:
         - topic
     tags:
         - office
-        - poll
+        - cryptpad
         - pastebin
         - file
         - sharing
+        - mumble
         - disapp
 page-toc:
     active: false
 ---
 
-# Office Tools
+# Collaborative & Office tools
 
-Disroot provide a bunch of useful web tools you may want to give them a try.
+**Disroot** offers a useful set of tools to create, organize and work collaboratively.
 
----
-
-For extra convenience, there is also a **Disroot** app that gathers all this tools and other **Disroot** services:
-
-### [DisApp](../user/disapp)
+Remember that for extra convenience, there is also an app that gathers most of these tools and other **Disroot** services: [**DisApp**](../user/disapp).

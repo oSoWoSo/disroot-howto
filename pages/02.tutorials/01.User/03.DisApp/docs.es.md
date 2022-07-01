@@ -4,24 +4,31 @@ published: true
 visible: true
 indexed: true
 updated:
-    last_modified: "Julio 2019"		
+    last_modified: "Diciembre, 2020"		
     app: DisApp
-    app_version: 1.2
+    app_version: 2.0.2
 taxonomy:
     category:
         - docs
     tags:
-        - usuario
+        - usuarix
         - disapp
 page-toc:
     active: false
 ---
 
-# La aplicación de la Comunidad de Disroot
-![](/home/icons/disapp.png)
-**Una App para controlarlas a todas**
+# DisApp:<br> La aplicación de la Comunidad de Disroot
 
+![](thumb.png)
 
-El disrooter **Massimiliano** vio el potencial de una app de **Disroot** y decidió aceptar el desafío con un abordaje inesperado. Desarrolló la **"navaja suiza" de Disroot**, una aplicación que ayuda y guía a lxs disrooters recomendando aplicaciones, consejos y tutoriales sobre cómo configurar todo. La app seleccionará el mejor programa (en nuestra opinión) para el correo, chat, etc, y para aquellos servicios que no tengan uno específico los abrirá en el navegar integrado. La aplicación también proporciona direcciones a todos los tutoriales de la comunidad, que hemos ido reuniendo a lo largo de los años, para ayudar a la gente a utilizar los servicios que proveemos.
+## **Una App para controlarlas a todas**
 
-La aplicación está disponible desde la única tienda de apps para Android verdaderamente Libre [aquí](https://f-droid.org/en/packages/org.disroot.disrootapp/).
+---
+## Contexto
+El disrooter **Massimiliano** vio el potencial de una app de **Disroot** y decidió aceptar el desafío con un abordaje inesperado. Desarrolló la **"navaja suiza" de Disroot**, una aplicación que ayuda y guía a lxs disrooters recomendando aplicaciones, consejos y tutoriales sobre cómo configurar todo.
+
+## ¿Qué hace?
+La app seleccionará el mejor programa (en nuestra opinión) para el correo, chat, etc, y para aquellos servicios que no tengan uno específico los abrirá en el navegar integrado. La aplicación también proporciona direcciones a todos los tutoriales de la comunidad, que hemos ido reuniendo a lo largo de los años, para ayudar a la gente a utilizar los servicios que proveemos.
+
+## ¿Dónde puedo conseguirla?
+La aplicación está disponible desde la tienda de apps **F-Droid**, [**aquí**](https://f-droid.org/es/packages/org.disroot.disrootapp/).

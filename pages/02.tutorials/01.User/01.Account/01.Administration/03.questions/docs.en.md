@@ -12,7 +12,7 @@ taxonomy:
         - account
         - management
 page-toc:
-    active: 
+    active:
 ---
 
 # Setup your Security Questions

@@ -3,30 +3,31 @@ title: 'Nextcloud: Exporter les Favoris'
 published: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "Juin 2020"		
     app: Nextcloud
     app_version: 15
 taxonomy:
     category:
         - docs
     tags:
-        - user
+        - utilisateur
         - cloud
-        - bookmarks
-        - gdpr
+        - favoris
+        - rgpd
 visible: true
 page-toc:
     active: false
 ---
 
-Exporter les données de vos favoris stockées sur le cloud est très facile avec **Disroot**.
+L'exportation de vos données de signets stockées sur le nuage **Disroot** est très simple.
 
-1. Connextez-vous sur [cloud](https://cloud.disroot.org)
+  - Connectez-vous au [nuage] (https://cloud.disroot.org).
+  - Sélectionnez l'application **Signet**.
 
-2. Choisissez l'application "Favoris"
+  ![](en/select.gif)
 
-![](fr/select_app.gif)
+  - Sélectionnez **Paramètres** (en bas de la barre latérale gauche) et appuyez sur le bouton **Export**.
 
-3. Choisissez Paramètres (au bas de la barre latérale gauche et cliquez sur le bouton **"Exporter"**
+  ![](en/export.gif)
 
-![](fr/export.gif)
+  - Sélectionnez l'endroit où enregistrer le fichier.

@@ -1,19 +1,19 @@
 ---
-title: "Discourse: Exporter vos posts du Forum"
+title: "Discourse: Exportez vos posts du Forum"
 published: true
 indexed: true
 updated:
-    last_modified: "July 2019"		
+    last_modified: "Juin 2020"		
     app: Discourse
     app_version: 2.3
 taxonomy:
     category:
         - docs
     tags:
-        - user
+        - utilisateur
         - forum
         - discourse
-        - gdpr
+        - rgpd
 visible: true
 page-toc:
     active: false
@@ -21,19 +21,36 @@ page-toc:
 
 **Discourse**, le logiciel utilisé par **Disroot** pour son **Forum**, vous permet d'exporter le contenu textuel de tous vos posts vers un fichier .csv (qui est supporté par la plupart des logiciels de tableurs, Libreoffice, Openoffice, Gnumeric, Excel).
 
-**Pour exporter vos posts à partir de Discourse:**
+**Pour exporter vos messages depuis Discourse :**
+- Connectez-vous dans le **Forum**
+- Cliquez sur votre avatar d'utilisateur dans le coin supérieur droit de l'écran.
+- Appuyez sur le bouton avec votre nom d'utilisateur
 
-- Cliquer sur la photo de votre avatar en haut à droite.
+  ![](en/export.gif)
 
-- Cliquer sur votre nom
+- Appuyez sur le bouton **Télécharger tout**.
 
-- CLiquer sur *"Télécharger mes Posts"*
+  ![](en/download_1.png)
 
-- Confirmer en cliquant sur *Oui*
+- Une fenêtre pop-up apparaîtra pour vous demander si vous voulez télécharger vos messages, puis appuyez sur **OK**.
 
-**NOTE:** Comme vous le voyez ci-dessous dans le fichier video, vos données ne peuvent être téléhargées qu'une seule fois par 24h.
+  ![](en/download_2.png)
 
-![](fr/export_data_discourse_01.gif)
+- Le système commencera à traiter vos données et vous enverra une notification lorsqu'elles seront prêtes à être téléchargées.
 
-Vous recevrez un message système vous avertissant que les données sont prêtes à être téléchargées et vous indiquant un lien de téléchargement.
-Si vous avez activé les notifications par email, vous recevrez cette information par email, ainsi que le lien de téléchargement.
+  [ ](en/download_3.png)
+
+  ![](en/notification.png)
+
+- Vous recevrez un message du système vous informant que les données sont prêtes à être téléchargées et vous fournissant un lien pour télécharger le fichier .csv avec une copie de vos messages. Si vous avez activé les notifications par e-mail, vous recevrez également un e-mail contenant ces informations.
+
+- Cliquez sur le lien pour télécharger le fichier.
+
+  ![](en/notification_2.png)  
+
+- Le lien sera disponible pendant 48h, après quoi il expirera et vous devrez exporter vos données à nouveau.
+
+- Une fois que vous avez extrait le fichier, vous pouvez l'ouvrir dans votre tableur.
+
+
+**NOTE** : Les données ne peuvent être téléchargées qu'une fois par 24h

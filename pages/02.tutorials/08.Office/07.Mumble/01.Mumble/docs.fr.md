@@ -15,8 +15,8 @@ taxonomy:
         - docs
     tags:
         - audio
-        - conference
-        - talking
+        - conférence
+        - parler
         - mumble
 ---
 

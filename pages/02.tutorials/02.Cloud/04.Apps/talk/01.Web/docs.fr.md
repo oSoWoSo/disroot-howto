@@ -1,13 +1,23 @@
 ---
-title: 'Appeler avec Spreed'
+title: 'Talk: Web'
 published: true
 visible: false
+updated:
+        last_modified: "Juillet 2019"
+        app: Nextcloud
+        app_version: 15
 taxonomy:
     category:
         - docs
+    tags:
+        - cloud
+        - talk
+        - appel
 page-toc:
      active: false
 ---
+
+# Nextcloud Talk
 
 Depuis janvier 2017, nous avons introduit des appels spreed dans notre cloud. Il s'agit d'une application de conférence audio/vidéo très simple que vous pouvez utiliser pour communiquer non seulement avec d'autres utilisateurs disroot, mais aussi avec toute personne qui a un ordinateur connecté à Internet et un navigateur web à jour et supportant la technologie WebRTC.
 
