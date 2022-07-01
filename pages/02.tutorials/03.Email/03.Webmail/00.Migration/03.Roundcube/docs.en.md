@@ -1,12 +1,9 @@
 ---
-title: 'Roundcube: Importing contacts and emails'
+title: 'Roundcube: Importing contacts'
 published: true
 visible: true
 indexed: true
 updated:
-        last_modified: "April, 2021"
-        app: Roundcube Webmail
-        app_version: 1.4.4
 taxonomy:
     category:
         - docs
@@ -16,4 +13,14 @@ page-toc:
     active: true
 ---
 
-# Importing contacts and emails into Roundcube
+# Importing contacts into Roundcube
+To import the addressbook previously saved:
+1. access to the webmail;
+2. select the **Contacts** tab and then
+3. click on the **Import** button at the top right bar;
+4. select the file from your machine, click **Import** and finally **Close**.
+
+    ![](en/import_contacts.gif)
+
+
+\O/ Done!

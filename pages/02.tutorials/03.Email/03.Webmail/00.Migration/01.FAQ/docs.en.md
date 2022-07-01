@@ -4,9 +4,6 @@ published: true
 visible: true
 indexed: true
 updated:
-        last_modified: "July, 2022"
-        app: Roundcube Webmail
-        app_version: 1.16.0
 taxonomy:
     category:
         - docs
@@ -31,7 +28,7 @@ No, this migration shouldn't affect your phone or email client setup.
 In the same way that you usually access webmail.
 
 ## What will happen to my emails and contacts?
-All your emails and contacts will be automatically transferred into **Roundcube**. But if you experience any missing data, please contact support.
+All your emails and contacts will be automatically transferred into **Roundcube**. Anyway, we strongly suggest you to backup your contacts. In this guide you can find how to do it.
 
 ## Can I switch back to the previous webmail?
 No, you cannot.

@@ -32,10 +32,10 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
 
 # Table of Contents
 
-# [SnappyMail to Roundcube Migration Guide](migration)
-  - [Roundcube Migration FAQ](migration/faq)
-  - [SnappyMail: Exporting contacts and emails](migration/snappy)
-  - [Roundcube: Importing contacts](migration/roundcube)
+# [Migration Guide](migration)
+  - [Migration FAQ](migration/faq)
+  - [Backing up your contacts](migration/backup)
+  - [Roundcube: importing contacts](migration/roundcube)
 
 # [Roundcube](roundcube)
 ## [01. Getting started](roundcube/getting_started)
