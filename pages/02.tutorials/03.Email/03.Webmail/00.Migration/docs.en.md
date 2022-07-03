@@ -27,5 +27,4 @@ Let's get started...
 
 # Table of Contents
 ##  1. [Migration FAQ](faq)
-##  2. [Backing up your contacts](backup)
-##  3. [Roundcube: importing contacts](roundcube)
+##  2. [Backup/export and import your contacts](backup)

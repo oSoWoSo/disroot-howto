@@ -45,14 +45,31 @@ In addition to creating, printing or deleting a contact you can do some other op
 
 ![Search](en/search.png) Search for a contact based on certain criteria.
 
-![Import](en/import.png) You can import contacts from an existing address book. Webmail currently support importing addresses from the vCard or CSV (comma-separated) data format.
+![Import](en/import.png) You can import contacts from an existing address book. Webmail currently support importing addresses from the vCard or CSV (comma-separated) data format (see below for more details).
 
-![Export](en/export.png) You can export all the contacts from a directory or group, only some or even just one to a vcf file.
+![Export](en/export.png) You can export all the contacts from a directory or group, only some or even just one to a vcf file (see below for more details).
 
 ![More](en/more.png) From here you can generate a **QR** code from the data of a selected contact (which you can use to, for example, transfer a contact from the webmail to the mobile) and assign/remove it from a contact group.
 
-## Importing contacts
+## Importing /exporting contacts
+To import an existing previously saved addressbook:
 
+1. click on the **Import** button,
+2. select the file on your computer,
+3. check the import options (they are self-explanatory), and finally
+4. click on **Import** to finish.
+
+    ![](en/rc_import.gif)
+
+
+Now, to export an addressbook, a group or a single contact, is a similar process:
+
+1. Click on the **Export** button;
+2. select **Export all** to download all your contacts, or **Export selected** to download one or more contacts instead of the entire addressbook;
+3. select where to save the file and finally
+4. click on **Save**.
+
+   ![](en/rc_export.gif)
 
 ## Address book
 Now that we have seen the contacts, let's take a look at the address book which is - precisely - a collection or group of contacts. The first time you open your address book, it is probably empty, unless you have already been using your **Disroot** account and had some contacts and groups organized before.

@@ -34,8 +34,7 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
 
 # [Migration Guide](migration)
   - [Migration FAQ](migration/faq)
-  - [Backing up your contacts](migration/backup)
-  - [Roundcube: importing contacts](migration/roundcube)
+  - [Backup/export and import your contacts](migration/backup)
 
 # [Roundcube](roundcube)
 ## [01. Getting started](roundcube/getting_started)
