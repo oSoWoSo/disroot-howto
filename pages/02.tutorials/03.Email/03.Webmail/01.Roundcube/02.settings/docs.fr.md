@@ -40,6 +40,3 @@ page-toc:
 ## [04. réponses](04.responses)
 ## [05. Filtres](05.filters)
 ## [06. Détails du compte](06.account_details)
-## [07. Authentification à deux facteurs](07.2fa)
-  - Activer l'authentification à deux facteurs
-  - Connectez-vous lorsque l'authentification à deux facteurs est activée.

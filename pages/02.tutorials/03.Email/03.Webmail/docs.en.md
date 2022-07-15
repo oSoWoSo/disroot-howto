@@ -60,9 +60,6 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
   - [04. Responses](roundcube/settings/responses)
   - [05. Filters](roundcube/settings/filters)
   - [06. Account details](roundcube/settings/account_details)
-  - [07. Two Factor Authentication](roundcube/settings/2fa)
-    - Activate Two Factor Authentication
-    - Log in when Two Factor Authentication is activated
 
 ## [03. Email](roundcube/email)
   - Composing an email

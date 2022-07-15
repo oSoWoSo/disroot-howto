@@ -43,9 +43,6 @@ page-toc:
   - [04. Responses](settings/responses)
   - [05. Filters](settings/filters)
   - [06. Account details](settings/account_details)
-  - [07. Two Factor Authentication](settings/2fa)
-    - Activate Two Factor Authentication
-    - Log in when Two Factor Authentication is activated
 
 ## [03. Email](email)
   - Composing an email

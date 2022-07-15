@@ -57,9 +57,6 @@ Grâce au tutoriel suivant, nous allons apprendre à utiliser **Roundcube** et �
   - 04. réponses](Roundcube/02.settings/04.responses)
   - 05. filtres](Roundcube/02.settings/05.filters)
   - 06. Détails du compte](Roundcube/02.settings/06.account_details)
-  - 07. authentification à deux facteurs](Roundcube/02.settings/07.2fa)
-    - Activer l'authentification à deux facteurs
-    - Se connecter lorsque l'authentification à deux facteurs est activée.
 
 ## [03. Courriel](Roundcube/03.email)
   - Composer un e-mail
