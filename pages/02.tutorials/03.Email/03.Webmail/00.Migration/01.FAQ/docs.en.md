@@ -33,7 +33,7 @@ All your emails and contacts will be automatically transferred into **Roundcube*
 ## Can I switch back to the previous webmail?
 No, you cannot.
 
-## My contacts and emails did not migrate, what should I do?
-First of all, don't panic. If your contacts and emails did not migrate, please contact us and we fix it.
+## My contacts did not migrate, what should I do?
+First of all, don't panic. If your contacts did not migrate, please contact us and we fix it.
 
 **Finally, if you notice anything unusual, have questions or suggestions, please contact us at support**
