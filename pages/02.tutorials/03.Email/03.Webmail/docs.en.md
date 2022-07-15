@@ -3,17 +3,13 @@ title: Disroot Webmail
 published: true
 visible: true
 indexed: true
-updated:
-        last_modified: "April 2020"
-        app: Roundcube Webmail
-        app_version: 1.4.2
 taxonomy:
     category:
         - docs
     tags:
         - email
 page-toc:
-    active: false
+    active: true
 ---
 
 # Disroot Webmail
@@ -23,10 +19,12 @@ A webmail, or web-based email, is an email service that can be accessed using th
 **Disroot** webmail solution is powered by **Roundcube**.
 
 
-![](logo.png)
+![](roundcube/rc_logo.png)
 
 # What is Roundcube?
 Roundcube is a free and open source webmail software that provides all the functionalities you would expect from an email client: full support for MIME and HTML messages, multiple sender identities, address book with groups and LDAP connectors, threaded message listing, spell checking, support for access control lists (ACL), import/export functions and support for PGP encryption among many other features.
+
+**[[Roundcube Site](https://roundcube.net/)] | [[Source code](https://github.com/roundcube/roundcubemail/)]**
 
 Through the following tutorial, we will learn how to use **Roundcube** and get to know its features.
 
@@ -34,12 +32,17 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
 
 # Table of Contents
 
-## [01. Getting started](Roundcube/01.getting_started)
+# [Migration Guide](migration)
+  - [Migration FAQ](migration/faq)
+  - [Backup/export and import your contacts](migration/backup)
+
+# [Roundcube](roundcube)
+## [01. Getting started](roundcube/getting_started)
   - Overview
   - Tasks and basic operations
 
-## [02. Settings](Roundcube/02.settings)
-  - [01. Preferences](Roundcube/02.settings/01.preferences)
+## [02. Settings](roundcube/settings)
+  - [01. Preferences](roundcube/settings/preferences)
     - User interface
     - Mailbox view
     - Displaying messages
@@ -49,22 +52,23 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
     - Server settings
     - Deleting old messages
     - Message highlights
-  - [02. Folders](Roundcube/02.settings/02.folders)
-  - [03. Identities](Roundcube/02.settings/03.identities)
+  - [02. Folders](roundcube/settings/folders)
+  - [03. Identities](roundcube/settings/identities)
     - Default identity
     - Add other identities / aliases
     - Sending an email with another identity
-  - [04. Responses](Roundcube/02.settings/04.responses)
-  - [05. Filters](Roundcube/02.settings/05.filters)
-  - [06. Account details](Roundcube/02.settings/06.account_details)
-  - [07. Two Factor Authentication](Roundcube/02.settings/07.2fa)
+  - [04. Responses](roundcube/settings/responses)
+  - [05. Filters](roundcube/settings/filters)
+  - [06. Account details](roundcube/settings/account_details)
+  - [07. Two Factor Authentication](roundcube/settings/2fa)
     - Activate Two Factor Authentication
     - Log in when Two Factor Authentication is activated
 
-## [03. Email](Roundcube/03.email)
+## [03. Email](roundcube/email)
   - Composing an email
 
-## [04. Contacts](Roundcube/04.contacts)
+## [04. Contacts](roundcube/contacts)
   - Contacts lists
+  - Importing contacts
   - Address book
   - Groups
