@@ -17,7 +17,9 @@ page-toc:
 
 ![](thumb.png)
 
-From "date" the **Disroot** webmail solution will be **Roundcube** and the current one (**SnappyMail**) will be discontinued.
+As of July 16th the **Disroot** webmail solution is **Roundcube** while **SnappyMail** will be discontinued.
+
+Until September 1st, both webmail clients will be available to give everyone time to make the transition, after that date only Roundcube will be accesible.
 
 Although you should not have any issues with the transition, we strongly suggest that you previously make a backup of your contacts. Below you will find a brief step-by-step guide to help you do it without problems.
 
