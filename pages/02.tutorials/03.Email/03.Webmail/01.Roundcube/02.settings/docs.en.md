@@ -34,6 +34,3 @@ page-toc:
 ## [04. Responses](04.responses)
 ## [05. Filters](05.filters)
 ## [06. Account details](06.account_details)
-## [07. Two Factor Authentication](07.2fa)
-  - Activate Two Factor Authentication
-  - Log in when Two Factor Authentication is activated
