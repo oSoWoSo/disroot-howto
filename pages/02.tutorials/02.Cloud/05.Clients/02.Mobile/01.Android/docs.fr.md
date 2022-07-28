@@ -14,10 +14,13 @@ page-toc:
      active: false
 ---
 
-Ci-dessous vous pouvez apprendre comment intégrer nextcloud avec votre appareil Android.
+# Android : Clients et intégration de Nextcloud
 
-- [Application Nextcloud](nextcloud-app)
-- [Synchronisation des calendriers, contacts et tâches](calendars-contacts-and-tasks)
-- [Synchronisation des actualités](using-news)
-- [Synchronisation des notes](Using-notes)
-![](android.jpg)
+## [Application Nextcloud](nextcloud-app)
+Configuration et utilisation de l'application Nextcloud avec un compte Disroot.
+
+## [DAVx⁵](calendriers-contacts-et-tâches)
+Comment synchroniser les calendriers, les contacts et les tâches.
+
+## [Migration des contacts dans Android](migrating-contacts-from-google)
+Comment migrer les contacts de Google vers Nextcloud ?
