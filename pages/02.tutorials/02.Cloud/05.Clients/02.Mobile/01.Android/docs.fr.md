@@ -19,7 +19,7 @@ page-toc:
 ## [Application Nextcloud](nextcloud-app)
 Configuration et utilisation de l'application Nextcloud avec un compte Disroot.
 
-## [DAVx⁵](calendriers-contacts-et-tâches)
+## [DAVx⁵](calendars-contacts-and-tasks)
 Comment synchroniser les calendriers, les contacts et les tâches.
 
 ## [Migration des contacts dans Android](migrating-contacts-from-google)
