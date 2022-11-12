@@ -16,7 +16,7 @@ page-toc:
 
 # Email Aliases
 
-Once you requested email aliases using this [form](https://disroot.org/en/forms/alias-request-form), you'll need to set them up. Below you can find how to do it on various email clients.
+Below you can find how to do set them up on various email clients.
 
 - [Webmail](webmail)
 - [Thunderbird](thunderbird)

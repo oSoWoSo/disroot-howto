@@ -18,7 +18,7 @@ page-toc:
 
 # Email-Aliase
 
-Nachdem Du mit diesem [Formular](https://disroot.org/de/forms/alias-request-form) Aliase beantragt (und genehmigt bekommen) hast, musst Du sie noch einrichten. In diesem Bereich erklären wir Dir, wie Du das bei verschiedenen Email-Clients tun kannst.
+In diesem Bereich erklären wir Dir, wie Du ein Alias bei verschiedenen Email-Clients einrichten kannst.
 
 - [Webmail](webmail)
 - [Thunderbird](thunderbird)

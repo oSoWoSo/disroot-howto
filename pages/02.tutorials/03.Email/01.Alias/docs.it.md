@@ -16,7 +16,7 @@ page-toc:
 
 # Alias di posta elettronica
 
-Dopo aver richiesto gli alias email utilizzando questo [modulo](https://disroot.org/en/forms/alias-request-form), dovrai configurarli. Di seguito puoi trovare come farlo su vari client di posta elettronica. 
+Di seguito puoi trovare come gestire gli alias attraverso alcuni client di posta elettronica. 
 
 - [Webmail](webmail)
 - [Thunderbird](thunderbird)
