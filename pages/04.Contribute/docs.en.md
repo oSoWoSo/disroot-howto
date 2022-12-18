@@ -1,5 +1,5 @@
 ---
-title: How-to: Contribute
+title: How-to Contribute
 published: true
 visible: true
 updated:
@@ -14,15 +14,21 @@ page-toc:
 
 # Contribute
 
-We think that knowledge is a collective construction. In other words, knowledge is the result of working together and cooperatively, as a community.
+![](contribute.jpg)
 
-Disroot platform cost money besides our most precious value: time. While the costs of maintaining all the services working on started being covered a few months ago thanks to donations, documentation requires time.
-*"A lot of precious time..."*
+We think that knowledge is a collective construction: the result of working together and cooperatively, as a community. And whether the contributions take the form of a donation, writing/translating a tutorial or reporting bugs, they are all essentially personal time devoted to others. A bit like love.
 
-For those users who may want to contribute to Disroot by donating their time and knowhow, we've tried to channel all the efforts through this section.
+The main goal of this part of the **Disroot** project is to provide clear and accessible information about how to use and configure the services we offer and, moreover, to do so in as many languages as possible.
+It consists mostly of guides and tutorials that evolve as the software does. So we are always looking for help to check, write and translate howtos.
+
+So, for those of you who may want to contribute by donating your time and knowhow, we have tried to channel all the efforts through this section.
+
 Here you'll find basic information and guidelines for different ways to contribute, from feedback to write a how-to or translate them to your language.
 
-Thanks to all of you who support and collaborate with Disroot.
+---
 
+# Table of Contents
 
-![](contribute.png)
+## · [Howto Procedure & Tools](procedure)
+## · [Git: Configuration & set-up](git)
+## · [Working with a text editor](git/editors)
