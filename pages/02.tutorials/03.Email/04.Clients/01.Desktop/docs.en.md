@@ -24,6 +24,7 @@ page-toc:
 
 ## GNU/Linux
 - [Mutt](mutt)
+- [Emacs-Mu4e](emacs-mu4e)
 
 
 ## GNU/Linux: Email desktop integration
