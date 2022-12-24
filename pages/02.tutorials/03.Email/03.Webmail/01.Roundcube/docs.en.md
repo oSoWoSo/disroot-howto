@@ -51,3 +51,5 @@ page-toc:
   - Contacts lists
   - Address book
   - Groups
+
+## [05. Encryption](encryption)

@@ -69,3 +69,5 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
   - Importing contacts
   - Address book
   - Groups
+
+## [05. Encryption](roundcube/encryption)
