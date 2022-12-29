@@ -5,7 +5,7 @@ WEB_NAME="howto.disroot.lan"
 WEB_ROOT="/var/www/"
 WWW_USER="www-data"
 YAML="/var/www/howto.disroot.lan/user/config/system.yaml"
-GRAV_VERSION="1.6.18"
+GRAV_VERSION="1.7.26"
 
 # Provisioning actions
 
