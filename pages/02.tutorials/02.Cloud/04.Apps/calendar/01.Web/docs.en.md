@@ -65,7 +65,7 @@ In this panel you can specify:
 
 ![](en/calendar_edit_menu2.png)
 
-If you have multiple calendars, in your Disroot calendar app, you need to select to which calendar the event goes to. You can do that below the event title field. You can find these information by cliking on "more".
+If you have multiple calendars, in your Disroot calendar app, you need to select to which calendar the event goes to. You can do that below the event title field. You can find these information by clicking on "more".
 
 ![](en/calendar_edit_menu3.png)
 
@@ -97,7 +97,7 @@ The people you invite will receive an automaticly generated email with the invit
 
 ## Edit or delete events
 To edit or delete an event you've created, just click the event on your screen, edit it and then press "update".
-To delete it, you will find the botton on the top on the right.
+To delete it, you will find the button on the top on the right.
 
 ![](en/calendar_edit_menu8.png)
 
