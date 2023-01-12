@@ -29,7 +29,7 @@ Questa breve procedura ti mostrerà come inoltrare le tue e-mail **Disroot** al 
 
 ## Passaggi necessari per inoltrare la tua posta
 
-1. **Entra nella webmail** [(https://mail.disroot.org)](https://mail.disroot.org)
+1. **Entra nella webmail** [(https://webmail.disroot.org)](https://webmail.disroot.org)
 
 
 ![](en/login.jpg)

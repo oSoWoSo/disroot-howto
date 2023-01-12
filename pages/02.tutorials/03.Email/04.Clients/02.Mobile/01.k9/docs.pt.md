@@ -33,7 +33,7 @@ Quando abre a aplicação pela primeira vez terá que carregar em "seguinte" e d
 ![](pt/android-k9_21.png)
 
 3. **Definições de entrada do servidor**
-Veja as suas definições de email e faça os ajustes necessários, (a única coisa que deve alterar é *mail.disroot.org* para **disroot.org**). Veja a captura de ecrã neste tutorial ou então as [informações gerais de configuração do email.](/tutorials/email/settings)
+Veja as suas definições de email e faça os ajustes necessários, (a única coisa que deve alterar é *imap.disroot.org* para **disroot.org**). Veja a captura de ecrã neste tutorial ou então as [informações gerais de configuração do email.](/tutorials/email/settings)
 
 ![](pt/android-k9_3.png)
 

@@ -28,7 +28,7 @@ Esta breve guía, te mostrará cómo reenviar tus correos de **Disroot** a tu di
 
 ## Pasos necesarios para reenviar tu correo
 
-1. **Inicia sesión en el webmail** (https://mail.disroot.org)
+1. **Inicia sesión en el webmail** [(https://webmail.disroot.org)](https://webmail.disroot.org)
 
 
 ![](en/login.jpg)

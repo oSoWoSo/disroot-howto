@@ -28,7 +28,7 @@ This short how-to will show you how to forward your **Disroot** emails to your p
 
 ## Steps needed to forward your mail
 
-1. **Login to webmail** [(https://mail.disroot.org)](https://mail.disroot.org)
+1. **Login to webmail** [(https://webmail.disroot.org)](https://webmail.disroot.org)
 
 
 ![](en/login.jpg)

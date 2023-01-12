@@ -29,7 +29,7 @@ Dieses kurze Tutorial soll Dir zeigen, wie Du Deine **Disroot**-Emails an Deine 
 
 ## Notwendige Schritte zur Weiterleitung Deiner Emails
 
-1. **In Webmail anmelden** [(https://mail.disroot.org)](https://mail.disroot.org)
+1. **In Webmail anmelden** [(https://webmail.disroot.org)](https://webmail.disroot.org)
 
 
 ![](de/email_forward_01.png)

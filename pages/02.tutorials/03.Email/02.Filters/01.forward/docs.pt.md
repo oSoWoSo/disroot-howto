@@ -27,7 +27,7 @@ Neste pequeno tutorial gostaríamos de lhe mostrar como pode reencaminhar automa
 
 ## Passos necessários para reencaminhar automaticamente o seu email
 
-1 - **Fazer login no [webmail](https://mail.disroot.org)**
+1 - **Fazer login no** [(https://webmail.disroot.org)](https://webmail.disroot.org)
 
 
 ![](en/login.jpg)

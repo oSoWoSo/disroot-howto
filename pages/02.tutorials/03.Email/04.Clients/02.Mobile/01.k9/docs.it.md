@@ -40,7 +40,7 @@ Dopo aver avviato l'applicazione per la prima volta, devi **creare un nuovo acco
 ![](en/android-k9_2.png)
 
 3. **Configurazione e-mail in arrivo**
-Guarda le impostazioni della posta e regolalo di conseguenza. (l'unica cosa che dovresti cambiare è *mail.disroot.org* in **disroot.org**). Controlla lo screenshot o segui le [informazioni generali sulla configurazione del server.](/tutorials/email/settings)
+Guarda le impostazioni della posta e regolalo di conseguenza. (l'unica cosa che dovresti cambiare è *imap.disroot.org* in **disroot.org**). Controlla lo screenshot o segui le [informazioni generali sulla configurazione del server.](/tutorials/email/settings)
 ![](en/android-k9_3.png)
 
 4. **Configurazione e-mail in uscita**

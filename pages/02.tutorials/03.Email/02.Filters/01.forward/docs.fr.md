@@ -29,7 +29,7 @@ Dans ce court guide je voudrais vous montrer comment rediriger vos mails de Disr
 
 ## Étapes à suivre pour faire suivre votre courrier
 
-1. **Connectez-vous au webmail** (https://mail.disroot.org)
+1. **Connectez-vous au webmail** [(https://webmail.disroot.org)](https://webmail.disroot.org)
 
 
 ![](en/login.jpg)

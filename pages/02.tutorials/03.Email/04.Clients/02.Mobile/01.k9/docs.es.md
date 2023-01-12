@@ -33,7 +33,7 @@ Una vez que inicias la aplicación por primera vez, necesitas crear **una nueva 
 ![](es/android-k9_2.png)
 
 **3.-** **Configuración de correo Entrante**<br>
-Mira las configuraciones de correo y modifícalas según corresponda (lo único que deberías cambiar es *mail.disroot.org* a **disroot.org**).<br>
+Mira las configuraciones de correo y modifícalas según corresponda (lo único que deberías cambiar es imap.disroot.org* a **disroot.org**).<br>
 Observa la captura o sigue la información de [configuración general del servidor](/tutorials/email/settings).
 
 ![](es/android-k9_3.png)
