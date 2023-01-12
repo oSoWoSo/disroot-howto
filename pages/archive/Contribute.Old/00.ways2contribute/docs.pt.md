@@ -25,9 +25,6 @@ Podes trabalhar a partir de um texto colaborativo online, escrevendo e modifican
 #### [EMAIL](/contribute/email)
 Podes escrever ou modificar um tutorial da maneira que quiseres e enviá-lo para nós via email. Se tiveres feedback acerca dos tutoriais também podes comunicar connosco via email.<br><br>**Nível técnico necessário**: Básico.
 
-#### [FORUM](/contribute/forum)
-Podes publicar, partilhar um tutorial, fazer sugestões, dar feedback e etc, através do Fórum. <br><br>**Nível técnico necessário**: Básico.
-
 #### [XMPP](/contribute/xmpp)
 Podes comunicar connosco no nosso grupo online de tutoriais do **Disroot** no XMPP.<br><br>**Nível técnico necessário**: Muito Básico.
 

@@ -35,6 +35,4 @@ Nous n'avons aucun intérêt dans l'acquisition et la collecte de données suppl
   - [Contacts](nextcloud/contacts)
   - [Calendriers](nextcloud/calendar)
   - [Favoris](nextcloud/bookmarks)
-- [03. Forum (Discourse)](discourse)
-- [04. Board (Taiga)](taiga)
-- [05. Git (Gitea)](git)
+- [03. Git (Gitea)](git)

@@ -26,9 +26,6 @@ Du kannst an einer gemeinschaftlichen Online-Textdatei arbeiten, ein How-to schr
 #### [EMAIL](/contribute/email)
 Du kannst ein How-to auf die von Dir gewünschte Art und Weise schreiben oder verändern und uns eine Email mit der fertigen Arbeit schicken. Wenn Du Vorschläge oder Feedback zu den How-to loswerden möchtest, kannst Du ebenfalls auf diesem Weg mit uns in Kontakt treten. <br><br>**erforderliche Technikkenntnisse**: Anfänger.
 
-#### [FORUM](/contribute/forum)
-Über das Forum kannst Du ein How-to hochladen, schreiben oder teilen und außerdem Vorschläge machen, uns ein Feedback geben, etc. <br><br>**erforderliche Technikkenntnisse**: Anfänger.
-
 #### [XMPP](/contribute/xmpp)
 Du kannst über unsere **Disroot** How-To Gruppe mit uns kommunizieren.<br><br>**erforderliche Technikkenntnisse**: Absoluter Anfänger.
 

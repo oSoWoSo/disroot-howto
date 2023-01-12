@@ -25,9 +25,6 @@ Vous pouvez travailler sur un fichier texte collaboratif en ligne, en rédigeant
 #### [EMAIL](/contribute/email)
 Vous pouvez écrire ou modifier un mode d'emploi comme vous le souhaitez, et nous envoyer un courriel avec le travail terminé. Si vous avez des suggestions ou des commentaires sur les H2, vous pouvez également communiquer avec nous par ce biais. <br><br>**Niveau technique requis** : Basique.
 
-#### [FORUM](/contribute/forum)
-Grâce au forum, vous pouvez télécharger, rédiger ou partager un mode d'emploi, mais aussi faire des suggestions, nous donner votre avis, etc. <br><br>**Niveau technique requis** : Basique.
-
 #### [XMPP](/contribute/xmpp)
 Vous pouvez communiquer avec nous sur notre salle XMPP How-To **Disroot**.<br><br>**Niveau technique requis** : très basique.
 

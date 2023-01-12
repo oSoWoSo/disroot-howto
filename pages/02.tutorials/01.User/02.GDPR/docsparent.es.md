@@ -36,8 +36,6 @@ Este capítulo contiene tutoriales que te ayudarán a obtener toda tu informaci�
   - [Contactos](nextcloud/contacts)
   - [Calendarios](nextcloud/calendar)
   - [Marcadores](nextcloud/bookmarks)
-- [03. Foro (Discourse)](discourse)
-- [04. Tablero (Taiga)](taiga)
-- [05. Git (Gitea)](git)
+- [03. Git (Gitea)](git)
 
 ---

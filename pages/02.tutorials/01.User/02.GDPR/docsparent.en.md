@@ -36,8 +36,6 @@ This chapter includes tutorials that will help you get all the data stored on se
   - [Contacts](nextcloud/contacts)
   - [Calendars](nextcloud/calendar)
   - [Bookmarks](nextcloud/bookmarks)
-- [03. Forum (Discourse)](discourse)
-- [04. Board (Taiga)](taiga)
-- [05. Git (Gitea)](git)
+- [03. Git (Gitea)](git)
 
 ---

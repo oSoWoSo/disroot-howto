@@ -35,8 +35,6 @@ page-toc:
   - [Контакты](nextcloud/contacts)
   - [Календари](nextcloud/calendar)
   - [Закладки](nextcloud/bookmarks)
-- [03. Форум (Discourse)](discourse)
-- [04. Проекты (Taiga)](taiga)
-- [05. Git (Gitea)](git)
+- [03. Git (Gitea)](git)
 
 ----

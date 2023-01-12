@@ -25,9 +25,6 @@ You can work on an online collaborative text file, writing or modifying a how-to
 #### [EMAIL](/contribute/email)
 You can write or modify a how-to the way you want, and send us an email with the finished work. If you have suggestions or feedback on the H2s you could also communicate with us by this mean. <br><br>**Technical level required**: Basic.
 
-#### [FORUM](/contribute/forum)
-Through the forum you can upload, write or share a how-to and also make suggestions, give us feedback, etc. <br><br>**Technical level required**: Basic.
-
 #### [XMPP](/contribute/xmpp)
 You can communicate with us at our **Disroot** How-To's XMPP Room.<br><br>**Technical level required**: very basic.
 
