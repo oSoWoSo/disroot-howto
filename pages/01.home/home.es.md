@@ -10,11 +10,14 @@ content:
     pagination: true
 ---
 
-### Bienvenidxs al sitio de Guías y Tutoriales de Disroot.
+### Les damos la bienvenida al sitio de Guías y Tutoriales de Disroot.
 
-El objetivo principal de este sitio es orientarte a través de los varios servicios de **Disroot**.
+El objetivo principal de este sitio es orientarles a través de los varios servicios de **Disroot**.
 
-Cubrir todos los servicios, con todas las características provistas por **Disroot**, para todas las plataformas y/o Sistemas Operativos es un proyecto muy ambicioso, que demanda mucho tiempo y requiere mucho trabajo. Y como pensamos que puede ser beneficioso no solo para nuestrxs usuarixs (disrooters) sino para todas las comunidades de **Software Libre** y de **Código Abierto** que use los mismos programas o similares, toda ayuda de lxs disrooters es siempre necesaria y bienvenida.<br>
-Así que, si piensas que falta un tutorial, que la información no es correcta o puede mejorarse, por favor, contáctanos o (mejor aún) empieza a escribir una guía o tutorial tú mismx.<br>
+Aspiramos a cubrir todos los servicios, con todas las características provistas por **Disroot**, para todas las plataformas y/o Sistemas Operativos así como también para el mayor número posible de clientes de los dispositivos más ampliamente utilizados.
 
-Para conocer las diferentes maneras en que puedes contribuir, por favor, revisa esta [sección](/contribute).
+Es un proyecto muy ambicioso, que demanda mucho tiempo y requiere mucho trabajo. Pero como pensamos que puede ser beneficioso no solo para las personas usuarias de nuestros servicios (disrooters) sino para todas las comunidades de **Software Libre** y de **Código Abierto** que utilicen los mismos programas o similares, también pensamos que vale la pena. Por esto, cualquier ayuda es siempre necesaria y bienvenida.
+
+Así que, si piensan que falta un tutorial, que la información no es correcta o puede mejorarse, por favor, contáctennos o (mejor aún) comiencen ustedes también a escribir una guía o tutorial.
+
+Para conocer las diferentes maneras en que pueden contribuir, por favor, revisen esta [sección](/contribute).

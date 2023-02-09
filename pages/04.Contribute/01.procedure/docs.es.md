@@ -14,7 +14,7 @@ page-toc:
 ---
 
 # Procedimientos Howto: ¿Qué significa?
-La posibilidad de escribir un tutorial y hacerlo accesible para todxs en sus propios idiomas es fundamental no solo para fomentar y promover el uso de software libre y de código abierto sino también pensamientos y acciones colectivas. Así que coordinar la cantidad de información a ser escrita y traducida es una tarea importante, por lo tanto desarrollamos una serie básica de pasos a seguir para que nos ayude a lograrlo.
+La posibilidad de escribir un tutorial y hacerlo accesible para todas las personas, en sus propios idiomas, es fundamental no solo para fomentar y promover el uso de software libre y de código abierto sino también pensamientos y acciones colectivas. Así que coordinar la cantidad de información a ser escrita y traducida es una tarea importante, por lo tanto desarrollamos una serie básica de pasos a seguir para que nos ayude a lograrlo.
 
 El procedimiento es bastante simple:
 1. obtenemos una copia de los archivos sobre los que vamos a trabajar;
@@ -30,7 +30,7 @@ Elegimos **Git** por varias razones, la principal es la estructura y el lenguaje
 
 Muy bien, repasemos nuestras herramientas:
 
-1. **Git**: Si eres usuarix de **GNU/Linux** es altamente probable que ya lo tengas instalado (puedes chequearlo en tu gestor de software o a través de la terminal con el comando `which git`). Si estás usando **Microsoft Windows** o **Mac OS**, puedes descargarlo desde [aquí](https://git-scm.com/downloads).
+1. **Git**: Si eres una persona usuaria de **GNU/Linux** es altamente probable que ya lo tengas instalado (puedes chequearlo en tu gestor de software o a través de la terminal con el comando `which git`). Si estás usando **Microsoft Windows** o **Mac OS**, puedes descargarlo desde [aquí](https://git-scm.com/downloads).
 
 2. **Un editor de texto**: Aunque hay muchos de ellos, sugerimos utilizar uno con soporte para el formato **Markdown** e integración con **Git**. Los editores **Kate**, **Atom** y **VSCodium**, cumplen con este criterio de forma nativa, y también son programas multiplataforma con licencias libres y de código abierto. Pero, **por razones prácticas, solo veremos cómo trabajar en Atom** (en el futuro incluiremos otras herramientas).
 
