@@ -18,7 +18,7 @@ page-toc:
 ---
 
 ![](en/converse.png)
-Converse is a free and open-source XMPP chat client that runs in a web browser and<br>**[webchat.disroot.org](https:webchat.disroot.org)** provides a way to connect to your XMPP account through it.
+Converse is a free and open-source XMPP chat client that runs in a web browser and<br>**[webchat.disroot.org](https://webchat.disroot.org)** provides a way to connect to your XMPP account through it.
 
 # Connecting
 Open your favorite web browser and go to **[webchat.disroot.org](https://webchat.disroot.org)**
