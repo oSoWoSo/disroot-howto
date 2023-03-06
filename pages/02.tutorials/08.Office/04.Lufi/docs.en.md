@@ -1,11 +1,15 @@
 ---
-title: 'Upload - Lufi'
+title: 'Upload'
 updated:
 page-toc:
     active: true
 published: true
 visible: true
 indexed: true
+updated:
+        last_modified: "February, 2023"
+        app: Lufi
+        app_version: 0.05.18
 taxonomy:
     category:
         - docs
@@ -13,150 +17,161 @@ taxonomy:
         - upload
         - lufi
 ---
-![](/home/icons/lufi.png)
+![](en/upload.logo.png)
 
-# Lufi/Upload
+# Upload
 
-Lufi is an open-source online software to upload and share files in a secure and private way with other people, as an alternative to services such as wetransfer.
+**Disroot Upload** is a temporary file hosting service powered by **Lufi**, an open source online software to upload and share files in a secure and private way with other people. We can think of it as an alternative to propietary services such as WeTransfer.
 
-Lufi works in a zero knowledge logic.
+**Registration is not needed to use this service.**
+# How does it work?
+If we have a file we want or need to share, we just drag and drop it in the upload area, it is chunked, encrypted and sent to the server. We then get two links per file: _a download link_, that we give to the people we want to share the file with and a _deletion link_, that allows us to delete the file whenever we want.
 
-Meaning the files are encrypted before they leave your computer, so that your Internet Service Provider and "the administrator of Disroot" can't see the file's content. The administrator can only see the file's name, its size and its mimetype (what kind of file it is: video, text, etc).
+Yes, it is as simple as that.
 
-**You don't need to register an account to upload files.**
+## How secure is it?
 
-Amongst other things you can use it to:
+**Lufi** is an [**E2EE (End-to-End Encryption)**](https://en.wikipedia.org/wiki/End-to-end_encryption) file sharing service that encrypts our files through the web browser before they leave our computer, so not only our **Internet Service Provider (ISP)** cannot see the file's content, **Disroot**'s administrators cannot either. The admins can only see the file's name, its size and its [mimetype](https://en.wikipedia.org/wiki/MIME) (what kind of file it is: video, text, etc).  
+When someone downloads our file, it is decrypted locally in that person's browser after the download. As we have just mentioned, neither the network administrators or the ISP will be able to see what is in the downloaded file.
 
-   - Store (temporarily) files online, download them, share them with other people
-   - Send someone files that will delete themselves from the server after the first download
+We can use it, for example:
 
-In this tutorial we'll see how to use it. You can access Uploads/Lufi at [upload.disroot.org](https://upload.disroot.org)
+   - **to store** (temporarily) files online, download them or share them with other people, and/or
+   - **to send** someone files that will delete themselves from the server after the first download.
 
-!! ![](/home/icons/note.png)
-!! NOTE: Lufi is not a cloud service (files are only stored online for a certain time, after that they are deleted). For cloud services you have your [cloud](https//:cloud.disroot.org) provided by Disroot.<br><br> It's different from [PrivateBin](projects_office/bin/privatebin). Pastebin can only share text, while Lufi can be used to share and download any type of file.
+!! #### NOTE  
+!! **Upload** is not a cloud service since files are only stored online for a certain time, after which they are deleted.<br> For cloud services we have the [**Disroot Cloud**](https://cloud.disroot.org).<br>It is also a different service from [**PrivateBin**](../03.Bin/docs.en.md/) since it can only shares text, while **Upload** can be used to share and download any type of file.
 
-# How safe is Lufi and how it works
+We can read more about **Lufi** [**here**](https://git.framasoft.org/luc/lufi).
 
-When you use Lufi to upload files, "all the files are encrypted by your the browser! It means that your files never leave your computer unencrypted. The administrator of the Lufi instance you use will not be able to see what is in your file, neither will your network administrator, or your ISP".
+## Understanding the encryption process
 
-When someone downloads your file, it is decrypted locally in that person's browser after the download. Meaning, the network administrator, or the ISP will not be able to see what's in the downloaded file.
+The whole encryption/decryption process is done automatically by the browsers, so no need of manually encrypt the files before, or manually decrypt them at the download.
 
-You can read more about it [here](https://git.framasoft.org/luc/lufi).
+The encryption key (that which allows whomever downloads the file to decrypt it) is a part of the link that is presented to us by our browser after we have uploaded a file.
 
-The whole encryption/decryption process is done automatically by the browsers, so no need of manually encrypt the files before, or manually decrypt at the download.
+Let's see an example.
 
-The encryption key (the thing that permits whomever downloads the file to decrypt it) is a part of the link that is presented to you by your browser after you have uploaded a file.
+The following is an example link to a file in **Upload** (https://upload.disroot.org):
 
-It's an anchor (Cf. Fragment Identifier). That means this part (the encryption key) is only processed client-side (in your computer) and does not reach the server of your Lufi provider, so they cannot decrypt the file.
-
-**Only persons that have the full link will be able to download and decrypt the file.**
-
-For example this is a link to a file in upload.disroot.org:
-
-[https://upload.disroot.org/r/FA7MHOOL#AgsmqnJEyUZAcybZmOGKljqYRtDhJKsvZC/Qt05N8dE=](https://upload.disroot.org/r/FA7MHOOL#AgsmqnJEyUZAcybZmOGKljqYRtDhJKsvZC/Qt05N8dE=)
+`https://upload.disroot.org/r/FA7MHOOL`**#**`AgsmqnJEyUZAcybZmOGKljqYRtDhJKsvZC/Qt05N8dE=`
 
 It has two components:
 
 * Left of the **#** symbol in the link is the URL to the file:
-"https://upload.disroot.org/r/FA7MHOOL"
+`https://upload.disroot.org/r/FA7MHOOL`
 
-* Right of the **#** symbol in the link is the encryption key of the file:
-"#AgsmqnJEyUZAcybZmOGKljqYRtDhJKsvZC/Qt05N8dE="
+* Right of the **#** symbol in the link is **the encryption key** of the file:
+`AgsmqnJEyUZAcybZmOGKljqYRtDhJKsvZC/Qt05N8dE=`
 
+This encryption key part of the URL is in fact what is called a [**URI** fragment](https://en.wikipedia.org/wiki/URI_fragment), it is only processed client-side (in our computer) and does not reach the server of the Lufi provider, so they cannot decrypt the file.
 
-If you try to use just, [https://upload.disroot.org/r/FA7MHOOL](https://upload.disroot.org/r/FA7MHOOL)
-Without the second part you will get this message:
+In short, **only persons that have the full link will be able to download and decrypt the file.**
 
-![](en/lufi01.png)
+If we try to use just `https://upload.disroot.org/r/FA7MHOOL` without the second part (the encryption key) we will get a message like this:
 
+![](en/partial.url.png)
 
+OK. Let's see how to use the **Upload** service.
 # The Interface
 
-The interface is pretty straightforward, when you upload a file you have the following options:
+![](en/interface.png)
 
-* Choose how many days it stays online. **The maximum is 60 days, (for smaller files)**
-* Choose if you want the file to be deleted after it was downloaded for the first time
+The interface is pretty straightforward.
 
-In the upper centre part of the panel you can set the options mentioned above. In the upper right part you have the menu to go "My files" and manage your uploads. The centre is where you upload your files.
+![](en/interface.parts.png)
 
-![](en/lufi02.png)
+## 1. The top bar options
+![](en/top.bar.png)
 
+Here we have the following options:
 
-# Maximum file size
+* **Report file**: to report a suspicious or illegal file to **Disroot** admins. Clicking on this option will open a dialog box to choose what email client we want to use to send the email report.
+* **Upload files**: the default main screen with the upload area.
+* **My files**: to check and manage the files we have uploaded (_we will see this in detail below_).
 
-There is no size limit to the files you can upload. But the maximum amount of time that a file stays stored in Lufi varies according to it's size. After that time expired the file is deleted.
+![](en/myfiles.png)
 
-Larger files will be stored for a shorter time. "The expiration delay of your file will be the minimum between what you choose and the following limitations":
+* **Language**: to change the language interface.
 
-* between 0 and 48M, the file will be kept 60 day(s)
-* between 48M and 96M, the file will be kept 30 day(s)
-* between 96M and 954M, the file will be kept 15 day(s)
-* for 954M and more, the file will be kept 2 day(s)
+## 2. The upload options
+![](en/upload.opt.png)
 
-You can also check this information any time you want by pressing the ![](en/lufi03.png?resize=30,24) {.inline} button in the main interface in Lufi.
+In this section are the upload options where we can choose:
 
+* how many days a file will stay online. _**The maximum is 30 days (for smaller files)**_;
+* if we want the file to be deleted after the first download;
+* if we want the file to be compressed in zip format before uploading it; and
+* if we want to add a password to the file.
 
-# How to upload and download
+## 3. The upload area
+![](en/upload.area.png)
 
-To upload a file just choose the options you want (if delete after download or not, and how many days it stays online) and "click to open the file browser" in the centre of the screen, and navigate to your file and select it, or just drag your file to the center of the screen.
+This is where we upload our files by drag and dropping them. We can also do it the traditional way, opening the file browser and selecting the file.
 
-After the upload is complete you will be presented by your browser with the link (URL and encryption key) of the uploaded file, copy it to somewhere else.
+The size limit for the files we can upload is **2GB**. And the maximum time a file stays stored online varies according to its size. After that time expired the file is deleted.
 
-You will also get the deletion link which permits you to delete the uploaded file from the server at any time you want.
+So the larger the file size the shorter the time it is stored. The expiration delay of our files will be the minimum between what we choose and the following limitations:
 
-![](en/lufi1.gif)
+* between 0 and 96MB, the file will be kept 30 days
+* between 96MB and 954MB, the file will be kept 15 days
+* for 954MB and more, the file will be kept 2 days
 
-To download the file just use the link in the browser:
+# Uploading and downloading
+As mentioned above, after setting the upload options (how many days it will stays online, if delete it after download or not and if it will be password protected) we can upload files by dragging it to the upload area and dropping it. Or we can choose to "click to open the file browser", navigate to our file and select it.
 
-![](en/lufi2.gif)
+After the upload is complete we will get two links:
 
+![](en/uploaded.png)
 
-# How to share a file
+* first one is the **Download link**, this is the URL to the file we can share or download, and
+* second one is the **Deletion link** which allows us to delete the file uploaded to the server at any time we want. To use it we just paste it in our browser and press "Enter" in the keyboard.
 
-Well this is also very simple, you can either:
+We will get the following message:
 
-* copy the link manually to your email or a text file, or any other option
+![](en/deletion.link.png)
 
-* send it directly by email from Lufi
+If we delete a file or the expiration date that was set passed, anyone trying to download the file will get a message like this:
 
-For the last option (if you have an email client in your machine e.g Thunderbird, Evolution, etc.), just click the ![](lufi04.png?resize=200,30) {.inline} button, after your file is successfully uploaded. Write the email address and text, and press ![](lufi05.png?resize=280,30) {.inline}. You email client will pop-up with the email ready to send.
+![](en/deleted.file.png)
 
-![](en/lufi3.gif)
+We will also have the options to **Copy all links to clipboard** (it is recommended to do so and save them somewhere else) and to **Send all links by email**.
 
-**The option** ![](en/lufi06.png?resize=180,25) {.inline} **should not be used as a matter of principle.**
+# Sharing a file
+This is also very simple. We can either:
 
-The reason is, if you use this option the link is sent using an email of your Lufi provider, not your personal email. Which means the administrators of that Lufi instance can see the full link, and thus are able to download it, and decrypt it if they want to.
+* copy the link manually and paste it in an email, a text file, or any other option; or
 
-In this case disroot is a privacy conscious provider, but as a matter of principle you should avoid it.  
+* send it directly by email from Upload.
 
+In the case of this last option, we just click on the **Send all links by email** button, write the email address in the next screen and (optionally) a message to the recipient. Now note that there are two sending options:
 
-# How manage/delete your uploads
+* **Send with this server**: this is not recommended for security reasons, because if we send the email from the service provider's server, the links will be sent to that server first and then sent from the provider's email, not our personal one. This means that full links could be seen by the server administrators and therefore they would be able to download and decrypt the files. **Disroot** is a privacy-conscious provider, but as a matter of principle the best practice to keep our privacy safe is to avoid this option.
 
-You can manage your uploads by pressing the button ![](en/lufi07.png?resize=60,40) {.inline} in the main panel.
+* **Send with your own mail software**: if we have an email client installed on our computer or device (e.g: Thunderbird, Evolution, etc.) then clicking this option will open it with the email ready to be sent.
 
-There you will see all your uploads and you can:
+![](en/email.sharing.mp4?resize=1024,576&loop)
 
-* See the download links of all your uploads
-* See which ones where set to delete after the first download
-* Choose which uploads you want to delete from the server
+# Uploaded files management
+We can manage our uploads by clicking on the **My files** option in the top bar.
 
- This list of uploads is kept locally in your browser in a .json file. Which leaves a record in your browser of the files you uploaded. Thus, you will not be able to see the list of your uploaded files when using different browser or different computer.
+![](en/myfiles.gif)
 
-If you want, in this panel you can also:
+Here we can see the files that we have uploaded as well as:
 
-* Purge the this information from your browser local storage (it will wipe the information of the uploaded files and their links from your browser, but it wont delete the files from the server, and link is still valid)
+* see the download/deletion links for each and every one of them;
+* see which ones were set to delete after the first download;
+* select the ones we want to delete from the server; or
+* select one or more of them to send by email again (as seen above).
 
-* Export to your computer the json file with these information
+This list of uploaded files is kept locally in our browser using the ["_localStorage_"](https://ng-girls.gitbook.io/todo-list-tutorial/workshop-todo-list/local-storage) (local web storage) in a [.json](https://en.wikipedia.org/wiki/JSON) file. So, if we delete our "localStorage" data or use a different browser or computer, we will not be able to access it again.
 
-* Import to your browser local storage a json file with information about uploads and links
+Other options we have and can use in this screen are:
 
-![](en/lufi4.gif)
+![](en/files.management.png)
 
-Another way to delete a file from the server any time you want is to use the deletion link, provided when you first upload the file. Copy it and keep it in a text file for whenever you want to use it.
-To use it just put it in your browser and press enter.
+* **Export localStorage data**: to download the .json file containing our uploaded files information to our computer.
+* **Purge expired files from localStorage**: to wipe the information related to expired files from our browser local storage.
+* **Import localStorage data**: to import a .json file previously exported to our browser local storage.
+* **Delete selected files**: to remove files from the server.
 
-![](en/lufi08.png)
-
-If you delete a file or the expiration date that was set passed, anyone trying to download the file will see a message like this:
-
-![](en/lufi09.png)

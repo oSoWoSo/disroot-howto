@@ -1,164 +1,178 @@
 ---
-title: Utiliser Lufi
+title: 'Upload'
 updated:
 page-toc:
     active: true
 published: true
 visible: true
 indexed: true
+updated:
+        last_modified: "February, 2023"
+        app: Lufi
+        app_version: 0.05.18
 taxonomy:
     category:
         - docs
     tags:
-        - téléverser
+        - upload
         - lufi
 ---
-![](/home/icons/lufi.png)
+![](en/upload.logo.png)
 
-# Lufi/Upload
-Lufi est un logiciel en ligne à code source ouvert permettant de télécharger et de partager des fichiers de manière sécurisée et privée avec d'autres personnes, comme alternative à des services tels que wetransfer.
+# Upload
 
-Lufi travaille dans une logique de connaissance zéro.
+**Disroot Upload** est un service d'hébergement temporaire de fichiers basé sur **Lufi**, un logiciel en ligne open source permettant de télécharger et de partager des fichiers de manière sécurisée et privée avec d'autres personnes. On peut le considérer comme une alternative aux services propriétaires tels que WeTransfer.
 
-Ce qui signifie que les fichiers sont chiffrés avant qu'ils ne quittent votre ordinateur, de sorte que votre fournisseur d'accès Internet et "l'administrateur de Disroot" ne peuvent pas voir le contenu du fichier. L'administrateur ne peut voir que le nom du fichier, sa taille et son type de mimetype (quel type de fichier c'est: vidéo, texte, etc.)".
+**L'enregistrement n'est pas nécessaire pour utiliser ce service.**
+# Comment cela fonctionne-t-il ?
+Si nous avons un fichier que nous voulons ou devons partager, il suffit de le glisser et de le déposer dans la zone de téléchargement, il est mis en morceaux, crypté et envoyé au serveur. Nous obtenons alors deux liens par fichier : un lien de téléchargement, que nous donnons aux personnes avec lesquelles nous voulons partager le fichier et un lien de suppression, qui nous permet de supprimer le fichier quand nous le voulons.
 
-**Vous "n'avez pas besoin de créer un compte pour téléverser des fichiers."**
+Oui, c'est aussi simple que cela.
 
-Entre autres choses, vous pouvez l'utiliser pour:
+## Est-ce que c'est sécurisé ?
 
-   - Stockez (temporairement) des fichiers en ligne, les téléchargez les partagez avec d'autres personnes.
-   - Envoyer des fichiers qui s'effaceront du serveur après le premier téléchargement
+**Lufi** est un service de partage de fichiers [**E2EE (Chiffré de bout en bout)**](https://fr.wikipedia.org/wiki/Chiffrement_de_bout_en_bout) qui crypte nos fichiers par le biais du navigateur Web avant qu'ils ne quittent notre ordinateur, de sorte que non seulement notre **Fournisseur d'accès Internet (FAI)** ne peut pas voir le contenu du fichier, mais les administrateurs de **Disroot** non plus. Les administrateurs ne peuvent voir que le nom du fichier, sa taille et son [mimetype](https://fr.wikipedia.org/wiki/Multipurpose_Internet_Mail_Extensions) (quel type de fichier il s'agit : vidéo, texte, etc.).  
+Lorsque quelqu'un télécharge notre fichier, celui-ci est décrypté localement dans le navigateur de cette personne après le téléchargement. Comme nous venons de le mentionner, ni les administrateurs du réseau ni le FAI ne pourront voir ce que contient le fichier téléchargé.
 
-Dans ce tutoriel, nous allons vous montrer comment l'utiliser. Vous pouvez accéder à Uploads/Lufi sur [upload.disroot.org](https://upload.disroot.org)
+Nous pouvons l'utiliser, par exemple :
 
-!! ![](/home/icons/note.png)
-!! REMARQUE: Lufi n'est pas un service cloud (les fichiers ne sont stockés en ligne que pendant un certain temps, après quoi ils sont supprimés). Pour les services cloud, vous avez votre [cloud](https//:cloud.disroot.org) fourni par disroot. <br><br> C'est différent de [PrivateBin](projects_office/bin/privatebin). PrivateBin peut seulement partager du texte, tandis que Lufi peut être utilisé pour partager et télécharger n'importe quel type de fichier.
-
-
-# A quel point Lufi est sûr et comment ça marche
-
-Lorsque vous utilisez Lufi pour téléverser des fichiers, "Tous les fichiers sont chifrés par votre navigateur! Cela signifie que vos fichiers ne quittent jamais votre ordinateur sans chiffrement. L'administrateur de l'instance Lufi que vous utilisez ne pourra pas voir ce qu'il y a dans votre fichier, ni votre administrateur réseau, ni votre FAI".
-
-Lorsque quelqu'un télécharge votre fichier, il est décrypté localement dans le navigateur de cette personne après le téléchargement. Autrement dit, l'administrateur réseau ou le FAI ne pourra pas voir ce qu'il y a dans le fichier téléchargé.
-
-Pour en savoir plus [ici](https://git.framasoft.org/luc/lufi).
-
-L'ensemble du processus de chiffrement / déchiffrement est effectué automatiquement par les navigateurs, donc pas besoin de chiffrer manuellement les fichiers avant, ou de déchiffrer manuellement au téléchargement.
-
-La clé de chiffrement (la chose qui permet à quiconque télécharge le fichier de le déchiffrer) fait partie du lien qui vous est présenté par votre navigateur après que vous ayez téléchargé un fichier.
-
-C'est une ancre (Cf. Identificateur de Fragment). Cela signifie que cette partie (la clé de chiffrement) est uniquement traitée côté client (dans votre ordinateur) et n'atteint pas le serveur de votre fournisseur Lufi, ils ne peuvent donc pas déchiffrer le fichier.
-
-**Seules les personnes qui ont le lien complet pourront télécharger et déchiffrer le fichier.**
-
-Par exemple, il s'agit d'un lien vers un fichier dans upload.disroot.org:
-
-[https://upload.disroot.org/r/FA7MHOOL#AgsmqnJEyUZAcybZmOGKljqYRtDhJKsvZC/Qt05N8dE=](https://upload.disroot.org/r/FA7MHOOL#AgsmqnJEyUZAcybZmOGKljqYRtDhJKsvZC/Qt05N8dE=)
-
-Il comporte deux volets:
-
-* A gauche du symbole **#** dans le lien se trouve l'URL du fichier:
-"https://upload.disroot.org/r/FA7MHOOL"
-
-* A droite du symbole **#** dans le lien se trouve la clé de chiffrement du fichier:
-"#AgsmqnJEyUZAcybZmOGKljqYRtDhJKsvZC/Qt05N8dE="
+   - **pour stocker** (temporairement) des fichiers en ligne, les télécharger ou les partager avec d'autres personnes, et/ou
+   - **pour envoyer** à quelqu'un des fichiers qui s'effaceront d'eux-mêmes du serveur après le premier téléchargement.
 
 
-Si vous essayez juste d'utiliser [https://upload.disroot.org/r/FA7MHOOL](https://upload.disroot.org/r/FA7MHOOL) sans la deuxième partie, vous obtiendrez ce message:
+!! #### NOTE  
+!!**Upload** n'est pas un service de cloud car les fichiers ne sont stockés en ligne que pendant un certain temps, après quoi ils sont supprimés.<br> Pour les services de cloud, nous avons le [**Cloud Disroot**](https://cloud.disroot.org).<br>C'est également un service différent de [**PrivateBin**](../03.Bin/docs.fr.md/) car il ne peut partager que du texte, alors que **Upload** peut être utilisé pour partager et télécharger tout type de fichier.
 
-![](en/lufi01.png)
+On peut en savoir plus sur **Lufi** [**ici**](https://git.framasoft.org/luc/lufi).
 
+## Comprendre le processus de chiffrement
 
+L'ensemble du processus de chiffrement et de déchiffrement est effectué automatiquement par les navigateurs. Il n'est donc pas nécessaire de chiffrer manuellement les fichiers avant, ni de les déchiffrer manuellement au moment du téléchargement.
+
+La clé de chiffrement (celle qui permet à la personne qui télécharge le fichier de le déchiffrer) fait partie du lien qui nous est présenté par notre navigateur après que nous ayons téléchargé un fichier.
+
+Voyons un exemple.
+
+Voici un exemple de lien vers un fichier dans **Upload** (https://upload.disroot.org) :
+
+`https://upload.disroot.org/r/FA7MHOOL`**#**`AgsmqnJEyUZAcybZmOGKljqYRtDhJKsvZC/Qt05N8dE=`
+
+Il a deux composantes :
+
+* A gauche du symbole **#** dans le lien se trouve l'URL du fichier :
+`https://upload.disroot.org/r/FA7MHOOL`
+
+* A droite du symbole **#** dans le lien se trouve **la clé de chiffrement** du fichier :`AgsmqnJEyUZAcybZmOGKljqYRtDhJKsvZC/Qt05N8dE=`
+
+Cette partie de l'URL contenant la clé de chiffrement est en fait ce que l'on appelle un [**fragments d'URL**](https://en.wikipedia.org/wiki/URI_fragment). Elle n'est traitée que par le client (dans notre ordinateur) et n'atteint pas le serveur du fournisseur de Lufi, qui ne peut donc pas déchiffrer le fichier.
+
+En bref, **seules les personnes qui ont le lien complet pourront télécharger et décrypter le fichier.**
+
+Si nous essayons d'utiliser uniquement `https://upload.disroot.org/r/FA7MHOOL` sans la deuxième partie (la clé de cryptage), nous obtiendrons un message comme celui-ci :
+
+![](en/partial.url.png)
+
+OK. Voyons comment utiliser le service **Upload**.
 # L'interface
 
-L'interface est assez simple, quand vous téléverser un fichier, vous avez les options suivantes:
+![](en/interface.png)
 
-* Choisissez combien de jours il reste en ligne. **Le maximum est de 60 jours, (pour les petits fichiers)**
-* Choisissez si vous voulez que le fichier soit supprimé après son premier téléchargement.
+L'interface est assez simple.
 
-Dans la partie centrale supérieure du panneau, vous pouvez régler les options mentionnées ci-dessus. Dans la partie en haut à droite vous avez le menu pour aller dans "Mes fichiers" et gérer vos téléversements. Le centre est l'endroit où vous téléversez vos fichiers.
+![](en/interface.parts.png)
 
-![](en/lufi02.png)
+## 1.Les options de la barre supérieure
+![](en/top.bar.png)
 
+Ici, nous avons les options suivantes :
 
-# Taille maximale du fichier
+* **Rapport de fichier** : pour signaler un fichier suspect ou illégal aux administrateurs de **Disroot**. En cliquant sur cette option, une boîte de dialogue s'ouvrira pour choisir le client de messagerie que nous voulons utiliser pour envoyer le rapport par e-mail.
+* **Transférer des fichiers** : l'écran principal par défaut avec la zone de téléchargement.
+* **Mes fichiers** : pour vérifier et gérer les fichiers que nous avons téléchargés (_nous verrons cela en détail ci-dessous_).
 
-Il n' y a pas de limite de taille pour les fichiers que vous pouvez téléverser. Mais le temps maximum qu'un fichier reste stocké dans Lufi varie en fonction de sa taille. Après ce délai, le fichier est supprimé.
+![](en/myfiles.png)
 
-Les fichiers volumineux seront stockés pour une durée plus courte. "Le délai d'expiration de votre fichier sera le minimum entre ce que vous choisissez et les limitations suivantes":
+* **Langue** : pour changer la langue de l'interface.
 
-* entre 0 et 48M, le fichier sera conservé 60 jour (s).
-* entre 48M et 96M, le dossier sera conservé 30 jour (s).
-* entre 96M et 954M, le dossier sera conservé 15 jour (s).
-* pour 954M et plus, le dossier sera conservé 2 jour (s)
+## 2. Les options de téléversement
 
-Vous pouvez également vérifier ces informations à tout moment en appuyant sur le bouton ![](en/lufi03.png?resize=30,24) dans l'interface principale de Lufi.
+![](en/upload.opt.png)
 
+Dans cette section se trouvent les options de téléversement où nous pouvons choisir :
 
-# Comment téléverser et télécharger un fichier
+* combien de jours un fichier restera en ligne. Le maximum est de 30 jours (pour les petits fichiers)**_ ;
+* si nous voulons que le fichier soit supprimé après le premier téléchargement ;
+* si nous voulons que le fichier soit compressé au format zip avant d'être téléchargé ; et
+* si nous voulons ajouter un mot de passe au fichier.
 
-Pour téléverser un fichier, il vous suffit de choisir les options que vous souhaitez (supprimer après le téléchargement ou non, combien de jours il reste en ligne) et "cliquez pour ouvrir le navigateur de fichiers" au centre de l'écran, et naviguez jusqu'à votre fichier et sélectionnez-le, ou faites simplement glisser votre fichier au centre de l'écran.
+## 3. La zone de téléchargement
+![](en/upload.area.png)
 
-Une fois le transfert terminé, votre navigateur vous présentera le lien (URL et clé de chiffrement) du fichier transféré, copiez-le ailleurs.
+C'est ici que nous téléversons nos fichiers en les faisant glisser et en les déposant. Nous pouvons également le faire de manière traditionnelle, en ouvrant le navigateur de fichiers et en sélectionnant le fichier.
 
-Vous obtiendrez également le lien de suppression qui vous permet de supprimer le fichier transféré du serveur à tout moment.
+La taille limite des fichiers que nous pouvons télécharger est de **2 Go**. Et la durée maximale de stockage d'un fichier en ligne varie en fonction de sa taille. Une fois ce délai écoulé, le fichier est supprimé.
 
-![](en/lufi1.gif)
+Ainsi, plus la taille du fichier est importante, plus le temps de stockage est court. Le délai d'expiration de nos fichiers sera le minimum entre ce que nous choisissons et les limites suivantes :
 
-Pour télécharger le fichier, il suffit d'utiliser le lien dans le navigateur:
+* entre 0 et 96MB, le fichier sera conservé 30 jours.
+* entre 96MB et 954MB, le fichier sera conservé 15 jours
+* pour 954MB et plus, le fichier sera conservé 2 jours.
 
-![](en/lufi2.gif)
+# Téléversement et téléchargement
+Comme indiqué ci-dessus, après avoir défini les options de téléversement (combien de jours le fichier reste en ligne, s'il doit être supprimé après le téléchargement ou non et s'il doit être protégé par un mot de passe), nous pouvons téléverser des fichiers en les faisant glisser vers la zone de téléversement et en les déposant. Ou nous pouvons choisir de "cliquer pour ouvrir le navigateur de fichiers", naviguer jusqu'à notre fichier et le sélectionner.
 
+Une fois le téléchargement terminé, nous obtiendrons deux liens :
 
+![](en/uploaded.png)
 
+* Le premier est le **lien de téléchargement**, c'est l'URL du fichier que nous pouvons partager ou télécharger, et
+* Le second est le **lien de suppression** qui nous permet de supprimer le fichier téléchargé sur le serveur à tout moment. Pour l'utiliser, il suffit de le coller dans notre navigateur et d'appuyer sur la touche "Entrée" du clavier.
 
-# Comment partager un fichier
+Nous obtiendrons le message suivant :
 
-Eh bien, c'est aussi très simple, vous pouvez soit:
+![](en/deletion.link.png)
 
-* Copiez le lien manuellement vers votre email ou un fichier texte, ou toute autre option
+Si nous supprimons un fichier ou si la date d'expiration fixée est dépassée, toute personne essayant de télécharger le fichier recevra un message comme celui-ci :
 
-* l'envoyer directement par email à Lufi
+![](en/deleted.file.png)
 
-Pour la dernière option (si vous avez un client de messagerie électronique dans votre machine, par exemple Thunderbird, Evolution, etc.) cliquez simplement sur le bouton ![](lufi04.png?resize=200,30), une fois votre fichier téléversé avec succès. Écrivez l'adresse e-mail et le texte, puis appuyez sur ![](lufi05.png?resize=280,30). Votre client de messagerie apparaîtra avec l'email prêt à être envoyé.
+Nous aurons également les options suivantes : **Copier tous les liens dans le presse-papiers** (il est recommandé de le faire et de les enregistrer ailleurs) et **Envoyer tous les liens par courriel**.
 
-![](en/lufi3.gif)
+# Partager un fichier
+C'est également très simple. On peut soit :
 
-**L'option** ![](en/lufi06.png?resize=180,25) **ne devrait pas être utilisé par principe.**
+* copier le lien manuellement et le coller dans un email, un fichier texte, ou toute autre option ; ou bien
 
-La raison en est que, si vous utilisez cette option, le lien est envoyé en utilisant un email de votre fournisseur Lufi, pas votre email personnel. Ce qui signifie que les administrateurs de l'instance Lufi peuvent voir le lien complet, et sont donc capables de le télécharger, et de le déchiffrer s'ils le souhaitent.
+* l'envoyer directement par email depuis Upload.
 
-Disroot est un fournisseur soucieux de la vie privée, mais par principe vous devriez éviter de faire cela.  
+Dans le cas de cette dernière option, il suffit de cliquer sur le bouton **Envoyer tous les liens par e-mail**, d'écrire l'adresse e-mail dans l'écran suivant et (éventuellement) un message au destinataire. Notez maintenant qu'il existe deux options d'envoi :
 
+* **Envoyer avec ce serveur** : cette option n'est pas recommandée pour des raisons de sécurité, car si nous envoyons l'e-mail depuis le serveur du fournisseur de services, les liens seront d'abord envoyés vers ce serveur, puis envoyés depuis l'e-mail du fournisseur, et non depuis notre e-mail personnel. Cela signifie que les liens complets pourraient être vus par les administrateurs du serveur et qu'ils seraient donc en mesure de télécharger et de déchiffrer les fichiers. **Disroot** est un fournisseur soucieux du respect de la vie privée, mais par principe, la meilleure pratique pour préserver notre vie privée est d'éviter cette option.
 
+**Envoyer avec votre propre logiciel de messagerie** : si nous avons un client de messagerie installé sur notre ordinateur ou notre appareil (par exemple Thunderbird, Evolution, etc.), le fait de cliquer sur cette option l'ouvrira avec l'e-mail prêt à être envoyé.
 
-# Comment gérer/supprimer vos téléversements
+![](en/email.sharing.mp4?resize=1024,576&loop)
 
-Vous pouvez gérer vos envois en appuyant sur le bouton ![](en/lufi07.png?resize=60,40) dans le panneau principal.
+# Gestion des fichiers téléchargés
+Nous pouvons gérer nos téléversements en cliquant sur l'option **Mes fichiers** dans la barre supérieure.
 
-Vous y verrez tous vos téléchargements et vous pourrez:
+![](en/myfiles.gif)
 
-* Voir les liens de téléchargement de tous vos envois
-* Voir lesquels ont été effacés après le premier téléchargement
-* Choisir les envois que vous voulez supprimer du serveur
+Ici, nous pouvons voir les fichiers que nous avons téléversés ainsi que :
 
- Cette liste de téléversements est conservée localement dans votre navigateur dans un fichier. json. Ce qui laisse un enregistrement dans votre navigateur des fichiers que vous avez téléversés. Ainsi, vous ne pourrez pas voir la liste de vos fichiers transférés lorsque vous utilisez un navigateur ou un ordinateur différent.
+* voir les liens de téléchargement/suppression pour chacun d'entre eux ;
+* voir lesquels ont été configurés pour être supprimés après le premier téléchargement ;
+* sélectionner ceux que nous voulons supprimer du serveur ; ou
+* sélectionner un ou plusieurs d'entre eux pour les envoyer à nouveau par e-mail (comme indiqué ci-dessus).
 
-Si vous le souhaitez, vous pouvez également dans ce panneau:
+Cette liste de fichiers téléchargés est conservée localement dans notre navigateur à l'aide du ["_localStorage_"](https://ng-girls.gitbook.io/todo-list-tutorial/workshop-todo-list/local-storage)(stockage web local) dans un fichier [.json](https://en.wikipedia.org/wiki/JSON). Ainsi, si nous supprimons nos données "localStorage" ou si nous utilisons un autre navigateur ou un autre ordinateur, nous ne pourrons plus y accéder.
 
-* Purgez cette information du stockage local de votre navigateur (cela effacera les informations des fichiers envoyés et leurs liens de votre navigateur, mais il ne supprimera pas les fichiers du serveur, et le lien est toujours valide)
+Les autres options dont nous disposons et que nous pouvons utiliser dans cet écran sont les suivantes :
 
-* Exportez sur votre ordinateur le fichier json contenant les informations suivantes
+![](en/files.management.png)
 
-* Importez dans votre navigateur un fichier json contenant des informations sur les envois et les liens.
+* **Exporter les données du stockage local** : pour télécharger sur notre ordinateur le fichier .json contenant les informations sur les fichiers téléchargés.
+* **Purger les fichiers expirés de localStorage** : pour effacer les informations relatives aux fichiers expirés du stockage local de notre navigateur.
+* **Importer les données du stockage local** : pour importer un fichier .json précédemment exporté vers le stockage local de notre navigateur.
+* **Supprimer les fichiers sélectionnés** : pour supprimer des fichiers du serveur.
 
-![](en/lufi4.gif)
-
-Une autre façon de supprimer un fichier du serveur à tout moment est d'utiliser le lien de suppression, fourni lorsque vous transférez le fichier pour la première fois. Copiez-le et conservez-le dans un fichier texte pour la prochaine fois où vous voudrez l'utiliser.
-Pour l'utiliser, il suffit de le mettre dans votre navigateur et d'appuyer sur Entrée.
-
-![](en/lufi08.png)
-
-Si vous supprimez un fichier ou si la date d'expiration définie est dépassée, tous ceux qui tentent de télécharger le fichier verront un message comme celui-ci:
-
-![](en/lufi09.png)
