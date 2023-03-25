@@ -17,9 +17,9 @@ page-toc:
 
 ![](thumb.png)
 
-A partire dal 16 luglio la soluzione webmail **Disroot** è **Roundcube** mentre **SnappyMail** non sarà più disponibile.
+A partire dal 16 luglio 2022 la soluzione webmail **Disroot** è **Roundcube** mentre **SnappyMail** non sarà più disponibile.
 
-Fino al 1 settembre, entrambi i client webmail saranno disponibili per dare a tutti il tempo di effettuare la transizione, dopo tale data sarà accessibile solo Roundcube.
+Fino al primo giugno 2023, entrambi i client webmail saranno disponibili per dare a tutti il tempo di effettuare la transizione, dopo tale data sarà accessibile solo Roundcube.
 
 Sebbene non dovresti avere problemi con la transizione, ti consigliamo vivamente di eseguire in precedenza un backup dei tuoi contatti. Di seguito troverai una breve guida passo passo per aiutarti a farlo senza problemi.
 
