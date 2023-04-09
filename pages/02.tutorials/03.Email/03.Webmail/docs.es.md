@@ -1,5 +1,5 @@
 ---
-title: Disroot Webmail
+title: Correo Web de Disroot
 published: true
 visible: true
 indexed: true
@@ -7,65 +7,67 @@ taxonomy:
     category:
         - docs
     tags:
-        - email
+        - correo
 page-toc:
     active: true
 ---
 
-# Disroot Webmail
+# Correo Web de Disroot
 
-A webmail, or web-based email, is an email service that can be accessed using the web browser. This means you don't need to install an email client software on your device. The main advantage of webmail over the use of a desktop email client is the ability to send and receive email anywhere from a web browser.
+Un correo web, o correo basado en la web, es un servicio de correo electrónico al que se puede acceder utilizando un navegador web. Esto quiere decir que no necesitamos instalar un programa de cliente de correo en nuestros dispositivos. La principal ventaja del cliente de correo web sobre el de escritorio es la posibilidad de enviar y recibir correos desde cualquier lugar a través del navegador.
 
-**Disroot** webmail solution is powered by **Roundcube**.
+El correo web de **Disroot** está desarrollado por **Roundcube**.
 
 
 ![](roundcube/rc_logo.png)
 
-# What is Roundcube?
-Roundcube is a free and open source webmail software that provides all the functionalities you would expect from an email client: full support for MIME and HTML messages, multiple sender identities, address book with groups and LDAP connectors, threaded message listing, spell checking, support for access control lists (ACL), import/export functions and support for PGP encryption among many other features.
+# ¿Qué es Roundcube?
+Roundcube es un software de correo web libre y de código abierto que ofrece todas las funcionalidades que podríamos esperar de un cliente de correo: soporte completo para mensajes MIME y HTML, múltiples identidades de remitente, libreta de direcciones con grupos y conectores LDAP, listado de mensajes por hilos, correción ortográfica, soporte para listas de control de accesos (ACL por sus siglas en inglés), funciones de importar/exportar y soporta cifrado GPG entre muchas otras características.
 
-**[[Roundcube Site](https://roundcube.net/)] | [[Source code](https://github.com/roundcube/roundcubemail/)]**
+**[[Sitio de Roundcube](https://roundcube.net/)] | [[Código fuente](https://github.com/roundcube/roundcubemail/)]**
 
-Through the following tutorial, we will learn how to use **Roundcube** and get to know its features.
+A través del siguiente tutorial, aprenderemos cómo utilizar **Roundcube** y conoceremos sus funcionalidades.
 
 ----
 
-# Table of Contents
+# Índice
 
-# [Migration Guide](migration)
-  - [Migration FAQ](migration/faq)
-  - [Backup/export and import your contacts](migration/backup)
+# [Guía de Migración](migration)
+  - [Preguntas frecuentes sobre la Migración](migration/faq)
+  - [Respaldar/exportar e importar nuestros contactos](migration/backup)
 
 # [Roundcube](roundcube)
-## [01. Getting started](roundcube/getting_started)
-  - Overview
-  - Tasks and basic operations
+## [01. Comenzando](roundcube/getting_started)
+  - Vista general
+  - Tareas y operaciones básicas
 
-## [02. Settings](roundcube/settings)
-  - [01. Preferences](roundcube/settings/preferences)
-    - User interface
-    - Mailbox view
-    - Displaying messages
-    - Composing messages
-    - Contacts
-    - Special folders
-    - Server settings
-    - Deleting old messages
-    - Message highlights
-  - [02. Folders](roundcube/settings/folders)
-  - [03. Identities](roundcube/settings/identities)
-    - Default identity
-    - Add other identities / aliases
-    - Sending an email with another identity
-  - [04. Responses](roundcube/settings/responses)
-  - [05. Filters](roundcube/settings/filters)
-  - [06. Account details](roundcube/settings/account_details)
+## [02. Configuraciones](roundcube/settings)
+  - [01. Preferencias](roundcube/settings/preferences)
+    - Interfaz de usuarie
+    - Vista de la bandeja de entrada
+    - Visualización de mensajes
+    - Redacción de mensajes
+    - Contactos
+    - Carpetas especiales
+    - Configuraciones del servidor
+    - Borrando mensajes viejos
+    - Destacados de los mensajes
+  - [02. Carpetas](roundcube/settings/folders)
+  - [03. Identidades](roundcube/settings/identities)
+    - Identidad por defecto
+    - Agregar otras identidades / alias
+    - Enviando un mensaje con otro identidad
+  - [04. Respuestas](roundcube/settings/responses)
+  - [05. Filtros](roundcube/settings/filters)
+  - [06. Detalle de la cuenta](roundcube/settings/account_details)
 
-## [03. Email](roundcube/email)
-  - Composing an email
+## [03. Correo](roundcube/email)
+  - Redactando un correo
 
-## [04. Contacts](roundcube/contacts)
-  - Contacts lists
-  - Importing contacts
-  - Address book
-  - Groups
+## [04. Contactos](roundcube/contacts)
+  - Listas de contactos
+  - Importando contactos
+  - Libretas de direcciones
+  - Grupos
+
+## [05. Cifrado](roundcube/encryption)
