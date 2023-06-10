@@ -20,7 +20,7 @@ The main objective of the **Disroot's Howto Project** is the creation, maintenan
 
 # 1. Prerequisites
   - a. Software required
-  - b. Gitea accountvh
+  - b. Forgejo account
   - c. Request access to our repository
   - d. Setting your username and email
 
@@ -40,8 +40,8 @@ _Suggested software:_<br>
 
 <br>
 
-## b. A Gitea account
-To be able to send changes you make to the howtos, whether translating, editing, or writing them, you need to have an account in a **Gitea** instance.
+## b. A Forgejo account
+To be able to send changes you make to the howtos, whether translating, editing, or writing them, you need to have an account in a **Forgejo** instance.
 
 To register an account at the instance where our repository is, go [**here**](https://git.disroot.org/user/sign_up).
 
