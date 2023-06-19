@@ -34,3 +34,4 @@ page-toc:
 ## [04. Responses](04.responses)
 ## [05. Filters](05.filters)
 ## [06. Account details](06.account_details)
+## [07. Forwarding](07.forwarding)
