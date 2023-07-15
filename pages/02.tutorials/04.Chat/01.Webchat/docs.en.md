@@ -1,5 +1,5 @@
 ---
-title: 'Chat: Webchat'
+title: 'Webchat'
 published: true
 visible: true
 indexed: true

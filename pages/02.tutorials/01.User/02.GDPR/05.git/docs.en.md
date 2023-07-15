@@ -1,7 +1,7 @@
 ---
 title: "Git"
 published: true
-indexed: true
+indexed: false
 updated:
     last_modified: "December 2020"		
     app: Gitea

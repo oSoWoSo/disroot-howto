@@ -1,7 +1,7 @@
 ---
 title: 'Email: Export'
 published: true
-indexed: true
+indexed: false
 updated:
     last_modified: "November 2020"		
     app: RainLoop

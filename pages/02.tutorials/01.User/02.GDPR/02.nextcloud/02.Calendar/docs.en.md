@@ -1,7 +1,7 @@
 ---
 title: 'Nextcloud: Exporting Calendars'
 published: true
-indexed: true
+indexed: false
 updated:
     last_modified: "June 2020"		
     app: Nextcloud

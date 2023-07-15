@@ -15,7 +15,7 @@ page-toc:
   active: false
 ---
 
-![](/home/icons/mumble.png)
+![](mumble.png)
 
 **Mumble** is an open source, low-latency, high quality voice chat software primarily intended for use while gaming, but that you can use for any audioconference / chatting.
 <br>No user account is needed to use it.

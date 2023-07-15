@@ -1,6 +1,6 @@
 ---
 title: Fediverse
-subtitle: Akkoma
+subtitle: FEDisroot
 icon: fa-asterisk
 published: true
 taxonomy:

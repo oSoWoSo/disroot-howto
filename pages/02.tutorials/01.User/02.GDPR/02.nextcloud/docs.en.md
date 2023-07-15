@@ -1,7 +1,7 @@
 ---
 title: GDPR: Nextcloud
 published: true
-indexed: true
+indexed: false
 updated:
     last_modified: "June 2020"
 taxonomy:

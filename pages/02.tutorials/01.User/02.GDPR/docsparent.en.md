@@ -3,8 +3,6 @@ title: 'Export Your Personal Data / GDPR Compliance'
 visible: true
 published: true
 indexed: true
-updated:
-    last_modified: "December 2020"
 taxonomy:
     category:
         - docs
@@ -27,15 +25,15 @@ We have no interest in acquiring and collecting any extra data nor processing it
 
 This chapter includes tutorials that will help you get all the data stored on services provided by **Disroot** and connected to your account.
 
-----
 
-## Export your data from:
-- [01. Email (Rainloop)](rainloop)
-- [02. Cloud (Nextcloud)](nextcloud)
+# Export your data from:
+
+- ## [01. Email (Rainloop)](rainloop)
+
+- ## [02. Cloud (Nextcloud)](nextcloud)
   - [Files & Notes](nextcloud/files)
   - [Contacts](nextcloud/contacts)
   - [Calendars](nextcloud/calendar)
   - [Bookmarks](nextcloud/bookmarks)
-- [03. Git (Gitea)](git)
-
----
+  
+- ## [03. Git (Gitea)](git)

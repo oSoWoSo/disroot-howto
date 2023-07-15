@@ -11,9 +11,8 @@ page-toc:
     active: false
 ---
 
-# Disroot Calls
+![](calls.png)
 
-![](calls.logo.png)
 
 **Disroot Calls** service is a free and open source videoconferencing software, powered by [**Jitsi**](https://jitsi.org/). It provides high quality video and audio conferences, with as many partners as we want. It also allows to stream our desktop or only some windows to other participants in the call.
 

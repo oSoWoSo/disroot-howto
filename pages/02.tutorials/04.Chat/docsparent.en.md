@@ -11,10 +11,12 @@ page-toc:
     active: false
 ---
 
+![](chat.png)
+
+
+**Disroot Chat** is an instant messaging service made possible by the **XMPP** protocol.
+
 ## What is XMPP?
-
-![](en/xmpp_logo.png)
-
 XMPP (Extensible Messaging and Presence Protocol) is: "*a set of open technologies for instant messaging, presence, multi-party chat, voice and video calls, collaboration, lightweight middleware, content syndication, and generalized routing of XML data.*"
 
 XMPP provides an open and decentralized alternative to closed instant messaging services. XMPP protocol offers a lot of advantages:

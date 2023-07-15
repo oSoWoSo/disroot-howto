@@ -12,6 +12,8 @@ page-toc:
     active: false
 ---
 
-# User
+![](user.png)
+
+
 In this section you can find useful information about managing your account.
 <br>

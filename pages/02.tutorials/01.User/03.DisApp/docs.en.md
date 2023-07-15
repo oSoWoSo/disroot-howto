@@ -17,11 +17,10 @@ page-toc:
     active: false
 ---
 
-# **DisApp**: The Disroot's Community application
-
 ![](thumb.png)
 
-## **One App to rule them all**
+# DisApp · The Disroot's Community application ·
+## One App to rule them all
 
 ----
 ## Background

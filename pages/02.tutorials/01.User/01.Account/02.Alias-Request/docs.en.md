@@ -1,7 +1,7 @@
 ---
 title: 'Email alias request'
 published: true
-indexed: true
+indexed: false
 visible: true
 updated:
 taxonomy:
