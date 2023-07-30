@@ -23,5 +23,7 @@ As we mentioned before, for practical reasons, we will only see how to do it in 
 
 We will try to add more howtos about using other editors in the future. If you want and have time, you can also write one yourself about your favorite editor and we can add it to this section.
 
+## ⚠️ Warning
+Atom is no longer in development and this tutorial is outdated. You can use [Pulsar](https://pulsar-edit.dev/) instead as it is a community-developed continuation of Atom editor.
 
 ## [Atom](atom/interface)
