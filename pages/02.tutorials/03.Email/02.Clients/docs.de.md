@@ -1,6 +1,7 @@
 ---
-title: E-Mail: Clients
+title: E-Mail Clients
 visible: true
+indexed: true
 updated:
 taxonomy:
     category:
@@ -11,6 +12,8 @@ taxonomy:
 page-toc:
     active: false
 ---
+
+![](thumb.png)
 
 ## [Desktop Mail-Client](desktop)
 - [**Multiplattform**](desktop/thunderbird)

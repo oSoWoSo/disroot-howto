@@ -19,6 +19,3 @@ page-toc:
 
 ## [Administrace](administration)
 Změna nebo reset hesla, úprava oznámení o reset e-mailů, bezpečnostní otázky, přístupové formuláře, odstranění účtu.
-
-## [Požádat o Alias](alias-request)
-Jak požádat o e-mailové aliasy, formuláře.

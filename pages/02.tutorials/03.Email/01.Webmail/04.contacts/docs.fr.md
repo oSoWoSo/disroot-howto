@@ -1,7 +1,7 @@
 ---
 title: "Courriel Web: Contacts"
 visible: true
-indexed: true
+indexed: false
 updated:
 taxonomy:
     category:

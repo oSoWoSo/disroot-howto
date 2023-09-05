@@ -38,8 +38,8 @@ Grâce au tutoriel suivant, nous allons apprendre à utiliser **Roundcube** et �
   - Vue d'ensemble
   - Tâches et opérations de base
 
-## [02. Paramètres](Roundcube/02.paramètres)
-  - 01. Préférences](Roundcube/02.settings/01.preferences)
+## [02. Paramètres](settings)
+  - [01. Préférences](settings/preferences)
     - Interface utilisateur
     - Vue des boîtes aux lettres
     - Affichage des messages
@@ -49,19 +49,20 @@ Grâce au tutoriel suivant, nous allons apprendre à utiliser **Roundcube** et �
     - Paramètres du serveur
     - Suppression des anciens messages
     - Points forts du message
-  - 02. Dossiers](Roundcube/02.settings/02.folders)
-  - 03. identités](Roundcube/02.settings/03.identities)
+  - [02. Dossiers](settings/folders)
+  - [03. identités](settings/identities)
     - Identité par défaut
     - Ajouter d'autres identités / alias
     - Envoyer un email avec une autre identité
-  - 04. réponses](Roundcube/02.settings/04.responses)
-  - 05. filtres](Roundcube/02.settings/05.filters)
-  - 06. Détails du compte](Roundcube/02.settings/06.account_details)
+  - [04. réponses](settings/responses)
+  - [05. filtres](settings/filters)
+  - [06. Détails du compte](settings/account_details)
+  - [07. Renvoi](settings/forwarding)
 
-## [03. Courriel](Roundcube/03.email)
+## [03. Courriel](email)
   - Composer un e-mail
 
-## [04. Contacts](Roundcube/04.contacts)
+## [04. Contacts](contacts)
   - Listes de contacts
   - Carnet d'adresses
   - Groupes

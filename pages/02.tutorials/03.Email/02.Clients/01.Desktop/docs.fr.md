@@ -2,7 +2,7 @@
 title: 'Clients de bureau'
 published: true
 visible: true
-indexed: true
+indexed: false
 updated:
 taxonomy:
     category:
@@ -24,6 +24,7 @@ page-toc:
 
 ## GNU/Linux
 - [Mutt](mutt)
+- [Emacs-Mu4e](emacs-mu4e)
 
 
 ## GNU/Linux: Intégration email du bureau

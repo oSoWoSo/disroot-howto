@@ -1,6 +1,7 @@
 ---
 title: "Clients de courriel"
 visible: true
+indexed: true
 updated:
 taxonomy:
     category:
@@ -10,6 +11,8 @@ taxonomy:
 page-toc:
     active: false
 ---
+
+![](thumb.png)
 
 ## Clients de courriel du bureau
 - [**Multi platformes**](desktop)

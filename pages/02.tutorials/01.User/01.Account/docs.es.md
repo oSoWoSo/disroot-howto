@@ -19,6 +19,3 @@ page-toc:
 
 ## [Administración](administration)
 Modificar o restablecer contraseñas, notificaciones, preguntas de seguridad, acceso a formularios y borrar la cuenta.
-
-## [Solicitud de Alias](alias-request)
-Cómo solicitar alias de correo.

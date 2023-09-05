@@ -1,7 +1,7 @@
 ---
 title: 'Clients pour appareil mobile'
 visible: true
-indexed: true
+indexed: false
 updated:
 taxonomy:
     category:

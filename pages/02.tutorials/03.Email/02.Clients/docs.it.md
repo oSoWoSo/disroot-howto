@@ -1,6 +1,7 @@
 ---
 title: "Email Clients"
 visible: true
+indexed: true
 updated:
 taxonomy:
     category:
@@ -10,6 +11,8 @@ taxonomy:
 page-toc:
     active: false
 ---
+
+![](thumb.png)
 
 ## Client di posta Desktop
 - [**Multipiattaforma**](desktop)

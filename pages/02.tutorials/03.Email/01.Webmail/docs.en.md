@@ -44,6 +44,7 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
   - [04. Responses](settings/responses)
   - [05. Filters](settings/filters)
   - [06. Account details](settings/account_details)
+  - [07. Forwarding](settings/forwarding)
 
 ## [03. Email](email)
   - Composing an email

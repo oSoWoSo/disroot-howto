@@ -60,6 +60,7 @@ A través del siguiente tutorial, aprenderemos cómo utilizar **Roundcube** y co
   - [04. Respuestas](roundcube/settings/responses)
   - [05. Filtros](roundcube/settings/filters)
   - [06. Detalle de la cuenta](roundcube/settings/account_details)
+  - [07. Forwarding](settings/forwarding)
 
 ## [03. Correo](roundcube/email)
   - Redactando un correo

@@ -1,4 +1,17 @@
-Paramètres
+---
+title: "Identities"
+visible: true
+indexed: true
+updated:
+taxonomy:
+    category:
+        - docs
+    tags:
+        - webmail
+        - identities
+page-toc:
+    active: true
+---
 
 ## Identités
 

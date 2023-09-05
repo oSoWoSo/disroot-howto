@@ -1,7 +1,7 @@
 ---
 title: 'E-Mail: Mobile Clients'
 visible: true
-indexed: true
+indexed: false
 updated:
 taxonomy:
     category:

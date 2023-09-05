@@ -2,7 +2,7 @@
 title: 'E-Mail: Desktop-Clients'
 published: true
 visible: true
-indexed: true
+indexed: false
 updated:
 taxonomy:
     category:
@@ -24,11 +24,9 @@ page-toc:
 
 ## GNU/Linux
 - [Mutt](mutt)
+- [Emacs-Mu4e](emacs-mu4e)
 
 
 ## GNU/Linux: Email per Desktop-Integration
 - [GNOME](gnome-desktop-integration)
 - [KDE](kde-desktop-integration)
-
-
-![](de/email_icon.png)

@@ -1,7 +1,7 @@
 ---
 title: 'Correo: Clientes para el Móvil'
 visible: true
-indexed: true
+indexed: false
 updated:
 taxonomy:
     category:

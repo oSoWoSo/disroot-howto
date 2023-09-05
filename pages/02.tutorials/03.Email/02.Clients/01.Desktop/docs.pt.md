@@ -2,7 +2,7 @@
 title: 'Cliente de desktop'
 published: true
 visible: true
-indexed: true
+indexed: false
 updated:
 taxonomy:
     category:
@@ -15,10 +15,18 @@ page-toc:
     active: false
 ---
 
-Como configurar o seu cliente de email no seu desktop:
+![](../thumb.png)
 
-## Table of content
-- [Thunderbird - cliente de email multiplataforma](thunderbird)
-- [Mutt - cliente de email para GNU/Linux](mutt)
+## Multiplatform Mail Clients
+- [Thunderbird](thunderbird)
+- [Claws Mail](claws-mail)
 
-![](c64.jpg)
+
+## GNU/Linux
+- [Mutt](mutt)
+- [Emacs-Mu4e](emacs-mu4e)
+
+
+## GNU/Linux: Email desktop integration
+- [GNOME](gnome-desktop-integration)
+- [KDE](kde-desktop-integration)

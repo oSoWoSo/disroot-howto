@@ -2,7 +2,7 @@
 title: 'Correo: Clientes de escritorio'
 published: true
 visible: true
-indexed: true
+indexed: false
 updated:
 taxonomy:
     category:
@@ -19,9 +19,10 @@ page-toc:
 - [Thunderbird](thunderbird)
 - [Claws Mail](claws-mail)
 
-## GNU/Linux: Integración del correo con el escritorio
+## GNU/Linux
+- [Mutt](mutt)
+- [Emacs-Mu4e](emacs-mu4e)
+
+## GNU/Linux: Email desktop integration
 - [GNOME](gnome-desktop-integration)
 - [KDE](kde-desktop-integration)
-
-
-![](en/email_icon.png)

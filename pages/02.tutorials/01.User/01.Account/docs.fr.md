@@ -19,6 +19,3 @@ page-toc:
 
 ## [Administration](administration)
 Changer ou réinitialiser les mots de passe, modifier les notifications ou réinitialiser les emails, les questions de sécurité, accéder aux formulaires, supprimer le compte.
-
-## [Demande d'alias](alias-request)
-Comment demander des alias d'email, des formulaires.

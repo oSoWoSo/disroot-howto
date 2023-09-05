@@ -19,6 +19,3 @@ page-toc:
 
 ## [Amministrazione](administration)
 Modifica o reimposta password, modifica notifiche o reimposta e-mail, domande di sicurezza, moduli di accesso, elimina account. 
-
-## [Richiesta alias](alias-request)
-Come richiedere alias email. 

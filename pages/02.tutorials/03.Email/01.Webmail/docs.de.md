@@ -60,6 +60,7 @@ Through the following tutorial, we will learn how to use **Roundcube** and get t
   - [04. Responses](roundcube/settings/responses)
   - [05. Filters](roundcube/settings/filters)
   - [06. Account details](roundcube/settings/account_details)
+  - [07. Forwarding](settings/forwarding)
 
 ## [03. Email](roundcube/email)
   - Composing an email

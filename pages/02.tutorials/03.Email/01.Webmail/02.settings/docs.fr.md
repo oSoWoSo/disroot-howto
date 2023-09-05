@@ -2,7 +2,7 @@
 title: "Courriel Web: Paramètres"
 published: true
 visible: true
-indexed: true
+indexed: false
 updated:
         last_modified: "Avril 2020"
         app: Roundcube Webmail
@@ -40,3 +40,4 @@ page-toc:
 ## [04. réponses](04.responses)
 ## [05. Filtres](05.filters)
 ## [06. Détails du compte](06.account_details)
+## [07. Renvoi](07.forwarding)

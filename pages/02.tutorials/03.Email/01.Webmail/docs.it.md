@@ -57,6 +57,7 @@ Attraverso il seguente tutorial impareremo ad utilizzare **Roundcube** e ne cono
   - [04. Risposte](roundcube/settings/responses)
   - [05. Filtri](roundcube/settings/filters)
   - [06. Dettagli account](roundcube/settings/account_details)
+  - [07. Forwarding](settings/forwarding)
 
 ## [03. Email](roundcube/email)
   - Comporre un messaggio

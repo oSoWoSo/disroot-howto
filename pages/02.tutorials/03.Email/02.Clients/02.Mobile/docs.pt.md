@@ -1,12 +1,19 @@
 ---
 title: 'Clientes de telemóvel'
-visible: false
+visible: true
+indexed: false
+updated:
 taxonomy:
     category:
         - docs
+    tags:
+        - email
 page-toc:
-     active: false
+    active: false
 ---
+
+# Clientes de telemóvel
+
 
 Como configurar o seu email Disroot no seu telemóvel:
 

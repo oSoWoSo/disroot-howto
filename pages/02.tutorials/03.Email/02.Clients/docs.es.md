@@ -1,6 +1,7 @@
 ---
 title: "Correo: Clientes"
 visible: true
+indexed: true
 updated:
 taxonomy:
     category:
@@ -10,6 +11,8 @@ taxonomy:
 page-toc:
     active: false
 ---
+
+![](thumb.png)
 
 ## [Clientes de Escritorio](desktop)
 - [**Multiplatforma**](desktop/thunderbird)

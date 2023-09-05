@@ -2,7 +2,7 @@
 title: "Courriel Web: Pour commencer"
 published: true
 visible: true
-indexed: true
+indexed: false
 updated:
 taxonomy:
     category:

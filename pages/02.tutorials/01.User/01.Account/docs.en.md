@@ -19,6 +19,3 @@ page-toc:
 
 ## [Administration](administration)
 Change or reset passwords, modify notifications o reset emails, security questions, access forms, delete the account.
-
-## [Alias Request](alias-request)
-How to request email aliases, forms.
