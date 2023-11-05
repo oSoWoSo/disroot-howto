@@ -1,5 +1,5 @@
 ---
-title: Working with Atom + Git
+title: Working with Pulsar + Git
 published: true
 visible: true
 updated:
@@ -8,13 +8,13 @@ taxonomy:
         - docs
     tags:
         - contribute
-        - atom
+        - pulsar
         - git
 page-toc:
     active: true
 ---
 
-# Working with Atom + Git
+# Working with Pulsar + Git
 Finally we get to the most interesting part! Let's review what we have done so far.
 
 We have got an exact copy of the **Disroot Howto** folder where are all the files we can see online when we need to learn something about how a service works or how to configure a client.
@@ -34,11 +34,11 @@ When the translation is done, it is "submitted" to the remote repository to be r
 
 OK. Let's create our branch so we can start working.
 
-In the bottom-right corner of **Atom**, click on **master** (or any other branch name) and choose **New Branch**. A good practice is to give it a name descriptive enough so that others can easily figure out what we are working on when they see it. For example, if we plan to translate the Nextcloud howto, we could call it "cloud_language_translation" or something similar.
+In the bottom-right corner of **Pulsar**, click on **master** (or any other branch name) and choose **New Branch**. A good practice is to give it a name descriptive enough so that others can easily figure out what we are working on when they see it. For example, if we plan to translate the Nextcloud howto, we could call it "cloud_language_translation" or something similar.
 
 Once we are done we press **Enter** on our keyboard.
 
-![](en/atom-branch1.gif)
+![](en/pulsar_branch1.gif)
 
 In the terminal, we should use the `git branch` command like this:
 
@@ -46,7 +46,7 @@ In the terminal, we should use the `git branch` command like this:
 
 To switch between branches we can also use this menu. Our current working branch is visible on the bottom bar. If we click on it other local branches will appear.
 
-![](en/atom-branch2.gif)
+![](en/pulsar_branch2.gif)
 
 Switching between branches in the terminal is done with the command `git checkout`. If, for example, we want to switch from our current branch to the main one, we should write:
 
@@ -57,7 +57,7 @@ And viceversa, from the main branch to our branch:
 `git checkout our.branch.name`
 
 ### Publishing our branch
-We have created a local branch and we can start translating or writing a howto. For this branch we just created to also exist in the remote repository we need to **publish** it. In Atom it is done using the **Publish** function. When we click on it, we will be asked to enter our credentials. We need to enter our Gitea username and password.
+We have created a local branch and we can start translating or writing a howto. For this branch we just created to also exist in the remote repository we need to **publish** it. In Pulsar it is done using the **Publish** function. When we click on it, we will be asked to enter our credentials. We need to enter our Forgejo username and password.
 
 ![](en/publish.png)
 
@@ -91,7 +91,7 @@ To do a "commit" of the changes is a process that consists of the following step
 
 All the changes we have done so far in our local branch, they were made in our "working directory" and now we need to "move" them to the "staging" area. "Staging" refers to the moment in which those changes are selected to be included in the next commit.
 
-In Atom, this process is incredibly easy. Let's check the process again:
+In Pulsar, this process is incredibly easy. Let's check the process again:
 
 ![](en/committing.png)
 
@@ -100,7 +100,7 @@ In Atom, this process is incredibly easy. Let's check the process again:
 3. write a **commit message** and finally
 4. commit the changes by clicking the **Commit** button.
 
-![](en/atom-commit.gif)
+![](en/pulsar_commit.gif)
 
 Now let's see how to do the same but in the terminal.
 
@@ -133,9 +133,9 @@ Once the files are committed, it is time to **push** (send) them to the remote r
 ## Pushing the changes
 We have committed all the changes in our local branch and we want now "upload" them to the remote repository.
 
-In Atom this can be done by simply clicking on the **Push** option in the bottom bar.
+In Pulsar this can be done by simply clicking on the **Push** option in the bottom bar.
 
-![](en/atom-push.gif)
+![](en/pulsar_push.gif)
 
 In the terminal, we have already seen the command to do this: `git push`. So, to push our local changes to the remote branch we have to write:
 
@@ -151,25 +151,25 @@ Once we think our work is finished and ready to be published on the website, it 
 
 This merge operation is done by the **Disroot** admins. But it is us who have to request that it be done.
 
-In **Gitea** it is called **Pull Request** and the procedure, in principle, is pretty simple.
+In **Forgejo** it is called **Pull Request** and the procedure, in principle, is pretty simple.
 
-1. We go to **Disroot's Git** site at [**git.disroot.org**](https://git.disroot.org) and login with our **Gitea** credentials.
+1. We go to **Disroot's Git** site at [**git.disroot.org**](https://git.disroot.org) and login with our **Forgejo** credentials.
 
 2. Next we need to look for our branch in the **Howto** repository, select it and then click on the **New Pull Request** button.
 
-![](en/pull.request.gif)
+![](en/pull_request.gif)
 
 3. In the next page we can do a last and more visual revision of the commits we have made and, if we find it OK, then press the **New Pull Request** again.
 
-![](en/pull.request.2.png)
+![](en/pull_request2.png)
 
 4. Now we are required to write a "merge request" message. It does not need to be long and detailed but descriptive enough, similar to the commit message one, in order to make it easy to others to know what the changes are about. We can also (and it is recommended) add labels for better identification.
 
-![](en/pull.request.3.png)
+![](en/pull_request3.png)
 
 5. In the last step we can assign "Reviewers", add "Labels" (if we did not do it previously), link our Pull Request to a "Milestone" or a "Project" and define who will be assigned to manage the request (usually the same **Disroot** admins with whom we have been in contact in the Howto's XMPP room).
 
-![](en/pull.request.4.png)
+![](en/pull_request4.png)
 
 That's it. \O/
 
@@ -182,9 +182,9 @@ Pull is an operation to update a local version of a remote repository.
 
 If we want to keep the local main branch for future translations or howtos we will need to "pull" the changes integrated to the recently updated remote because ours will no longer be up-to-date with the remote main one.
 
-In Atom we only need to click on the **Pull** function at the right in the status bar.
+In Pulsar, all we need to do is right-click on the **Fetch** function and select **Pull** from the drop-down context menu.
 
-![](en/atom-pull.gif)
+![](en/pulsar_pull.gif)
 
 In the terminal, this is done with the command `git pull`. So if we are still on our local branch and we want to "update" it after commits were sent and accepted, we need:
 

@@ -24,21 +24,21 @@ The procedure is rather simple:
 Sounds pretty easy, doesn't it? Well, it really is. Of course, every step of the process has its own set of actions, which we will see later on, but that is it basically.
 
 # What tools do we need?
-We use three tools for our work: **Git**, **a text editor** and **Gitea**.
+We use three tools for our work: **Git**, **a text editor** and **Forgejo**.
 
-We choose **Git** for several reasons, the main one being our documents structure and code language. Even though there are many (and very good ones) translation tools which look more "user friendly", none of them fit our use case or have **Markdown** text format support out-of-the-box. In the best scenario, it will requires us to make massive modifications on the files in order to strip them down into several "text sections" or "strings". Another important reason is that **Git** allows us to keep track on the changes made on those files, making it easier to manage and collaborate on them. And one more reason is that **Gitea** (the code hosting software we use with **Git**) has a lot of useful features to organize and improve the work in one single place.
+We choose **Git** for several reasons, the main one being our documents structure and code language. Even though there are many (and very good ones) translation tools which look more "user friendly", none of them fit our use case or have **Markdown** text format support out-of-the-box. In the best scenario, it will requires us to make massive modifications on the files in order to strip them down into several "text sections" or "strings". Another important reason is that **Git** allows us to keep track on the changes made on those files, making it easier to manage and collaborate on them. And one more reason is that **Forgejo** (the code hosting software we use with **Git**) has a lot of useful features to organize and improve the work in one single place.
 
 OK, let's check our tools:
 
 1. **Git**: If you are a **GNU/Linux** user it is highly probable that you already have it installed (you can check in your software package manager or through the terminal with the command `which git`). If you are using **Microsoft Windows** or **Mac OS**, you can download it from [here](https://git-scm.com/downloads).
 
-2. **A text editor**: Although there are many of them, we suggest you to use one with **Markdown** format support and **Git** integration. **Kate Editor**, **Atom Text Editor** and **VSCodium**, meet this criteria natively, and they are also Free/Libre and Open Source multiplatform software. But, **for practical reasons, we will only see how to work in Atom** (in the future we will include other tools).
+2. **A text editor**: Although there are many of them, we suggest you to use one with **Markdown** format support and **Git** integration. **Kate Editor**, **Pulsar Text Editor** and **VSCodium**, meet this criteria natively, and they are also Free/Libre and Open Source multiplatform software. But, **for practical reasons, we will only see how to work in Pulsar** (in the future we will include other tools).
 
-  **Atom Text Editor**: [Download](https://atom.io/) · [Source code](https://github.com/atom/atom)
+  **Pulsar Text Editor**: [Download](https://pulsar-edit.dev/) · [Source code](https://github.com/pulsar-edit/pulsar)
 
 
-3. **A Disroot Gitea account**: In order to be able to submit your work, you will need to register an account on our **Gitea** instance (**Disroot** credentials will not work) and request access to our repository.
+3. **A Disroot Forgejo account**: In order to be able to submit your work, you will need to register an account on our **Forgejo** instance (**Disroot** credentials will not work) and request access to our repository.
 
-  [**Register a new account**](https://git.disroot.org/user/sign_up) on **Disroot's Gitea** instance.
+  [**Register a new account**](https://git.disroot.org/user/sign_up) on **Disroot's Forgejo** instance.
 
 Once you have these tools, it is time to set them up.
