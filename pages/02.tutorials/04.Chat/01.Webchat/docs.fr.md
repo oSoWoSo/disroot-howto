@@ -1,12 +1,12 @@
 ---
-title: 'Chat en ligne'
+title: 'Webchat'
 published: true
 visible: true
 indexed: true
 updated:
-        last_modified: "11 Avril 2019"
-        app: Converse.js
-        app_version: 4.2.0
+        last_modified: "Décembre, 2023"
+        app: Movim
+        app_version: 0.22.5
 taxonomy:
     category:
         - docs
@@ -17,176 +17,198 @@ page-toc:
     active: true
 ---
 
-![](en/converse.png)
-Converse est un client de chat XMPP gratuit et open-source qui s'exécute dans un navigateur web et<br>**[webchat.disroot.org](https://webchat.disroot.org)** fournit un moyen de se connecter à votre compte XMPP par son intermédiaire.
+![](movim-logo.svg)
+
+**Movim** est un logiciel libre et gratuit de plateforme sociale et de chat qui agit comme un frontend *(la partie d'une application qui interagit avec les utilisateurs, en fait tout ce que nous voyons sur l'écran lorsque nous accédons à un site web ou à une application)* pour le réseau **XMPP**.
+
+Il s'agit d'une solution de communication complète qui nous permet de discuter, de créer des groupes et des communautés, de créer et de partager des messages, des nouvelles et même des appels audio et vidéo.
+
+---
 
 # Connexion
-Ouvrez votre navigateur web préféré et allez à **[webchat.disroot.org](https://webchat.disroot.org)**
+Nous ouvrons notre navigateur web préféré et allons sur **[webchat.disroot.org](https://webchat.disroot.org)** et entrons...
 
-![](en/01_connexion.png)
-1. **Adresse XMPP** : *Votre_discrétion_email*.
-2. **Mot de passe:** *Votre_super_secret_Mot_de_passe_désinstallé*.
-3. **Ceci est un périphérique de confiance** : Décochez cette case si vous n'êtes pas sur votre propre ordinateur.
+![](en/connecting.png)
+
+1. **Mon adresse**: *Notre Disroot username@disroot.org*
+2. **Mot de passe:** *Notre mot de passe Disroot*
 
 # Interface utilisateur
-Une fois que vous vous êtes connecté, vous pouvez voir quelque chose comme ceci :
+Une fois que nous nous sommes connectés, nous voyons quelque chose comme ceci :
 
-![](en/02_ui.png)
-1. Vos coordonnées personnelles
-2. La liste des salles de chat dans lesquelles vous êtes connecté et vos salles marquées d'un signet.
-3. Les informations sur la salle actuelle
-4. Les participants de la salle actuelle
-5. Les caractéristiques/configurations actuelles de la salle
-6. La discussion en cours dans la salle actuelle
-7. L'éditeur du message
+![](en/first.look.png)
 
-# Salles
-Vous pouvez participer à des discussions de groupe, également appelées "groupchats" ou "rooms".
+1. **La barre latérale** où se trouvent les raccourcis vers
+    - l'éditeur **Publier**
+    - le flux **Actualités**
+    - l'option **Explorer** et
+    - l'accès **Discussions** à nos salons et conversations  
 
-## Entrer dans une salle
+   Dans cette même barre latérale, en bas, nous trouvons  
 
-![](en/03_enter.png)
-1. Cliquez sur ce bouton pour rejoindre ou créer une salle.
-2. **Adresse du groupe de discussion** : Entrez l'adresse de la salle que vous voulez rejoindre. Il peut s'agir d'une salle de n'importe quel serveur XMPP qui se fédère. Par exemple, si vous voulez rejoindre un salon sur le serveur **Disroot**, ajoutez ``chat.disroot.org`` après le nom du salon. Dans cette image, l'utilisateur essaie de rejoindre le salon appelé "mytestroom" sur le serveur XMPP *chat.disroot.org*.
-3. **Pseudo** : vous êtes libre d'entrer le pseudo que vous souhaitez, il n'est pas nécessaire que ce soit votre vrai pseudo **Disroot**. Vous pouvez ensuite avoir un pseudo différent pour chaque pièce dans laquelle vous vous trouvez si vous le souhaitez.
-4. **Rejoignez** la salle en cliquant ici.
-
-## Envoi de messages
-
-![](en/05_send.png)
-1. Tapez votre message ici.
-2. Avec deux boutons, vous pouvez ajouter un emoji ou partager un fichier (il peut s'agir de n'importe quel type de fichier, la taille maximale étant de 10 Mo).
-3. Cliquez sur **Envoyer** lorsque vous avez terminé de rédiger votre message.
-
-!! ![](/home/icons/note.png)
-!! REMARQUE : Shift + Entrée vous permettra d'ajouter un saut de ligne.
-
-Vous pouvez mentionner des personnes dans votre message afin qu'elles reçoivent une notification. Il suffit de cliquer sur leur surnom dans la liste des participants, ou de l'ajouter manuellement si vous le connaissez. Vous pouvez également commencer à écrire ses premières lettres et appuyer sur la touche de tabulation de votre clavier pour avoir une liste de suggestions de surnoms.
-
-![](en/06_mention.gif)
-
-Ici, nous pouvons voir que l'utilisateur est en train de lire des choses dans le salon Prosody (fond bleu) et reçoit un message avec son nom d'utilisateur dans le salon Disroot Howto.
-![](en/06_mention.png)
+   - la section **Notifications**
+   - l'option **Recherche** pour trouver des contacts
+   - l'option **Partager votre position** (qui est désactivée) et
+   - le gestionnaire des **abonnements**.  
 
 
-## Editing messages
-Si vous souhaitez corriger un message que vous avez envoyé, passez la souris dessus et un crayon apparaîtra sur la droite. Cliquez dessus, corrigez votre message et envoyez-le à nouveau.
+  Nous les verrons en détail plus loin.
 
-![](en/07_edit.png)
+2. La **fenêtre principale** à partir de laquelle nous pouvons accéder aux publications, aux nouvelles et à la recherche et interagir avec nos contacts et nos communautés.
 
-## Quitter une salle
-Pour quitter une salle, il suffit de cliquer sur l'icône en forme de flèche dans le coin supérieur droit de la page de la salle.
- ![](en/08_leave.png)
-
-Vous pouvez également passer la souris sur le nom de la salle dans la liste des chats de groupe sur le panneau de gauche et cliquer sur l'icône en forme de flèche qui apparaît (3ème icône).
-
-![](en/09_leave.png)
-
-## Mise en signet d'une salle
-Vous pouvez marquer les salles d'un signet afin de les rejoindre plus facilement par la suite et de les conserver d'un client à l'autre.
-
-Pour ce faire, il suffit de cliquer sur l'icône du drapeau dans le coin supérieur droit de la page de la salle. ![](en/08_leave.png)
-
-Vous pouvez également passer la souris sur le nom de la salle dans la liste des chats de groupe sur le panneau de gauche et cliquer sur l'icône du drapeau qui apparaît (1ère icône).
-
-![](en/09_leave.png)
-
-Vous pouvez trouver vos salles marquées d'un signet dans le menu de gauche.
-
-![](en/10_bookmark.png)
-
-## Détails de la salle
-Si vous souhaitez obtenir plus d'informations sur la salle, il suffit de cliquer sur l'icône "i" dans le coin supérieur droit de la page de la salle.
-
-![](en/08_leave.png)
-
-![](en/11_room_details.png)
-
-## Trouver une salle publique
-Vous pouvez rechercher des salles publiques (et uniquement des salles publiques) :
-
-![](en/12_search.png)
-1. Cliquez sur ce bouton pour ouvrir la fenêtre *Recherche*.
-2. Saisissez l'adresse du serveur sur lequel vous voulez rechercher les salles publiques. Par exemple, ce pourrait être *chat.disroot.org*.
-3. Cliquez sur "Afficher les discussions de groupe".
-4. Vous obtiendrez alors une liste de salles publiques. Cliquez simplement sur celle que vous voulez rejoindre.
+Très bien. Voyons les paramètres ci-dessous.
 
 
-## Créer une salle
-Le processus est assez similaire à celui de la création d'une salle existante.
+# Configurations
+Pour accéder aux paramètres, nous passons la souris sur notre nom d'utilisateur pour afficher le menu et cliquer sur **Configuration**.
 
-![](en/03_enter.png)
-1. Cliquez sur ce bouton pour rejoindre ou créer une salle.
-2. **Adresse du groupe de discussion** : Entrez l'adresse de la salle que vous voulez créer. Il ne peut s'agir que d'une salle sur le serveur XMPP de **Disroot**. Par exemple, quelque chose comme *mytestroom@chat.disroot.org*.
-3. **Nickname** : vous êtes libre d'entrer le nom d'utilisateur que vous souhaitez, il ne doit pas nécessairement être votre vrai nom d'utilisateur **Disroot**. Vous pouvez ensuite avoir des noms d'utilisateur différents pour chaque pièce dans laquelle vous vous trouvez si vous le souhaitez.
-4. **Rejoignez** la salle en cliquant ici. Si la salle existe déjà, vous la rejoindrez si elle est publique. Sinon, vous devrez trouver un autre nom de salle.
-
-Vous obtiendrez un message en haut de la salle indiquant que vous venez de réussir à créer votre salle :
-![](en/13_create.png)
-
-Voici les caractéristiques par défaut de votre salle lorsque vous la créez pour la première fois :
-![](en/14_features.png)
-
-Comme vous avez créé la salle, vous en êtes le propriétaire et l'administrateur. Vous pouvez donc modifier ces fonctionnalités comme vous le souhaitez. Cliquez sur l'icône de l'outil dans le coin supérieur droit de la page de la salle.
-![](en/15_tool.png)
-
-Vous obtiendrez alors cette page :
-![](en/15_features_list.png)
+![](en/config.menu.gif)
 
 
-# Chat direct : Conversation 1 à 1
-Vous pouvez également chatter avec quelqu'un en privé, dans le cadre d'une discussion 1:1 à laquelle vous ne participez que tous les deux.
+## Profil
 
-## Ajout d'un contact
-Vous devez d'abord ajouter un contact avant de pouvoir parler à l'utilisateur.
+![](en/configuration.png)
 
-![](en/16_add_contact.png)
-1. Cliquez sur ce bouton pour ajouter un contact.
-2. **Adresse XMPP** : *Adresse XMPP_de_votre_contact*. Il peut s'agir de n'importe quelle adresse de serveur XMPP, à condition qu'elle soit fédérée.
-3. **Surnom facultatif** : il peut être ce que vous voulez.
-4. **Ajouter** : cliquez sur le bouton une fois que vous avez terminé.
+Ici, nous pouvons
+  - Modifier notre **avatar** et notre **bannière** de profil
+  - Entrer notre **nom**
+  - Définir notre **Nom de famille**
+  - Saisir
+    - un **Email**
+    - notre **date de naissance**
+    - un **site web**
+  - Ajouter des informations
+    - sur nous
+    - notre **Localité** et
+    - notre **Pays**
 
-Le contact sera informé que vous l'avez ajouté à votre liste de contacts. Jusqu'à ce que l'utilisateur l'approuve, ce contact peut être trouvé dans votre liste en attente :
+## Configuration
 
-![](en/17_pending.png)
+![](en/config.png)
 
-## Parler à un contact
-Une fois le contact ajouté, vous pouvez simplement cliquer sur son nom dans la liste des contacts pour entamer une conversation privée.
+Dans cet onglet, nous pouvons
+  - changer la **langue** de l'interface (après l'avoir sélectionnée, nous devons nous déconnecter et nous reconnecter pour qu'elle soit prise en compte) ;
+  - choisir si nous voulons que les salles de chat soient notre **page principale** lorsque nous nous connectons ;
+  - activer/désactiver le chiffrement **OMEMO** ;
+  - autoriser ou non **l'affichage de contenu pour adultes**, les messages marqués comme #nsfw (not safe for work) ;
+  - basculer entre le mode léger et le **mode nuit** et
+  - définir les préférences d'archivage des messages de chat.
 
-![](en/18_talk.png)
-
-## Suppression d'un contact
-Pour supprimer un contact de votre liste de contacts, cliquez sur l'icône de la corbeille à côté du nom de l'utilisateur.
-![](en/19_remove_contact.png)
-
-## Détails du contact
-Pour obtenir plus d'informations sur votre contact, cliquez sur l'icône de la carte d'identité dans le coin supérieur droit de la page de conversation.
-![](en/20_contact_details.png)
-
-## Crypter une conversation
-Si vous voulez que votre conversation soit vraiment sécurisée, assurez-vous que **OMEMO** est activé. Pour ce faire, vérifiez l'icône du verrou. Si le cadenas semble ouvert, cela signifie que la conversation n'est pas cryptée. ![](en/21_omemo.png) {.inline}<br>
-Si le chat est crypté, il doit ressembler à ceci : ![](en/22_omemo.png) {.inline}
+  En outre, nous pouvons définir si notre compte sera public (afin que d'autres personnes puissent le trouver) ou non ; et configurer notre surnom local.
 
 
-# Détails personnels
+## Compte
 
-## Changer de nom, d'avatar, etc.
-Pour modifier vos détails personnels, cliquez sur votre avatar dans le coin supérieur gauche.<br>
-Vous pouvez ajouter les informations suivantes :
-![](en/23_profile.png)
+![](en/account.png)
 
-Lorsque vous souhaitez le modifier, il vous suffit de cliquer sur votre avatar et vous pourrez le faire.
+Dans cette section, nous avons
+  - nos **Informations sur les clients** qui montrent les appareils à partir desquels nous sommes connectés ; et
+  - la **Gestion des comptes**
 
-## Changement de statut
-Vous pouvez modifier votre statut en cliquant sur le crayon situé à côté de votre statut actuel :
-![](en/24_status.png)
+!! ### CES OPTIONS DE GESTION DE COMPTE NE DOIVENT EN AUCUN CAS ÊTRE UTILISÉES/MODIFIÉES.
+!! Nos informations d'identification Disroot ne doivent être modifiées qu'à partir du [Centre de libre-service pour les utilisateurs](https://user.disroot.org), le faire ici peut causer des problèmes d'accès au compte par la suite.
 
-![](en/25_status.png)
 
-# Déconnexion
-Pour vous déconnecter de [webchat.disroot.org](https://webchat.disroot.org), il suffit de cliquer sur l'icône en forme de flèche située à côté de votre nom d'utilisateur, dans le coin supérieur gauche.
+## Notifications
 
-![](en/26_logout.png)
+![](en/notifications.png)
 
-# Converse.js
-Pour en savoir plus sur le logiciel utilisé, consultez le site web de [converse.js](https://conversejs.org/).
+Ici, vous pouvez autoriser les notifications pour les appels et/ou les messages **entrant**.
+
+
+## Vidéo & Voix
+
+![](en/video.png)
+
+Nous pouvons configurer les dispositifs par défaut (s'il y en a) que nous voulons utiliser pour le **Microphone** et la **Caméra**.
+
+
+## Actions
+
+![](en/actions.gif)
+
+Dans cet onglet, nous pouvons vérifier la durée de fonctionnement du serveur.
+
+
+## Bloqué
+
+![](en/blocked.png)
+
+Si nous avons bloqué un ou plusieurs utilisateurs, ils apparaîtront dans cette section.
+
+
+# Publier
+Comme nous l'avons mentionné, **Movim** est une plateforme de communication qui peut être utilisée comme un blog et un réseau social. Nous pouvons créer, composer et partager des messages ainsi que commenter les publications et les nouvelles d'autres personnes.
+En cliquant sur le bouton **Publier** dans la barre latérale, nous accédons à l'**Éditeur de texte riche** pour composer des messages.
+
+![](en/publish.png)
+
+Nous pouvons commencer par déterminer si le message sera **public** (tout le monde peut le voir) ou **privé** (seuls les personnes qui nous suivent le verront).
+
+![](en/privacy.gif)
+
+Nous pouvons ensuite formater le contenu de l'article à l'aide de Markdown, ajouter des liens, des images, des fichiers et même des dessins faits à la main à l'aide de l'éditeur de dessins.
+
+![](en/composing.png)
+
+Nous pouvons prévisualiser notre message avant de le publier en cliquant sur l'option **Visualiser** juste à côté du bouton **Publier**.
+
+![](en/composing_preview.png)
+
+Une fois que nous pensons être prêts, nous pouvons le publier en cliquant sur le bouton **Publier**. Notre message, ainsi que ceux des personnes que nous suivons, apparaîtra dans le flux **Nouvelles** avec des options d'interaction similaires à celles d'autres services de réseaux sociaux.
+
+![](en/post.gif)
+
+# Actualités
+
+![](en/news.png)
+
+C'est ici que nous pouvons lire et interagir avec les messages d'autres personnes et les nouvelles des communautés auxquelles nous sommes inscrits. Si nous utilisons le navigateur sur l'ordinateur ou le portable, nous verrons à droite les messages publics des autres utilisateurs de **Movim**.
+
+Pour trouver d'autres personnes ou communautés et s'abonner à leurs nouvelles, nous pouvons utiliser les options **Explorer** ou **Discussions** qui se trouvent toutes deux dans la barre latérale.
+
+# Explorer
+
+![](en/explore.png)
+
+La page **Explore** affiche une liste des actualités, des tags populaires et des messages d'autres personnes. On peut cliquer sur n'importe lequel d'entre eux, accéder à une nouvelle ou à un message et suivre l'auteur en s'abonnant.
+
+![](en/subscribe.mp4?resize=1024,496&loop)
+
+# Discussions
+
+La page des discussions affiche nos salles de discussion XMPP et nos contacts (s'il y en a). Nous pouvons cliquer sur le nom d'un contact ou sur un salon de discussion marqué d'un signet pour commencer une discussion ou en rejoindre une.
+
+![](en/chats.png)
+
+Nous pouvons également rejoindre un salon de discussion que nous n'avons pas mis en signet ou en créer un nouveau en cliquant sur l'icône orange **+ (plus)** en bas de page pour accéder au menu des salons de discussion.
+
+![](en/chatrooms.png)
+
+## Rejoindre un salon de discussion
+Sélectionnez cette option pour ajouter une nouvelle salle de chat à partir de la recherche globale ou en saisissant son adresse via l'option *Joindre une salle de chat personnalisée*.
+
+![](en/chatroom.join.gif)
+
+## Créer un salon de discussion
+Si nous voulons créer une nouvelle salle de chat, nous devons sélectionner l'option *Créer une salle de chat* dans le menu précédent.
+
+Nous pouvons choisir si la salle de discussion sera un groupe de discussion privé ou un canal public, le nom de la salle, l'ID de la salle (l'adresse XMPP de la salle), notre surnom et la façon dont nous voulons être informés des messages de la salle. En outre, nous pouvons choisir de rejoindre la salle automatiquement lorsque nous nous connectons à **Movim** et de l'épingler à notre liste de salles de discussion.
+
+![](en/chatroom.create.png)
+
+À l'intérieur du salon de discussion, nous pouvons interagir avec d'autres personnes en tapant ou en enregistrant un message ou même en passant un appel audio-vidéo.
+
+![](en/chatroom.png)
+
+
+Dans la barre supérieure de la salle, on peut voir
+  - son nom - à gauche - et en cliquant dessus, vous obtiendrez des informations sur la pièce ;
+
+![](en/chatroom.info.png)
+
+- et un menu à trois points sur la droite avec une option pour signaler le spam ou l'abus et pour nous déconnecter de la salle.
+
+![](en/chatroom.opt.png)
+
+Ce sont les bases de **Movim** et maintenant nous pouvons communiquer, créer et partager du contenu via le protocole XMPP.
