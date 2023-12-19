@@ -94,8 +94,11 @@ Dans cet onglet, nous pouvons
   - basculer entre le mode léger et le **mode nuit** et
   - définir les préférences d'archivage des messages de chat.
 
-  En outre, nous pouvons définir si notre compte sera public (afin que d'autres personnes puissent le trouver) ou non ; et configurer notre surnom local.
-
+En outre, nous pouvons définir
+  - si notre compte sera **Public** (pour que d'autres personnes puissent le trouver) ou non ;
+  - configurer un **Surnom** local (afin que d'autres personnes puissent nous trouver facilement à partir de notre instance) et
+  - si notre blog sera **Public** (accessible à tous) ou
+  - **Privé** (accessible uniquement à nos abonnés)
 
 ## Compte
 
@@ -139,6 +142,7 @@ Si nous avons bloqué un ou plusieurs utilisateurs, ils apparaîtront dans cette
 
 # Publier
 Comme nous l'avons mentionné, **Movim** est une plateforme de communication qui peut être utilisée comme un blog et un réseau social. Nous pouvons créer, composer et partager des messages ainsi que commenter les publications et les nouvelles d'autres personnes.
+
 En cliquant sur le bouton **Publier** dans la barre latérale, nous accédons à l'**Éditeur de texte riche** pour composer des messages.
 
 ![](en/publish.png)

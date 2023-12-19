@@ -1,5 +1,5 @@
 ---
-title: Chat: Clientes para el móvil
+title: Clientes para el móvil
 published: true
 visible: false
 taxonomy:

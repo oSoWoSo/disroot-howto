@@ -1,5 +1,5 @@
 ---
-title: Chat: Clientes para el Escritorio
+title: Clientes para el Escritorio
 updated:
 published: true
 visible: true

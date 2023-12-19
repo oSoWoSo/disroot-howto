@@ -1,5 +1,5 @@
 ---
-title: 'Clientes de chat: Gajim'
+title: Gajim
 published: true
 visible: false
 indexed: true

@@ -94,7 +94,11 @@ In this tab we can
   - switch between light and **Night Mode** and
   - set the archiving preferences of the chat messages.
 
-  Additionally, we can set whether our account will be public (so that other people can find it) or not; and configure our local nickname.
+Additionally, we can set
+  - whether our account will be **Public** (so that other people can find it) or not;
+  - configure a local **nickname** (so that we can be easily found by other people from our instance) and
+  -  if our blog will be **Public** (accessible to everyone) or
+  - **Private** (accessible only to our subscribers)
 
 
 ## Account
@@ -138,6 +142,7 @@ If we have blocked one or more users, they will appear in this section.
 
 # Publishing
 As we mentioned, **Movim** is a communication platform that can be used as a blog and a social network. We can create, compose and share posts as well as comment on other people publications and news.
+
 By clicking on the **Publish** button in the side bar we access the **Rich text editor** to compose posts.
 
 ![](en/publish.png)

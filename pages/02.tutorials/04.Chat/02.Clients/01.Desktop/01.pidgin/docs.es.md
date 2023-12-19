@@ -1,5 +1,5 @@
 ---
-title: Clientes de Chat: Pidgin
+title: Pidgin
 updated:
     app: Pidgin
 published: true
