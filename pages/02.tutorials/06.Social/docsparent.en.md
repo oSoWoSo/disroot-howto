@@ -1,6 +1,6 @@
 ---
 title: Fediverse
-subtitle: FEDisroot
+subtitle: "FEDisroot, D·Scribe"
 icon: fa-asterisk
 published: true
 taxonomy:
@@ -10,7 +10,9 @@ taxonomy:
     tags:
         - fediverse
         - akkoma
-        - fe
+        - lemmy
+        - fedisroot
+        - dscribe
 page-toc:
     active: false
 ---
@@ -27,12 +29,12 @@ Within the Fediverse, there are a growing number of platforms and services focus
 
 Currently, the [**ActivityPub**](https://www.w3.org/TR/activitypub/) protocol is the main engine of this Fediverse. Its quick and widespread adoption is due to the constant development and the maturity it has reached. As proof, just look at the wide range of platforms and services that implement it: **Mastodon**, **Pleroma**, **Nextcloud**, **PeerTube**, **Funkwhale**, **Friendica**, **PixelFed**, **BookWyrm**, **Lemmy**, **Plume**, **Writefreely**, **Misskey**, among others.
 
-For all of this, and because "we want to encourage the emergence of more independent, decentralized service providers who work in cooperation - not in competition -, with each other" we decided to create **FEDisroot**, our **Akkoma**'s instance. The first of the many seeds we hope to plant in this wonderful ecosystem.
+For all of this, and because _"we want to encourage the emergence of more independent, decentralized service providers who work in cooperation - not in competition -, with each other"_ we decided to create **FEDisroot** and **D·Scribe**, our **Akkoma** and **Lemmy** instances respectively. The first of the many seeds we hope to plant in this wonderful ecosystem.
 
-With this new project, we hope not only to provide you with an accessible, open and useful communication tool, but also to collaborate in the construction of "a truly strong decentralized network" that will help us "uprooting society from the current status quo ruled by advertising, consumerism and the power of the highest bidder".
+With this new projects, we hope not only to provide you with an accessible, open and useful communication tool, but also to collaborate in the construction of "a truly strong decentralized network" that will help us "uprooting society from the current status quo ruled by advertising, consumerism and the power of the highest bidder".
 
 So...
 
-**You are all welcome to the Fediverse and to FEDisroot**.
+**You are all welcome to the Fediverse**.
 
 ---

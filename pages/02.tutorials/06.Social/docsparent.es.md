@@ -1,6 +1,6 @@
 ---
 title: Fediverso
-subtitle: Akkoma
+subtitle: "FEDisroot, D·Scribe"
 icon: fa-asterisk
 published: true
 taxonomy:
@@ -10,7 +10,9 @@ taxonomy:
     tags:
         - fediverso
         - akkoma
-        - fe
+        - lemmy
+        - fedisroot
+        - dscribe
 page-toc:
     active: false
 ---
@@ -26,12 +28,12 @@ Dentro del Fediverso, hay una cantidad creciente de plataformas y servicios enfo
 
 Actualmente, el protocolo [**ActivityPub**](https://www.w3.org/TR/activitypub/), es el motor principal de este Fediverso. Su rápida y extendida adopción se deben al constante desarrollo y la madurez que ha alcanzado. Como prueba, basta mirar la amplia gama de plataformas y servicios que lo implementan: **Mastodon**, **Pleroma**, **Nextcloud**, **PeerTube**, **Funkwhale**, **Friendica**, **PixelFed**, **BookWyrm**, **Lemmy**, **Plume**, **Writefreely** y **Misskey**, entre otros.
 
-Por todo ello, y porque _"queremos incentivar el surgimiento de más proveedores independientes de servicios descentralizados que trabajen cooperativamente, y no en competencia, unos con otros"_ decidimos crear **FEDisroot**, nuestra instancia de **Akkoma**. La primera de las muchas semillas que esperamos poder plantar en este maravilloso ecosistema.
+Por todo ello, y porque _"queremos incentivar el surgimiento de más proveedores independientes de servicios descentralizados que trabajen cooperativamente, y no en competencia, unos con otros"_ decidimos crear **FEDisroot** y **D·Scribe** nuestras instancias de **Akkoma** y **Lemmy** respectivamente. Las primeras de las muchas semillas que esperamos poder plantar en este maravilloso ecosistema.
 
-Con este nuevo proyecto, esperamos no solo brindarles una herramienta de comunicación accesible, abierta y útil, sino también colaborar en la construcción de _"una red descentralizada verdaderamente fuerte"_ que nos ayude a _"arrancar a la sociedad del actual status quo gobernado por la publicidad, el consumismo y el poder al mejor postor"_.
+Con estos nuevos proyectos, esperamos no solo brindarles una herramienta de comunicación accesible, abierta y útil, sino también colaborar en la construcción de _"una red descentralizada verdaderamente fuerte"_ que nos ayude a _"arrancar a la sociedad del actual status quo gobernado por la publicidad, el consumismo y el poder al mejor postor"_.
 
 Así que...
 
-**Les damos la bienvenida al Fediverso y a FEDisroot**.
+**Les damos la bienvenida al Fediverso**.
 
 ---
